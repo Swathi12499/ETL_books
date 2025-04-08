@@ -1,0 +1,2986 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "M3P6DwAAQBAJ",
+      "etag": "Bzo7rlAO178",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M3P6DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Lighthouse",
+        "subtitle": "A Novel",
+        "authors": [
+          "Michael O'Brien"
+        ],
+        "publisher": "Ignatius Press",
+        "publishedDate": "2020-08-11",
+        "description": "Ethan McQuarry is a young lighthouse keeper on a tiny island, the rugged outcropping of easternmost Cape Breton Island on the Atlantic Ocean. A man without any family, he sees himself as a silent \"vigilant\", performing his duties courageously year after year, with an admirable sense of responsibility. He cherishes his solitude and is grateful that his interactions with human beings are rare. Even so, he is haunted by his aloneness in the world and by a feeling that his life is meaningless. His courage, his integrity, his love of the sea and wildlife, of practical skills and of learning are, in the end, not enough. He is faced with internal storms and sometimes literal storms of terrifying power. From time to time he becomes aware that messengers are sent to him from what he calls \"the awakeness\" in existence, \"the listeningness.\" But he cannot at first recognize them as messengers nor understand what they might be telling him, until he finds himself caught up in catastrophic events, and begins to see the mysterious undercurrents of reality\u2014and the hidden face of love. \"They that go down to the sea in ships, trading upon the waters, they see the works of the Lord and his wonders in the deep.\" - Psalm 107: 23",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781621643661"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1621643662"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 203,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=M3P6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=M3P6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=M3P6DwAAQBAJ&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=161&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=M3P6DwAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lighthouse.html?hl=&id=M3P6DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M3P6DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;They that go down to the sea in ships, trading upon the waters, they see the works of the Lord and his wonders in the deep.&quot; - Psalm 107: 23"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ca2nXhwPc7cC",
+      "etag": "vH2iB85Odn4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ca2nXhwPc7cC",
+      "volumeInfo": {
+        "title": "Wine and War",
+        "authors": [
+          "Donald & Petie Kladstrup"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2011-09-01",
+        "description": "In the vineyards, wine caves, and cellars of France as war and occupation came to the country winemakers acted heroically not only to save the best wines but to defend their way of life. These are the true stories of vignerons who sheltered Jewish refugees in their cellars and of winemakers who risked their lives to aid the resistance. They made chemicals in secret laboratories to fuel the resistance and fled from the Gestapo when arrests became imminent. There were treacheries too, as some of the nation's winemakers supported the Vichy regime or the Germans themselves and collaborated. Donald Kladstrup is a retired American network correspondent. He and his wife Petie have accumulated these fascinating stories, told with the pace and action that will fascinate fiction and non-fiction readers alike.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781444717570"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "144471757X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 275,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.6.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ca2nXhwPc7cC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ca2nXhwPc7cC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ca2nXhwPc7cC&dq=fiction&hl=&as_pt=BOOKS&cd=162&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ca2nXhwPc7cC&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Wine_and_War.html?hl=&id=ca2nXhwPc7cC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ca2nXhwPc7cC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These are the true stories of vignerons who sheltered Jewish refugees in their cellars and of winemakers who risked their lives to aid the resistance."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GZm9AAAAIAAJ",
+      "etag": "snkCU9F4D7M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GZm9AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Catalogue of the Oakland Free Public Library",
+        "authors": [
+          "Oakland Free Library"
+        ],
+        "publishedDate": "1885",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B4163699"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Library catalogs"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GZm9AAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GZm9AAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GZm9AAAAIAAJ&pg=PA119&dq=fiction&hl=&as_pt=BOOKS&cd=163&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GZm9AAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GZm9AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=GZm9AAAAIAAJ&rdid=book-GZm9AAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Catalogue_of_the_Oakland_Free_Public_Lib.epub?id=GZm9AAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Catalogue_of_the_Oakland_Free_Public_Lib.pdf?id=GZm9AAAAIAAJ&hl=&output=pdf&sig=ACfU3U0cEP_H8SyYsVpXWyzP68zaLebPtQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GZm9AAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Fiction</b> our animal friends in Natal ... 38.835 Pilot , The . Cooper 66 <b>Fiction</b> Parton , Mrs. S. P. ( Fanny Fern . ) Playday Pindar , S. C. The Wentworths . 38.711 book . 38.836 Pioneers , The . Cooper ........... ..See <b>Fiction</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B-f4DAAAQBAJ",
+      "etag": "bzUeryfr+M8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B-f4DAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Seventh Most Important Thing",
+        "authors": [
+          "Shelley Pearsall"
+        ],
+        "publisher": "Yearling",
+        "publishedDate": "2016-10-04",
+        "description": "This \u201cluminescent\u201d (Kirkus Reviews) story of anger and art, loss and redemption will appeal to fans of Lisa Graff\u2019s Lost in the Sun and Vince Vawter\u2019s Paperboy. NOMINATED FOR 16 STATE AWARDS! AN ALA NOTABLE BOOK AN ILA TEACHERS CHOICE A KIRKUS REVIEWS BEST BOOK OF THE YEAR Arthur T. Owens grabbed a brick and hurled it at the trash picker. Arthur had his reasons, and the brick hit the Junk Man in the arm, not the head. But none of that matters to the judge\u2014he is ready to send Arthur to juvie forever. Amazingly, it\u2019s the Junk Man himself who offers an alternative: 120 hours of community service . . . working for him. Arthur is given a rickety shopping cart and a list of the Seven Most Important Things: glass bottles, foil, cardboard, pieces of wood, lightbulbs, coffee cans, and mirrors. He can\u2019t believe it\u2014is he really supposed to rummage through people\u2019s trash? But it isn\u2019t long before Arthur realizes there\u2019s more to the Junk Man than meets the eye, and the \u201ctrash\u201d he\u2019s collecting is being transformed into something more precious than anyone could imagine. . . . Inspired by the work of folk artist James Hampton, Shelley Pearsall has crafted an affecting and redemptive novel about discovering what shines within us all, even when life seems full of darkness. \u201cA moving exploration of how there is often so much more than meets the eye.\u201d \u2014Booklist, starred review \u201cThere are so many things to love about this book. Remarkable.\u201d \u2014The Christian Science Monitor",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780553497311"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0553497316"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 290,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=B-f4DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=B-f4DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=B-f4DAAAQBAJ&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=164&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=B-f4DAAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Seventh_Most_Important_Thing.html?hl=&id=B-f4DAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B-f4DAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": ". Inspired by the work of folk artist James Hampton, Shelley Pearsall has crafted an affecting and redemptive novel about discovering what shines within us all, even when life seems full of darkness. \u201cA moving exploration of how there is ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mNfKEAAAQBAJ",
+      "etag": "Ho95f5YMUUg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mNfKEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Sabbatical",
+        "subtitle": "A Novel",
+        "authors": [
+          "Michael D. O'Brien"
+        ],
+        "publisher": "Ignatius Press",
+        "publishedDate": "2021-07-29",
+        "description": "Dr. Owen Whitfield is the elderly Oxford professor of history who first appeared in Michael O''Brien''s novel The Father''s Tale. In the events of The Sabbatical, which occur sometime later, Dr. Whitfield is looking forward to a sabbatical year of peace and quiet, gardening in his backyard, and tinkering with what he calls his latest \"unpublishable book\". As the year begins, he is drawn by a series of seeming coincidences into involvement with a group of characters from across Europe, including a family that has been the target of assassination attempts by unknown powers. During his journey to Romania, the situation in which he finds himself becomes more sinister than it first seemed. The story deals with the tension between fatalism and the providential understanding of history, with the courage and love that are necessary for navigating through a confusion of signs, and with the triumph of faith and reason over the forces of destruction.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781642291698"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1642291692"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 381,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mNfKEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mNfKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=mNfKEAAAQBAJ&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=165&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mNfKEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mNfKEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 21.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 21.95,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mNfKEAAAQBAJ&rdid=book-mNfKEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 21950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 21950000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Sabbatical-sample-epub.acsm?id=mNfKEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mNfKEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story deals with the tension between fatalism and the providential understanding of history, with the courage and love that are necessary for navigating through a confusion of signs, and with the triumph of faith and reason over the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PaVaAAAAMAAJ",
+      "etag": "Xhdp4v0gN7U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PaVaAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Hugo Gernsback, Father of Modern Science Fiction",
+        "subtitle": "With Essays on Frank Herbert and Bram Stoker",
+        "authors": [
+          "Mark Siegel"
+        ],
+        "publisher": "Millefleurs",
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015012425933"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PaVaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PaVaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PaVaAAAAMAAJ&q=fiction&dq=fiction&hl=&as_pt=BOOKS&cd=166&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=PaVaAAAAMAAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hugo_Gernsback_Father_of_Modern_Science.html?hl=&id=PaVaAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PaVaAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b> has remained the same to this day : It must mirror the present or the future in acceptable and plausible scientific terms . Most serious students of science <b>fiction</b> recognize at least part of Hugo Gernsback&#39;s contributions to&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zzVNAAAAYAAJ",
+      "etag": "94JcZNiGbmc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zzVNAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Documents of the ... Legislature of the State of New Jersey",
+        "authors": [
+          "New Jersey. Legislature"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433010028524"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1592,
+        "printType": "BOOK",
+        "categories": [
+          "New Jersey"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zzVNAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zzVNAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=zzVNAAAAYAAJ&pg=RA2-PA232&dq=fiction&hl=&as_pt=BOOKS&cd=167&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zzVNAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zzVNAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=zzVNAAAAYAAJ&rdid=book-zzVNAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Documents_of_the_Legislature_of_the_Stat.epub?id=zzVNAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Documents_of_the_Legislature_of_the_Stat.pdf?id=zzVNAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0MxiPCBgmz_3ZNAMCRAAluATndnA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zzVNAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b> ...... 33 &quot; 34 &quot; 66 second - class <b>fiction</b> .... 29 &quot; 29 6 . \u201c 66 \u060c\u060c worthless <b>fiction</b> .... 16 &quot; 16 66 &quot; 99 100 From the eleventh grade 40 pupils reported : Number reading essays .. 1 or 2 per cent 66 &quot; \u201c 66 history or&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "--wTAAAAIAAJ",
+      "etag": "K0L21XF8Nd8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/--wTAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Annual Report of the Board of Education and the Superintendent of Public Instruction of New Jersey, with Accompanying Documents, for the School Year Ending ...",
+        "authors": [
+          "New Jersey. State Board of Education"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433075983563"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 640,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.10.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=--wTAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=--wTAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=--wTAAAAIAAJ&pg=PA232&dq=fiction&hl=&as_pt=BOOKS&cd=168&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=--wTAAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=--wTAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=--wTAAAAIAAJ&rdid=book---wTAAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Annual_Report_of_the_Board_of_Education.epub?id=--wTAAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Annual_Report_of_the_Board_of_Education.pdf?id=--wTAAAAIAAJ&hl=&output=pdf&sig=ACfU3U3HqK40m7-qvCtFZBJKfjB4Dc0iZg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=--wTAAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b> .... second - class <b>fiction</b> .. worthless <b>fiction</b> ...... 33 10 &quot; 10 66 ( 6 4 66 4 66 ( ( * 34 29 66 29 6 : 16 &quot; 16 ( 6 68 99 100 From the eleventh grade 40 pupils reported : Number reading essays .. history or biography&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xxUbAAAAMAAJ",
+      "etag": "Z9P/2IGC+X4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xxUbAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Papers and Proceedings",
+        "authors": [
+          "American Library Association. Conference"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015036861527"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1010,
+        "printType": "BOOK",
+        "categories": [
+          "Library science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xxUbAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xxUbAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xxUbAAAAMAAJ&pg=RA3-PA432&dq=fiction&hl=&as_pt=BOOKS&cd=169&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xxUbAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xxUbAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=xxUbAAAAMAAJ&rdid=book-xxUbAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Papers_and_Proceedings.epub?id=xxUbAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xxUbAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b> and non - <b>fiction</b> . If we find a good book we should buy it and not ask whether it is <b>fiction</b> or non - <b>fiction</b> . He said , &quot; Personally I believe there is just as much good history and good psychology ( I almost said good&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7eQ3AQAAQBAJ",
+      "etag": "vg5WFWShkqQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7eQ3AQAAQBAJ",
+      "volumeInfo": {
+        "title": "Thief of Shadows",
+        "authors": [
+          "Elizabeth Hoyt"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2012-06-26",
+        "description": "A MASKED MAN . . . Winter Makepeace lives a double life. By day he's the stoic headmaster of a home for foundling children. But the night brings out a darker side of Winter. As the moon rises, so does the Ghost of St. Giles-protector, judge, fugitive. When the Ghost, beaten and wounded, is rescued by a beautiful aristocrat, Winter has no idea that his two worlds are about to collide. A DANGEROUS WOMAN . . . Lady Isabel Beckinhall enjoys nothing more than a challenge. Yet when she's asked to tutor the Home's dour manager in the ways of society-flirtation, double-entendres, and scandalous liaisons-Isabel can't help wondering why his eyes seem so familiar-and his lips so tempting. A PASSION NEITHER COULD DENY During the day Isabel and Winter engage in a battle of wills. At night their passions are revealed . . . But when little girls start disappearing from St. Giles, Winter must avenge them. For that he might have to sacrifice everything-the Home, Isabel . . . and his life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781455508334"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1455508330"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.9.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7eQ3AQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7eQ3AQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7eQ3AQAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&cd=170&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=7eQ3AQAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Thief_of_Shadows.html?hl=&id=7eQ3AQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7eQ3AQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A MASKED MAN ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ac5U-crsfNYC",
+      "etag": "CnKh6re5VY4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ac5U-crsfNYC",
+      "volumeInfo": {
+        "title": "House of Many Ways",
+        "authors": [
+          "Diana Wynne Jones"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2009-05-26",
+        "description": "In this sequel to the international bestseller Howl\u2019s Moving Castle, bookish Charmain finds herself smack in the middle of magical court intrigues . . . and dealing with the dashing Wizard Howl. When Charmain Baker agreed to look after her great-uncle's house, she thought she was getting blissful, parent-free time to read. She didn't realize that the house bent space and time, and she did not expect to become responsible for an extremely magical stray dog and a muddled young apprentice wizard. Now, somehow, she's been targeted by a terrifying creature called a lubbock, too, and become central to the king's urgent search for the fabled Elfgift that will save the country. The king is so desperate to find the Elfgift, he's called in an intimidating sorceress named Sophie to help. And where Sophie is, the great Wizard Howl and fire demon Calcifer won't be far behind. How did respectable Charmain end up in such a mess, and how will she get herself out of it? All fans of classic fantasy books deserve the pleasure of reading those by Diana Wynne Jones, whose acclaim included the World Fantasy Award for Life Achievement. As Neil Gaiman stated, she was \"quite simply the best writer for children of her generation.\" The three books in the World of Howl are: Howl's Moving Castle Castle in the Air House of Many Ways Other beloved series from Dianna Wynne Jones include the Chronicles of Chrestomanci and the Dalemark Quartet.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780061861338"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0061861332"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ac5U-crsfNYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ac5U-crsfNYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Ac5U-crsfNYC&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=171&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Ac5U-crsfNYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ac5U-crsfNYC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Ac5U-crsfNYC&rdid=book-Ac5U-crsfNYC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/House_of_Many_Ways-sample-epub.acsm?id=Ac5U-crsfNYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ac5U-crsfNYC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The three books in the World of Howl are: Howl&#39;s Moving Castle Castle in the Air House of Many Ways Other beloved series from Dianna Wynne Jones include the Chronicles of Chrestomanci and the Dalemark Quartet."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HT4xAQAAMAAJ",
+      "etag": "1fpaP6mUhBc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HT4xAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Optical Journal and Review of Optometry. ...",
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CHI:097877870"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1024,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HT4xAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HT4xAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=HT4xAQAAMAAJ&pg=RA6-PA31&dq=fiction&hl=&as_pt=BOOKS&cd=172&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HT4xAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HT4xAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=HT4xAQAAMAAJ&rdid=book-HT4xAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Optical_Journal_and_Review_of_Optome.epub?id=HT4xAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HT4xAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b> , but I do not recall that heretofore optometry had been given much attention . The title of the story is forgotten . It was in The Pictorial Review and by Edna Ferber . To have Edna Ferber tell the world that there is such a&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "w2ScEAAAQBAJ",
+      "etag": "3jD+g+JwJPs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/w2ScEAAAQBAJ",
+      "volumeInfo": {
+        "title": "This Is Not Your Story",
+        "authors": [
+          "Savi Sharma"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2022-12-22",
+        "description": "Sometimes, you do not write your story, it writes you. You don't choose your story, it chooses you. But would you believe it if someone told you, 'This is Not Your Story'? Would you have the courage to rewrite it? Shaurya, a CA student. This is his story of following his dreams. Miraya, an interior designer. This is her story of believing in love. Anubhav, an aspiring entrepreneur. This is his story of giving life another chance. After her record-breaking debut novel Everyone Has A Story, Savi Sharma tells a transforming tale of courage, hope and self-discovery.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789356293281"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9356293287"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=w2ScEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=w2ScEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=w2ScEAAAQBAJ&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=173&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=w2ScEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=w2ScEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=w2ScEAAAQBAJ&rdid=book-w2ScEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/This_Is_Not_Your_Story-sample-epub.acsm?id=w2ScEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=w2ScEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Shaurya, a CA student. This is his story of following his dreams. Miraya, an interior designer. This is her story of believing in love. Anubhav, an aspiring entrepreneur. This is his story of giving life another chance."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FL3fprpzpdkC",
+      "etag": "tRwzI2b35k0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FL3fprpzpdkC",
+      "volumeInfo": {
+        "title": "The Bookman",
+        "subtitle": "A Review of Books and Life ...",
+        "publishedDate": "1914",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015030008901"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 780,
+        "printType": "BOOK",
+        "categories": [
+          "Literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.17.20.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FL3fprpzpdkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FL3fprpzpdkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=FL3fprpzpdkC&pg=PA209&dq=fiction&hl=&as_pt=BOOKS&cd=174&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FL3fprpzpdkC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FL3fprpzpdkC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=FL3fprpzpdkC&rdid=book-FL3fprpzpdkC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Bookman.epub?id=FL3fprpzpdkC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/The_Bookman.pdf?id=FL3fprpzpdkC&hl=&output=pdf&sig=ACfU3U32pUt32Ui22ejyZ1e_PFuaxaYvYw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FL3fprpzpdkC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>FICTION</b> 1. Laddie . Stratton - Porter . Page . ) $ 1.35 . ( Doubleday , 2. Virginia . Glasgow . ( Doubleday , Page . ) $ 1.35 . 3. V. V.&#39;s Eyes . Harrison . ( Houghton Mif- Alin . ) $ 1.35 . 4 . BOSTON , MASS . <b>FICTION</b> 1. The Inside of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UHz6DwAAQBAJ",
+      "etag": "Iy8K/s5MxkE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UHz6DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Driving Stevie Fracasso",
+        "authors": [
+          "Barry Divola"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2021-03-01",
+        "description": "Two estranged brothers, one stolen car and a road trip from Texas to New York. What could possibly go wrong? For fans of Nick Hornby, David Nicholls and Jonathan Tropper. Jaded music journalist Rick McLennan knows his life is going south when he loses his job, his apartment and his long-term girlfriend all on the same day. But then he is thrown a lifeline \u2013 a commission to write the story of his ex-rock-star brother, Stevie, and drive him from Austin, Texas, to New York to play one final gig. One small problem: the brothers haven't spoken in thirty years. Rick knows it's a bad idea. But he's out of choices. So he gets behind the wheel of a beaten-up 1985 Nissan Stanza and drives towards his destiny. He's about to find everything he didn't know he was missing. It's September 2001. From award-winning journalist and author Barry Divola comes a glorious, music-infused, rollicking road-trip novel \u2013 think High Fidelity meets The Big Lebowski meets The Darjeeling Limited. A smart, funny and wholly endearing story about how, though we may at times lose ourselves along the way, the road always leads back to family and the things that bring us joy. 'Of course this road trip comes with a top-quality mix-tape \u2013 it's by Barry Divola \u2013 but it's the layers to this story, and its humour and its heart, that make this journey irresistible.' \u2013 Nick Earls 'This book is the super f***ing gnarly lead break of rock-lit novels.' \u2013 John Birmingham 'Driving Stevie Fracasso reads as great as the fifth Replacements album sounds. It's a New York\u2013centric, music-obsessive tale of humour and poignancy, the literary equivalent of hanging with folks who think going to church is finding a record fair. A+' \u2013 Stuart Coupe An interpreter of the listening experience forced to listen to experience? This novel will be read in between flippin' records. Go for the ride. You'll be spent, you'll be grateful.' \u2013 Tim Rogers 'If I could go back in time and take a different fork in the road, I would have lived like Barry Divola. But poor choices can't be unmade, and if Driving Stevie Fracasso is the only ride available I'll take it. Damn you, Barry Divola, you've been having everyone else's fun.' \u2013 Malcolm Knox",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781460713082"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1460713087"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 267,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UHz6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UHz6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=UHz6DwAAQBAJ&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=175&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=UHz6DwAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Driving_Stevie_Fracasso.html?hl=&id=UHz6DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Driving_Stevie_Fracasso-sample-epub.acsm?id=UHz6DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UHz6DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39;Of course this road trip comes with a top-quality mix-tape \u2013 it&#39;s by Barry Divola \u2013 but it&#39;s the layers to this story, and its humour and its heart, that make this journey irresistible.&#39; \u2013 Nick Earls &#39;This book is the super f***ing ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UNswEAAAQBAJ",
+      "etag": "Og6d8ZJoigA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UNswEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Woman on Fire",
+        "subtitle": "A Novel",
+        "authors": [
+          "Lisa Barr"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2022-03-01",
+        "description": "\u201cAn exuberant and propulsive thriller laced with sex, art, and history. Lisa Barr has created an unforgettable story that forces readers to question where the line should be drawn between the pursuit of justice and the hunt for revenge.\u201d\u2014Alyson Richman, bestselling author of The Secret of Clouds From the author of the award-winning Fugitive Colors and The Unbreakables, a gripping tale of a young, ambitious journalist embroiled in an international art scandal centered around a Nazi-looted masterpiece\u2014forcing the ultimate showdown between passion and possession, lovers and liars, history and truth. After talking her way into a job with Dan Mansfield, the leading investigative reporter in Chicago, rising young journalist Jules Roth is given an unusual\u2014and very secret\u2014assignment. Dan needs her to locate a painting stolen by the Nazis more than 75 years earlier: legendary Expressionist artist Ernst Engel\u2019s most famous work, Woman on Fire. World-renowned shoe designer Ellis Baum wants this portrait of a beautiful, mysterious woman for deeply personal reasons, and has enlisted Dan\u2019s help to find it. But Jules doesn\u2019t have much time; the famous designer is dying. Meanwhile, in Europe, provocative and powerful Margaux de Laurent also searches for the painting. Heir to her art collector family\u2019s millions, Margaux is a cunning gallerist who gets everything she wants. The only thing standing in her way is Jules. Yet the passionate and determined Jules has unexpected resources of her own, including Adam Baum, Ellis\u2019s grandson. A recovering addict and brilliant artist in his own right, Adam was once in Margaux\u2019s clutches. He knows how ruthless she is, and he\u2019ll do anything to help Jules locate the painting before Margaux gets to it first. A thrilling tale of secrets, love, and sacrifice that illuminates the destructive cruelty of war and greed and the triumphant power of beauty and love, Woman on Fire tells the story of a remarkable woman and an exquisite work of art that burns bright, moving through hands, hearts, and history.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780063040892"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0063040891"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 369,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UNswEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UNswEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=UNswEAAAQBAJ&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=176&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UNswEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UNswEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UNswEAAAQBAJ&rdid=book-UNswEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Woman_on_Fire-sample-epub.acsm?id=UNswEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UNswEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A thrilling tale of secrets, love, and sacrifice that illuminates the destructive cruelty of war and greed and the triumphant power of beauty and love, Woman on Fire tells the story of a remarkable woman and an exquisite work of art that ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "buo5AQAAMAAJ",
+      "etag": "938111SAqXI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/buo5AQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Central Literary Magazine",
+        "publishedDate": "1909",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433104843549"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 370,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=buo5AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=buo5AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=buo5AQAAMAAJ&pg=PA278&dq=fiction&hl=&as_pt=BOOKS&cd=177&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=buo5AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=buo5AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=buo5AQAAMAAJ&rdid=book-buo5AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Central_Literary_Magazine.epub?id=buo5AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=buo5AQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b> reader and gets through three novels a week . lot , as the friendly waiter said , but it is often done . In four weeks he has had twelve novels . Now what is the result . <b>Fiction</b> Issues , 12 ; Number of Readers , 1 . It seems a&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C0YFAAAAQAAJ",
+      "etag": "Ndxc+9fCDl8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C0YFAAAAQAAJ",
+      "volumeInfo": {
+        "title": "Annual Report of the Trustees of the Public Library of the Cty of Boston",
+        "authors": [
+          "Trustees of the Public Library of the City of Boston"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:555030824"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Libraries"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.14.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C0YFAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C0YFAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=C0YFAAAAQAAJ&pg=RA1-PA12&dq=fiction&hl=&as_pt=BOOKS&cd=178&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=C0YFAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=C0YFAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=C0YFAAAAQAAJ&rdid=book-C0YFAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Annual_Report_of_the_Trustees_of_the_Pub.epub?id=C0YFAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Annual_Report_of_the_Trustees_of_the_Pub.pdf?id=C0YFAAAAQAAJ&hl=&output=pdf&sig=ACfU3U2NkvUqhArA2hifZ74sEYDBO--ZUw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C0YFAAAAQAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>FICTION</b> , ITS CIRCULATION AND COST . It is well known that the larger part of the circulation of the Lower Hall and branches is of works of <b>fiction</b> . The figures are instructive . In the year ending April 30 , 1884 , there were 159,349&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CrzrhsKtC2MC",
+      "etag": "hpKYzX5Cy5Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CrzrhsKtC2MC",
+      "volumeInfo": {
+        "title": "Kimball's Dairy Farmer",
+        "publishedDate": "1907",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UFL:31262094872487"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 780,
+        "printType": "BOOK",
+        "categories": [
+          "Cattle"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CrzrhsKtC2MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CrzrhsKtC2MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=CrzrhsKtC2MC&pg=RA21-PA23&dq=fiction&hl=&as_pt=BOOKS&cd=179&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=CrzrhsKtC2MC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CrzrhsKtC2MC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=CrzrhsKtC2MC&rdid=book-CrzrhsKtC2MC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Kimball_s_Dairy_Farmer.epub?id=CrzrhsKtC2MC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CrzrhsKtC2MC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Fiction</b> , &quot; and it consists of 10 volumes , richly bound ; 2,000 pages of text , printed on excellent paper ; each ... <b>Fiction Fiction Fiction</b> off of of English English English <b>Fiction Fiction Fiction</b> of of of of English English&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3vdX0BOFIxQC",
+      "etag": "scxlBfHximI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3vdX0BOFIxQC",
+      "volumeInfo": {
+        "title": "Bookman's Manual",
+        "authors": [
+          "Bessie Graham"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:39000001031116"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 454,
+        "printType": "BOOK",
+        "categories": [
+          "Best books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3vdX0BOFIxQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3vdX0BOFIxQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=3vdX0BOFIxQC&pg=PA46&dq=fiction&hl=&as_pt=BOOKS&cd=180&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3vdX0BOFIxQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3vdX0BOFIxQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=3vdX0BOFIxQC&rdid=book-3vdX0BOFIxQC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Bookman_s_Manual.epub?id=3vdX0BOFIxQC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3vdX0BOFIxQC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b> usually approach the subject from one of two angles : either the angle of history , or the angle of <b>fiction</b> . For instance , the question is either , &quot; What famous battle is described in &#39; Les Miserables ? &#39; or &quot; What novel&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "89KdPwAACAAJ",
+      "etag": "6qbJxxs+YtY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/89KdPwAACAAJ",
+      "volumeInfo": {
+        "title": "The Foundation Trilogy",
+        "subtitle": "Three Classics of Science Fiction",
+        "authors": [
+          "Isaac Asimov"
+        ],
+        "publisher": "Avon Books",
+        "publishedDate": "1974",
+        "description": "The Foundation is established after the Old Empire gives way to barbarism, a mighty struggle for power occurs, and a mutant strain gone wild poses a threat following the First Empire's defeat",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0380001012"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780380001019"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 679,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=89KdPwAACAAJ&dq=fiction&hl=&as_pt=BOOKS&cd=181&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=89KdPwAACAAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Foundation_Trilogy.html?hl=&id=89KdPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=89KdPwAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WT1nA87biBoC",
+      "etag": "V53SacnRi2M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WT1nA87biBoC",
+      "volumeInfo": {
+        "title": "Blindness",
+        "authors": [
+          "Jos\u00e9 Saramago"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2013-08-23",
+        "description": "A stunningly powerful novel of humanity's will to survive against all odds during an epidemic by a winner of the Nobel Prize for Literature. An International Bestseller \u2022 \"This is a shattering work by a literary master.\u201d\u2014Boston Globe A city is hit by an epidemic of \"white blindness\" which spares no one. Authorities confine the blind to an empty mental hospital, but there the criminal element holds everyone captive, stealing food rations and raping women. There is one eyewitness to this nightmare who guides seven strangers\u2014among them a boy with no mother, a girl with dark glasses, a dog of tears\u2014through the barren streets, and the procession becomes as uncanny as the surroundings are harrowing. A magnificent parable of loss and disorientation, Blindness has swept the reading public with its powerful portrayal of our worst appetites and weaknesses\u2014and humanity's ultimately exhilarating spirit. \"This is a an important book, one that is unafraid to face all of the horror of the century.\"\u2014Washington Post A New York Times Notable Book of the Year A Los Angeles Times Best Book of the Year",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780547537597"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "054753759X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 349,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.19.19.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WT1nA87biBoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WT1nA87biBoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WT1nA87biBoC&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=182&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WT1nA87biBoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WT1nA87biBoC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WT1nA87biBoC&rdid=book-WT1nA87biBoC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Blindness-sample-epub.acsm?id=WT1nA87biBoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WT1nA87biBoC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An International Bestseller \u2022 &quot;This is a shattering work by a literary master.\u201d\u2014Boston Globe A city is hit by an epidemic of &quot;white blindness&quot; which spares no one."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m9iazgEACAAJ",
+      "etag": "zveZhOhHH4U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m9iazgEACAAJ",
+      "volumeInfo": {
+        "title": "The Love of My Life",
+        "authors": [
+          "Rosie Walsh"
+        ],
+        "publisher": "Mantle",
+        "publishedDate": "2022-06-23",
+        "description": "A page-turning OMG love story, The Love of My Life is a bold, mysterious romance from Rosie Walsh, author of The Man Who Didn't Call. 'Dazzling' - Lisa Jewell, author of The Family Upstairs I have held you every night for ten years and I didn't even know your name. We have a child together. A dog, a house. Who are you? Emma loves her husband Leo and their young daughter Ruby: she'd do anything for them. But almost everything she's told them about herself is a lie. And she might just have got away with it, if it weren't for her husband's job. Leo is an obituary writer and Emma is a well-known marine biologist. So, when she suffers a serious illness, Leo copes by doing what he knows best: reading and writing about her life. But as he starts to unravel her past, he discovers the woman he loves doesn't really exist. Even her name is made-up. When the very darkest moments of Emma's past life finally emerge, she must somehow prove to Leo that she really is the woman he always thought she was. But first, she must tell him about the love of her other life . . . 'Stunning' - Daily Mail 'A winning combination of big emotions and didn't-see-that-coming twist' - Good Housekeeping 'I couldn't put it down' - Jane Fallon, author of Worst Idea Ever 'An absolute triumph' - Jill Mansell, author of Should I Tell You? 'It made me cry, smile and hug my own loved ones a little tighter' - Beth O'Leary, author of The Flatshare",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1529020352"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781529020359"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m9iazgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m9iazgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=m9iazgEACAAJ&dq=fiction&hl=&as_pt=BOOKS&cd=183&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=m9iazgEACAAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Love_of_My_Life.html?hl=&id=m9iazgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m9iazgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A page-turning OMG love story, The Love of My Life is a bold, mysterious romance from Rosie Walsh, author of The Man Who Didn&#39;t Call."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Lq2fEAAAQBAJ",
+      "etag": "tUXkqsrU5Lc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Lq2fEAAAQBAJ",
+      "volumeInfo": {
+        "title": "We Are Satellites",
+        "authors": [
+          "Sarah Pinsker"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2021-05-13",
+        "description": "From award-winning author Sarah Pinsker comes a novel about one family and the technology that divides them. Get one \u2013 or get left behind. Val and Julie just want what's best for their kids, David and Sophie. So when David comes home from school begging for a new brain implant to help with his studies, they're torn. Julie grew up poor and knows what it's like to be the only kid in school without the new technology, but Val is terrified by the risks and the implications. Soon, everyone at Julie's work has the implant and she's struggling to keep pace. It's clear that she'll have to get one too if she's not to be left behind. Before long, Val and Sophie are the only two in the family without the device, and part of an ever-shrinking minority in their town. With government subsidies and no apparent downside, why would anyone refuse? But Sophie can't shake the feeling that something sinister is going on behind the scenes and she's going to do whatever it takes to find out \u2013 even if it pits her against a powerful tech company and the people she loves most.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781800243910"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "180024391X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 426,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Lq2fEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Lq2fEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Lq2fEAAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&cd=184&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Lq2fEAAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/We_Are_Satellites.html?hl=&id=Lq2fEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Lq2fEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From award-winning author Sarah Pinsker comes a novel about one family and the technology that divides them."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6t1tzQEACAAJ",
+      "etag": "5X1l1SPGt9g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6t1tzQEACAAJ",
+      "volumeInfo": {
+        "title": "No-Fail Communication",
+        "subtitle": "Workplace Communication Problems and How to Fix Them",
+        "authors": [
+          "Michael Hyatt"
+        ],
+        "publishedDate": "2020-04",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1733970193"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781733970198"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=6t1tzQEACAAJ&dq=fiction&hl=&as_pt=BOOKS&cd=185&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=6t1tzQEACAAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/No_Fail_Communication.html?hl=&id=6t1tzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6t1tzQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UCJMRAAACAAJ",
+      "etag": "OBIhfjPvWsY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UCJMRAAACAAJ",
+      "volumeInfo": {
+        "title": "Elantris",
+        "authors": [
+          "Brandon Sanderson"
+        ],
+        "publishedDate": "2011",
+        "description": "Elantris was the capital of Arelon: gigantic, beautiful, literally radiant, filled with benevolent beings who used their powerful magical abilities for the benefit of all. Yet each of these demigods was once an ordinary person until touched by the mysterious transforming power of the Shaod. Ten years ago, without warning, the magic failed. Elantrians became wizened, leper-like, powerless creatures, and Elantris itself dark, filthy, and crumbling.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0575097442"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780575097445"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Blessing and cursing"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UCJMRAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UCJMRAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=UCJMRAAACAAJ&dq=fiction&hl=&as_pt=BOOKS&cd=186&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=UCJMRAAACAAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Elantris.html?hl=&id=UCJMRAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UCJMRAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Elantris was the capital of Arelon: gigantic, beautiful, literally radiant, filled with benevolent beings who used their powerful magical abilities for the benefit of all."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R3dlWXoGGaIC",
+      "etag": "Xae/AmNAYwQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R3dlWXoGGaIC",
+      "volumeInfo": {
+        "title": "Fierce Invalids Home From Hot Climates",
+        "authors": [
+          "Tom Robbins"
+        ],
+        "publisher": "Random House Australia",
+        "publishedDate": "2012-04-01",
+        "description": "No novelist sees the world in all its mesmerising contradictions like Tom Robbins, the New York Times bestselling author of Half Asleep in Frog Pajamas. In his biggest novel yet, Robbins explores, challenges, mocks and celebrates virtually every major aspect of our millennial era In Fierce Invalids From Hot Climates the fearless, inimitable and always entertaining Tom Robbins brings on stage the most complex and compelling character he has ever created. Switters is a contradiction for all seasons: an anarchist who works for the government, a pacifist who carries a gun, a vegetarian who sops up ham gravy, a cyberwhiz who hates computers, a robust bon vivant to can be as squeamish as any fop; a man, who, though obsessed with the preservation of innocence, is aching to deflower his high-school age stepsister (and later becomes enamoured of a nun ten years his senior). Yet there's nothing remotely wishy washy about Switters. He doesn't merely pack a pistol. He is a pistol.Robbins has said that throughout the writing of Fierce Invalids From Hot Climates he was guided by the advice of Julia Child: \"Learn to handle hot things. Keep your knives sharp. Above all, have a good time.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781742748474"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1742748473"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 671,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=R3dlWXoGGaIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=R3dlWXoGGaIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=R3dlWXoGGaIC&dq=fiction&hl=&as_pt=BOOKS&cd=187&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=R3dlWXoGGaIC&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fierce_Invalids_Home_From_Hot_Climates.html?hl=&id=R3dlWXoGGaIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R3dlWXoGGaIC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "No novelist sees the world in all its mesmerising contradictions like Tom Robbins, the New York Times bestselling author of Half Asleep in Frog Pajamas."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pzMrAAAAYAAJ",
+      "etag": "mAk2X26Yhd8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pzMrAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The World Tomorrow",
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PRNC:32101067014165"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 392,
+        "printType": "BOOK",
+        "categories": [
+          "Christian sociology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.12.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pzMrAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pzMrAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=pzMrAAAAYAAJ&pg=PA253&dq=fiction&hl=&as_pt=BOOKS&cd=188&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pzMrAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pzMrAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=pzMrAAAAYAAJ&rdid=book-pzMrAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_World_Tomorrow.epub?id=pzMrAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pzMrAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b> which have been written by such creative literary artists as De Maupassant , Balzac , Daudet , Gorki , Tolstoi , Wells , Hugo and others . It is not only easy - it is charming . Foreign <b>fiction</b> by its acknowledged masters is&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "l-gsDwAAQBAJ",
+      "etag": "iwHfVs0Q01s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/l-gsDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Italian Teacher",
+        "authors": [
+          "Tom Rachman"
+        ],
+        "publisher": "Doubleday Canada",
+        "publishedDate": "2018-03-20",
+        "description": "A sparkling, propulsive new novel from the bestselling author of The Imperfectionists. Rome, 1955. The artists gather for a picture at a party in an ancient villa. Bear Bavinsky, creator of vast canvases, larger than life, is at the centre of the picture. His wife, Natalie, edges out of the shot. From the side of the room watches little Pinch--their son. At five years old he loves Bear almost as much as he fears him. After Bear abandons their family, Pinch will still worship him, striving to live up to the Bavinsky name; while Natalie, a ceramicist, cannot hope to be more than a forgotten muse. Trying to burn brightly in his father's shadow, Pinch's attempts flicker and die. Yet by the end of a career of twists and compromises, Pinch will enact an unexpected rebellion that will leave forever his mark upon the Bear Bavinsky legacy. A masterful, original examination of love, duty, art and fame, The Italian Teacher cements Tom Rachman as among this generation's most exciting literary voices.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780385689618"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0385689616"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 342,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=l-gsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=l-gsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=l-gsDwAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&cd=189&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=l-gsDwAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Italian_Teacher.html?hl=&id=l-gsDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=l-gsDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A masterful, original examination of love, duty, art and fame, The Italian Teacher cements Tom Rachman as among this generation&#39;s most exciting literary voices."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mBxIpphiorUC",
+      "etag": "ACdHO6MLezw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mBxIpphiorUC",
+      "volumeInfo": {
+        "title": "Catalogue of books in the lending library. 2nd 10,000",
+        "authors": [
+          "Edinburgh publ. libr"
+        ],
+        "publishedDate": "1891",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:601760818"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 562,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mBxIpphiorUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mBxIpphiorUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=mBxIpphiorUC&pg=PA177&dq=fiction&hl=&as_pt=BOOKS&cd=190&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mBxIpphiorUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mBxIpphiorUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=mBxIpphiorUC&rdid=book-mBxIpphiorUC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Catalogue_of_books_in_the_lending_librar.epub?id=mBxIpphiorUC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mBxIpphiorUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Edinburgh publ. libr. FICHTE - <b>FICTION</b> . <b>FICTION</b> . <b>FICTION</b> . <b>FICTION</b> . <b>FICTION</b> . 18294 Confederate. 177 Fichte ( J. G. ) Works- <b>FICTION</b>- Characteristics of the Present Age . Trans . by Smith 34724-5 Alice&#39;s Adventures under Ground&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wjMZAQAAIAAJ",
+      "etag": "oFrBmJhHMaE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wjMZAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Proceedings of the High School Conference",
+        "authors": [
+          "University of Illinois. High school visitor"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3024995"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1496,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wjMZAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wjMZAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wjMZAQAAIAAJ&pg=RA3-PA96&dq=fiction&hl=&as_pt=BOOKS&cd=191&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wjMZAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wjMZAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=wjMZAQAAIAAJ&rdid=book-wjMZAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Proceedings_of_the_High_School_Conferenc.epub?id=wjMZAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Proceedings_of_the_High_School_Conferenc.pdf?id=wjMZAQAAIAAJ&hl=&output=pdf&sig=ACfU3U0LBDRt1R2cqabpr5Gb0Zuy0YeNcA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wjMZAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b> and non - <b>fiction</b> indicated by the study of recommenda- tions for Freshman and Sohpomore Home Reading is maintained , a minimum list of ten books for each of those classes should contain seven books of <b>fiction</b> and three of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "16YyEAAAQBAJ",
+      "etag": "tcDqbR2G820",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/16YyEAAAQBAJ",
+      "volumeInfo": {
+        "title": "How to Write a Story",
+        "authors": [
+          "Simon Cheshire"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2015",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781408866573"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1408866579"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 73,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=16YyEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=16YyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=16YyEAAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&cd=192&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=16YyEAAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Write_a_Story.html?hl=&id=16YyEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=16YyEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2bUYL3dvL-gC",
+      "etag": "RNc4enSyUnM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2bUYL3dvL-gC",
+      "volumeInfo": {
+        "title": "The Crow Road",
+        "subtitle": "'One of the best opening lines of any novel' Guardian",
+        "authors": [
+          "Iain Banks"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2008-09-04",
+        "description": "'One of the best opening lines of any novel' Guardian 'It was the day my grandmother exploded. I sat in the crematorium, listening to my Uncle Hamish quietly snoring in harmony to Bach's Mass in B Minor, and I reflected that it always seemed to be death that drew me back to Gallanach.' Prentice McHoan has returned to the bosom of his complex but enduring Scottish family. Full of questions about the McHoan past, present and future, he is also deeply preoccupied: mainly with death, sex, drink, God and illegal substances... Praise for Iain Banks: 'The most imaginative novelist of his generation' The Times 'His verve and talent will always be recognised, and his work will always find and enthral new readers' Ken MacLeod, Guardian 'His work was mordant, surreal, and fiercely intelligent' Neil Gaiman 'An exceptional wordsmith' Scotsman",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780748109937"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0748109935"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.13.10.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2bUYL3dvL-gC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2bUYL3dvL-gC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2bUYL3dvL-gC&dq=fiction&hl=&as_pt=BOOKS&cd=193&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2bUYL3dvL-gC&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Crow_Road.html?hl=&id=2bUYL3dvL-gC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2bUYL3dvL-gC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Praise for Iain Banks: &#39;The most imaginative novelist of his generation&#39; The Times &#39;His verve and talent will always be recognised, and his work will always find and enthral new readers&#39; Ken MacLeod, Guardian &#39;His work was mordant, surreal, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GEXlswEACAAJ",
+      "etag": "8iWM+Aikuno",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GEXlswEACAAJ",
+      "volumeInfo": {
+        "title": "The Extraordinary Life of Sam Hell",
+        "subtitle": "A Novel",
+        "authors": [
+          "Robert Dugoni"
+        ],
+        "publisher": "Lake Union Publishing",
+        "publishedDate": "2018",
+        "description": "Born with ocular albinism, small-town eye doctor Sam Hill must finally face a past tragedy that caused him to turn his back on his friends, his hometown, and the life he'd always known--a journey that makes him realize what truly matters.-- Adapted from back cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1503948978"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781503948976"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Albinos and albinism"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GEXlswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GEXlswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GEXlswEACAAJ&dq=fiction&hl=&as_pt=BOOKS&cd=194&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=GEXlswEACAAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Extraordinary_Life_of_Sam_Hell.html?hl=&id=GEXlswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GEXlswEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Wall Street Journal and New York Times bestselling author Robert Dugoni&#39;s coming-of-age story is, according to Booklist, &quot;a novel that, if it doesn&#39;t cross entirely over into John Irving territory, certainly nestles in close to the border."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Cgh-AAAAIAAJ",
+      "etag": "wzeEEQQ/7S0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Cgh-AAAAIAAJ",
+      "volumeInfo": {
+        "title": "The Best Short Stories of Dostoevsky",
+        "authors": [
+          "Fyodor Dostoyevsky"
+        ],
+        "publishedDate": "1992",
+        "description": "Seven masterful short stories by a Russian author best known for his longer works.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSC:32106010554878"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 386,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Cgh-AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Cgh-AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Cgh-AAAAIAAJ&q=fiction&dq=fiction&hl=&as_pt=BOOKS&cd=195&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Cgh-AAAAIAAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Best_Short_Stories_of_Dostoevsky.html?hl=&id=Cgh-AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Cgh-AAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Seven masterful short stories by a Russian author best known for his longer works."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-FQyCwAAQBAJ",
+      "etag": "88Dm1FqhPes",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-FQyCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Sudden Death",
+        "authors": [
+          "\u00c1lvaro Enrigue"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2016-04-14",
+        "description": "'Glorious' New York Times 'Endlessly inventive', Guardian, Best Books of 2016 'Wildly funny' Lauren Groff, author of Fates and Furies As Caravaggio, the libertine of Italy\u2019s art world, and the loutish Spanish poet Quevedo aim to settle scores over the course of one brutal tennis match, the old European order edges closer to eruption. Across the ocean, in early sixteenth-century Mexico, the Aztec Empire is under the fatal grip of Hern\u00e1n Cort\u00e9s and his Mayan lover. While they scheme and conquer, fight and fuck, their domestic comedy will change the course of history, throwing the world \u2013 and Rome\u2019s tennis match \u2013 into a mind-bending reverie of assassinations, executions, papal dramas, carnal liaisons and artistic revolution. Translated by Natasha Wimmer, the prize-winning translator of Roberto Bola\u00f1o's The Savage Detectives and 2666.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781473511705"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1473511704"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 214,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-FQyCwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-FQyCwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-FQyCwAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&cd=196&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=-FQyCwAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sudden_Death.html?hl=&id=-FQyCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-FQyCwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39;Glorious&#39; New York Times &#39;Endlessly inventive&#39;, Guardian, Best Books of 2016 &#39;Wildly funny&#39; Lauren Groff, author of Fates and Furies As Caravaggio, the libertine of Italy\u2019s art world, and the loutish Spanish poet Quevedo aim to settle ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qJFqwAEACAAJ",
+      "etag": "XVomlOJwkkY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qJFqwAEACAAJ",
+      "volumeInfo": {
+        "title": "One-Sentence Journal",
+        "subtitle": "Short Poems and Essays from the World at Large",
+        "authors": [
+          "Chris La Tray"
+        ],
+        "publishedDate": "2018-08-08",
+        "description": "WINNER OF THE 2018 MONTANA BOOK AWARDChris La Tray's One-Sentence Journal is a collection of short poems and essays that describe his encounters with the wilderness of day-to-day life: In mountains, rivers, and forest paths in some moments, and gritty alleys and street corners in others. Deeply inspired by the communication shared between writers Ted Kooser and Jim Harrison in their classic book Braided Creek: A Conversation in Poetry (Copper Canyon Press, 2003), La Tray seeks a similar correspondence here, with anyone who cares to slow down and relax in his company.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1732496803"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781732496804"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": [
+          "Diaries"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qJFqwAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qJFqwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qJFqwAEACAAJ&dq=fiction&hl=&as_pt=BOOKS&cd=197&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=qJFqwAEACAAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/One_Sentence_Journal.html?hl=&id=qJFqwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qJFqwAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A collection of poems and essays that range from sauntering in the forest, Ted Bundy&#39;s wilderness cabin, winter landscapes, to the sacred art of dog walking."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SPy5J5U8vGoC",
+      "etag": "qPVr56XQoTs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SPy5J5U8vGoC",
+      "volumeInfo": {
+        "title": "Cross-Cultural Connections in Crime Fictions",
+        "authors": [
+          "V. Miller",
+          "H. Oakley"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2012-05-09",
+        "description": "A collection of ten original essays forging new interdisciplinary connections between crime fiction and film, encompassing British, Swedish, American and Canadian contexts. The authors explore representations of race, gender, sexuality and memory, and challenge traditional categorisations of academic and professional crime writing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781137016768"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1137016760"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SPy5J5U8vGoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SPy5J5U8vGoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=SPy5J5U8vGoC&pg=PA9&dq=fiction&hl=&as_pt=BOOKS&cd=198&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SPy5J5U8vGoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SPy5J5U8vGoC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE_AND_RENTAL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 54.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 43.44,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=SPy5J5U8vGoC&rdid=book-SPy5J5U8vGoC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 54990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 43440000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          },
+          {
+            "finskyOfferType": 3,
+            "listPrice": {
+              "amountInMicros": 19250000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 16750000,
+              "currencyCode": "USD"
+            },
+            "rentalDuration": {
+              "unit": "DAY",
+              "count": 90
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cross_Cultural_Connections_in_Crime_Fict-sample-epub.acsm?id=SPy5J5U8vGoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cross_Cultural_Connections_in_Crime_Fict-sample-pdf.acsm?id=SPy5J5U8vGoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SPy5J5U8vGoC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b>. This is partly because, as Ernest Mandel argues in Delightful Murder: A Social History of the Crime Story, there is a certain homology between bourgeois society and crime <b>fiction</b>. \u201cIsn&#39;t the whole of bourgeois society one big&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PDTQAAAAMAAJ",
+      "etag": "yzkHg8zvnfg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PDTQAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Monthly Bulletin",
+        "authors": [
+          "St. Louis Public Library"
+        ],
+        "publishedDate": "1924",
+        "description": "\"Teachers' bulletin\", vol. 4- issued as part of v. 23, no. 9-",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015076072464"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 434,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PDTQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PDTQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PDTQAAAAMAAJ&pg=PP8&dq=fiction&hl=&as_pt=BOOKS&cd=199&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PDTQAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PDTQAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=PDTQAAAAMAAJ&rdid=book-PDTQAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Monthly_Bulletin.epub?id=PDTQAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PDTQAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b> , 17 , 61 , 90 , 127 , 176 , 351 , 413 . Books for the home , bulletin , 185 . Citizenship class , illus . , 69 . Closing - time , signal for , 70 . Constitutional amendments , 23 , 46 , 68 . Croatian <b>fiction</b> , 61 , 176 , 351&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NYaPPgAACAAJ",
+      "etag": "WYdjsblMdcA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NYaPPgAACAAJ",
+      "volumeInfo": {
+        "title": "Freedom on the Menu",
+        "subtitle": "The Greensboro Sit-Ins",
+        "authors": [
+          "Carole Boston Weatherford"
+        ],
+        "publisher": "Paw Prints",
+        "publishedDate": "2009-04-09",
+        "description": "The 1960 civil rights sit-ins at the Woolworth's lunch counter in Greensboro, North Carolina, are seen through the eyes of a young Southern black girl.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1442000015"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781442000018"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "African Americans"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NYaPPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NYaPPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=NYaPPgAACAAJ&dq=fiction&hl=&as_pt=BOOKS&cd=200&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=NYaPPgAACAAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Freedom_on_the_Menu.html?hl=&id=NYaPPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NYaPPgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The 1960 civil rights sit-ins at the Woolworth&#39;s lunch counter in Greensboro, North Carolina, are seen through the eyes of a young Southern black girl."
+      }
+    }
+  ]
+}

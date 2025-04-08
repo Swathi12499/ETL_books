@@ -1,0 +1,3307 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "VYGKBgAAQBAJ",
+      "etag": "ExIaXSCn3AQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VYGKBgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Politics Book",
+        "subtitle": "Big Ideas Simply Explained",
+        "authors": [
+          "DK"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2015-03-02",
+        "description": "Learn about how the world of government and power works in The Politics Book. Part of the fascinating Big Ideas series, this book tackles tricky topics and themes in a simple and easy to follow format. Learn about Politics in this overview guide to the subject, great for novices looking to find out more and experts wishing to refresh their knowledge alike! The Politics Book brings a fresh and vibrant take on the topic through eye-catching graphics and diagrams to immerse yourself in. This captivating book will broaden your understanding of Politics, with: - More than 100 groundbreaking ideas in the history of political thought - Packed with facts, charts, timelines and graphs to help explain core concepts - A visual approach to big subjects with striking illustrations and graphics throughout - Easy to follow text makes topics accessible for people at any level of understanding The Politics Book is a captivating introduction to the world's greatest thinkers and their political big ideas that continue to shape our lives today, aimed at adults with an interest in the subject and students wanting to gain more of an overview. Delve into the development of long-running themes, like attitudes to democracy and violence, developed by thinkers from Confucius in ancient China to Mahatma Gandhi in 20th-century India, all through exciting text and bold graphics. Your Politics Questions, Simply Explained This engaging overview explores the big political ideas such as capitalism, communism, and fascism, exploring their beginnings and social contexts - and the political thinkers who have made significant contributions. If you thought it was difficult to learn about governing bodies and affairs, The Politics Book presents key information in a clear layout. Learn about the ideas of ancient and medieval philosophers and statesmen, as well as the key personalities of the 16th to the 21st centuries that have shaped political thinking, policy, and statecraft. The Big Ideas Series With millions of copies sold worldwide, The Politics Book is part of the award-winning Big Ideas series from DK. The series uses striking graphics along with engaging writing, making big topics easy to understand.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781465441072"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1465441077"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 729,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.10.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VYGKBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VYGKBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VYGKBgAAQBAJ&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=VYGKBgAAQBAJ&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Politics_Book.html?hl=&id=VYGKBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Politics_Book-sample-epub.acsm?id=VYGKBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Politics_Book-sample-pdf.acsm?id=VYGKBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VYGKBgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Politics Book charts the development of long-running themes, such as attitudes to democracy and violence, developed by thinkers from Confucius in ancient China to Mahatma Gandhi in 20th-century India."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SUTeD7u18lsC",
+      "etag": "tUGtIrMugk0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SUTeD7u18lsC",
+      "volumeInfo": {
+        "title": "\"What is Literature?\" and Other Essays",
+        "authors": [
+          "Jean-Paul Sartre"
+        ],
+        "publisher": "Harvard University Press",
+        "publishedDate": "1988",
+        "description": "What is Literature? challenges anyone who writes as if literature could be extricated from history or society. But Sartre does more than indict. He offers a definitive statement about the phenomenology of reading, and he goes on to provide a dashing example of how to write a history of literature that takes ideology and institutions into account.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0674950844"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780674950849"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 372,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.10.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SUTeD7u18lsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SUTeD7u18lsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=SUTeD7u18lsC&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=SUTeD7u18lsC&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/What_is_Literature_and_Other_Essays.html?hl=&id=SUTeD7u18lsC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/What_is_Literature_and_Other_Essays-sample-epub.acsm?id=SUTeD7u18lsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/What_is_Literature_and_Other_Essays-sample-pdf.acsm?id=SUTeD7u18lsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SUTeD7u18lsC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "What is Literature? challenges anyone who writes as if literature could be extricated from history or society. But Sartre does more than indict."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-iXvDwAAQBAJ",
+      "etag": "rWIQVjE6jZE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-iXvDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Piano Literature - Book 1: Developing Artist Original Keyboard Classics",
+        "authors": [
+          "Randall Faber",
+          "Nancy Faber"
+        ],
+        "publisher": "Hal Leonard Corporation",
+        "publishedDate": "1999-01-01",
+        "description": "(Faber Piano Adventures ). This collection of 21 authentic keyboard works represents the major periods of music - from Baroque to Contemporary - and serves as an excellent introduction to classical keyboard literature. Contents: VON DER HOFE: Canario * PRAETORIUS: Procession in G * TELEMANN: Gavott in C * MOURET: The Highlander * HOOK: Bagatelle * Minuet * TURK: Little Dance * DIABELLI: Morning * HAYDN: Quadrille * ATTWOOD: Sonatina in G * J.C. BACH: Adagio and Allegro * SCHYTTE: Little Prelude * Melody for Left Hand * SPINDLER: Two Preludes * WOHLFAHRT: Waltz for Four Hands * GURLITT: The Hunt * LYNES: Tarantella * ALT: On the Ocean Floor * DUBLIANSKY: The Busy Machine * SALUTRINSKAYA: Shepherd Pipes * FABER: Pantomime",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781616779337"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1616779330"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Music"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.2.0.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-iXvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-iXvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-iXvDwAAQBAJ&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-iXvDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-iXvDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-iXvDwAAQBAJ&rdid=book--iXvDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Piano_Literature_Book_1_Developing_Artis-sample-epub.acsm?id=-iXvDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Piano_Literature_Book_1_Developing_Artis-sample-pdf.acsm?id=-iXvDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-iXvDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "(Faber Piano Adventures ). This collection of 21 authentic keyboard works represents the major periods of music - from Baroque to Contemporary - and serves as an excellent introduction to classical keyboard literature."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "apCZEAAAQBAJ",
+      "etag": "ICC0XlGg/3c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/apCZEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Pathetic Literature",
+        "authors": [
+          "Eileen Myles"
+        ],
+        "publisher": "Grove Press",
+        "publishedDate": "2022-11-15",
+        "description": "An utterly unique collection composed by the award-winning poet and writer, a global anthology of pieces from lesser-known classics by luminaries like Franz Kafka, Samuel R. Delany, and Gwendolyn Brooks to up-and-coming writers that examine pathos and feeling, giving a well-timed rehab to the word \u201cpathetic\u201d \u201cLiterature is pathetic.\u201d So claims Eileen Myles in their provocative and robust introduction to Pathetic Literature, a breathtaking mishmash of pieces ranging from poems to theater scripts to prose to anything in between, all exploring the so-called \u201cpathetic\u201d or awkwardly-felt moments and revelations around which lives are both built and undone. Myles first reclaimed the word for a seminar they taught at the University of California San Diego in the early 2000s, rescuing it from the derision into which it had slipped and restoring its original meaning of inspiring emotion or feeling, from the Ancient Greek rhetorical method pathos. Their identification of \u201cpathetic\u201d as ripe for reinvention forms the need for this anthology, which includes a hearty 106 contributors, encompassing canonical global stars like Robert Walser, Jorge Luis Borges, Rumi, and Gwendolyn Brooks, literary libertines like Dodie Bellamy, Samuel R. Delany, and Bob Flanagan, as well as extraordinary writers on the rise, including Nicole Wallace, Precious Okoyomon, and Will Farris. Wrenching and discomfiting prose by Karla Cornejo Villavicencio, Jack Halberstam, and Porochista Khakpour rubs shoulders with poems by Natalie Diaz, Victoria Chang, Lucille Clifton, and Ariana Reines, and butts up against fiction from Chester Himes, Djuna Barnes, Chris Kraus, and Qiu Miaojin, among so many others, including Myles\u2019s own opening salvo of their 1992 presidential campaign. The result is a completely anomalous and uplifting anthology that encourages a fresh political discourse on literature, as well as supplying an essential compendium of pained, awkward, queer, trans, gleeful, and ever-jarring ways to think differently and live pathetically on a polarized and fearful planet.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780802157171"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0802157173"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 595,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=apCZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=apCZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=apCZEAAAQBAJ&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=apCZEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=apCZEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 25,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.75,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=apCZEAAAQBAJ&rdid=book-apCZEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 25000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14750000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Pathetic_Literature-sample-epub.acsm?id=apCZEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Pathetic_Literature-sample-pdf.acsm?id=apCZEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=apCZEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An utterly unique collection composed by the award-winning poet and writer, a global anthology of pieces from lesser-known classics by luminaries like Franz Kafka, Samuel R. Delany, and Gwendolyn Brooks to up-and-coming writers that examine ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Zq7nwQEACAAJ",
+      "etag": "NLdYY+bQgrI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Zq7nwQEACAAJ",
+      "volumeInfo": {
+        "title": "Encyclopaedia Britannica",
+        "subtitle": "A Dictionary of Arts, Sciences, Literature and General Information",
+        "authors": [
+          "Hugh Chisholm"
+        ],
+        "publishedDate": "1910",
+        "description": "This eleventh edition was developed during the encyclopaedia's transition from a British to an American publication. Some of its articles were written by the best-known scholars of the time and it is considered to be a landmark encyclopaedia for scholarship and literary style.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:FL2VGS"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1080,
+        "printType": "BOOK",
+        "categories": [
+          "Encyclopedias and dictionaries"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.17.16.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Zq7nwQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Zq7nwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Zq7nwQEACAAJ&dq=literature&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Zq7nwQEACAAJ&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Encyclopaedia_Britannica.html?hl=&id=Zq7nwQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Zq7nwQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nSWuH6xCBzMC",
+      "etag": "djjQEjbla4A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nSWuH6xCBzMC",
+      "volumeInfo": {
+        "title": "College Level Examination Programme",
+        "subtitle": "Analysis and Interpretation of Literature",
+        "publisher": "Research & Education Assoc.",
+        "publishedDate": "1995-11",
+        "description": "REA ... Real review, Real practice, Real results. An easier path to a college degree - get college credits without the classes. CLEP ANALYZING & INTERPRETING LITERATURE Based on today\u2019s official CLEP exam Are you prepared to excel on the CLEP? * Take the first practice test to discover what you know and what you should know * Set up a flexible study schedule by following our easy timeline * Use REA's advice to ready yourself for proper study and success Study what you need to know to pass the exam * The book's on-target subject review features coverage of all topics on the official CLEP exam, including prose, poetry, drama, plot structure, and more * Smart and friendly lessons reinforce necessary skills * Key tutorials enhance specific abilities needed on the test * Targeted drills increase comprehension and help organize study Practice for real * Create the closest experience to test-day conditions with 3 full-length practice exams including 3 samples of the optional free-response section * Chart your progress with full and detailed explanations of all answers * Boost your confidence with test-taking strategies and experienced advice Specially Written for Solo Test Preparation! REA is the acknowledged leader in CLEP preparation, with the most extensive library of CLEP titles and software available. Most titles are also offered with REA's exclusive TESTware software to make your practice more effective and more like exam day. REA's CLEP Prep guides will help you get valuable credits, save on tuition, and advance your chosen career by earning a college degree.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0878918973"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780878918973"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 276,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nSWuH6xCBzMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nSWuH6xCBzMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nSWuH6xCBzMC&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=nSWuH6xCBzMC&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/College_Level_Examination_Programme.html?hl=&id=nSWuH6xCBzMC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/College_Level_Examination_Programme-sample-pdf.acsm?id=nSWuH6xCBzMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nSWuH6xCBzMC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "CLEP ANALYZING &amp; INTERPRETING LITERATURE Based on today\u2019s official CLEP exam Are you prepared to excel on the CLEP? * Take the first practice test to discover what you know and what you should know * Set up a flexible study schedule by ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7jiQDwAAQBAJ",
+      "etag": "591RwYLpm6k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7jiQDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Unwriting Maya Literature",
+        "subtitle": "Ts'\u00edib as Recorded Knowledge",
+        "authors": [
+          "Paul M. Worley",
+          "Rita M. Palacios"
+        ],
+        "publisher": "University of Arizona Press",
+        "publishedDate": "2019-05-07",
+        "description": "Unwriting Maya Literature provides an important decolonial framework for reading Maya texts that builds on the work of Maya authors and intellectuals such as Q\u2019anjob\u2019al Gaspar Pedro Gonz\u00e1lez and Kaqchikel Irma Otzoy. Paul M. Worley and Rita M. Palacios privilege the Maya category ts\u2019\u00edib over constructions of the literary in order to reveal how Maya peoples themselves conceive of artistic creation. This offers a decolonial departure from theoretical approaches that remain situated within alphabetic Maya linguistic and literary creation. As ts\u2019\u00edib refers to a broad range of artistic production from painted codices and textiles to works composed in Latin script, as well as plastic arts, the authors argue that texts by contemporary Maya writers must be read as dialoguing with a multimodal Indigenous understanding of text. In other words, ts\u2019\u00edib is an alternative to understanding \u201cwriting\u201d that does not stand in opposition to but rather fully encompasses alphabetic writing, placing it alongside and in dialogue with a number of other forms of recorded knowledge. This shift in focus allows for a critical reexamination of the role that weaving and bodily performance play in these literatures, as well as for a nuanced understanding of how Maya writers articulate decolonial Maya aesthetics in their works. Unwriting Maya Literature places contemporary Maya literatures within a context that is situated in Indigenous ways of knowing and being. Through ts\u2019\u00edib, the authors propose an alternative to traditional analysis of Maya cultural production that allows critics, students, and admirers to respectfully interact with the texts and their authors. Unwriting Maya Literature offers critical praxis for understanding Mesoamerican works that encompass non-Western ways of reading and creating texts.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780816534272"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0816534276"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 249,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7jiQDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7jiQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7jiQDwAAQBAJ&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=7jiQDwAAQBAJ&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Unwriting_Maya_Literature.html?hl=&id=7jiQDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Unwriting_Maya_Literature-sample-pdf.acsm?id=7jiQDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7jiQDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Unwriting Maya Literature provides an important decolonial framework for reading Maya texts that builds on the work of Maya authors and intellectuals such as Q\u2019anjob\u2019al Gaspar Pedro Gonz\u00e1lez and Kaqchikel Irma Otzoy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ehaZrlRY_YgC",
+      "etag": "zD55+YMX7gI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ehaZrlRY_YgC",
+      "volumeInfo": {
+        "title": "Reference Guide to Russian Literature",
+        "authors": [
+          "Neil Cornwell",
+          "Nicole Christian"
+        ],
+        "publisher": "Taylor & Francis",
+        "publishedDate": "1998",
+        "description": "\"First Published in 1998, Routledge is an imprint of Taylor & Francis, an informa company.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1884964109"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781884964107"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1020,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ehaZrlRY_YgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ehaZrlRY_YgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ehaZrlRY_YgC&pg=PR27&dq=literature&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ehaZrlRY_YgC&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reference_Guide_to_Russian_Literature.html?hl=&id=ehaZrlRY_YgC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Reference_Guide_to_Russian_Literature-sample-pdf.acsm?id=ehaZrlRY_YgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ehaZrlRY_YgC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Literature</b> , Companion to Russian Studies , vol . 2 , Cambridge and New York , Cambridge University Press , 1977 ... <b>Literature</b> , Ann Arbor , Ardis , 1980 . Brown , William Edward . A History of 18th Century Russian <b>Literature</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GlbzPAAACAAJ",
+      "etag": "zuS3Wr3oHbk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GlbzPAAACAAJ",
+      "volumeInfo": {
+        "title": "Text Book",
+        "subtitle": "Writing Through Literature",
+        "authors": [
+          "Robert Scholes",
+          "Nancy R. Comley",
+          "Gregory L. Ulmer"
+        ],
+        "publisher": "Bedford/St. Martin's",
+        "publishedDate": "2001-12-21",
+        "description": "Designed for literature-based writing courses, Text Book introduces students to the idea that literary texts and ordinary spoken and written language share many of the same features. By providing imaginative methods and unique assignments that let students work with those features in their writing, Text Book involves students in the processes of exploring literature creatively, not simply consuming and analyzing it, helping them understand literature \"from the inside out.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0312248792"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780312248796"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GlbzPAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GlbzPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GlbzPAAACAAJ&dq=literature&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=GlbzPAAACAAJ&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Text_Book.html?hl=&id=GlbzPAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GlbzPAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Designed for literature-based writing courses, Text Book introduces students to the idea that literary texts and ordinary spoken and written language share many of the same features."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Bdg7EAAAQBAJ",
+      "etag": "21q39hjQTLA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Bdg7EAAAQBAJ",
+      "volumeInfo": {
+        "title": "To Make Negro Literature",
+        "subtitle": "Writing, Literary Practice, and African American Authorship",
+        "authors": [
+          "Elizabeth McHenry"
+        ],
+        "publisher": "Duke University Press",
+        "publishedDate": "2021-08-09",
+        "description": "In To Make Negro Literature Elizabeth McHenry traces African American authorship in the decade following the 1896 legalization of segregation. She shifts critical focus from the published texts of acclaimed writers to unfamiliar practitioners whose works reflect the unsettledness of African American letters in this period. Analyzing literary projects that were unpublished, unsuccessful, or only partially achieved, McHenry recovers a hidden genealogy of Black literature as having emerged tentatively, laboriously, and unevenly. She locates this history in books sold by subscription, in lists and bibliographies of African American authors and books assembled at the turn of the century, in the act of ghostwriting, and in manuscripts submitted to publishers for consideration and the letters of introduction that accompanied them. By attending to these sites and prioritizing overlooked archives, McHenry reveals a radically different literary landscape, revising concepts of Black authorship and offering a fresh account of the development of \u201cNegro literature\u201d focused on the never published, the barely read, and the unconventional.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781478021810"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1478021810"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 204,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Bdg7EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Bdg7EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Bdg7EAAAQBAJ&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Bdg7EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Bdg7EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 28.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 15.63,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Bdg7EAAAQBAJ&rdid=book-Bdg7EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 28950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 15630000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/To_Make_Negro_Literature-sample-epub.acsm?id=Bdg7EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/To_Make_Negro_Literature-sample-pdf.acsm?id=Bdg7EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Bdg7EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "She locates this history in books sold by subscription, in lists and bibliographies of African American authors and books assembled at the turn of the century, in the act of ghostwriting, and in manuscripts submitted to publishers for ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ScdAEQAAQBAJ",
+      "etag": "YIDIWlsH1Ag",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ScdAEQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Catcher in the Rye",
+        "authors": [
+          "J. D. Salinger"
+        ],
+        "publisher": "\u0628\u0628\u0644\u0648\u0645\u0627\u0646\u064a\u0627 \u0644\u0644\u0646\u0634\u0631 \u0648\u0627\u0644\u062a\u0648\u0632\u064a\u0639",
+        "publishedDate": "2025-01-22",
+        "description": "The Catcher in the Rye,\" written by J.D. Salinger and published in 1951, is a classic American novel that explores the themes of adolescence, alienation, and identity through the eyes of its protagonist, Holden Caulfield. The novel is set in the 1950s and follows Holden, a 16-year-old who has just been expelled from his prep school, Pencey Prep. Disillusioned with the world around him, Holden decides to leave Pencey early and spend a few days alone in New York City before returning home. Over the course of these days, Holden interacts with various people, including old friends, a former teacher, and strangers, all the while grappling with his feelings of loneliness and dissatisfaction. Holden is deeply troubled by the \"phoniness\" of the adult world and is haunted by the death of his younger brother, Allie, which has left a lasting impact on him. He fantasizes about being \"the catcher in the rye,\" a guardian who saves children from losing their innocence by catching them before they fall off a cliff into adulthooda. The novel ends with Holden in a mental institution, where he is being treated for a nervous breakdown. He expresses some hope for the future, indicating a possible path to recovery..",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ScdAEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ScdAEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ScdAEQAAQBAJ&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ScdAEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ScdAEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 3,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ScdAEQAAQBAJ&rdid=book-ScdAEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 3000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Catcher_in_the_Rye-sample-pdf.acsm?id=ScdAEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ScdAEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel is set in the 1950s and follows Holden, a 16-year-old who has just been expelled from his prep school, Pencey Prep."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RwswBQAAQBAJ",
+      "etag": "156UWRbpipI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RwswBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Loving Literature",
+        "subtitle": "A Cultural History",
+        "authors": [
+          "Deidre Shauna Lynch"
+        ],
+        "publisher": "University of Chicago Press",
+        "publishedDate": "2014-12-22",
+        "description": "One of the most common\u2014and wounding\u2014misconceptions about literary scholars today is that they simply don\u2019t love books. While those actually working in literary studies can easily refute this claim, such a response risks obscuring a more fundamental question: why should they? That question led Deidre Shauna Lynch into the historical and cultural investigation of Loving Literature. How did it come to be that professional literary scholars are expected not just to study, but to love literature, and to inculcate that love in generations of students? What Lynch discovers is that books, and the attachments we form to them, have played a vital role in the formation of private life\u2014that the love of literature, in other words, is deeply embedded in the history of literature. Yet at the same time, our love is neither self-evident nor ahistorical: our views of books as objects of affection have clear roots in eighteenth- and nineteenth-century publishing, reading habits, and domestic history. While never denying the very real feelings that warm our relationship to books, Loving Literature nonetheless serves as a riposte to those who use the phrase \u201cthe love of literature\u201d as if its meaning were transparent. Lynch writes, \u201cIt is as if those on the side of love of literature had forgotten what literary texts themselves say about love\u2019s edginess and complexities.\u201d With this masterly volume, Lynch restores those edges and allows us to revel in those complexities.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780226183848"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "022618384X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 335,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RwswBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RwswBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RwswBQAAQBAJ&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RwswBQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RwswBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 29.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RwswBQAAQBAJ&rdid=book-RwswBQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 29990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 29990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Loving_Literature-sample-epub.acsm?id=RwswBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Loving_Literature-sample-pdf.acsm?id=RwswBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RwswBQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Lynch writes, \u201cIt is as if those on the side of love of literature had forgotten what literary texts themselves say about love\u2019s edginess and complexities.\u201d With this masterly volume, Lynch restores those edges and allows us to revel ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qXxGDQAAQBAJ",
+      "etag": "f4CNfqyk+pQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qXxGDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Literature Against Criticism",
+        "subtitle": "University English and Contemporary Fiction in Conflict",
+        "authors": [
+          "Martin Paul Eve"
+        ],
+        "publisher": "Open Book Publishers",
+        "publishedDate": "2016-10-17",
+        "description": "This is a book about the power game currently being played out between two symbiotic cultural institutions: the university and the novel. As the number of hyper-knowledgeable literary fans grows, students and researchers in English departments waver between dismissing and harnessing voices outside the academy. Meanwhile, the role that the university plays in contemporary literary fiction is becoming increasingly complex and metafictional, moving far beyond the \u2018campus novel\u2019 of the mid-twentieth century. Martin Paul Eve\u2019s engaging and far-reaching study explores the novel's contribution to the ongoing displacement of cultural authority away from university English. Spanning the works of Jennifer Egan, Ishmael Reed, Tom McCarthy, Sarah Waters, Percival Everett, Roberto Bola\u00f1o and many others, Literature Against Criticism forces us to re-think our previous notions about the relationship between those who write literary fiction and those who critique it.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781783742769"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1783742763"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 223,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qXxGDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qXxGDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qXxGDQAAQBAJ&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qXxGDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qXxGDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.74,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.74,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qXxGDQAAQBAJ&rdid=book-qXxGDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7740000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7740000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qXxGDQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is a book about the power game currently being played out between two symbiotic cultural institutions: the university and the novel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Jh69DwAAQBAJ",
+      "etag": "XrKS9dqJzeQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Jh69DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Dictator Literature",
+        "subtitle": "A History of Bad Books by Terrible People",
+        "authors": [
+          "Daniel Kalder"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2018-04-05",
+        "description": "A Book of the Year for The Times and the Sunday Times \u2018The writer is the engineer of the human soul,\u2019 claimed Stalin. Although one wonders how many found nourishment in Turkmenbashi\u2019s Book of the Soul (once required reading for driving tests in Turkmenistan), not to mention Stalin\u2019s own poetry. Certainly, to be considered great, a dictator must write, and write a lot. Mao had his Little Red Book, Mussolini and Saddam Hussein their romance novels, Kim Jong-il his treatise on the art of film, Hitler his hate-filled tracts. What do these texts reveal about their authors, the worst people imaginable? And how did they shape twentieth-century history? To find out, Daniel Kalder read them all \u2013 the badly written and the astonishingly badly written \u2013 so that you don\u2019t have to. This is the untold history of books so terrible they should have been crimes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781786070593"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1786070596"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 358,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Jh69DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Jh69DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Jh69DwAAQBAJ&dq=literature&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Jh69DwAAQBAJ&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dictator_Literature.html?hl=&id=Jh69DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Jh69DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "To find out, Daniel Kalder read them all \u2013 the badly written and the astonishingly badly written \u2013 so that you don\u2019t have to. This is the untold history of books so terrible they should have been crimes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "owFWa3p5h28C",
+      "etag": "fxq16mH+01s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/owFWa3p5h28C",
+      "volumeInfo": {
+        "title": "The Road",
+        "authors": [
+          "Cormac McCarthy"
+        ],
+        "publisher": "Vintage Books",
+        "publishedDate": "2007",
+        "description": "In a novel set in an indefinite, futuristic, post-apocalyptic world, a father and his young son make their way through the ruins of a devastated American landscape, struggling to survive and preserve the last remnants of their own humanity",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307386458"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307386457"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 297,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 8,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=owFWa3p5h28C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=owFWa3p5h28C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=owFWa3p5h28C&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=owFWa3p5h28C&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Road.html?hl=&id=owFWa3p5h28C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=owFWa3p5h28C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In a novel set in an indefinite, futuristic, post-apocalyptic world, a father and his young son make their way through the ruins of a devastated American landscape, struggling to survive and preserve the last remnants of their own humanity"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wQlDDAAAQBAJ",
+      "etag": "3UnYCpqujlE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wQlDDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Making Literature Now",
+        "authors": [
+          "Amy Hungerford"
+        ],
+        "publisher": "Stanford University Press",
+        "publishedDate": "2016-08-03",
+        "description": "How does new writing emerge and find readers today? Why does one writer's work become famous while another's remains invisible? Making Literature Now tells the stories of the creators, editors, readers, and critics who make their living by making literature itself come alive. The book shows how various conditions\u2014including gender, education, business dynamics, social networks, money, and the forces of literary tradition\u2014affect the things we can choose, or refuse, to read. Amy Hungerford focuses her discussion on literary bestsellers as well as little-known traditional and digital literature from smaller presses, such as McSweeney's. She deftly matches the particular human stories of the makers with the impersonal structures through which literary reputation is made. Ranging from fine-grained ethnography to polemical argument, this book transforms our sense of how and why new literature appears\u2014and disappears\u2014in contemporary American culture.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780804799423"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0804799423"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 225,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wQlDDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wQlDDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wQlDDAAAQBAJ&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wQlDDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wQlDDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 24,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.16,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=wQlDDAAAQBAJ&rdid=book-wQlDDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14160000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Making_Literature_Now-sample-epub.acsm?id=wQlDDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Making_Literature_Now-sample-pdf.acsm?id=wQlDDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wQlDDAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Why does one writer&#39;s work become famous while another&#39;s remains invisible? Making Literature Now tells the stories of the creators, editors, readers, and critics who make their living by making literature itself come alive."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5gtoAAAAMAAJ",
+      "etag": "zpI/McneFX0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5gtoAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Electronic Literature",
+        "subtitle": "New Horizons for the Literary",
+        "authors": [
+          "N. Katherine Hayles"
+        ],
+        "publisher": "University of Notre Dame Press",
+        "publishedDate": "2008",
+        "description": "A visible presence for some two decades, electronic literature has already produced many works that deserve the rigorous scrutiny critics have long practiced with print literature. Only now, however, with Electronic Literature by N. Katherine Hayles, do we have the first systematic survey of the field and an analysis of its importance, breadth, and wide-ranging implications for literary study. Hayles's book is designed to help electronic literature move into the classroom. Her systematic survey of the field addresses its major genres, the challenges it poses to traditional literary theory, and the complex and compelling issues at stake. She develops a theoretical framework for understanding how electronic literature both draws on the print tradition and requires new reading and interpretive strategies. Grounding her approach in the evolutionary dynamic between humans and technology, Hayles argues that neither the body nor the machine should be given absolute theoretical priority. Rather, she focuses on the interconnections between embodied writers and users and the intelligent machines that perform electronic texts. Through close readings of important works, Hayles demonstrates that a new mode of narration is emerging that differs significantly from previous models. Key to her argument is the observation that almost all contemporary literature has its genesis as electronic files, so that print becomes a specific mode for electronic text rather than an entirely different medium. Hayles illustrates the implications of this condition with three contemporary novels that bear the mark of the digital. Included with the book is a CD, The Electronic Literature Collection, Volume 1, containing sixty new and recent works of electronic literature with keyword index, authors' notes, and editorial headnotes. Representing multiple modalities of electronic writing--hypertext fiction, kinetic poetry, generative and combinatory forms, network writing, codework, 3D, narrative animations, installation pieces, and Flash poetry--the ELC 1 encompasses comparatively low-tech work alongside heavily coded pieces. Complementing the text and the CD-ROM is a website offering resources for teachers and students, including sample syllabi, original essays, author biographies, and useful links. Together, the three elements provide an exceptional pedagogical opportunity. \"In Electronic Literature, N. Katherine Hayles has delivered a wonderfully structured synthetic overview of writers, texts, critics, and publication venues for the field of electronic literature. In it, she has managed to articulate a non-canonical canon, a body of work and set of ideas that are flexible rather than fixed, inclusive rather than exclusive.\" --Rita Raley, University of California, Santa Barbara \"Kate Hayles has been there since the beginning. She helped formulate the field of digital literature. All readers will be charmed by her new book; high school and college literature and art teachers, in particular, will find this book (and the CD) immediately helpful to introducing students to creative writing in a new media mode.\" --Thom Swiss, University of Minnesota \"Kate Hayles stays with a text, whether electronic or otherwise, like almost no other reader or player, inhabiting each work with care and caring, transforming its material specificity to embodied sense and sensuality rather than a hollow category. In the course of defining a field she has set it abloom and in the process refreshed our imagination.\" --Michael Joyce, Vassar College \"No critic, save N. Katherine Hayles, has the wide grasp of literary criticism, new media history and technology, cyberculture and its philosophical implications, and the interplay between electronic and print imaginative writing. Now, in the five straightforward, readable chapters of Electronic Literature, she supplies the tools and builds the contexts necessary for everyone to grasp the importance of her topic and integrate it into her or his own knowledge base. Her book and CD package will be snapped up by scholars and students alike.\" --Dee Morris, University of Iowa",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0268030855"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780268030858"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5gtoAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5gtoAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=5gtoAAAAMAAJ&q=literature&dq=literature&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=5gtoAAAAMAAJ&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Electronic_Literature.html?hl=&id=5gtoAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5gtoAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Included with the book is a CD, The Electronic Literature Collection, Volume 1, containing sixty new and recent works of electronic literature with keyword index, authors&#39; notes, and editorial headnotes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7kErDwAAQBAJ",
+      "etag": "h1m7sdXfjho",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7kErDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Literature for Young Adults",
+        "subtitle": "Books (and More) for Contemporary Readers",
+        "authors": [
+          "Joan L. Knickerbocker"
+        ],
+        "publisher": "Taylor & Francis",
+        "publishedDate": "2017-03-15",
+        "description": "Young adults are actively looking for anything that connects them with the changes happening in their lives, and the books discussed throughout Literature for Young Adults have the potential to make that connection and motivate them to read. It explores a great variety of works, genres, and formats, but it places special emphasis on contemporary works whose nontraditional themes, protagonists, and literary conventions make them well suited to young adult readers. It also looks at the ways in which contemporary readers access and share the works they're reading, and it shows teachers ways to incorporate nontraditional ways of accessing and sharing books throughout their literature programs. In addition to traditional genre chapters, Literature for Young Adults includes chapters on literary nonfiction; poetry, short stories, and drama; cover art, picture books, illustrated literature, and graphic novels; and film. It recognizes that, while films can be used to complement print literature, they are also a literacy format in their own right-and one that young adults are particularly familiar and comfortable with. The book's discussion of literary language--including traditional elements as well as metafictive terms--enables readers to share in a literary conversation with their students (and others) when communicating about books. It will help readers teach young adults the language they need to articulate their responses to the books they are reading.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781351813037"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "135181303X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 457,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7kErDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7kErDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7kErDwAAQBAJ&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=7kErDwAAQBAJ&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Literature_for_Young_Adults.html?hl=&id=7kErDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Literature_for_Young_Adults-sample-pdf.acsm?id=7kErDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7kErDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Young adults are actively looking for anything that connects them with the changes happening in their lives, and the books discussed throughout Literature for Young Adults have the potential to make that connection and motivate them to read ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rEM5AAAACAAJ",
+      "etag": "8PN4sPUwBso",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rEM5AAAACAAJ",
+      "volumeInfo": {
+        "title": "Purple Student Activity Book",
+        "subtitle": "Learning Language Arts Through Literature",
+        "authors": [
+          "Debbie Strayer",
+          "Susan Simpson"
+        ],
+        "publisher": "Common Sense Press (Melrose, FL)",
+        "publishedDate": "1998-10-01",
+        "description": "Children learn reading, grammar, vocabulary, spelling, writing, research, study skills, and more.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1880892200"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781880892206"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+          "Education, Elementary"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rEM5AAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rEM5AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=rEM5AAAACAAJ&dq=literature&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=rEM5AAAACAAJ&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Purple_Student_Activity_Book.html?hl=&id=rEM5AAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rEM5AAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Children learn reading, grammar, vocabulary, spelling, writing, research, study skills, and more."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-Fo1EAAAQBAJ",
+      "etag": "ldivqKU5wpY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-Fo1EAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Candy House",
+        "subtitle": "A Novel",
+        "authors": [
+          "Jennifer Egan"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2022-04-05",
+        "description": "A NEW YORK TIMES BESTSELLER ONE of the TOP 10 BOOKS OF THE YEAR by THE NEW YORK TIMES * ENTERTAINMENT WEEKLY * SLATE* THE PHILADELPHIA INQUIRER * Also named one of the BEST BOOKS OF THE YEAR by Vanity Fair, Time, NPR, The Guardian, Oprah Daily, Self, Vogue, The New Yorker, BBC, Vulture, and many more! OLIVIA WILDE to direct A24's TV adaptation of THE CANDY HOUSE and A VISIT FROM THE GOON SQUAD! From one of the most celebrated writers of our time comes an \u201cinventive, effervescent\u201d (Oprah Daily) novel about the memory and quest for authenticity and human connection. The Candy House opens with the staggeringly brilliant Bix Bouton, whose company, Mandala, is so successful that he is \u201cone of those tech demi-gods with whom we\u2019re all on a first name basis.\u201d Bix is forty, with four kids, restless, and desperate for a new idea, when he stumbles into a conversation group, mostly Columbia professors, one of whom is experimenting with downloading or \u201cexternalizing\u201d memory. Within a decade, Bix\u2019s new technology, \u201cOwn Your Unconscious\u201d\u2014which allows you access to every memory you\u2019ve ever had, and to share your memories in exchange for access to the memories of others\u2014has seduced multitudes. In the world of Egan\u2019s spectacular imagination, there are \u201ccounters\u201d who track and exploit desires and there are \u201celuders,\u201d those who understand the price of taking a bite of the Candy House. Egan introduces these characters in an astonishing array of narrative styles\u2014from omniscient to first person plural to a duet of voices, an epistolary chapter, and a chapter of tweets. Intellectually dazzling, The Candy House is also a moving testament to the tenacity and transcendence of human longing for connection, family, privacy, and love. \u201cA beautiful exploration of loss, memory, and history\u201d (San Francisco Chronicle), \u201cthis is minimalist maximalism. It\u2019s as if Egan compressed a big 19th-century novel onto a flash drive\u201d (The New York Times).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781476716787"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1476716781"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.8.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-Fo1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-Fo1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-Fo1EAAAQBAJ&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-Fo1EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-Fo1EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-Fo1EAAAQBAJ&rdid=book--Fo1EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Candy_House-sample-epub.acsm?id=-Fo1EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-Fo1EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A NEW YORK TIMES BESTSELLER ONE of the TOP 10 BOOKS OF THE YEAR by THE NEW YORK TIMES * ENTERTAINMENT WEEKLY * SLATE* THE PHILADELPHIA INQUIRER * Also named one of the BEST BOOKS OF THE YEAR by Vanity Fair, Time, NPR, The Guardian, Oprah ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PjkEbaA5KncC",
+      "etag": "RXhKvMFhhiY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PjkEbaA5KncC",
+      "volumeInfo": {
+        "title": "Bourdieu and Literature",
+        "authors": [
+          "John R. W. Speller"
+        ],
+        "publisher": "Open Book Publishers",
+        "publishedDate": "2011",
+        "description": "Bourdieu and Literature is a wide-ranging, rigorous and accessible introduction to the relationship between Pierre Bourdieu's work and literary studies. It provides a comprehensive overview and critical assessment of his contributions to literary theory and his thinking about authors and literary works. One of the foremost French intellectuals of the post-war era, Bourdieu has become a standard point of reference in the fields of anthropology, linguistics, art history, cultural studies, politics, and sociology, but his longstanding interest in literature has often been overlooked. This study explores the impact of literature on Bourdieu's intellectual itinerary, and how his literary understanding intersected with his sociological theory and thinking about cultural policy. This is the first full-length study of Bourdieu's work on literature in English, and it provides an invaluable resource for students and scholars of literary studies, cultural theory and sociology.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781906924423"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1906924422"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PjkEbaA5KncC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PjkEbaA5KncC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PjkEbaA5KncC&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=21&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PjkEbaA5KncC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PjkEbaA5KncC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.95,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=PjkEbaA5KncC&rdid=book-PjkEbaA5KncC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9950000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PjkEbaA5KncC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the first full-length study of Bourdieu&#39;s work on literature in English, and it provides an invaluable resource for students and scholars of literary studies, cultural theory and sociology."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VEmPYvH5XVEC",
+      "etag": "IXD9HMYMv0k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VEmPYvH5XVEC",
+      "volumeInfo": {
+        "title": "Writing about Literature",
+        "authors": [
+          "Edgar V. Roberts"
+        ],
+        "publishedDate": "1995",
+        "description": "\"Writing about Literature \"serves as a hands-on guide for writing about literature, thus justifying the integration of literature and composition. The reading of literature encourages students to think, and the use of literary topics gives instructors a viable way to combine writing and literary study.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0130975850"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780130975850"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 388,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VEmPYvH5XVEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VEmPYvH5XVEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VEmPYvH5XVEC&q=literature&dq=literature&hl=&as_pt=BOOKS&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=VEmPYvH5XVEC&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Writing_about_Literature.html?hl=&id=VEmPYvH5XVEC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VEmPYvH5XVEC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Principles are illustrated by references to the twenty-nine stories, poems, and plays included throughout the book and in a special appendix."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "haFFCgAAQBAJ",
+      "etag": "gPkU8asWN9w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/haFFCgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Sherlock Holmes Book",
+        "subtitle": "Big Ideas Simply Explained",
+        "authors": [
+          "DK"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2015-10-20",
+        "description": "The Sherlock Holmes Book, the latest in DK's award-winning Big Ideas Simply Explained series, tackles the most \"elementary\" of subjects--the world of Sherlock Holmes, as told by Sir Arthur Conan Doyle. The Sherlock Holmes Book is packed with witty illustrations, clear graphics, and memorable quotes that make it the perfect Sherlock Holmes guide, covering every case of the world's greatest detective, from A Study in Scarlet to The Adventure of Shoscombe Old Place, placing the sorties in a wider context. Stories include at-a-glance flowcharts that show how Holmes reaches his conclusions through deductive reasoning, and character guides provide handy reference for readers and an invaluable resource for fans of the Sherlock Holmes films and TV series. The Sherlock Holmes Book holds a magnifying glass to the world of Sir Arthur Conan Doyle's legendary detective.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781465449979"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1465449973"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1100,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=haFFCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=haFFCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=haFFCgAAQBAJ&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=haFFCgAAQBAJ&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sherlock_Holmes_Book.html?hl=&id=haFFCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Sherlock_Holmes_Book-sample-epub.acsm?id=haFFCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Sherlock_Holmes_Book-sample-pdf.acsm?id=haFFCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=haFFCgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Sherlock Holmes Book, the latest in DK&#39;s award-winning Big Ideas Simply Explained series, tackles the most &quot;elementary&quot; of subjects--the world of Sherlock Holmes, as told by Sir Arthur Conan Doyle."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "65GizgEACAAJ",
+      "etag": "gkDWUhFPPRc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/65GizgEACAAJ",
+      "volumeInfo": {
+        "title": "World Literature I",
+        "subtitle": "Beginnings to 1650",
+        "authors": [
+          "Laura Getty",
+          "Kyounghye Kwon",
+          "Rhonda Kelley"
+        ],
+        "publisher": "University of North Georgia Press",
+        "publishedDate": "2015-12-31",
+        "description": "This peer-reviewed World Literature I anthology includes introductory text and images before each series of readings. Sections of the text are divided by time period in three parts: the Ancient World, Middle Ages and Renaissance, and then divided into chapters by location. World Literature I and the Compact Anthology of World Literature are similar in format and both intended for World Literature I courses, but these two texts are developed around different curricula.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1940771323"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781940771328"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1576,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=65GizgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=65GizgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=65GizgEACAAJ&dq=literature&hl=&as_pt=BOOKS&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=65GizgEACAAJ&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/World_Literature_I.html?hl=&id=65GizgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=65GizgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "World Literature I and the Compact Anthology of World Literature are similar in format and both intended for World Literature I courses, but these two texts are developed around different curricula."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "puoGAAAACAAJ",
+      "etag": "IUYvDBax9tQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/puoGAAAACAAJ",
+      "volumeInfo": {
+        "title": "A Celebration of Literature and Response",
+        "subtitle": "Children, Books, and Teachers in K-8 Classrooms",
+        "authors": [
+          "Marjorie R. Hancock"
+        ],
+        "publisher": "Prentice Hall",
+        "publishedDate": "2000",
+        "description": "For undergraduate and graduate courses in children's literature. This text is unique, in that it blends an appreciation for children's books across genres while acquiring meaningful literature-based, response-centered strategies to include in literacy programs. Effectively balancing the importance of both the literature and the reader from an educational perspective, the book is organized around five main \"celebrations\" as a framework for building a bridge between reader response theory, quality children's literature, and exemplary literature-based practice.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0137402910"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780137402915"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Children"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=puoGAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=puoGAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=puoGAAAACAAJ&dq=literature&hl=&as_pt=BOOKS&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=puoGAAAACAAJ&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Celebration_of_Literature_and_Response.html?hl=&id=puoGAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=puoGAAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This text is unique, in that it blends an appreciation for children&#39;s books across genres while acquiring meaningful literature-based, response-centered strategies to include in literacy programs."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mUDyEiVqxpsC",
+      "etag": "CvEgnztSbE8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mUDyEiVqxpsC",
+      "volumeInfo": {
+        "title": "ABC of Reading",
+        "authors": [
+          "Ezra Pound"
+        ],
+        "publisher": "New Directions Publishing",
+        "publishedDate": "1960",
+        "description": "Ezra Pound's classic book about the meaning of literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0811201511"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780811201513"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.10.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mUDyEiVqxpsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mUDyEiVqxpsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=mUDyEiVqxpsC&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=mUDyEiVqxpsC&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/ABC_of_Reading.html?hl=&id=mUDyEiVqxpsC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mUDyEiVqxpsC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The entire book re-emphasizes the fact that one of Pound&#39;s major contributions to modern culture was his great ability to discover neglected and unknown genius, distinguishes originals from imitations, and opening new avenues in literature ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uJWPEAAAQBAJ",
+      "etag": "vqsAG0PpJIg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uJWPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Shakespeare Book",
+        "subtitle": "Big Ideas Simply Explained",
+        "authors": [
+          "DK"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2019-02-12",
+        "description": "Learn the entire works of one of the greatest writers of the English language in The Shakespeare Book. Part of the fascinating Big Ideas series, this book tackles tricky topics and themes in a simple and easy to follow format. Learn about the works of William Shakespeare in this overview guide, great for beginners looking to learn and experts wishing to refresh their knowledge alike! The Shakespeare Book brings a fresh and vibrant take on the topic through eye-catching graphics and diagrams to immerse yourself in. This captivating book will broaden your understanding of Shakespeare, with: - Every play and poem from Shakespeare\u2019s canon, including lost plays and less well-known works of poetry - Packed with facts, charts, timelines and graphs to help explain core concepts - A visual approach to big subjects with striking illustrations and graphics throughout - Easy to follow text makes topics accessible for people at any level of understanding The Shakespeare Book is the perfect introduction to the entire canon of Shakespeare\u2019s plays, sonnets, and other poetry, aimed at adults with an interest in the subject and students wanting to gain more of an overview. Here you\u2019ll discover the complete works, from The Comedy of Errors, to the great tragedies of Hamlet, Othello, King Lear, and Macbeth. Your Shakespeare Questions, Simply Explained This is a brilliant, innovative exploration of the entire canon of Shakespeare plays, sonnets, and other poetry with detailed plot summaries and a full analysis of the major characters and themes. If you thought it was difficult to learn about the works of one of the greatest writers in the English language, The Shakespeare Book presents key information in a simple layout. Every work is covered, from the comedies of Twelfth Night and As You Like It to the tragedies of Julius Caesar and Hamlet, with easy-to-understand graphics and illustrations bringing the themes, plots, characters, and language of Shakespeare to life. The Big Ideas Series With millions of copies sold worldwide, The Shakespeare Book is part of the award-winning Big Ideas series from DK. The series uses striking graphics along with engaging writing, making big topics easy to understand.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781465481245"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1465481249"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uJWPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uJWPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=uJWPEAAAQBAJ&dq=literature&hl=&as_pt=BOOKS&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=uJWPEAAAQBAJ&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Shakespeare_Book.html?hl=&id=uJWPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uJWPEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Learn the entire works of one of the greatest writers of the English language in The Shakespeare Book. Part of the fascinating Big Ideas series, this book tackles tricky topics and themes in a simple and easy to follow format."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "apNFDwAAQBAJ",
+      "etag": "l6Ej9PZp/fg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/apNFDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Hatred of Literature",
+        "authors": [
+          "William Marx"
+        ],
+        "publisher": "Harvard University Press",
+        "publishedDate": "2018-01-08",
+        "description": "For the last 2,500 years literature has been attacked, booed, and condemned, often for the wrong reasons and occasionally for very good ones. The Hatred of Literature examines the evolving idea of literature as seen through the eyes of its adversaries: philosophers, theologians, scientists, pedagogues, and even leaders of modern liberal democracies. From Plato to C. P. Snow to Nicolas Sarkozy, literature\u2019s haters have questioned the value of literature\u2014its truthfulness, virtue, and usefulness\u2014and have attempted to demonstrate its harmfulness. Literature does not start with Homer or Gilgamesh, William Marx says, but with Plato driving the poets out of the city, like God casting Adam and Eve out of Paradise. That is its genesis. From Plato the poets learned for the first time that they served not truth but merely the Muses. It is no mere coincidence that the love of wisdom (philosophia) coincided with the hatred of poetry. Literature was born of scandal, and scandal has defined it ever since. In the long rhetorical war against literature, Marx identifies four indictments\u2014in the name of authority, truth, morality, and society. This typology allows him to move in an associative way through the centuries. In describing the misplaced ambitions, corruptible powers, and abysmal failures of literature, anti-literary discourses make explicit what a given society came to expect from literature. In this way, anti-literature paradoxically asserts the validity of what it wishes to deny. The only threat to literature\u2019s continued existence, Marx writes, is not hatred but indifference.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780674983069"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0674983068"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 241,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=apNFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=apNFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=apNFDwAAQBAJ&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=28&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=apNFDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=apNFDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 42,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 31.08,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=apNFDwAAQBAJ&rdid=book-apNFDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 42000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 31080000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Hatred_of_Literature-sample-epub.acsm?id=apNFDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Hatred_of_Literature-sample-pdf.acsm?id=apNFDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=apNFDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Hatred of Literature examines the evolving idea of literature as seen through the eyes of its adversaries: philosophers, theologians, scientists, pedagogues, and even leaders of modern liberal democracies."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "drVpCwAAQBAJ",
+      "etag": "H6NsnkU7JNI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/drVpCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Classical Literature",
+        "subtitle": "An Epic Journey from Homer to Virgil and Beyond",
+        "authors": [
+          "Richard Jenkyns"
+        ],
+        "publisher": "Basic Books",
+        "publishedDate": "2016-03-01",
+        "description": "The writings of the Greeks and Romans form the bedrock of Western culture. Inventing the molds for histories, tragedies, and philosophies, while pioneering radical new forms of epic and poetry, the Greeks and Romans created the literary world we still inhabit today. Writing with verve and insight, distinguished classicist Richard Jenkyns explores a thousand years of classical civilization, carrying readers from the depths of the Greek dark ages through the glittering heights of Rome's empire. Jenkyns begins with Homer and the birth of epic poetry before exploring the hypnotic poetry of Pindar, Sappho, and others from the Greek dark ages. Later, in Athens's classical age, Jenkyns shows the radical nature of Sophocles's choice to portray Ajax as a psychologically wounded warrior, how Aeschylus developed tragedy, and how Herodotus, in \"inventing history,\" brought to narrative an epic and tragic quality. We meet the strikingly modern figure of Virgil, struggling to mirror epic art in an age of empire, and experience the love poems of Catullus, who imbued verse with obsessive passion as never before. Even St. Paul and other early Christian writers are artfully grounded here in their classical literary context. A dynamic and comprehensive introduction to Greek and Roman literature, Jenkyns's Classical Literature is essential reading for anyone seeking a deeper understanding of the classics -- and the extraordinary origins of Western culture. \"There is scarcely anything on which he does not offer an original aper\u00e7 sometimes illuminating, sometimes simply provocative, but always worth reading... Jenkyns's view of ancient literature is Olympian.\" -- G.W. Bowersock, The New York Review of Books",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780465097982"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0465097987"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 285,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.11.10.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=drVpCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=drVpCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=drVpCwAAQBAJ&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=29&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=drVpCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=drVpCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 17.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=drVpCwAAQBAJ&rdid=book-drVpCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 17990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Classical_Literature-sample-epub.acsm?id=drVpCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=drVpCwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jenkyns&#39;s view of ancient literature is Olympian.&quot; -- G.W. Bowersock, The New York Review of Books"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v8yOEAAAQBAJ",
+      "etag": "VAmoXaPQmKU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v8yOEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Remarkable Diaries",
+        "subtitle": "The World's Greatest Diaries, Journals, Notebooks, & Letters",
+        "authors": [
+          "DK"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2020-09-08",
+        "description": "Travel back in time and witness both everyday life and great moments in history in this fascinating compilation of diaries through the ages. Bringing together historical and literary diaries, artists' sketchbooks, explorers' journals, and scientists' notebooks, Remarkable Diaries provides an intimate insight into the lives and thoughts of some of the most interesting people of the last two thousand years. Discover what it was like to build a pyramid, sail the seas with Magellan, travel into the heart of Africa, or serve on the Western Front. Find out how writers and artists planned their masterpieces, and how scientists developed their groundbreaking theories. Arranged chronologically, Remarkable Diaries takes you into the pages of the world's greatest diaries, notebooks, and letters, including those of Samuel Pepys, Henry-David Thoreau, the Goncourt brothers, Virginia Woolf, and Anne Frank. Stunning reproductions of the original notebooks and manuscripts are complemented by extracts and quotations, and illustrated features set the diaries in their cultural and historical context. Essential reading for everyone who is passionate about history and literature, Remarkable Diaries provides a fascinating insight into the everyday lives, thoughts, and feelings of men and women through the centuries.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780744020434"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0744020433"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v8yOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v8yOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=v8yOEAAAQBAJ&dq=literature&hl=&as_pt=BOOKS&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=v8yOEAAAQBAJ&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Remarkable_Diaries.html?hl=&id=v8yOEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v8yOEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Travel back in time and witness both everyday life and great moments in history in this fascinating compilation of diaries through the ages."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ldguEAAAQBAJ",
+      "etag": "0D9vdr/n0XQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ldguEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Literature in Motion",
+        "subtitle": "Translating Multilingualism Across the Americas",
+        "authors": [
+          "Ellen Jones"
+        ],
+        "publisher": "Columbia University Press",
+        "publishedDate": "2022-01-18",
+        "description": "Literature is often assumed to be monolingual: publishing rights are sold on the basis of linguistic territories and translated books are assumed to move from one \u201coriginal\u201d language to another. Yet a wide range of contemporary literary works mix and meld two or more languages, incorporating translation into their composition. How are these multilingual works translated, and what are the cultural and political implications of doing so? In Literature in Motion, Ellen Jones offers a new framework for understanding literary multilingualism, emphasizing how authors and translators can use its defamiliarizing and disruptive potential to resist conventions of form and dominant narratives about language and gender. Examining the connection between translation and multilingualism in contemporary literature, she considers its significance for the theory, practice, and publishing of literature in translation. Jones argues that translation does not conflict with multilingual writing\u2019s subversive potential. Instead, we can understand multilingualism and translation as closely intertwined creative strategies through which other forms of textual and conceptual hybridity, fluidity, and disruption are explored. Jones addresses both well-known and understudied writers from across the American hemisphere who explore the spaces between languages as well as genders, genres, and textual versions, reading their work alongside their translations. She focuses on U.S. Latinx authors Susana Ch\u00e1vez-Silverman, Junot D\u00edaz, and Giannina Braschi, who write in different forms of \u201cSpanglish,\u201d as well as the Brazilian writer Wilson Bueno, who combines Portuguese and Spanish, or \u201cPortunhol,\u201d with the indigenous language Guarani, and whose writing is rendered into \u201cFrenglish\u201d by Canadian translator Er\u00edn Moure.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780231554831"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0231554834"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ldguEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ldguEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ldguEAAAQBAJ&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=31&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ldguEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ldguEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 34.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 19.24,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ldguEAAAQBAJ&rdid=book-ldguEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 34990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 19240000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Literature_in_Motion-sample-epub.acsm?id=ldguEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Literature_in_Motion-sample-pdf.acsm?id=ldguEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ldguEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How are these multilingual works translated, and what are the cultural and political implications of doing so?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uCEzDwAAQBAJ",
+      "etag": "qEB1E+yt3es",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uCEzDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Why Reading Books Still Matters",
+        "subtitle": "The Power of Literature in Digital Times",
+        "authors": [
+          "Martha C. Pennington",
+          "Robert P. Waxler"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2017-08-29",
+        "description": "Bringing together strands of public discourse about valuing personal achievement at the expense of social values and the impacts of global capitalism, mass media, and digital culture on the lives of children, this book challenges the potential of science and business to solve the world\u2019s problems without a complementary emphasis on social values. The selection of literary works discussed illustrates the power of literature and human arts to instill such values and foster change. The book offers a valuable foundation for the field of literacy education by providing knowledge about the importance of language and literature that educators can use in their own teaching and advocacy work.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781351809061"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1351809067"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 299,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uCEzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uCEzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=uCEzDwAAQBAJ&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=32&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uCEzDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uCEzDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 59.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 47.39,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=uCEzDwAAQBAJ&rdid=book-uCEzDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 59990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 47390000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Why_Reading_Books_Still_Matters-sample-epub.acsm?id=uCEzDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Why_Reading_Books_Still_Matters-sample-pdf.acsm?id=uCEzDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uCEzDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Bringing together strands of public discourse about valuing personal achievement at the expense of social values and the impacts of global capitalism, mass media, and digital culture on the lives of children, this book challenges the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3vcOEAAAQBAJ",
+      "etag": "tFGjCr1LPR8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3vcOEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Magical Realism and Literature",
+        "authors": [
+          "Christopher Warnes",
+          "Kim Anderson Sasser"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2020-11-12",
+        "description": "Magical realism can lay claim to being one of most recognizable genres of prose writing. It mingles the probable and improbable, the real and the fantastic, and it provided the late-twentieth century novel with an infusion of creative energy in Latin America, Africa, Asia, and beyond. Writers such as Alejo Carpentier, Gabriel Garc\u00eda M\u00e1rquez, Isabel Allende, Salman Rushdie, Ben Okri, and many others harnessed the resources of narrative realism to the representation of folklore, belief, and fantasy. This book sheds new light on magical realism, exploring in detail its global origins and development. It offers new perspectives of the history of the ideas behind this literary tradition, including magic, realism, otherness, primitivism, ethnography, indigeneity, and space and time.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781108621755"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1108621759"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 736,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3vcOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3vcOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=3vcOEAAAQBAJ&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=33&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3vcOEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3vcOEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 133,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 133,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3vcOEAAAQBAJ&rdid=book-3vcOEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 133000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 133000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Magical_Realism_and_Literature-sample-epub.acsm?id=3vcOEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Magical_Realism_and_Literature-sample-pdf.acsm?id=3vcOEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3vcOEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book sheds new light on magical realism, exploring in detail its global origins and development."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X_WADwAAQBAJ",
+      "etag": "oYkUhy4bB6U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X_WADwAAQBAJ",
+      "volumeInfo": {
+        "title": "Electronic Literature",
+        "authors": [
+          "Scott Rettberg"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2018-12-14",
+        "description": "Electronic Literature considers new forms and genres of writing that exploit the capabilities of computers and networks \u2013 literature that would not be possible without the contemporary digital context. In this book, Rettberg places the most significant genres of electronic literature in historical, technological, and cultural contexts. These include combinatory poetics, hypertext fiction, interactive fiction (and other game-based digital literary work), kinetic and interactive poetry, and networked writing based on our collective experience of the Internet. He argues that electronic literature demands to be read both through the lens of experimental literary practices dating back to the early twentieth century and through the specificities of the technology and software used to produce the work. Considering electronic literature as a subject in totality, this book provides a vital introduction to a dynamic field that both reacts to avant-garde literary and art traditions and generates new forms of narrative and poetic work particular to the twenty-first century. It is essential reading for students and researchers in disciplines including literary studies, media and communications, art, and creative writing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781509516810"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1509516816"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 234,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X_WADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X_WADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=X_WADwAAQBAJ&printsec=frontcover&dq=literature&hl=&as_pt=BOOKS&cd=34&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=X_WADwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=X_WADwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 22,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 22,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=X_WADwAAQBAJ&rdid=book-X_WADwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 22000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 22000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Electronic_Literature-sample-epub.acsm?id=X_WADwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Electronic_Literature-sample-pdf.acsm?id=X_WADwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X_WADwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this book, Rettberg places the most significant genres of electronic literature in historical, technological, and cultural contexts."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2-TEngEACAAJ",
+      "etag": "yxJIQuZOqr4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2-TEngEACAAJ",
+      "volumeInfo": {
+        "title": "Accelerated Piano Adventures for the Older Beginner Sightreading, Book 1",
+        "authors": [
+          "Nancy Faber",
+          "Randall Faber"
+        ],
+        "publisher": "Hal Leonard Publishing Corporation",
+        "publishedDate": "2014-02",
+        "description": "Sight reading course developed specifically for the needs of the older beginner; features five variations of each piece studied in Accelerated piano adventures, Lesson book 1.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1616776595"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781616776596"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Music"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2-TEngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2-TEngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2-TEngEACAAJ&dq=literature&hl=&as_pt=BOOKS&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2-TEngEACAAJ&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Accelerated_Piano_Adventures_for_the_Old.html?hl=&id=2-TEngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2-TEngEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sight reading course developed specifically for the needs of the older beginner; features five variations of each piece studied in Accelerated piano adventures, Lesson book 1."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1bCMEAAAQBAJ",
+      "etag": "PnPovW1MDng",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1bCMEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Penguin Book of Migration Literature",
+        "subtitle": "Departures, Arrivals, Generations, Returns",
+        "authors": [
+          "Dohra Ahmad"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2019-09-17",
+        "description": "[Ahmad's] \"introduction is fiery and charismatic... This book encompasses the diversity of experience, with beautiful variations and stories that bicker back and forth.\" --Parul Sehgal, The New York Times The first global anthology of migration literature featuring works by Mohsin Hamid, Zadie Smith, Marjane Satrapi, Salman Rushdie, and Warsan Shire, with a foreword by Edwidge Danticat, author of Everything Inside A Penguin Classic Every year, three to four million people move to a new country. From war refugees to corporate expats, migrants constantly reshape their places of origin and arrival. This selection of works collected together for the first time brings together the most compelling literary depictions of migration. Organized in four parts (Departures, Arrivals, Generations, and Returns), The Penguin Book of Migration Literature conveys the intricacy of worldwide migration patterns, the diversity of immigrant experiences, and the commonalities among many of those diverse experiences. Ranging widely across the eighteenth through twenty-first centuries, across every continent of the earth, and across multiple literary genres, the anthology gives readers an understanding of our rapidly changing world, through the eyes of those at the center of that change. With thirty carefully selected poems, short stories, and excerpts spanning three hundred years and twenty-five countries, the collection brings together luminaries, emerging writers, and others who have earned a wide following in their home countries but have been less recognized in the Anglophone world. Editor of the volume Dohra Ahmad provides a contextual introduction, notes, and suggestions for further exploration.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780143133384"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0143133381"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1bCMEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1bCMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=1bCMEAAAQBAJ&dq=literature&hl=&as_pt=BOOKS&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=1bCMEAAAQBAJ&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Penguin_Book_of_Migration_Literature.html?hl=&id=1bCMEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1bCMEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "[Ahmad&#39;s] &quot;introduction is fiery and charismatic... This book encompasses the diversity of experience, with beautiful variations and stories that bicker back and forth."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2wUIAQAAMAAJ",
+      "etag": "yTcjMt4lndQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2wUIAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Film and Literature",
+        "subtitle": "An Introduction and Reader",
+        "authors": [
+          "Timothy Corrigan"
+        ],
+        "publishedDate": "1999",
+        "description": "This book is a wide-ranging introduction to the long history and provocative debates about the interactions between film and literature.KEY TOPICS: Film and Literature: A Reader presents essays from a variety of cultures that address the major issues in the exchange between film and literature since the beginning of the twentieth century. The book provides landmark discussions of different genres and practices (such as poetry and movies or film scripts as literature) through writings by such figures as Vachel Lindsay, Walter Benjamin, and Alexander Astruc. It presents a concise, but detailed history of film and literature and the critical terms and techniques used in film and literary analysis as well as a detailed history of the bond between film and literature, from theatrical narratives of the silent film era to recent blockbuster adaptations of Shakespeare and Jane Austen. It also features introductions to each essay and suggests how the essays may be used to analyze works involving film and literature. An essential resource for every reader interested in film.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000063900793"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 392,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2wUIAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2wUIAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2wUIAQAAMAAJ&q=literature&dq=literature&hl=&as_pt=BOOKS&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2wUIAQAAMAAJ&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Film_and_Literature.html?hl=&id=2wUIAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2wUIAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is a wide-ranging introduction to the long history and provocative debates about the interactions between film and literature.KEY TOPICS: Film and Literature: A Reader presents essays from a variety of cultures that address the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nN_gEAAAQBAJ",
+      "etag": "cTQcIeIL0Sc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nN_gEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Happy Hair",
+        "authors": [
+          "Mechal Renee Roe"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2022-02-03",
+        "description": "This gift book for girls showcases all kinds of beautiful Black hairstyles \u2013 from braids to pom-pom puffs. With simple affirmational text and wonderfully cute illustration from acclaimed creator Mechal Renee Roe, this is a great first reading title to promote positivity for girls everywhere.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781783128983"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1783128984"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nN_gEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nN_gEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nN_gEAAAQBAJ&dq=literature&hl=&as_pt=BOOKS&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=nN_gEAAAQBAJ&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Happy_Hair.html?hl=&id=nN_gEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nN_gEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This gift book for girls showcases all kinds of beautiful Black hairstyles \u2013 from braids to pom-pom puffs."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nvVQDQEACAAJ",
+      "etag": "D6oF+c9Vw9E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nvVQDQEACAAJ",
+      "volumeInfo": {
+        "title": "Women and Men",
+        "authors": [
+          "Joseph McElroy"
+        ],
+        "publishedDate": "2023-01-17",
+        "description": "Beginning in childbirth and entered like a multiple dwelling in motion, Women and Men embraces and anatomizes the 1970s in New York - from experiments in the chaotic relations between the sexes to the flux of the city itself. Yet through an intricate overlay of scenes, voices, fact, and myth, this expanding fiction finds its way also across continents and into earlier and future times and indeed the Earth, to reveal connections between the most disparate lives and systems of feeling and power. At its breathing heart, it plots the fuguelike and fieldlike densities of late-twentieth-century life. McElroy rests a global vision on two people, apartment-house neighbors who never quite meet. Except, that is, in the population of others whose histories cross theirs believers and skeptics; lovers, friends, and hermits; children, parents, grandparents, avatars, and, apparently, angels. For Women and Men shows how the families through which we pass let one person's experience belong to that of many, so that we throw light on each other as if these kinships were refracted lives so real as to be reincarnate. A mirror of manners, the book is also a meditation on the languages, rich, ludicrous, exact, and also American, in which we try to grasp the world we're in. Along the kindred axes of separation and intimacy Women and Men extends the great line of twentieth-century innovative fiction.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0979312396"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780979312397"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nvVQDQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nvVQDQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nvVQDQEACAAJ&dq=literature&hl=&as_pt=BOOKS&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=nvVQDQEACAAJ&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Women_and_Men.html?hl=&id=nvVQDQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nvVQDQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This story focuses on a meteorologist, James Mayn, and a feminist, Grace Kimball, who live in the same appartment building in New York."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zi00AJU7ndcC",
+      "etag": "sfLPTM3Tl0U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zi00AJU7ndcC",
+      "volumeInfo": {
+        "title": "Writing of America",
+        "subtitle": "Literature and Cultural Identity from the Puritans to the Present",
+        "authors": [
+          "Geoff Ward"
+        ],
+        "publisher": "Polity",
+        "publishedDate": "2002-06-10",
+        "description": "In this lively and provocative study, Geoff Ward puts forward the bold claim that the founding documents of American identity are essentially literary. America was invented, not discovered, and it remains in thrall to the myth of an earthly Paradise. This is Paradise, and American ideology imprisons as it inspires. The Writing of America shows the tension between these forces in a wide range of literary and other texts, from Puritan sermons and the Declaration of Independence, through nineteenth-century classics, to folk and blues lyrics and the popular novel. Alongside his provocative reassessments of canonical writers, Ward offers new material on lost or neglected figures from the world of literature, film and music. His acute and often startling analyses of American literature and culture make this an essential guide to what Lincoln termed the last best hope of earth.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "074562622X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780745626222"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 248,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zi00AJU7ndcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zi00AJU7ndcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=zi00AJU7ndcC&dq=literature&hl=&as_pt=BOOKS&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=zi00AJU7ndcC&dq=literature&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Writing_of_America.html?hl=&id=zi00AJU7ndcC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zi00AJU7ndcC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "America was invented, not discovered, and it remains in thrall to the myth of an earthly Paradise. This is Paradise, and American ideology imprisons as it inspires."
+      }
+    }
+  ]
+}

@@ -1,0 +1,3119 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "fLaqygEACAAJ",
+      "etag": "YGUV7tiC+w0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fLaqygEACAAJ",
+      "volumeInfo": {
+        "title": "The Time Fiction",
+        "authors": [
+          "Biodun Iginla"
+        ],
+        "publishedDate": "2019-03-23",
+        "description": "It's August 20l8, and you and Zooey have been living in Ventimiglia, on the Italian Riviera, close to the French border, since May 2017. You both got married late May 2017 at the US Consulate in Marseille. Your kids Maya (30) and Nelson (28) were there, as were Jake Gyllenhaal, Scarlett Johansen, and Zooey's older sister Emily, who stars in the TV series Bones. You have twin girls, Natalia and Sarah, now one-year old. Before the marriage, Zooey told you she didn't want a pre-nup. Of course as a former indie-movie actress in Hollywood, she was worth millions of US dollars, much more than you were. She told you she wanted both of you to have a joint bank account.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1091318107"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781091318106"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 752,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fLaqygEACAAJ&dq=non-fiction&hl=&as_pt=BOOKS&cd=161&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=fLaqygEACAAJ&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Time_Fiction.html?hl=&id=fLaqygEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fLaqygEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "You both got married late May 2017 at the US Consulate in Marseille. Your kids Maya (30) and Nelson (28) were there, as were Jake Gyllenhaal, Scarlett Johansen, and Zooey&#39;s older sister Emily, who stars in the TV series Bones."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hO6XDwAAQBAJ",
+      "etag": "FdiB/9F59cY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hO6XDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Children of the Land",
+        "subtitle": "A Memoir",
+        "authors": [
+          "Marcelo Hernandez Castillo"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2020-01-28",
+        "description": "An NPR Best Book of the Year A 2020 International Latino Book Award Finalist An Entertainment Weekly, The Millions, and LitHub Most Anticipated Book of the Year This unforgettable memoir from a prize-winning poet about growing up undocumented in the United States recounts the sorrows and joys of a family torn apart by draconian policies and chronicles one young man\u2019s attempt to build a future in a nation that denies his existence. \u201cYou were not a ghost even though an entire country was scared of you. No one in this story was a ghost. This was not a story.\u201d When Marcelo Hernandez Castillo was five years old and his family was preparing to cross the border between Mexico and the United States, he suffered temporary, stress-induced blindness. Castillo regained his vision, but quickly understood that he had to move into a threshold of invisibility before settling in California with his parents and siblings. Thus began a new life of hiding in plain sight and of paying extraordinarily careful attention at all times for fear of being truly seen. Before Castillo was one of the most celebrated poets of a generation, he was a boy who perfected his English in the hopes that he might never seem extraordinary. With beauty, grace, and honesty, Castillo recounts his and his family\u2019s encounters with a system that treats them as criminals for seeking safe, ordinary lives. He writes of the Sunday afternoon when he opened the door to an ICE officer who had one hand on his holster, of the hours he spent making a fake social security card so that he could work to support his family, of his father\u2019s deportation and the decade that he spent waiting to return to his wife and children only to be denied reentry, and of his mother\u2019s heartbreaking decision to leave her children and grandchildren so that she could be reunited with her estranged husband and retire from a life of hard labor. Children of the Land distills the trauma of displacement, illuminates the human lives behind the headlines and serves as a stunning meditation on what it means to be a man and a citizen.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062825605"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0062825607"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 307,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hO6XDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hO6XDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=hO6XDwAAQBAJ&printsec=frontcover&dq=non-fiction&hl=&as_pt=BOOKS&cd=162&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hO6XDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hO6XDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 24.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.74,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hO6XDwAAQBAJ&rdid=book-hO6XDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14740000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Children_of_the_Land-sample-epub.acsm?id=hO6XDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hO6XDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "No one in this story was a ghost."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oboczgEACAAJ",
+      "etag": "JvFZjgV0rYM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oboczgEACAAJ",
+      "volumeInfo": {
+        "title": "Tick Tock",
+        "subtitle": "How Old Is Too Old to Become a Parent?",
+        "authors": [
+          "Vicki Breitbart",
+          "Nan Bauer-Maglin"
+        ],
+        "publishedDate": "2021-09-21",
+        "description": "In this groundbreaking collection of essays, poems, and creative nonfiction, more than twenty-nine writers offer witty and incisive insight into the unique experience of being or having an older parent in today's world. By turns raw, funny, tender, and wise, these stories reshape our understanding of the social factors that impact later parenthood, honor the strength and resilience required to overcome countless challenges posed in healthcare and adoption settings, and relish in the many joys of a parent-child relationship, no matter what age. Writers, child development experts, and older parents themselves Vicki Breitbart and Nan Bauer-Maglin have curated a collection that truly affirms and destigmatizes the act of becoming a parent over 40, whether by choice or by chance. Contributors include New York Times bestselling author and National Book Award winner Elizabeth Acevedo; award-winning author Adam Berlin; writer and editor Laura Broadwell; author and editor Salma Abdelnour Gilman; professor and institute director Elizabeth Gregory; podcast producer and host Barbara Herel; author and research scholar Elline Lipkin; retired journalist Linda Wright Moore; founder and executive director of The Democracy Center Jim Shultz; and more.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1948340453"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781948340458"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "Family & Relationships"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oboczgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oboczgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oboczgEACAAJ&dq=non-fiction&hl=&as_pt=BOOKS&cd=163&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=oboczgEACAAJ&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tick_Tock.html?hl=&id=oboczgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oboczgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this groundbreaking collection of essays, poems, and creative nonfiction, more than twenty-nine writers offer witty and incisive insight into the unique experience of being or having an older parent in today&#39;s world."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PFIcvgAACAAJ",
+      "etag": "ZFKbthO9RmI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PFIcvgAACAAJ",
+      "volumeInfo": {
+        "title": "Unbroken",
+        "subtitle": "An Olympian's Journey from Airman to Castaway to Captive",
+        "authors": [
+          "Laura Hillenbrand"
+        ],
+        "publisher": "Turtleback Books",
+        "publishedDate": "2017-04-25",
+        "description": "Beautifully illustrated throughout, this riveting biography includes more than 100 black-and-white photos. On a May afternoon in 1943, an American military plane crashed into the Pacific Ocean and disappeared, leaving only a spray of debris and a sli",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0606398678"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780606398671"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Long-distance runners"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PFIcvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PFIcvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PFIcvgAACAAJ&dq=non-fiction&hl=&as_pt=BOOKS&cd=164&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=PFIcvgAACAAJ&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Unbroken.html?hl=&id=PFIcvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PFIcvgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Beautifully illustrated throughout, this riveting biography includes more than 100 black-and-white photos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "I7uoDwAAQBAJ",
+      "etag": "O9s9yByJY34",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I7uoDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Greatest Beer Run Ever",
+        "subtitle": "A Memoir of Friendship, Loyalty, and War",
+        "authors": [
+          "John \"Chick\" Donohue",
+          "J. T. Molloy"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2020-11-10",
+        "description": "NOW A MAJOR MOTION PICTURE DIRECTED BY PETER FARRELLY, STARRING ZAC EFRON AND RUSSELL CROWE! Instant New York Times Bestseller Instant USA Today Bestseller \u201cChickie takes us thousands of miles on a hilarious quest laced with sorrow, but never dull. You will laugh and cry, but you will not be sorry that you read this rollicking story.\u201d\u2014Malachy McCourt A wildly entertaining, feel-good memoir of an Irish-American New Yorker and former U.S. marine who embarked on a courageous, hare-brained scheme to deliver beer to his pals serving Vietnam in the late 1960s. One night in 1967, twenty-six-year-old John Donohue\u2014known as Chick\u2014was out with friends, drinking in a New York City bar. The friends gathered there had lost loved ones in Vietnam. Now, they watched as anti-war protesters turned on the troops themselves. One neighborhood patriot came up with an inspired\u2014some would call it insane\u2014idea. Someone should sneak into Vietnam, track down their buddies there, give them messages of support from back home, and share a few laughs over a can of beer. It would be the Greatest Beer Run Ever. But who\u2019d be crazy enough to do it? One man was up for the challenge\u2014a U. S. Marine Corps veteran turned merchant mariner who wasn\u2019t about to desert his buddies on the front lines when they needed him. Chick volunteered. A day later, he was on a cargo ship headed to Vietnam, armed with Irish luck and a backpack full of alcohol. Landing in Qui Nho\u2019n, Chick set off on an adventure that would change his life forever\u2014an odyssey that took him through a series of hilarious escapades and harrowing close calls, including the Tet Offensive. But none of that mattered if he could bring some cheer to his pals and show them how much the folks back home appreciated them. This is the story of that epic beer run, told in Chick\u2019s own words and those of the men he visited in Vietnam.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062995483"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0062995480"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=I7uoDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=I7uoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=I7uoDwAAQBAJ&printsec=frontcover&dq=non-fiction&hl=&as_pt=BOOKS&cd=165&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=I7uoDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=I7uoDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=I7uoDwAAQBAJ&rdid=book-I7uoDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Greatest_Beer_Run_Ever-sample-epub.acsm?id=I7uoDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=I7uoDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "But none of that mattered if he could bring some cheer to his pals and show them how much the folks back home appreciated them. This is the story of that epic beer run, told in Chick\u2019s own words and those of the men he visited in Vietnam."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mXKRDwAAQBAJ",
+      "etag": "fcmZqMmTipc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mXKRDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Rough Ideas",
+        "subtitle": "Reflections on Music and More",
+        "authors": [
+          "Stephen Hough"
+        ],
+        "publisher": "Faber & Faber",
+        "publishedDate": "2019-07-30",
+        "description": "Winner of the Royal Philharmonic Award for Storytelling 2020 'A rich, endlessly fascinating book.' Philip Pullman 'One pleasure after another.' Gramophone 'The delightful musings of a wise and worldly polymath.' Financial Times, Books of the Year Stephen Hough is indisputably one of the world's leading pianists, winning global acclaim and numerous awards for his concerts and recordings, as well as being a writer and composer. In Rough Ideas, Hough writes about music and the life of a musician, from exploring the broader aspects of what it is to walk out onto a stage or to make a recording, to specialist tips from deep inside the practice room. He also writes vividly about people, places, literature and art, and touches on more controversial subjects, such as the possibility of the existence of God, and the challenge involved in being a gay Catholic. Rough Ideas is an illuminating and absorbing introduction into the life and mind of one of our great cultural figures.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780571350490"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0571350496"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 317,
+        "printType": "BOOK",
+        "categories": [
+          "Music"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.12.12.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mXKRDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mXKRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=mXKRDwAAQBAJ&dq=non-fiction&hl=&as_pt=BOOKS&cd=166&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=mXKRDwAAQBAJ&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rough_Ideas.html?hl=&id=mXKRDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mXKRDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In Rough Ideas, Hough writes about music and the life of a musician, from exploring the broader aspects of what it is to walk out onto a stage or to make a recording, to specialist tips from deep inside the practice room."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zGTC5ljUCBEC",
+      "etag": "+68CykSNqVw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zGTC5ljUCBEC",
+      "volumeInfo": {
+        "title": "Guiding Readers Through Non-fiction",
+        "subtitle": "Effective Strategies for Small-group Instruction",
+        "authors": [
+          "Dave Leochko",
+          "Tom Rossi"
+        ],
+        "publisher": "Portage & Main Press",
+        "publishedDate": "2007",
+        "description": "Written for grades 4-7 teachers and students, Guiding Readers Through Non-Fiction is an easy-to-use resource. It provides essential background information on the nature of nonfiction and how to use nonfiction in small guided-reading groups. The book is filled with many ready-to-use student handouts, graphic organizers, rubrics, assessment checklists, and planning guidelines. In this resource, you will find: teaching suggestions and strategies to help students engage with various forms of nonfiction necessary information for implementing guided-reading practices in the classroom effective strategies to incorporate successful small-group instruction in the classroom plans and suggestions for structuring the guided-reading lesson",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781553791249"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "155379124X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 186,
+        "printType": "BOOK",
+        "categories": [
+          "Guided reading"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zGTC5ljUCBEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zGTC5ljUCBEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=zGTC5ljUCBEC&pg=PA14&dq=non-fiction&hl=&as_pt=BOOKS&cd=167&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zGTC5ljUCBEC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zGTC5ljUCBEC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 21,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 12.6,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zGTC5ljUCBEC&rdid=book-zGTC5ljUCBEC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 21000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12600000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Guiding_Readers_Through_Non_fiction-sample-epub.acsm?id=zGTC5ljUCBEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Guiding_Readers_Through_Non_fiction-sample-pdf.acsm?id=zGTC5ljUCBEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zGTC5ljUCBEC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... FictioN: Features. <b>Non</b>-<b>fiction</b> material can integrate many different forms of print: graphic forms such as charts, pictures, and graphs; structural forms ... Not 14 GUIDING READERS ThROUGh <b>NON</b>-<b>FICTION</b> Elements of <b>Non</b>-<b>Fiction</b>: Features."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0YY0AQAAQBAJ",
+      "etag": "rgjjEo83CVg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0YY0AQAAQBAJ",
+      "volumeInfo": {
+        "title": "Blink",
+        "subtitle": "The Power of Thinking Without Thinking",
+        "authors": [
+          "Malcolm Gladwell"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2007-04-03",
+        "description": "From the #1 bestselling author of The Bomber Mafia, the landmark book that has revolutionized the way we understand leadership and decision making. In his breakthrough bestseller The Tipping Point, Malcolm Gladwell redefined how we understand the world around us. Now, in Blink, he revolutionizes the way we understand the world within. Blink is a book about how we think without thinking, about choices that seem to be made in an instant--in the blink of an eye--that actually aren't as simple as they seem. Why are some people brilliant decision makers, while others are consistently inept? Why do some people follow their instincts and win, while others end up stumbling into error? How do our brains really work--in the office, in the classroom, in the kitchen, and in the bedroom? And why are the best decisions often those that are impossible to explain to others? In Blink we meet the psychologist who has learned to predict whether a marriage will last, based on a few minutes of observing a couple; the tennis coach who knows when a player will double-fault before the racket even makes contact with the ball; the antiquities experts who recognize a fake at a glance. Here, too, are great failures of \"blink\": the election of Warren Harding; \"New Coke\"; and the shooting of Amadou Diallo by police. Blink reveals that great decision makers aren't those who process the most information or spend the most time deliberating, but those who have perfected the art of \"thin-slicing\"--filtering the very few factors that matter from an overwhelming number of variables.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780316005043"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0316005045"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 291,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.16.19.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0YY0AQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0YY0AQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0YY0AQAAQBAJ&dq=non-fiction&hl=&as_pt=BOOKS&cd=168&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=0YY0AQAAQBAJ&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Blink.html?hl=&id=0YY0AQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0YY0AQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From the #1 bestselling author of The Bomber Mafia, the landmark book that has revolutionized the way we understand leadership and decision making."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ca2nXhwPc7cC",
+      "etag": "p34pFv4g3nM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ca2nXhwPc7cC",
+      "volumeInfo": {
+        "title": "Wine and War",
+        "authors": [
+          "Donald & Petie Kladstrup"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2011-09-01",
+        "description": "In the vineyards, wine caves, and cellars of France as war and occupation came to the country winemakers acted heroically not only to save the best wines but to defend their way of life. These are the true stories of vignerons who sheltered Jewish refugees in their cellars and of winemakers who risked their lives to aid the resistance. They made chemicals in secret laboratories to fuel the resistance and fled from the Gestapo when arrests became imminent. There were treacheries too, as some of the nation's winemakers supported the Vichy regime or the Germans themselves and collaborated. Donald Kladstrup is a retired American network correspondent. He and his wife Petie have accumulated these fascinating stories, told with the pace and action that will fascinate fiction and non-fiction readers alike.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781444717570"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "144471757X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 275,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.6.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ca2nXhwPc7cC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ca2nXhwPc7cC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ca2nXhwPc7cC&dq=non-fiction&hl=&as_pt=BOOKS&cd=169&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ca2nXhwPc7cC&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Wine_and_War.html?hl=&id=ca2nXhwPc7cC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ca2nXhwPc7cC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These are the true stories of vignerons who sheltered Jewish refugees in their cellars and of winemakers who risked their lives to aid the resistance."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tRWUd7skqnEC",
+      "etag": "CLinCvwVqBk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tRWUd7skqnEC",
+      "volumeInfo": {
+        "title": "One Moment, One Morning",
+        "authors": [
+          "Sarah Rayner"
+        ],
+        "publisher": "Picador",
+        "publishedDate": "2010-01-28",
+        "description": "The Brighton to London line. The 07:44 train. Carriages packed with commuters. A woman applies her make-up. Another occupies her time observing the people around her. A husband and wife share an affectionate gesture. Further along, a woman flicks through a glossy magazine. Then, abruptly, everything changes: a man has a heart attack, and can't be resuscitated; the train is stopped, an ambulance called. For at least three passengers on the 07:44 on that particular morning, life will never be the same again. Lou witnesses the man's final moments. Anna and Lou share a cab when they realise the train is going nowhere fast. Anna is Karen's best friend. And Karen? Karen's husband is the man who dies. Telling the story of the week following that fateful train journey, One Moment, One Morning is a stunning novel about love and loss, about family and - above all - friendship. A stark reminder that, sometimes, one moment is all it takes, it also reminds us that somehow, and despite everything, life can and does go on.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781743032374"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1743032374"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 359,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tRWUd7skqnEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tRWUd7skqnEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tRWUd7skqnEC&dq=non-fiction&hl=&as_pt=BOOKS&cd=170&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=tRWUd7skqnEC&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/One_Moment_One_Morning.html?hl=&id=tRWUd7skqnEC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tRWUd7skqnEC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "And Karen? Karen&#39;s husband is the man who dies. Telling the story of the week following that fateful train journey, One Moment, One Morning is a stunning novel about love and loss, about family and - above all - friendship."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RJew0AEACAAJ",
+      "etag": "EmVSN5ApQlw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RJew0AEACAAJ",
+      "volumeInfo": {
+        "title": "MAGIC",
+        "subtitle": "The Final Fantasy Collection",
+        "authors": [
+          "ISAAC. ASIMOV"
+        ],
+        "publishedDate": "2025",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "000870662X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780008706623"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RJew0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RJew0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RJew0AEACAAJ&dq=non-fiction&hl=&as_pt=BOOKS&cd=171&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=RJew0AEACAAJ&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/MAGIC.html?hl=&id=RJew0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RJew0AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OUpHzgEACAAJ",
+      "etag": "BuZi/4zMsCU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OUpHzgEACAAJ",
+      "volumeInfo": {
+        "title": "How to Make a Living with Your Writing Third Edition",
+        "subtitle": "Turn Your Words Into Multiple Streams Of Income",
+        "authors": [
+          "Joanna Penn"
+        ],
+        "publishedDate": "2021-03",
+        "description": "Do you want to make a living with your writing? Do you want to turn your words into multiple streams of income? This book will give you lots of ideas on how to make money with your words.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1913321657"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781913321659"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OUpHzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OUpHzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=OUpHzgEACAAJ&dq=non-fiction&hl=&as_pt=BOOKS&cd=172&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=OUpHzgEACAAJ&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Make_a_Living_with_Your_Writing_T.html?hl=&id=OUpHzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OUpHzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Do you want to make a living with your writing? Do you want to turn your words into multiple streams of income? This book will give you lots of ideas on how to make money with your words."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "74e1vAEACAAJ",
+      "etag": "iHJFl9l7Bs0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/74e1vAEACAAJ",
+      "volumeInfo": {
+        "title": "Roots",
+        "subtitle": "Success and Greatness Starts Within You",
+        "authors": [
+          "James Evangelista"
+        ],
+        "publishedDate": "2018-10-22",
+        "description": "We all to change our life for the better. We all want to achieve success and greatness. How can we do this? From wisdom, taking action and health, this book will serve as the foundation you will need to achieve your goals and greatness.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0692177760"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780692177761"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "categories": [
+          "Self-Help"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=74e1vAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=74e1vAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=74e1vAEACAAJ&dq=non-fiction&hl=&as_pt=BOOKS&cd=173&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=74e1vAEACAAJ&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Roots.html?hl=&id=74e1vAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=74e1vAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "We all to change our life for the better. We all want to achieve success and greatness. How can we do this? From wisdom, taking action and health, this book will serve as the foundation you will need to achieve your goals and greatness."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QbHol3JEcJEC",
+      "etag": "aLwpbSofMF8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QbHol3JEcJEC",
+      "volumeInfo": {
+        "title": "Parasite",
+        "authors": [
+          "Mira Grant"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2013-10-29",
+        "description": "A decade in the future, humanity thrives in the absence of sickness and disease. We owe our good health to a humble parasite - a genetically engineered tapeworm developed by the pioneering SymboGen Corporation. When implanted, the tapeworm protects us from illness, boosts our immune system - even secretes designer drugs. It's been successful beyond the scientists' wildest dreams. Now, years on, almost every human being has a SymboGen tapeworm living within them. But these parasites are getting restless. They want their own lives . . . and will do anything to get them.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781405518680"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1405518685"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 488,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QbHol3JEcJEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QbHol3JEcJEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QbHol3JEcJEC&dq=non-fiction&hl=&as_pt=BOOKS&cd=174&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=QbHol3JEcJEC&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Parasite.html?hl=&id=QbHol3JEcJEC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QbHol3JEcJEC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A decade in the future, humanity thrives in the absence of sickness and disease. We owe our good health to a humble parasite - a genetically engineered tapeworm developed by the pioneering SymboGen Corporation."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i9xbEAAAQBAJ",
+      "etag": "k8TIAycvXJY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i9xbEAAAQBAJ",
+      "volumeInfo": {
+        "title": "LaserWriter II",
+        "subtitle": "A Novel",
+        "authors": [
+          "Tamara Shopsin"
+        ],
+        "publisher": "Picador USA",
+        "publishedDate": "2022-10-11",
+        "description": "From the incomparable New York Times and New Yorker illustrator Tamara Shopsin comes a debut novel about a New York City printer repair technician who grows up alongside the Apple computer\u2014featuring original designs by the author.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250859037"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1250859034"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i9xbEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i9xbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=i9xbEAAAQBAJ&dq=non-fiction&hl=&as_pt=BOOKS&cd=175&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=i9xbEAAAQBAJ&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/LaserWriter_II.html?hl=&id=i9xbEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i9xbEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;From the incomparable New York Times and New Yorker illustrator Tamara Shopsin, a debut novel about a NYC printer repair technician who comes of age alongside the Apple computer-featuring original artistic designs by the author&quot;--"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LymsHx9UVdYC",
+      "etag": "pH6RnrGdQfA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LymsHx9UVdYC",
+      "volumeInfo": {
+        "title": "This Little Britain",
+        "subtitle": "How One Small Country Changed the Modern World",
+        "authors": [
+          "Harry Bingham"
+        ],
+        "publisher": "HarperCollins UK",
+        "publishedDate": "2009",
+        "description": "For the British, it is an oddly difficult question. Although self- assessment usually notes a number of good points (we're inventive, tolerant and at least we're not French), it lists a torrent of bad ones too. Our society is fragmented and degenerate. Our kids are thugs, our works ill-educated, our public services abysmal.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780007259809"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0007259808"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 386,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LymsHx9UVdYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LymsHx9UVdYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=LymsHx9UVdYC&dq=non-fiction&hl=&as_pt=BOOKS&cd=176&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=LymsHx9UVdYC&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/This_Little_Britain.html?hl=&id=LymsHx9UVdYC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LymsHx9UVdYC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "For the British, it is an oddly difficult question."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vswxDQAAQBAJ",
+      "etag": "SJlkSKz3B1I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vswxDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Salt Houses",
+        "authors": [
+          "Hala Alyan"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2017-05-18",
+        "description": "'A piercingly elegant novel . . . with the power to both break and mend your heart.' Ru Freeman, author of On Sal Mal Lane 'Epic in scope and uniquely relevant in its concern for displacement. Particularly well-suited for our times, then.' Red Where do you go when you can\u2019t go home? On the eve of her daughter Alia\u2019s wedding, Salma reads the girl\u2019s future in a cup of coffee dregs. Although she keeps her predictions to herself that day, they soon come to pass in the wake of the Six-Day War of 1967. Caught up in the resistance, Alia\u2019s brother disappears, while Alia and her husband move from Nablus to Kuwait City. Reluctantly they build a life, torn between needing to remember and learning to forget. When Saddam Hussein invades Kuwait, Alia and her family yet again lose their home, their land, and their story as they know it. Scattering to Beirut, Paris and Boston, Alia\u2019s children begin families of their own, once more navigating the burdens and blessings of beginning again.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781473538191"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "147353819X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 335,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vswxDQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vswxDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=vswxDQAAQBAJ&dq=non-fiction&hl=&as_pt=BOOKS&cd=177&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=vswxDQAAQBAJ&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Salt_Houses.html?hl=&id=vswxDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vswxDQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39;A piercingly elegant novel . . . with the power to both break and mend your heart."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ao42DwAAQBAJ",
+      "etag": "lG307OHFAmg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ao42DwAAQBAJ",
+      "volumeInfo": {
+        "title": "When They Call You a Terrorist",
+        "subtitle": "A Black Lives Matter Memoir",
+        "authors": [
+          "Patrisse Khan-Cullors",
+          "asha bandele"
+        ],
+        "publisher": "Canongate Books",
+        "publishedDate": "2018-01-25",
+        "description": "Following the acquittal of George Zimmerman in the fatal shooting of Trayvon Martin, three women \u2013 Alicia Garza, Opal Tometi, and Patrisse Khan-Cullors \u2013 came together to form an active response to the systemic racism causing the deaths of so many African-Americans. They simply said: Black Lives Matter; and for that, they were labelled terrorists. In this empowering account of survival, strength and resilience, Patrisse Khan-Cullors and award-winning author and journalist asha bandele recount the personal story that led Patrisse to become a founder of Black Lives Matter, seeking to end the culture that declares Black life expendable. Like the era-defining movement she helped create, this rallying cry demands you do not look away.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781786893048"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1786893045"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.22.21.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ao42DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ao42DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ao42DwAAQBAJ&dq=non-fiction&hl=&as_pt=BOOKS&cd=178&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ao42DwAAQBAJ&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/When_They_Call_You_a_Terrorist.html?hl=&id=ao42DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ao42DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this empowering account of survival, strength and resilience, Patrisse Khan-Cullors and award-winning author and journalist asha bandele recount the personal story that led Patrisse to become a founder of Black Lives Matter, seeking to ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q4y0EAAAQBAJ",
+      "etag": "G3pLDMSFbv8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q4y0EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Mastering Nonfiction Writing with ChatGPT",
+        "subtitle": "Proven Tips and Techniques for Faster, More Effective Writing",
+        "authors": [
+          "Maximus Wilson"
+        ],
+        "publisher": "Adidas Wilson ",
+        "publishedDate": "2023-03-19",
+        "description": "Writers are increasingly using ChatGPT, an advanced natural language processing model developed by OpenAI, to help with various aspects of their writing process. ChatGPT uses machine learning to generate human-like responses to text prompts, making it a valuable tool for generating ideas, overcoming writer's block, and even providing inspiration for full-length works. In this chapter, we will explore some of the ways in which writers are using ChatGPT and the benefits and limitations of this technology. One of the most popular uses of ChatGPT for writers is to generate ideas. By providing a text prompt, such as a sentence or a few words, ChatGPT can generate a list of potential ideas or prompts for further exploration. This can be especially useful for writers who are stuck or experiencing writer's block and need a new angle or direction to pursue. ChatGPT can also be used to develop characters by generating personality traits, backgrounds, and motivations. By providing a basic description of a character, ChatGPT can generate a list of potential traits and characteristics that can be further developed and explored. This can be especially useful for writers who are struggling to develop complex, multi-dimensional characters. Another way that writers are using ChatGPT is to explore different plot points or scenarios.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 71,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q4y0EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q4y0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=q4y0EAAAQBAJ&pg=PT32&dq=non-fiction&hl=&as_pt=BOOKS&cd=179&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=q4y0EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=q4y0EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=q4y0EAAAQBAJ&rdid=book-q4y0EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Mastering_Nonfiction_Writing_with_ChatGP-sample-epub.acsm?id=q4y0EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Mastering_Nonfiction_Writing_with_ChatGP-sample-pdf.acsm?id=q4y0EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q4y0EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... fiction writing refers to writing that presents facts , information , and ideas in a factual and informative manner . There are many different types of <b>non</b> - <b>fiction</b> writing ... <b>Non</b>-<b>Fiction</b> Authors. | Five types of <b>Non</b> \u2013 <b>Fiction</b> Writing."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "l9jvjgEACAAJ",
+      "etag": "X22myQOOeGs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/l9jvjgEACAAJ",
+      "volumeInfo": {
+        "title": "Find Me Unafraid",
+        "subtitle": "Love, Loss, and Hope in an African Slum",
+        "authors": [
+          "Kennedy Odede",
+          "Jessica Posner"
+        ],
+        "publisher": "Ecco",
+        "publishedDate": "2016-07-26",
+        "description": "Find Me Unafraid tells the uncommon love story between two uncommon people whose collaboration sparked a successful movement to transform the lives of vulnerable girls and the urban poor. With a Foreword by Nicholas Kristof. This is the story of two young people from completely different worlds: Kennedy Odede from Kibera, the largest slum in Africa, and Jessica Posner from Denver, Colorado. Kennedy foraged for food, lived on the street, and taught himself to read with old newspapers. When an American volunteer gave him the work of Mandela, Garvey, and King, teenaged Kennedy decided he was going to change his life and his community. He bought a soccer ball and started a youth empowerment group he called Shining Hope for Communities (SHOFCO). Then in 2007, Wesleyan undergraduate Jessica Posner spent a semester abroad in Kenya working with SHOFCO. Breaking all convention, she decided to live in Kibera with Kennedy, and they fell in love.Their connection persisted, and Jessica helped Kennedy to escape political violence and fulfill his lifelong dream of an education, at Wesleyan University. The alchemy of their remarkable union has drawn the support of community members and celebrities alike\u2014The Clintons, Mia Farrow, and Nicholas Kristof are among their fans\u2014and their work has changed the lives of many of Kibera\u2019s most vulnerable population: its girls. Jess and Kennedy founded Kibera\u2019s first tuition-free school for girls, a large, bright blue building, which stands as a bastion of hope in what once felt like a hopeless place. But Jessica and Kennedy are just getting started\u2014they have expanded their model to connect essential services like health care, clean water, and economic empowerment programs. They\u2019ve opened an identical project in Mathare, Kenya\u2019s second largest slum, and intend to expand their remarkably successful program for change. Ultimately this is a love story about a fight against poverty and hopelessness, the transformation made possible by a true love, and the power of young people to have a deep impact on the world.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0062292862"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062292865"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=l9jvjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=l9jvjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=l9jvjgEACAAJ&dq=non-fiction&hl=&as_pt=BOOKS&cd=180&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=l9jvjgEACAAJ&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Find_Me_Unafraid.html?hl=&id=l9jvjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=l9jvjgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Find Me Unafraid tells the uncommon love story between two uncommon people whose collaboration sparked a successful movement to transform the lives of vulnerable girls and the urban poor."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jfnw87fqKlIC",
+      "etag": "8vd2JD3ZLFU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jfnw87fqKlIC",
+      "volumeInfo": {
+        "title": "The Emperor",
+        "authors": [
+          "Ryszard Kapuscinski"
+        ],
+        "publisher": "Penguin UK",
+        "publishedDate": "2006-06",
+        "description": "After the deposition of Haile Selassie in 1974, which ended the ancient rule of the Abyssinian monarchy, Ryszard Kapuscinski travelled to Ethiopia and sought out surviving courtiers to tell their stories. Here, their eloquent and ironic voices depict the lavish, corrupt world they had known - from the rituals, hierarchies and intrigues at court to the vagaries of a ruler who maintained absolute power over his impoverished people. They describe his inexorable downfall as the Ethiopian military approach, strange omens appear in the sky and courtiers vanish, until only the Emperor and his valet remain in the deserted palace, awaiting their fate. Dramatic and mesmerising, The Emperor is one of the great works of reportage and a haunting epitaph on the last moments of a dying regime.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141188034"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0141188030"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 179,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jfnw87fqKlIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jfnw87fqKlIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=jfnw87fqKlIC&dq=non-fiction&hl=&as_pt=BOOKS&cd=181&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=jfnw87fqKlIC&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Emperor.html?hl=&id=jfnw87fqKlIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jfnw87fqKlIC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dramatic and mesmerising, The Emperor is one of the great works of reportage and a haunting epitaph on the last moments of a dying regime. this is Kapuscinski&#39;s rendition of Selassie&#39;s servants and closest associates accounts- humorous, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dAFQzwEACAAJ",
+      "etag": "yW7J0DNvzmk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dAFQzwEACAAJ",
+      "volumeInfo": {
+        "title": "I'd Like to Play Alone, Please",
+        "subtitle": "Essays",
+        "authors": [
+          "Tom Segura"
+        ],
+        "publishedDate": "2023-04-18",
+        "description": "From Tom Segura, the massively successful stand-up comedian and co-host of chart-topping podcasts \"2 Bears 1 Cave\" and \"Your Mom's House,\" hilarious real-life stories of parenting, celebrity encounters, youthful mistakes, misanthropy, and so much more. Tom Segura is known for his twisted takes and irreverent comedic voice. But after a few years of crazy tours and churning out podcasts weekly, all while parenting two young children, he desperately needs a second to himself. It's not that he hates his friends and family - he's not a monster - he's just beat, which is why his son's (ruthless) first full sentence, \"I'd like to play alone, please,\" has since become his mantra. In this collection of stories, Tom combines his signature curmudgeonly humor with a revealing look at some of the ridiculous situations that shaped him and the ludicrous characters who always seem to seek him out. The stories feature hilarious anecdotes about Tom's time on the road, including some surreal encounters with celebrities at airports; his unfiltered South American family; the trials and tribulations of parenting young children with bizarrely morbid interests; and, perhaps most memorably, experiences with his dad who, like any good Baby Boomer father, loves to talk about his bowel movements and share graphic Vietnam stories at inappropriate moments. All of this is enough to make anyone want some peace and quiet. I'D LIKE TO PLAY ALONE, PLEASE will have readers laughing out loud and nodding in agreement with Segura's message: in a world where everyone is increasingly insane, sometimes you just need to be alone.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1538704617"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781538704615"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dAFQzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dAFQzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=dAFQzwEACAAJ&dq=non-fiction&hl=&as_pt=BOOKS&cd=182&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=dAFQzwEACAAJ&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/I_d_Like_to_Play_Alone_Please.html?hl=&id=dAFQzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dAFQzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this collection of true stories, Tom combines his signature curmudgeonly humor with a revealing look at some of the ridiculous situations and the ludicrous characters who have exhausted him to no end."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HAdkDQAAQBAJ",
+      "etag": "Cm9u4MP8SaE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HAdkDQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Horses\u2019 Mouth",
+        "authors": [
+          "Joyce Cary"
+        ],
+        "publisher": "Pickle Partners Publishing",
+        "publishedDate": "2016-10-27",
+        "description": "The charming and larcenous Gulley Jimson has an insatiable genius for creation and a no less remarkable appetite for destruction. Is he a great artist? a has-been? or an exhausted, drunken ne\u2019er-do-well? Originally published in 1944, The Horse\u2019s Mouth is acclaimed Irish author Joyce Cary\u2019s third instalment in his First Trilogy and sequel to Herself Surprised (1941) and To Be A Pilgrim (1942). It follows the adventures of Gulley Jimson, an artist who would exploit his friends and acquaintances to earn a quid. Similar to the first two books in the First Trilogy, events are told in the first-person narration and thus from the central character\u2019s point of view. Cary\u2019s novel also uses Gulley\u2019s unique perspective to comment on the social and political events of the time, making Gulley Jimson one of the best-known characters in 20th-century fiction.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781787202184"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1787202186"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 589,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HAdkDQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HAdkDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=HAdkDQAAQBAJ&dq=non-fiction&hl=&as_pt=BOOKS&cd=183&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=HAdkDQAAQBAJ&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Horses_Mouth.html?hl=&id=HAdkDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HAdkDQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Similar to the first two books in the First Trilogy, events are told in the first-person narration and thus from the central character\u2019s point of view."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QWCtywEACAAJ",
+      "etag": "D3BTb17w7G4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QWCtywEACAAJ",
+      "volumeInfo": {
+        "title": "Productivity For Authors",
+        "subtitle": "Find Time to Write, Organize Your Author Life, and Decide what Really Matters",
+        "authors": [
+          "Joanna Penn"
+        ],
+        "publishedDate": "2019-12-10",
+        "description": "Do you want to write more but feel frustrated at your lack of time? Are you doing 'busy' work instead of moving toward your creative goals? Is your To-Do list overwhelming? It's time to stop, reassess and take control. This book will help you discover the path to becoming a productive writer. Learn how to: Identify what's really stopping you from reaching your goals Say no and set boundaries for others -- and for yourself Find more time to write Make the most of your writing time Dictate your words for a more efficient and healthy writing life Use outsourcing to buy yourself more creative time Work with co-writers to produce more books Use tools for specific aspects of productivity Focus on physical and mental health to boost your productive time I've been writing and publishing for over a decade and in this book, I'll share my lessons learned in order to help you become more productive and, hopefully, save you time, money and heartache along the way.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1913321185"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781913321185"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QWCtywEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QWCtywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QWCtywEACAAJ&dq=non-fiction&hl=&as_pt=BOOKS&cd=184&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=QWCtywEACAAJ&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Productivity_For_Authors.html?hl=&id=QWCtywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QWCtywEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Are you doing &#39;busy&#39; work instead of moving toward your creative goals? Is your To-Do list overwhelming? It&#39;s time to stop, reassess and take control. This book will help you discover the path to becoming a productive writer."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8cwlkgEACAAJ",
+      "etag": "5YGxJcKV8XY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8cwlkgEACAAJ",
+      "volumeInfo": {
+        "title": "Own Your Niche",
+        "subtitle": "Hype-Free Internet Marketing Tactics to Establish Authority in Your Field and Promote Your Service-Based Business",
+        "authors": [
+          "Stephanie Chandler"
+        ],
+        "publishedDate": "2012-01-31",
+        "description": "Own Your Niche brings authenticity back to internet marketing, teaching you how to showcase your business with practical, easy-to-use strategies that you can implement yourself. Also included are interviews with successful service-based business owners who share how they have built their audiences and created successful enterprises. If internet marketing sounds intimidating to you, or you've gotten started but need more guidance, this book can remove the fear and give you the solutions you need to achieve your goals. Own Your Niche is ideal for consultants, coaches, freelancers, health and wellness professionals, attorneys, doctors, authors, professional speakers, financial advisers, and other service-based businesses.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1935953281"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781935953289"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 230,
+        "printType": "BOOK",
+        "categories": [
+          "Electronic commerce"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8cwlkgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8cwlkgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8cwlkgEACAAJ&dq=non-fiction&hl=&as_pt=BOOKS&cd=185&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8cwlkgEACAAJ&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Own_Your_Niche.html?hl=&id=8cwlkgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8cwlkgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If internet marketing sounds intimidating to you, or you&#39;ve gotten started but need more guidance, this book can remove the fear and give you the solutions you need to achieve your goals."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_eIOAQAAMAAJ",
+      "etag": "Jb4tUHzO9XA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_eIOAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Unlikely Disciple",
+        "subtitle": "A Sinner's Semester at America's Holiest University",
+        "authors": [
+          "Kevin Roose"
+        ],
+        "publisher": "Grand Central Publishing",
+        "publishedDate": "2009",
+        "description": "No drinking. No smoking. No cursing. No dancing. No R-rated movies. Kevin Roose wasn't used to rules like these. As a sophomore at Brown University, he spent his days drinking fair-trade coffee, singing in an a cappella group, and fitting right in with Brown's free-spirited, ultra-liberal student body. But when Roose leaves his Ivy League confines to spend a semester at Liberty University, a conservative Baptist school in Lynchburg, Virginia, obedience is no longer optional. Liberty is the late Reverend Jerry Falwell's \"Bible Boot Camp\" for young evangelicals, his training ground for the next generation of America's Religious Right. Liberty's ten thousand undergraduates take courses like Evangelism 101, hear from guest speakers like Sean Hannity and Karl Rove, and follow a forty-six-page code of conduct that regulates every aspect of their social lives. Hoping to connect with his evangelical peers, Roose decides to enroll at Liberty as a new transfer student, leaping across the God Divide and chronicling his adventures in this daring report from the front lines of America's culture war. His journey takes him from an evangelical hip-hop concert to choir practice at Falwell's legendary Thomas Road Baptist Church. He experiments with prayer, participates in a spring break mission trip to Daytona Beach (where he learns to preach the gospel to partying coeds), and pays a visit to Every Man's Battle, an on-campus support group for chronic masturbators. He meets pastors' kids, closet doubters, Christian rebels, and conducts what would be the last print interview of Rev. Falwell's life. Hilarious and heartwarming, respectful and thought-provoking, THE UNLIKELY DISCIPLE will inspire and entertain believers and nonbelievers alike.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015079302579"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 344,
+        "printType": "BOOK",
+        "categories": [
+          "Church college students"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_eIOAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_eIOAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_eIOAQAAMAAJ&dq=non-fiction&hl=&as_pt=BOOKS&cd=186&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=_eIOAQAAMAAJ&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Unlikely_Disciple.html?hl=&id=_eIOAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_eIOAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "No drinking. No smoking. No cursing. No dancing. No R-rated movies. Kevin Roose wasn&#39;t used to rules like these."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cQFREQAAQBAJ",
+      "etag": "g5UO2zgsBes",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cQFREQAAQBAJ",
+      "volumeInfo": {
+        "title": "Academic Non-Fiction",
+        "subtitle": "Crafting to Publishing",
+        "authors": [
+          "R. Sooryamoorthy"
+        ],
+        "publisher": "Springer Nature",
+        "publishedDate": "2025-03-24",
+        "description": "This book offers comprehensive directions to crafting academic nonfiction that is both rigorous and captivating, filling a critical gap in the genre. While academic nonfiction plays a vital role in fostering knowledge-based societies and driving economic growth, there has long been a need for a resource that helps authors create works that are as engaging as they are informative. Designed for both aspiring and established writers, this book provides practical advice and innovative techniques to elevate nonfiction writing. It covers everything from selecting marketable topics and developing effective writing habits to managing time and navigating the complexities of the publication process. Unlike most writing guides, it emphasises how to infuse nonfiction with the allure and engagement necessary to reach a broad audience without compromising accuracy or depth. With short, digestible chapters, insider tips on proposal writing, and insights into the peer review process, this book serves as a step-by-step roadmap to transforming academic writing into compelling works. Essential for writers aiming to produce nonfiction that not only informs but also resonates with readers, this resource is an indispensable tool for creating impactful scholarly work.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783031849671"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3031849671"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cQFREQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cQFREQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cQFREQAAQBAJ&pg=PA15&dq=non-fiction&hl=&as_pt=BOOKS&cd=187&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cQFREQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cQFREQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 44.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 31.72,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=cQFREQAAQBAJ&rdid=book-cQFREQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 44990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 31720000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Academic_Non_Fiction-sample-epub.acsm?id=cQFREQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Academic_Non_Fiction-sample-pdf.acsm?id=cQFREQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cQFREQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>non</b>- <b>fiction</b>. Depending on the subject matter, the organisation of themes is adapted and modified. It isn&#39;t bound to maintain the common features of different fiction genres but assumes a form that goes with the flow of human thought&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mQoaLZPNJ_sC",
+      "etag": "LaTc9PwhDdc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mQoaLZPNJ_sC",
+      "volumeInfo": {
+        "title": "Nelson English - Red Level Teacher's Guide",
+        "authors": [
+          "John Jackman",
+          "Wendy Wren"
+        ],
+        "publisher": "Nelson Thornes",
+        "publishedDate": "2001",
+        "description": "This flexible and easy-to-use Teacher's Guide fully supports the programme, giving you all the guidance you neeed to help your class work through the pupil Books",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0174248024"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780174248026"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 102,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mQoaLZPNJ_sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mQoaLZPNJ_sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=mQoaLZPNJ_sC&pg=PP98&dq=non-fiction&hl=&as_pt=BOOKS&cd=188&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=mQoaLZPNJ_sC&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nelson_English_Red_Level_Teacher_s_Guide.html?hl=&id=mQoaLZPNJ_sC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Nelson_English_Red_Level_Teacher_s_Guide-sample-pdf.acsm?id=mQoaLZPNJ_sC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mQoaLZPNJ_sC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... Fiction Skills nelson tharnes Nelson Nelson English Developing <b>Non</b> - <b>fiction</b> Skills English Teacher&#39;s Guide English Copymaster Resource Book Developing Fiction Skills Developing <b>Non</b> - <b>fiction</b> Book 1 0-17-424732 - X Skills Book 1 0-17&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_TKDEAAAQBAJ",
+      "etag": "Vl85zDLKoJY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_TKDEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Philosophy of Fiction",
+        "subtitle": "Imagination and Cognition",
+        "authors": [
+          "Patrik Engisch",
+          "Julia Langkau"
+        ],
+        "publisher": "Taylor & Francis",
+        "publishedDate": "2022-10-14",
+        "description": "This book presents new research on the crucial role that imagination plays in contemporary philosophy of fiction. The first part of the book challenges the main paradigm set by Kendall Walton and Gregory Currie, according to which there is a necessary connection between fiction and a prescription that we engage imaginatively with its content. The contributors address the fundamental questions of how we can define fiction, and especially whether we can define fiction in terms of imagination. The second part focuses on a distinct but related question: can we point to some distinctive experiential features of our engagement with fiction? In the third part, the focus lies on the cognitive value of fiction and on the role that imagination plays in that respect. The chapters in this part discuss the cognitive value of fiction with respect to issues such as the training of the faculty of imagination, phenomenal experience, empathy, and the emotions. The Philosophy of Fiction will be of interest to scholars and advanced students working in aesthetics, philosophy of mind, epistemology, and literary studies. Chapter 13 of this book is available for free in PDF format as Open Access from the individual product page at www.routledge.com. It has been made available under a Creative Commons Attribution-Non Commercial-No Derivatives 4.0 license.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781000770353"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1000770354"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 283,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_TKDEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_TKDEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_TKDEAAAQBAJ&pg=RA2-PA1978&dq=non-fiction&hl=&as_pt=BOOKS&cd=189&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_TKDEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_TKDEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 54.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 43.44,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_TKDEAAAQBAJ&rdid=book-_TKDEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 54990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 43440000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Philosophy_of_Fiction-sample-epub.acsm?id=_TKDEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Philosophy_of_Fiction-sample-pdf.acsm?id=_TKDEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_TKDEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... not sceptical that the BBC report claimed X; that claim was part of the content of the <b>non</b>-<b>fiction</b>. Rather, he was sceptical that X is true of the actual world. However, that is parallel to what would be the case were X asserted within&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eTQx-2VvovkC",
+      "etag": "BFT9/w5Rdv4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eTQx-2VvovkC",
+      "volumeInfo": {
+        "title": "Nonfiction Matters",
+        "subtitle": "Reading, Writing, and Research in Grades 3-8",
+        "authors": [
+          "Stephanie Harvey"
+        ],
+        "publisher": "Stenhouse Publishers",
+        "publishedDate": "1998",
+        "description": "A guide to bringing nonfiction into the curriculum in third through eighth-grade classrooms, with strategies and ideas for reading nonfiction, conducting research, and writing reports.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781571100726"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1571100725"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 249,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eTQx-2VvovkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eTQx-2VvovkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=eTQx-2VvovkC&pg=PA168&dq=non-fiction&hl=&as_pt=BOOKS&cd=190&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=eTQx-2VvovkC&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nonfiction_Matters.html?hl=&id=eTQx-2VvovkC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Nonfiction_Matters-sample-epub.acsm?id=eTQx-2VvovkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Nonfiction_Matters-sample-pdf.acsm?id=eTQx-2VvovkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eTQx-2VvovkC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>nonfiction</b>. There are many avenues by which to explore <b>nonfiction</b>; the newspaper is one. Magazines, picture books ... fiction, essay, memoir, and poetry can convey factual information in an interesting way\u2014can tell us real things&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BclmS4eMv_8C",
+      "etag": "h3L5i2KXZgI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BclmS4eMv_8C",
+      "volumeInfo": {
+        "title": "Access",
+        "authors": [
+          "Wendy Wren"
+        ],
+        "publisher": "Nelson Thornes",
+        "publishedDate": "2005",
+        "description": "The aim of Nelson Thornes Framework English Access is to raise standards in writing for lower attainers. Access Skills in Fiction and Non-Fiction offers the rigour and support necessary to raise the attainment of students struggling through Years 7 - 10.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "074879350X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780748793501"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 170,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.12.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BclmS4eMv_8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BclmS4eMv_8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=BclmS4eMv_8C&pg=PP9&dq=non-fiction&hl=&as_pt=BOOKS&cd=191&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=BclmS4eMv_8C&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Access.html?hl=&id=BclmS4eMv_8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Access-sample-pdf.acsm?id=BclmS4eMv_8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BclmS4eMv_8C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Non</b> - <b>fiction</b> : Conan Doyle 20 1.2 Fiction : The Silent World of Nicolas Quinn 24 1.2 <b>Non</b> - <b>fiction</b> : Return of the death penalty rejected 28 1.3 Fiction : The Enchanted Island 32 1.3 <b>Non</b> - <b>fiction</b> : Hamlet on screen 36 Unit 2 2.1&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z7p36FdLYdIC",
+      "etag": "H64rDpT4tVo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z7p36FdLYdIC",
+      "volumeInfo": {
+        "title": "Nonfiction Film",
+        "subtitle": "A Critical History Revised and Expanded",
+        "authors": [
+          "Richard Barsam"
+        ],
+        "publisher": "Indiana University Press",
+        "publishedDate": "1992-11-22",
+        "description": "\"Richard Barsam has given us as comprehensive a study of the origins and development of the nonfiction mode in motion pictures as we are ever likely to have in one volume. He draws on all the major written sources and many which are little known, and he shares with us many eloquent descriptions of the films themselves, giving us a valuable textbook.\" --Richard Dyer MacCann \"... superb work... \" --Historical Journal of Film, Radio, and Television",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0253207061"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780253207067"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 508,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=z7p36FdLYdIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=z7p36FdLYdIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=z7p36FdLYdIC&pg=PA376&dq=non-fiction&hl=&as_pt=BOOKS&cd=192&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=z7p36FdLYdIC&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nonfiction_Film.html?hl=&id=z7p36FdLYdIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Nonfiction_Film-sample-pdf.acsm?id=z7p36FdLYdIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z7p36FdLYdIC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>nonfiction</b> film has resulted in the gradual fading of the artificial distinctions that have traditionally separated fiction and <b>nonfiction</b> film . Filmmakers have consciously and deliberately defied the limitations of both genres&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EHeKdjktiZIC",
+      "etag": "5lHuBsO1R8c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EHeKdjktiZIC",
+      "volumeInfo": {
+        "title": "Reciprocities in the Nonfiction Novel",
+        "authors": [
+          "John Russell"
+        ],
+        "publisher": "University of Georgia Press",
+        "publishedDate": "2000",
+        "description": "Nonfiction novels have usually been associated with the \"new journalism\" writers of the 1960s such as Tom Wolfe, Norman Mailer, and Truman Capote. Yet this form has long commanded a key position in the literary canon, as John Russell now reveals. Russell identifies eleven major works not usually thought of as nonfiction novels, such as Isak Dinesen's Out of Africa and E. E. Cummings's The Enormous Room, to create a new definition of the genre. He shows that journalistic writing is characterized by a reporter's proprietary stance, which undermines reciprocity with subjects, while true nonfiction novels feature greater reciprocity and also employ such techniques as circular narrative and bricolage.Reciprocities in the Nonfiction Novel contributes to ongoing explorations of literary forms and offers wise commentary on how writing about real life can become art.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0820322024"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780820322025"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EHeKdjktiZIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EHeKdjktiZIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=EHeKdjktiZIC&pg=PA2&dq=non-fiction&hl=&as_pt=BOOKS&cd=193&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=EHeKdjktiZIC&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reciprocities_in_the_Nonfiction_Novel.html?hl=&id=EHeKdjktiZIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Reciprocities_in_the_Nonfiction_Novel-sample-epub.acsm?id=EHeKdjktiZIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Reciprocities_in_the_Nonfiction_Novel-sample-pdf.acsm?id=EHeKdjktiZIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EHeKdjktiZIC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b> . &quot; Some works of travel literature , for example , are as complex as <b>novels</b> , whereas a travelogue is <b>not</b> . What distinguishes the one from the other is , almost always , a searching quality . The authors of travelogues , as a&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Q6KMDwAAQBAJ",
+      "etag": "IAWIU8Kxc0M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q6KMDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Everything Guide to Writing Nonfiction",
+        "subtitle": "All you need to write and sell exceptional nonfiction books, articles, essays, reviews, and memoirs",
+        "authors": [
+          "Richard D Bank"
+        ],
+        "publisher": "Everything",
+        "publishedDate": "2009-12-18",
+        "description": "Everyone wants to be a published writer. But only a few manage to break into print. In this guide, Richard D. Bank provides expert advice to help you reach your goals of writing and selling articles, essays, and books. Featuring step-by-step instructions covering all aspects of writing, including how to: Master the elements of creative nonfiction Conduct interviews and take accurate notes Find your unique voice Develop good research and editing skills Write with authority and confidence Sell writing to periodicals and publishers Whether you want to write an intimate memoir, a magazine story, or a scholarly article, you\u2019ll find all you need to see your bylines in print.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781605506302"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1605506303"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "Reference"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Q6KMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Q6KMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Q6KMDwAAQBAJ&pg=PA10&dq=non-fiction&hl=&as_pt=BOOKS&cd=194&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Q6KMDwAAQBAJ&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Everything_Guide_to_Writing_Nonficti.html?hl=&id=Q6KMDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q6KMDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... not allow the same latitude with works of <b>non</b>- <b>fiction</b> because by definition , <b>nonfiction</b> means it is factual . But like movie scripts , in <b>nonfiction</b> only the writer of the words knows for certain from whence they came . Consequently , not&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3KjMyAaLGmYC",
+      "etag": "XATN8G5FQIs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3KjMyAaLGmYC",
+      "volumeInfo": {
+        "title": "Exploring Nonfiction with Young Learners",
+        "authors": [
+          "Darla Miner",
+          "Jill Zitnay"
+        ],
+        "publisher": "R&L Education",
+        "publishedDate": "2012",
+        "description": "Exploring Nonfiction with Young Learners explores the four basic nonfiction structures that the youngest learners are most likely to encounter: descriptive, recount/collection, procedural, and explanatory texts. This book also includes information to help teach four, more complex structures that younger readers sometimes encounter during read-alouds: comparison, response, causation/cause and effect, and persuasive genres. This book is organized to help plan lessons using each type of nonfiction structure. Strategies and suggestions for activities to use before, during and after reading are included. Templates and graphic organizers are also provided in order to facilitate planning, and offer additional resources. Detailed information about each text structure as well as mentor texts to illustrate each type is included. Text structures, as well as text access features, are defined and located in easy reference charts. Whole class and small group planning ideas are included throughout the book in order to allow for differentiation. Additionally, assessment ideas, sample think-alouds, lesson planning templates, and sample lessons with completed graphic organizers are included for each text structure.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781610484930"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1610484932"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 151,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3KjMyAaLGmYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3KjMyAaLGmYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=3KjMyAaLGmYC&pg=PR7&dq=non-fiction&hl=&as_pt=BOOKS&cd=195&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=3KjMyAaLGmYC&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Exploring_Nonfiction_with_Young_Learners.html?hl=&id=3KjMyAaLGmYC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Exploring_Nonfiction_with_Young_Learners-sample-pdf.acsm?id=3KjMyAaLGmYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3KjMyAaLGmYC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>nonfiction</b> at three reading recovery levels below that of their fiction reading. That means that many students will have difficulty understanding what they read in subjects such as science and social studies. Early practice in <b>nonfiction</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OQTPDTBkN3MC",
+      "etag": "u9D35TprpHM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OQTPDTBkN3MC",
+      "volumeInfo": {
+        "title": "Philosophy of Film and Motion Pictures",
+        "subtitle": "An Anthology",
+        "authors": [
+          "No\u00ebl Carroll",
+          "Jinhee Choi"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2009-02-09",
+        "description": "Designed for classroom use, this authoritative anthology presentskey selections from the best contemporary work in philosophy offilm. The featured essays have been specially chosen for theirclarity, philosophical depth, and consonance with the current movetowards cognitive film theory Eight sections with introductions cover topics such as thenature of film, film as art, documentary cinema, narration andemotion in film, film criticism, and film's relation to knowledgeand morality Issues addressed include the objectivity of documentary films,fear of movie monsters, and moral questions surrounding the viewingof pornography Replete with examples and discussion of moving picturesthroughout",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781405152013"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "140515201X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OQTPDTBkN3MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OQTPDTBkN3MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=OQTPDTBkN3MC&pg=PT166&dq=non-fiction&hl=&as_pt=BOOKS&cd=196&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OQTPDTBkN3MC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OQTPDTBkN3MC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 109,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 109,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=OQTPDTBkN3MC&rdid=book-OQTPDTBkN3MC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 109000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 109000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Philosophy_of_Film_and_Motion_Pictures-sample-pdf.acsm?id=OQTPDTBkN3MC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OQTPDTBkN3MC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... fiction or <b>non</b>-<b>fiction</b>. Therefore, the question of the presence or absence of a representational ve- hicle is irrelevant to deciding a difference in the fictional/<b>non</b>-<b>fictional</b> status of the two cases. Furthermore, what Metz vaguely&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PFna_nhFzNkC",
+      "etag": "KYpSD8OeMEw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PFna_nhFzNkC",
+      "volumeInfo": {
+        "title": "Introducing Nonfiction Writing in the Early Grades",
+        "subtitle": "Lessons, Activities, and Graphic Organizers That Teach Young Children What Nonfiction Is and How to Write It",
+        "authors": [
+          "Jodi Weisbart Mahoney"
+        ],
+        "publisher": "Scholastic Inc.",
+        "publishedDate": "2002-10",
+        "description": "Presents tools, including lessons, activities, and graphic organizers, for teaching children in grades K-2 how to understand and write nonfiction; covers using research tools, conducting whole-class research, sharing resources, and editing and compiling.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0439338166"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780439338165"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 84,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.4.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PFna_nhFzNkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PFna_nhFzNkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PFna_nhFzNkC&pg=PP84&dq=non-fiction&hl=&as_pt=BOOKS&cd=197&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=PFna_nhFzNkC&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introducing_Nonfiction_Writing_in_the_Ea.html?hl=&id=PFna_nhFzNkC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Introducing_Nonfiction_Writing_in_the_Ea-sample-pdf.acsm?id=PFna_nhFzNkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PFna_nhFzNkC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Nonfiction</b> Writing in K - 2 t&#39;s never too early for students to begin writing <b>nonfiction</b> . In this outstanding book , Jodi Weisbart Mahoney demonstrates ways help students \u2022 understand fiction versus <b>nonfiction</b> ; \u2022 brainstorm topics and&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KpdDEAAAQBAJ",
+      "etag": "vKnl/YADsVo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KpdDEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Holocaust Cinema Complete",
+        "subtitle": "A History and Analysis of 400 Films, with a Teaching Guide",
+        "authors": [
+          "Rich Brownstein"
+        ],
+        "publisher": "McFarland",
+        "publishedDate": "2021-10-01",
+        "description": "Holocaust movies have become an important segment of world cinema and the de-facto Holocaust education for many. One quarter of all American-produced Holocaust-related feature films have won or been nominated for at least one Oscar. In fact, from 1945 through 1991, half of all American Holocaust features were nominated. Yet most Holocaust movies have fallen through the cracks and few have been commercially successful. This book explores these trends--and many others--with a comprehensive guide to hundreds of films and made-for-television movies. From Anne Frank to Schindler's List to Jojo Rabbit, more than 400 films are examined from a range of perspectives--historical, chronological, thematic, sociological, geographical and individual. The filmmakers are contextualized, including Charlie Chaplin, Sidney Lumet, Steven Spielberg, Quentin Tarantino and Roman Polanski. Recommendations and reviews of the 50 best Holocaust films are included, along with an educational guide, a detailed listing of all films covered and a four-part index-glossary.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781476684161"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1476684162"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 489,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KpdDEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KpdDEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=KpdDEAAAQBAJ&pg=PA56&dq=non-fiction&hl=&as_pt=BOOKS&cd=198&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=KpdDEAAAQBAJ&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Holocaust_Cinema_Complete.html?hl=&id=KpdDEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Holocaust_Cinema_Complete-sample-pdf.acsm?id=KpdDEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KpdDEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Non</b>-<b>Fiction</b> Fictional/ Genre The Pianist 2002 <b>Non</b>-<b>Fiction</b> Victim Emmy Oscar/ Nom. Yes Out of the Ashes (TV) 2003 <b>Non</b>-<b>Fiction</b> Victim Yes Fateless\u2014Sorstalans\u00e1g 2005 <b>Non</b>-<b>Fiction</b> Victim The Counterfeiters\u2014Die F\u00e4lscher 2007 <b>Non</b>-<b>Fiction</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2d18SYN7TZsC",
+      "etag": "RAF7iFejwr0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2d18SYN7TZsC",
+      "volumeInfo": {
+        "title": "Bookwise",
+        "subtitle": "Teacher's guide",
+        "authors": [
+          "Sharon Parsons"
+        ],
+        "publisher": "Nelson Thornes",
+        "publishedDate": "2001",
+        "description": "With a balance of fiction and non-fiction text types and genres, Bookwise is carefully graded and organised into five cross-curricular strands, encouraging links to other subjects. The full-colour readers are accompanied by Teacher's Guides and Resource Sheets to help you get the most out of your Guided Reading and Writing sessions.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780748759217"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0748759212"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2d18SYN7TZsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2d18SYN7TZsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2d18SYN7TZsC&pg=PA7&dq=non-fiction&hl=&as_pt=BOOKS&cd=199&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2d18SYN7TZsC&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bookwise.html?hl=&id=2d18SYN7TZsC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Bookwise-sample-pdf.acsm?id=2d18SYN7TZsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2d18SYN7TZsC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... ( <b>Non</b> - <b>fiction</b> ) \u2022 Health Optometrist ( <b>Non</b> - <b>fiction</b> ) \u2022 Humanities Detector Dog ( <b>Non</b> - <b>fiction</b> ) Ready For Take - Off ! ( <b>Non</b> - <b>fiction</b> ) \u2022 Science I Spy ! ( <b>Non</b> - <b>fiction</b> ) Sensational ! ( <b>Non</b> - <b>fiction</b> ) Transportation \u2022 Health Fast&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qzIXoq9g2X8C",
+      "etag": "is2f+OQ0HjA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qzIXoq9g2X8C",
+      "volumeInfo": {
+        "title": "Strategies that Work",
+        "subtitle": "Teaching Comprehension for Understanding and Engagement",
+        "authors": [
+          "Stephanie Harvey",
+          "Anne Goudvis"
+        ],
+        "publisher": "Stenhouse Publishers",
+        "publishedDate": "2007",
+        "description": "Describes strategies teachers can use to promote reading comprehension in students from kindergarten through eighth grade; and includes examples of student work, illustrations, and other reference tools.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781571104816"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "157110481X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 361,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qzIXoq9g2X8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qzIXoq9g2X8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qzIXoq9g2X8C&pg=PA156&dq=non-fiction&hl=&as_pt=BOOKS&cd=200&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=qzIXoq9g2X8C&dq=non-fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Strategies_that_Work.html?hl=&id=qzIXoq9g2X8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Strategies_that_Work-sample-epub.acsm?id=qzIXoq9g2X8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Strategies_that_Work-sample-pdf.acsm?id=qzIXoq9g2X8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qzIXoq9g2X8C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Nonfiction</b>. When we teach the strategy of determining importance, we often introduce it in <b>nonfiction</b>. They go together ... fiction and other narrative genre, they often infer the bigger ideas and themes in the story, as the kids in&nbsp;..."
+      }
+    }
+  ]
+}

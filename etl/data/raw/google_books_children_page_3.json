@@ -1,0 +1,2992 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "PDR_ahkTf44C",
+      "etag": "Bup20kfJFlM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PDR_ahkTf44C",
+      "volumeInfo": {
+        "title": "Subject Index of the Modern Books Acquired by the British Museum in the Years 1916-1920",
+        "authors": [
+          "British Museum. Department of Printed Books"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433069275604"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1040,
+        "printType": "BOOK",
+        "categories": [
+          "Best books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PDR_ahkTf44C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PDR_ahkTf44C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PDR_ahkTf44C&pg=PA164&dq=children&hl=&as_pt=BOOKS&cd=121&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PDR_ahkTf44C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PDR_ahkTf44C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=PDR_ahkTf44C&rdid=book-PDR_ahkTf44C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Subject_Index_of_the_Modern_Books_Acquir.epub?id=PDR_ahkTf44C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PDR_ahkTf44C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>CHILDREN</b> . - Child Labour - continued . ROCHESTER . ( A. ) Child Labour in Warring Countries . pp . 75. Washington , 1917. [ U.S.A. <b>Children&#39;s</b> Bureau ... <b>CHILDREN</b> . Defective <b>Children</b> continued . - MARCQUEBREUCQ ( 164 <b>CHILDREN CHILDREN</b>."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C-2vBYKpe20C",
+      "etag": "Q0J7LN6EUgA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C-2vBYKpe20C",
+      "volumeInfo": {
+        "title": "Journal of Education",
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IOWA:31858029915646"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 808,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C-2vBYKpe20C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C-2vBYKpe20C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=C-2vBYKpe20C&pg=PA717&dq=children&hl=&as_pt=BOOKS&cd=122&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=C-2vBYKpe20C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=C-2vBYKpe20C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=C-2vBYKpe20C&rdid=book-C-2vBYKpe20C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Journal_of_Education.epub?id=C-2vBYKpe20C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C-2vBYKpe20C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children</b> , but practically no satisfactory demonstrations have been made of any schools provided for gifted <b>children</b> that have made as good records in personal achieve- ment as are made by the public school in the same cities . There&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C2ZDDwAAQBAJ",
+      "etag": "q+DWM5nIPgg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C2ZDDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Go Show the World",
+        "subtitle": "A Celebration of Indigenous Heroes",
+        "authors": [
+          "Wab Kinew"
+        ],
+        "publisher": "Tundra Books",
+        "publishedDate": "2018-09-11",
+        "description": "\"We are a people who matter.\" Inspired by President Barack Obama's Of Thee I Sing, Go Show the World is a tribute to historic and modern-day Indigenous heroes, featuring important figures such as Tecumseh, Sacagawea and former NASA astronaut John Herrington. Celebrating the stories of Indigenous people throughout time, Wab Kinew has created a powerful rap song, the lyrics of which are the basis for the text in this beautiful picture book, illustrated by the acclaimed Joe Morse. Including figures such as Crazy Horse, Net-no-kwa, former NASA astronaut John Herrington and Canadian NHL goalie Carey Price, Go Show the World showcases a diverse group of Indigenous people in the US and Canada, both the more well known and the not- so-widely recognized. Individually, their stories, though briefly touched on, are inspiring; collectively, they empower the reader with this message: \"We are people who matter, yes, it's true; now let's show the world what people who matter can do.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780735262935"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0735262934"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 44,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C2ZDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C2ZDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=C2ZDDwAAQBAJ&printsec=frontcover&dq=children&hl=&as_pt=BOOKS&cd=123&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=C2ZDDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=C2ZDDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 10.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=C2ZDDwAAQBAJ&rdid=book-C2ZDDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Go_Show_the_World-sample-epub.acsm?id=C2ZDDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Go_Show_the_World-sample-pdf.acsm?id=C2ZDDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C2ZDDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Celebrating the stories of Indigenous people throughout time, Wab Kinew has created a powerful rap song, the lyrics of which are the basis for the text in this beautiful picture book, illustrated by the acclaimed Joe Morse."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_lUzxQEACAAJ",
+      "etag": "3fUoXOxTATg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_lUzxQEACAAJ",
+      "volumeInfo": {
+        "title": "The Boy, the Mole, the Fox and the Horse",
+        "authors": [
+          "Charlie Mackesy"
+        ],
+        "publisher": "HarperOne",
+        "publishedDate": "2019-10-29",
+        "description": "From the revered British illustrator, a modern fable for all ages that explores life's universal lessons, featuring 100 color and black-and-white drawings. \"What do you want to be when you grow up?\" asked the mole. \"Kind,\" said the boy. Charlie Mackesy offers inspiration and hope in uncertain times in this beautiful book based on his famous quartet of characters. The Boy, the Mole, the Fox, and the Horse explores their unlikely friendship and the poignant, universal lessons they learn together. Radiant with Mackesy's warmth and gentle wit, The Boy, the Mole, the Fox, and the Horse blends hand-written narrative with dozens of drawings, including some of his best-loved illustrations (including \"Help,\" which has been shared over one million times) and new, never-before-seen material. A modern classic in the vein of The Tao of Pooh, The Alchemist, and The Giving Tree, this charmingly designed keepsake will be treasured for generations to come.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0062976583"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062976581"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_lUzxQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_lUzxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_lUzxQEACAAJ&dq=children&hl=&as_pt=BOOKS&cd=124&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=_lUzxQEACAAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Boy_the_Mole_the_Fox_and_the_Horse.html?hl=&id=_lUzxQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_lUzxQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;A modern, illustrated fable for readers of all ages that explores life&#39;s universal lessons from beloved British illustrator Charlie Mackesy&quot;--"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q6KP3W0Vt-MC",
+      "etag": "MO2It7Knu9w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q6KP3W0Vt-MC",
+      "volumeInfo": {
+        "title": "The Official Year Book of New South Wales",
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112113398314"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1062,
+        "printType": "BOOK",
+        "categories": [
+          "New South Wales"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.13.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q6KP3W0Vt-MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q6KP3W0Vt-MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=q6KP3W0Vt-MC&pg=PA411&dq=children&hl=&as_pt=BOOKS&cd=125&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=q6KP3W0Vt-MC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=q6KP3W0Vt-MC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=q6KP3W0Vt-MC&rdid=book-q6KP3W0Vt-MC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Official_Year_Book_of_New_South_Wale.epub?id=q6KP3W0Vt-MC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q6KP3W0Vt-MC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>CHILDREN&#39;S</b> COURTS . <b>Children&#39;s</b> Courts under the Neglected <b>Children</b> and Juvenile Offenders Act , 1905 , were established throughout the State with the object of removing <b>children</b> as far as possible from the atmosphere of a public court&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9xW-wgEACAAJ",
+      "etag": "L0cslWeaBaE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9xW-wgEACAAJ",
+      "volumeInfo": {
+        "title": "Denslow's Humpty Dumpty [eBook - NC Digital Library]",
+        "authors": [
+          "William Wallace Denslow"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1084587115"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9xW-wgEACAAJ&dq=children&hl=&as_pt=BOOKS&cd=126&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9xW-wgEACAAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Denslow_s_Humpty_Dumpty_eBook_NC_Digital.html?hl=&id=9xW-wgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9xW-wgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u82aRGWZM0wC",
+      "etag": "dv3qxLdNa2k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u82aRGWZM0wC",
+      "volumeInfo": {
+        "title": "The Institution Quarterly",
+        "publishedDate": "1925",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000131601191"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 346,
+        "printType": "BOOK",
+        "categories": [
+          "Public welfare"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u82aRGWZM0wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u82aRGWZM0wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=u82aRGWZM0wC&pg=PA159&dq=children&hl=&as_pt=BOOKS&cd=127&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=u82aRGWZM0wC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=u82aRGWZM0wC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=u82aRGWZM0wC&rdid=book-u82aRGWZM0wC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Institution_Quarterly.epub?id=u82aRGWZM0wC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u82aRGWZM0wC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children</b> . III The Care of <b>Children</b> . ( a ) <b>Children</b> shall be given a thorough physical examination by a competent physician , if possible , before , and in no case later than forty - eight hours after they are received in a boarding&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cLxAtwEACAAJ",
+      "etag": "CM3fa300AFs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cLxAtwEACAAJ",
+      "volumeInfo": {
+        "title": "Beautiful Things",
+        "subtitle": "An Orthodox Coloring Book for Children",
+        "publishedDate": "2018-06-05",
+        "description": "The Orthodox Christian experience is infused with beauty. God calls to us through the presence of beautiful things-from the elegant chalice that houses Christ's very body to the icons of beloved saints hanging in our homes. Beautiful Things is a 64-page coloring book for our littlest believers. As they color the Good Shepherd or the Jesus Prayer, they are cultivating their own sensibility to beauty while learning to recognize some of the meaningful symbols, elements, and motifs of the Church.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1944967427"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781944967420"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cLxAtwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cLxAtwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cLxAtwEACAAJ&dq=children&hl=&as_pt=BOOKS&cd=128&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=cLxAtwEACAAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beautiful_Things.html?hl=&id=cLxAtwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cLxAtwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "God calls to us through the presence of beautiful things-from the elegant chalice that houses Christ&#39;s very body to the icons of beloved saints hanging in our homes. Beautiful Things is a 64-page coloring book for our littlest believers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mKzOP1vChTAC",
+      "etag": "ejBDfdM8SuY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mKzOP1vChTAC",
+      "volumeInfo": {
+        "title": "Closing Children's Homes",
+        "subtitle": "An End to Residential Child care?",
+        "authors": [
+          "David Berridge",
+          "David Cliffe"
+        ],
+        "publisher": "JKP",
+        "publishedDate": "1991-01-01",
+        "description": "This ebook reports on the unprecedented and radical step taken by Warwickshire Social Services Department when, in 1986, it closed the last of its children's homes. This book examines the background to these developments, the reasons for them and their consequences. The findings are set in the context of the crisis of confidence in residential child care that occurred in the early 1990's culminating in the Pindown Report on Staffordshire which revealed an alarming catalogue of inhuman and degrading treatment of children in residential care. This research, undertaken by NCB, reports findings that have major national and international significance. The future role of children's homes is in question and this study examines whether foster care, in particular, is more effective at meeting children's needs than residential care. Young people's own views are included and the work is presented very much in the context of the Children Act 1989.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781905818990"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1905818998"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mKzOP1vChTAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mKzOP1vChTAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=mKzOP1vChTAC&pg=PA130&dq=children&hl=&as_pt=BOOKS&cd=129&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mKzOP1vChTAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mKzOP1vChTAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.96,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mKzOP1vChTAC&rdid=book-mKzOP1vChTAC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7960000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Closing_Children_s_Homes-sample-pdf.acsm?id=mKzOP1vChTAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mKzOP1vChTAC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children</b> in care , in their study of the experiences of <b>children</b> who were in long - term foster care . In their book , the information was based on a relatively small sample and mainly came from interviews with <b>children</b> , foster carers&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "APzgCL8mgHUC",
+      "etag": "XBlwayRsz8k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/APzgCL8mgHUC",
+      "volumeInfo": {
+        "title": "The Whole-Brain Child",
+        "subtitle": "12 Revolutionary Strategies to Nurture Your Child's Developing Mind",
+        "authors": [
+          "Daniel J. Siegel, MD",
+          "Tina Payne Bryson"
+        ],
+        "publisher": "Delacorte Press",
+        "publishedDate": "2011-10-04",
+        "description": "NEW YORK TIMES BESTSELLER \u2022 More than 1 million copies in print! \u2022 The authors of No-Drama Discipline and The Yes Brain explain the new science of how a child\u2019s brain is wired and how it matures in this pioneering, practical book. \u201cSimple, smart, and effective solutions to your child\u2019s struggles.\u201d\u2014Harvey Karp, M.D. In this pioneering, practical book, Daniel J. Siegel, neuropsychiatrist and author of the bestselling Mindsight, and parenting expert Tina Payne Bryson offer a revolutionary approach to child rearing with twelve key strategies that foster healthy brain development, leading to calmer, happier children. The authors explain\u2014and make accessible\u2014the new science of how a child\u2019s brain is wired and how it matures. The \u201cupstairs brain,\u201d which makes decisions and balances emotions, is under construction until the mid-twenties. And especially in young children, the right brain and its emotions tend to rule over the logic of the left brain. No wonder kids throw tantrums, fight, or sulk in silence. By applying these discoveries to everyday parenting, you can turn any outburst, argument, or fear into a chance to integrate your child\u2019s brain and foster vital growth. Complete with age-appropriate strategies for dealing with day-to-day struggles and illustrations that will help you explain these concepts to your child, The Whole-Brain Child shows you how to cultivate healthy emotional and intellectual development so that your children can lead balanced, meaningful, and connected lives. \u201c[A] useful child-rearing resource for the entire family . . . The authors include a fair amount of brain science, but they present it for both adult and child audiences.\u201d\u2014Kirkus Reviews \u201cStrategies for getting a youngster to chill out [with] compassion.\u201d\u2014The Washington Post \u201cThis erudite, tender, and funny book is filled with fresh ideas based on the latest neuroscience research. I urge all parents who want kind, happy, and emotionally healthy kids to read The Whole-Brain Child. This is my new baby gift.\u201d\u2014Mary Pipher, Ph.D., author of Reviving Ophelia and The Shelter of Each Other \u201cGives parents and teachers ideas to get all parts of a healthy child\u2019s brain working together.\u201d\u2014Parent to Parent",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780553907254"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0553907255"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 194,
+        "printType": "BOOK",
+        "categories": [
+          "Family & Relationships"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.21.15.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=APzgCL8mgHUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=APzgCL8mgHUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=APzgCL8mgHUC&printsec=frontcover&dq=children&hl=&as_pt=BOOKS&cd=130&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=APzgCL8mgHUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=APzgCL8mgHUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=APzgCL8mgHUC&rdid=book-APzgCL8mgHUC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Whole_Brain_Child-sample-epub.acsm?id=APzgCL8mgHUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=APzgCL8mgHUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is my new baby gift.\u201d\u2014Mary Pipher, Ph.D., author of Reviving Ophelia and The Shelter of Each Other \u201cGives parents and teachers ideas to get all parts of a healthy child\u2019s brain working together.\u201d\u2014Parent to Parent"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5BgsEAAAQBAJ",
+      "etag": "hYiE66QDmIs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5BgsEAAAQBAJ",
+      "volumeInfo": {
+        "title": "SkySisters",
+        "authors": [
+          "Jan Bourdeau Waboose"
+        ],
+        "publisher": "Kids Can Press Ltd",
+        "publishedDate": "2021-04-15",
+        "description": "Wisdom comes to two Ojibway sisters as they share a powerful night together watching the northern lights.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781525308550"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1525308556"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5BgsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5BgsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=5BgsEAAAQBAJ&printsec=frontcover&dq=children&hl=&as_pt=BOOKS&cd=131&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5BgsEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5BgsEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=5BgsEAAAQBAJ&rdid=book-5BgsEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/SkySisters-sample-epub.acsm?id=5BgsEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/SkySisters-sample-pdf.acsm?id=5BgsEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5BgsEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Wisdom comes to two Ojibway sisters as they share a powerful night together watching the northern lights."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MCguDgAAQBAJ",
+      "etag": "+c39yHKxo9o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MCguDgAAQBAJ",
+      "volumeInfo": {
+        "title": "When We Were Alone",
+        "authors": [
+          "David A. Robertson"
+        ],
+        "publisher": "Portage & Main Press",
+        "publishedDate": "2017-02-13",
+        "description": "Winner of the 2017 Governor General's Literary Award! A young girl notices things about her grandmother that make her curious. Why does her grandmother have long, braided hair and beautifully coloured clothing? Why does she speak Cree and spend so much time with her family? As the girl asks questions, her grandmother shares her experiences in a residential school, when all of these things were taken away. Also available in a bilingual Swampy Cree/English edition. Download the free teacher guide on the Portage & Main Press website.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781553796961"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1553796969"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.7.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MCguDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MCguDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=MCguDgAAQBAJ&printsec=frontcover&dq=children&hl=&as_pt=BOOKS&cd=132&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MCguDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MCguDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 16,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MCguDgAAQBAJ&rdid=book-MCguDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 16000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/When_We_Were_Alone-sample-pdf.acsm?id=MCguDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MCguDgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Also available in a bilingual Swampy Cree/English edition. Download the free teacher guide on the Portage &amp; Main Press website."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Q_eS3UTZXAcC",
+      "etag": "CIepaRKcgLo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q_eS3UTZXAcC",
+      "volumeInfo": {
+        "title": "The Delineator",
+        "authors": [
+          "R. S. O'Loughlin",
+          "H. F. Montgomery",
+          "Charles Dwyer"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32435065936403"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 674,
+        "printType": "BOOK",
+        "categories": [
+          "Dressmaking"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Q_eS3UTZXAcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Q_eS3UTZXAcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Q_eS3UTZXAcC&pg=RA4-PA79&dq=children&hl=&as_pt=BOOKS&cd=133&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Q_eS3UTZXAcC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Q_eS3UTZXAcC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Q_eS3UTZXAcC&rdid=book-Q_eS3UTZXAcC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Delineator.epub?id=Q_eS3UTZXAcC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q_eS3UTZXAcC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children</b> to do things . That&#39;s to turn routine into play , &quot; SAYS DR . LESLIE E. LUEHRS , noted child psychologist MINNESOTA DEPT . V - 18 Check here if you wish sample of Cream of Wheat ...... Look for &quot; TALON &quot; 11111111 or HOOKLESS on&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1VvNAAAAMAAJ",
+      "etag": "PYeLmdpIglA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1VvNAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Report",
+        "authors": [
+          "New York (State). Department of Social Welfare"
+        ],
+        "publishedDate": "1905",
+        "description": "Reports for 1943-1966 include report of the New York State Board of Social Welfare.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015023156188"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 916,
+        "printType": "BOOK",
+        "categories": [
+          "Charities"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1VvNAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1VvNAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=1VvNAAAAMAAJ&pg=PA367&dq=children&hl=&as_pt=BOOKS&cd=134&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1VvNAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1VvNAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=1VvNAAAAMAAJ&rdid=book-1VvNAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Report.epub?id=1VvNAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Report.pdf?id=1VvNAAAAMAAJ&hl=&output=pdf&sig=ACfU3U3vV2ldwLkU99r_zW628runUWwPUw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1VvNAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Children&#39;s</b> Home Society of Schenectady ( The ) ...... American Female Guardian Society and Home for the Friendless , New Yorka . <b>Children&#39;s</b> Home , Middletown . Angel Guardian Home ( The ) ( of the Convent of the Sisters of Mercy )&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1q_xAwAAQBAJ",
+      "etag": "CrY5RqVHcIA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1q_xAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Oh, the Places You'll Go!",
+        "authors": [
+          "Dr. Seuss"
+        ],
+        "publisher": "RH Childrens Books",
+        "publishedDate": "2013-09-24",
+        "description": "Dr. Seuss\u2019s wonderfully wise Oh, the Places You\u2019ll Go! celebrates all of our special milestones\u2014from graduations to birthdays and beyond! \u201c[A] book that has proved to be popular for graduates of all ages since it was first published.\u201d\u2014The New York Times From soaring to high heights and seeing great sights to being left in a Lurch on a prickle-ly perch, Dr. Seuss addresses life\u2019s ups and downs with his trademark humorous verse and whimsical illustrations. The inspiring and timeless message encourages readers to find the success that lies within, no matter what challenges they face. A perennial favorite for anyone starting a new phase in their life!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780385371988"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0385371985"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 29,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1q_xAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1q_xAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=1q_xAwAAQBAJ&printsec=frontcover&dq=children&hl=&as_pt=BOOKS&cd=135&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1q_xAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1q_xAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=1q_xAwAAQBAJ&rdid=book-1q_xAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Oh_the_Places_You_ll_Go-sample-epub.acsm?id=1q_xAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Oh_the_Places_You_ll_Go-sample-pdf.acsm?id=1q_xAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1q_xAwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dr. Seuss\u2019s wonderfully wise Oh, the Places You\u2019ll Go! celebrates all of our special milestones\u2014from graduations to birthdays and beyond! \u201c[A] book that has proved to be popular for graduates of all ages since it was first published ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZliQRed6jw8C",
+      "etag": "4uVSyBHMixI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZliQRed6jw8C",
+      "volumeInfo": {
+        "title": "The Other Dog",
+        "authors": [
+          "Madeleine L'Engle"
+        ],
+        "publisher": "Chronicle Books",
+        "publishedDate": "2001-02",
+        "description": "The family poodle protests at first when the master and mistress bring home a new \"dog\" to share the household.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "158717040X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781587170409"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZliQRed6jw8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZliQRed6jw8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZliQRed6jw8C&printsec=frontcover&dq=children&hl=&as_pt=BOOKS&cd=136&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ZliQRed6jw8C&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Other_Dog.html?hl=&id=ZliQRed6jw8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Other_Dog-sample-pdf.acsm?id=ZliQRed6jw8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZliQRed6jw8C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The family poodle protests at first when the master and mistress bring home a new &quot;dog&quot; to share the household."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HnFHM7AsJx0C",
+      "etag": "LHGn62FXMYc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HnFHM7AsJx0C",
+      "volumeInfo": {
+        "title": "Corpus Juris",
+        "subtitle": "Being a Complete and Systematic Statement of the Whole Body of the Law as Embodied in and Developed by All Reported Decisions",
+        "authors": [
+          "William Mack",
+          "William Benjamin Hale"
+        ],
+        "publishedDate": "1919",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$C214998"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1450,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HnFHM7AsJx0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HnFHM7AsJx0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=HnFHM7AsJx0C&pg=PA274&dq=children&hl=&as_pt=BOOKS&cd=137&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HnFHM7AsJx0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HnFHM7AsJx0C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=HnFHM7AsJx0C&rdid=book-HnFHM7AsJx0C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Corpus_Juris.epub?id=HnFHM7AsJx0C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HnFHM7AsJx0C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children</b> shall inherit from the mother , where a deed of trust to hold for grantor&#39;s daughter and on her death to her <b>children</b> is made when the child had an illegitimate child living , it will be presumed that the &quot; <b>children</b> &quot; ex&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tV7NAAAAMAAJ",
+      "etag": "+I+P3FP16a0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tV7NAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Statement of the Boston Children's Aid Society",
+        "authors": [
+          "Boston Children's Aid Society"
+        ],
+        "publishedDate": "1884",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015024464458"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "categories": [
+          "Child welfare"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tV7NAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tV7NAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tV7NAAAAMAAJ&pg=PP1&dq=children&hl=&as_pt=BOOKS&cd=138&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tV7NAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tV7NAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=tV7NAAAAMAAJ&rdid=book-tV7NAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Statement_of_the_Boston_Children_s_Aid_S.epub?id=tV7NAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Statement_of_the_Boston_Children_s_Aid_S.pdf?id=tV7NAAAAMAAJ&hl=&output=pdf&sig=ACfU3U3EZW3SKiWtQcdDKs7J81FEKkhY_w&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tV7NAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Boston <b>Children&#39;s</b> Aid Society. HV 743 .B1 C54 From Dr. 8. A. Green TWENTIETH REPORT OF THE EXECUTIVE COMMITTEE , OF THE Boston <b>Children&#39;s</b> Aid Society FROM JUNE , 1883 , TO JUNE , 1884 . BOYS &#39; HOME PRESS , WEST NEWTON : 1884&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KvtMAAAAMAAJ",
+      "etag": "cODTVfcCWws",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KvtMAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Monthly Bulletin",
+        "authors": [
+          "New York (N.Y.). Department of Health"
+        ],
+        "publishedDate": "1919",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015022384070"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KvtMAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KvtMAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=KvtMAAAAMAAJ&pg=PA170&dq=children&hl=&as_pt=BOOKS&cd=139&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KvtMAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KvtMAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=KvtMAAAAMAAJ&rdid=book-KvtMAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Monthly_Bulletin.epub?id=KvtMAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Monthly_Bulletin.pdf?id=KvtMAAAAMAAJ&hl=&output=pdf&sig=ACfU3U0xjmOd_QUHfkOUnWPALM6GNSL62Q&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KvtMAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Children&#39;s</b> Hospital and School , which was first established as the &quot; nurseries . &quot; During this whole period , placing out of <b>children</b> by indenture or by boarding them with foundling keepers was practised to a greater or less degree&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RjuDzwEACAAJ",
+      "etag": "FGhjnfcw3KM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RjuDzwEACAAJ",
+      "volumeInfo": {
+        "title": "The Slant Book",
+        "authors": [
+          "Peter Newell"
+        ],
+        "publisher": "Legare Street Press",
+        "publishedDate": "2022-10-27",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the \"public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1018591559"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781018591551"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RjuDzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RjuDzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RjuDzwEACAAJ&dq=children&hl=&as_pt=BOOKS&cd=140&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=RjuDzwEACAAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Slant_Book.html?hl=&id=RjuDzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RjuDzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the &quot;public domain in the United States of America, and possibly other nations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3A9gX0IZOz8C",
+      "etag": "xZz2n4Bsm6k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3A9gX0IZOz8C",
+      "volumeInfo": {
+        "title": "The Law Reports of the Incorporated Council of Law Reporting",
+        "subtitle": "Cases determined in the Chancery Division and in lunacy and on appeal therefrom in the Court of Appeal",
+        "authors": [
+          "Great Britain. High Court of Justice. Chancery Division"
+        ],
+        "publishedDate": "1914",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32437121373340"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1060,
+        "printType": "BOOK",
+        "categories": [
+          "Equity"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3A9gX0IZOz8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3A9gX0IZOz8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=3A9gX0IZOz8C&pg=PA1020&dq=children&hl=&as_pt=BOOKS&cd=141&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3A9gX0IZOz8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3A9gX0IZOz8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=3A9gX0IZOz8C&rdid=book-3A9gX0IZOz8C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Law_Reports_of_the_Incorporated_Coun.epub?id=3A9gX0IZOz8C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3A9gX0IZOz8C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children</b> or child then living of any deceased child of his who , whether <b>children</b> or grandchildren , being male attain the age of twenty - one years or being female attain that age or marry . &quot; At the dates of the will and the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xiD6ABLrMOYC",
+      "etag": "jOTqHh9AQH8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xiD6ABLrMOYC",
+      "volumeInfo": {
+        "title": "Annual and Biennial Reports for ... Made to the ... General Assembly of the State of Ohio",
+        "authors": [
+          "Ohio"
+        ],
+        "publishedDate": "1910",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32435072547193"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 934,
+        "printType": "BOOK",
+        "categories": [
+          "Ohio"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xiD6ABLrMOYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xiD6ABLrMOYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xiD6ABLrMOYC&pg=PA750&dq=children&hl=&as_pt=BOOKS&cd=142&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xiD6ABLrMOYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xiD6ABLrMOYC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=xiD6ABLrMOYC&rdid=book-xiD6ABLrMOYC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Annual_and_Biennial_Reports_for_Made_to.epub?id=xiD6ABLrMOYC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xiD6ABLrMOYC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children&#39;s</b> homes and organiza- tions that make a specific business of seeking homes for the <b>children</b> , adopt much different methods , and they do not have much trouble in se- curing satisfactory homes . The statutes of Ohio provide&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jGYKzgEACAAJ",
+      "etag": "zfEPyA0fmaM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jGYKzgEACAAJ",
+      "volumeInfo": {
+        "title": "Animals of Nimaamaa-aki",
+        "subtitle": "(My Mother Earth)",
+        "publisher": "Independently Published",
+        "publishedDate": "2020-10-30",
+        "description": "Animals of Turtle Island is a story exploring the traits of our sacred animal relatives through imagination and wonder. This is the Ojibwe version. translated by Tara Dupui. It's an honor to teach my sons how to care for and respect all the amazing spirits of our beautiful homeland.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798555036667"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jGYKzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jGYKzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=jGYKzgEACAAJ&dq=children&hl=&as_pt=BOOKS&cd=143&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=jGYKzgEACAAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Animals_of_Nimaamaa_aki.html?hl=&id=jGYKzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jGYKzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Animals of My Mother Earth is a story exploring the traits of our sacred animal relatives through imagination and wonder. It&#39;s an honor to teach my sons how to care for and respect all the amazing spirits of our beautiful homeland."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ev3-Z8HB5FIC",
+      "etag": "dFTY8gFz1XY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ev3-Z8HB5FIC",
+      "volumeInfo": {
+        "title": "Children and Development",
+        "subtitle": "Report of the Working Conference",
+        "authors": [
+          "Angelien Eijsink"
+        ],
+        "publisher": "Ministry of Foreign Affairs Deve Ion Department",
+        "publishedDate": "1996",
+        "description": "Expands proposals originating in First Steps, a policy memorandum on children in developing countries formulated in 1994 by the Government of the Netherlands.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCBK:C054878903"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "categories": [
+          "Children"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ev3-Z8HB5FIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ev3-Z8HB5FIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Ev3-Z8HB5FIC&q=children&dq=children&hl=&as_pt=BOOKS&cd=144&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Ev3-Z8HB5FIC&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Children_and_Development.html?hl=&id=Ev3-Z8HB5FIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ev3-Z8HB5FIC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Children</b> to a large extent support themselves . They also play a crucial role in the local economy , particularly in the agricultural , fisheries and urban informal sectors . <b>Children</b> are responsible to a much greater degree than is&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EVGMDv5oAi4C",
+      "etag": "t1ar99mPpgc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EVGMDv5oAi4C",
+      "volumeInfo": {
+        "title": "Holy-days and holidays, a treasury of historical material, sermons, poetry [&c.] relating to holy days and holidays, compiled by E.M. Deems",
+        "authors": [
+          "Holy days"
+        ],
+        "publishedDate": "1902",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:603081786"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 786,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EVGMDv5oAi4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EVGMDv5oAi4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=EVGMDv5oAi4C&pg=PA291&dq=children&hl=&as_pt=BOOKS&cd=145&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=EVGMDv5oAi4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EVGMDv5oAi4C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=EVGMDv5oAi4C&rdid=book-EVGMDv5oAi4C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Holy_days_and_holidays_a_treasury_of_his.epub?id=EVGMDv5oAi4C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EVGMDv5oAi4C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children</b> . Compare the disciples hindering little chil- dren from going to Jesus ( Mark x : 13 , 14 ) . -P . 66 <b>CHILDREN&#39;S</b> AGE , The . - Nearly all the Christian denominations have come to adopt the second Sunday in June as <b>Children&#39;s</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8y0lAAAAMAAJ",
+      "etag": "Uy1RAX5U5bM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8y0lAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Sketch and Map of a Trip from Philadelphia to Tinicum Island, Delaware County, Pennsylvania, where the Swedes Founded the First Permanent Colony, and Established and Maintained for Twelve Years (from 1643 to 1655) the First Seat of Government in Pennsylvania, Thirty-nine Years Before the Coming of William Penn",
+        "subtitle": "This Itinerary Includes Points of Historic Interest in the Old Swedish Settlements, Wacaco, Passyunk and Kingsessing, Philadelphia",
+        "authors": [
+          "Henry D. Paxson"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015010215344"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 264,
+        "printType": "BOOK",
+        "categories": [
+          "Delaware"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8y0lAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8y0lAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8y0lAAAAMAAJ&pg=PA223&dq=children&hl=&as_pt=BOOKS&cd=146&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8y0lAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8y0lAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=8y0lAAAAMAAJ&rdid=book-8y0lAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Sketch_and_Map_of_a_Trip_from_Philadelph.epub?id=8y0lAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8y0lAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children</b> : Clas , 14 years ; Ann , 12 ; Catharine , 10 ; Christina , 8 ; John , 6 ; James , 2 ; Elizabeth , 3 ... <b>children</b> : John , Peter , Chris- Andrew Lycon . His wife Anna . Their child Christina . The servant girl Catharine&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "psTnWQ9RwvQC",
+      "etag": "nxbsItyNS6k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/psTnWQ9RwvQC",
+      "volumeInfo": {
+        "title": "Bulletin",
+        "authors": [
+          "American Lung Association"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112112365447"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "categories": [
+          "Lungs"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=psTnWQ9RwvQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=psTnWQ9RwvQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=psTnWQ9RwvQC&pg=RA2-PA123&dq=children&hl=&as_pt=BOOKS&cd=147&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=psTnWQ9RwvQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=psTnWQ9RwvQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=psTnWQ9RwvQC&rdid=book-psTnWQ9RwvQC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Bulletin.epub?id=psTnWQ9RwvQC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=psTnWQ9RwvQC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children</b> rise ; dress ; wash ; clean teeth ; comb hair . Teach <b>children</b> to dress themselves . A certain amount of order to be maintained . When ready , <b>children</b> sit on chairs and wait for bell . 7:30 \u0391 . M. - Breakfast Bell . <b>Children</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "esLr_o1p3eQC",
+      "etag": "nXHEPQbGxqM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/esLr_o1p3eQC",
+      "volumeInfo": {
+        "title": "Index to Publications of the American Association of Museums",
+        "subtitle": "Completed Serials: Proceedings of the American Association of Museums, 1907-1917; Museum Work, 1918-1926",
+        "authors": [
+          "American Association of Museums"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015038099290"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Museums"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=esLr_o1p3eQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=esLr_o1p3eQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=esLr_o1p3eQC&pg=PA10&dq=children&hl=&as_pt=BOOKS&cd=148&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=esLr_o1p3eQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=esLr_o1p3eQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=esLr_o1p3eQC&rdid=book-esLr_o1p3eQC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Index_to_Publications_of_the_American_As.epub?id=esLr_o1p3eQC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=esLr_o1p3eQC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Children</b> See also <b>Children&#39;s</b> Museum , Instruction Museum Work for the Boy Scouts Proc . 7 , 46 Museum Experiment , A Proc . 8 , 46 What the Fairbanks Museum Does for the <b>Children</b> M. W. 2 , 57 <b>Children&#39;s</b> Work at the Metropolitan Museum&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hZVxqxLcW0AC",
+      "etag": "sCOUj8VPuf0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hZVxqxLcW0AC",
+      "volumeInfo": {
+        "title": "The Relations of General Intelligence to Certain Mental and Physical Traits",
+        "authors": [
+          "Cyrus De Witt Mead"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112064570408"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "categories": [
+          "Child psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hZVxqxLcW0AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hZVxqxLcW0AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=hZVxqxLcW0AC&pg=PA78&dq=children&hl=&as_pt=BOOKS&cd=149&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hZVxqxLcW0AC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hZVxqxLcW0AC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=hZVxqxLcW0AC&rdid=book-hZVxqxLcW0AC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Relations_of_General_Intelligence_to.epub?id=hZVxqxLcW0AC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hZVxqxLcW0AC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children</b> , the author would offer the point that in the ability to perceive and to memorize defec- tive <b>children</b> do better than in any other of the more purely mental traits . It makes less difference with these <b>children</b> whether the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZhDtEAAAQBAJ",
+      "etag": "4V3f0i/6qmY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZhDtEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Skandar and the Unicorn Thief",
+        "authors": [
+          "A.F. Steadman"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2024-02-06",
+        "description": "Thirteen-year-old Skandar Smith has always wanted to be a Unicorn rider, but when the mysterious Weaver steals the most powerful unicorn in the world, Skandar must face sky battles, ancient secrets, and bloodthirsty unicorns in order to save his island.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781665912747"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "166591274X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 480,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZhDtEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZhDtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZhDtEAAAQBAJ&printsec=frontcover&dq=children&hl=&as_pt=BOOKS&cd=150&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ZhDtEAAAQBAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Skandar_and_the_Unicorn_Thief.html?hl=&id=ZhDtEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZhDtEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Thirteen-year-old Skandar Smith has always wanted to be a Unicorn rider, but when the mysterious Weaver steals the most powerful unicorn in the world, Skandar must face sky battles, ancient secrets, and bloodthirsty unicorns in order to ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lN1iDwAAQBAJ",
+      "etag": "vCUNsJWb2GM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lN1iDwAAQBAJ",
+      "volumeInfo": {
+        "title": "We Sang You Home / kik\u00ee-k\u00eew\u00ea-nikam\u00f4stam\u00e2tin\u00e2n",
+        "authors": [
+          "Richard Van Camp"
+        ],
+        "publisher": "Orca Book Publishers",
+        "publishedDate": "2018-09-18",
+        "description": "Key Selling Points A lyrical celebration of newborn babies. Richard Van Camp is the award-winning and bestselling author of Little You, Welcome Song for Baby and May We Have Enough to Share. Illustrator Julie Flett received a BolognaRagazzi Special Mention (2019) for her work on We Sang You Home. We Sang You Home was a CCBC Best Book and Bank Street College of Education Best Children's Book of the Year.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781459820166"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1459820169"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 31,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.11.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lN1iDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lN1iDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=lN1iDwAAQBAJ&printsec=frontcover&dq=children&hl=&as_pt=BOOKS&cd=151&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lN1iDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lN1iDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 16.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 16.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=lN1iDwAAQBAJ&rdid=book-lN1iDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/We_Sang_You_Home_kik%C3%AE_k%C3%AEw%C3%AA_nikam%C3%B4sta-sample-epub.acsm?id=lN1iDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/We_Sang_You_Home_kik%C3%AE_k%C3%AEw%C3%AA_nikam%C3%B4sta-sample-pdf.acsm?id=lN1iDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lN1iDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Key Selling Points A lyrical celebration of newborn babies. Richard Van Camp is the award-winning and bestselling author of Little You, Welcome Song for Baby and May We Have Enough to Share."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DGNjDwAAQBAJ",
+      "etag": "E9WzLgWjzl0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DGNjDwAAQBAJ",
+      "volumeInfo": {
+        "title": "A Father's Love",
+        "authors": [
+          "Hannah Holt"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2019-04-09",
+        "description": "This heartwarming book celebrates the love that fathers and children share in the animal kingdom, while also teaching young readers about colors. Perfect for new babies, new fathers, baby shower gifts, Father's Day gifts, and for kids who love their dads on any old day. Throughout the animal kingdom, in every part of the world, fathers love and care for their babies. This book takes readers around the globe and across the animal kingdom, showcasing the many ways fathers have of demonstrating their love. Whether it's a penguin papa snuggling with his baby in the frosty white snow, a lion dad playing with his cub in a yellow field, or a seahorse father protecting his young inside his pouch in the deep blue ocean, we see that a father's love comes in all shapes, sizes, and colors. With beautiful art that brings all of the dads and babies, and the love between them, to vivid, colorful life, this book is a celebration of the special bond that a father shares with his children.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525514213"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "052551421X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 19,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DGNjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DGNjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DGNjDwAAQBAJ&printsec=frontcover&dq=children&hl=&as_pt=BOOKS&cd=152&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DGNjDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DGNjDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=DGNjDwAAQBAJ&rdid=book-DGNjDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Father_s_Love-sample-epub.acsm?id=DGNjDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Father_s_Love-sample-pdf.acsm?id=DGNjDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DGNjDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This heartwarming book celebrates the love that fathers and children share in the animal kingdom, while also teaching young readers about colors."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sNgEMSPtO_oC",
+      "etag": "LSzFnpsmtTM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sNgEMSPtO_oC",
+      "volumeInfo": {
+        "title": "Annual Report of the Attorney General to the Governor of the State of Ohio",
+        "authors": [
+          "Ohio. Attorney General's Office"
+        ],
+        "publishedDate": "1914",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32435084442680"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1028,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sNgEMSPtO_oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sNgEMSPtO_oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=sNgEMSPtO_oC&pg=PA1195&dq=children&hl=&as_pt=BOOKS&cd=153&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=sNgEMSPtO_oC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sNgEMSPtO_oC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=sNgEMSPtO_oC&rdid=book-sNgEMSPtO_oC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Annual_Report_of_the_Attorney_General_to.epub?id=sNgEMSPtO_oC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sNgEMSPtO_oC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... ( <b>children&#39;s</b> home ) shall be an asylum for <b>children</b> under the age of sixteen years , of sound mind and free from infectious or contagious diseases , who have resided in the county not less than one year , and for such other <b>children</b> under&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h337ewaM3h0C",
+      "etag": "ae8oq45N+cI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h337ewaM3h0C",
+      "volumeInfo": {
+        "title": "Children of Bangladesh and Their Rights",
+        "subtitle": "Progress Towards the Realisation of Children's Rights Under the Convention on the Rights of the Child",
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951D02129072M"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "categories": [
+          "Children"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=h337ewaM3h0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=h337ewaM3h0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=h337ewaM3h0C&q=children&dq=children&hl=&as_pt=BOOKS&cd=154&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=h337ewaM3h0C&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Children_of_Bangladesh_and_Their_Rights.html?hl=&id=h337ewaM3h0C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h337ewaM3h0C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children</b> not in school or <b>children</b> under 5 severely malnourished - which are designed to show the &quot; unfinished agenda &quot; . The ten districts featured in each table comprise the five with the highest status in relation to the indicator in&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oP4aAAAAMAAJ",
+      "etag": "Erc+uLSuvOA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oP4aAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Annual Report",
+        "authors": [
+          "Free Public Library (Worcester, Mass.)"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015036736786"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 700,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oP4aAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oP4aAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oP4aAAAAMAAJ&pg=PA454&dq=children&hl=&as_pt=BOOKS&cd=155&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oP4aAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oP4aAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=oP4aAAAAMAAJ&rdid=book-oP4aAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Annual_Report.epub?id=oP4aAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Annual_Report.pdf?id=oP4aAAAAMAAJ&hl=&output=pdf&sig=ACfU3U2ObsI-P2wzBIKn4e-BmUNx3MyeCA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oP4aAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children&#39;s</b> department , 4,279 ) . Number of volumes delivered from <b>children&#39;s</b> department to the schools and other distributing centers , 47,612 Total number of volumes circulated from the <b>children&#39;s</b> department , 141,933 Number of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QeuUm2nDuvsC",
+      "etag": "mpr5vIbsvH0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QeuUm2nDuvsC",
+      "volumeInfo": {
+        "title": "What Social Workers Should Know about Their Own Communities",
+        "subtitle": "An Outline",
+        "authors": [
+          "Margaret Frances Byington"
+        ],
+        "publishedDate": "1917",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UGA:32108011570028"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 60,
+        "printType": "BOOK",
+        "categories": [
+          "Charity organization"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QeuUm2nDuvsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QeuUm2nDuvsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QeuUm2nDuvsC&pg=PA31&dq=children&hl=&as_pt=BOOKS&cd=156&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QeuUm2nDuvsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QeuUm2nDuvsC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=QeuUm2nDuvsC&rdid=book-QeuUm2nDuvsC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/What_Social_Workers_Should_Know_about_Th.epub?id=QeuUm2nDuvsC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QeuUm2nDuvsC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children</b> is adequate but also whether it is sufficiently safeguarded . Some institutions which receive a per capita state subsidy are over- willing to receive <b>children</b> , and take those who should be cared for by parents , relatives&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X55tXYjzpKoC",
+      "etag": "evVEtZYM2uY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X55tXYjzpKoC",
+      "volumeInfo": {
+        "title": "Religious Education Survey Schedules",
+        "subtitle": "Designed for Use in the Indiana Religious Education Survey ...",
+        "authors": [
+          "Walter Scott Athearn"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HN2KJL"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+          "Religious education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X55tXYjzpKoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X55tXYjzpKoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=X55tXYjzpKoC&pg=PA266&dq=children&hl=&as_pt=BOOKS&cd=157&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=X55tXYjzpKoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=X55tXYjzpKoC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=X55tXYjzpKoC&rdid=book-X55tXYjzpKoC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Religious_Education_Survey_Schedules.epub?id=X55tXYjzpKoC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X55tXYjzpKoC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Children&#39;s</b> Division Superintendents City or Co. Code Numbers to be Inserted Here by Team Clerk State Denom ... <b>Children&#39;s</b> Division Superintendents Supervision of <b>Children&#39;s</b> Division Work . a . How long have you served as Township&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0lf06CpiuMgC",
+      "etag": "TbMXvMqGPD0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0lf06CpiuMgC",
+      "volumeInfo": {
+        "title": "Legislative Document",
+        "authors": [
+          "New York (State). Legislature"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924112590645"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1010,
+        "printType": "BOOK",
+        "categories": [
+          "Government publications"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0lf06CpiuMgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0lf06CpiuMgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0lf06CpiuMgC&pg=RA3-PA419&dq=children&hl=&as_pt=BOOKS&cd=158&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0lf06CpiuMgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0lf06CpiuMgC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=0lf06CpiuMgC&rdid=book-0lf06CpiuMgC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Legislative_Document.epub?id=0lf06CpiuMgC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0lf06CpiuMgC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children</b> has been effected by transferring them to one town and providing bus service for their transportation . The farmers , as a rule , oppose consolidation of rural schools , claiming that it forces their <b>children</b> to travel too far&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iZ4cngEACAAJ",
+      "etag": "qZRHFdTrhUQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iZ4cngEACAAJ",
+      "volumeInfo": {
+        "title": "Buried Sunlight",
+        "subtitle": "How Fossil Fuels Have Changed the Earth",
+        "authors": [
+          "Molly Bang",
+          "Penny Chisholm"
+        ],
+        "publisher": "Blue Sky Press",
+        "publishedDate": "2014",
+        "description": "Colorful illustrations and text introduce young readers to the fossil-fuel energy cycle that begins with sunlight caught by plants.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0545577853"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780545577854"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iZ4cngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iZ4cngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=iZ4cngEACAAJ&dq=children&hl=&as_pt=BOOKS&cd=159&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=iZ4cngEACAAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Buried_Sunlight.html?hl=&id=iZ4cngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iZ4cngEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Colorful illustrations and text introduce young readers to the fossil-fuel energy cycle that begins with sunlight caught by plants."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QQRzud4JDwYC",
+      "etag": "bi2oh+3+owY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QQRzud4JDwYC",
+      "volumeInfo": {
+        "title": "Public Opinion",
+        "publishedDate": "1873",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "COLUMBIA:CU08520313"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 840,
+        "printType": "BOOK",
+        "categories": [
+          "Press"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QQRzud4JDwYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QQRzud4JDwYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QQRzud4JDwYC&pg=PA760&dq=children&hl=&as_pt=BOOKS&cd=160&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QQRzud4JDwYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QQRzud4JDwYC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=QQRzud4JDwYC&rdid=book-QQRzud4JDwYC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Public_Opinion.epub?id=QQRzud4JDwYC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QQRzud4JDwYC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>CHILDREN&#39;S</b> PRIZE for 1873 . T THE <b>CHILDREN&#39;S</b> PRIZE for 1873 is Ready . THE <b>CHILDREN&#39;S</b> PRIZE for 1873 PRESENT . &amp; THE <b>CHILDREN&#39;S</b> PRIZE for 1873 T is complete in itself . THE <b>CHILDREN&#39;S</b> PRIZE for 1873 is a PRIZE BOOK for the YOUNG&nbsp;..."
+      }
+    }
+  ]
+}

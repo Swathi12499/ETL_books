@@ -1,0 +1,2996 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "RDDLsgEACAAJ",
+      "etag": "kqJ6xev4toE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RDDLsgEACAAJ",
+      "volumeInfo": {
+        "title": "Business Bullshit",
+        "authors": [
+          "Andr\u00e9 Spicer"
+        ],
+        "publishedDate": "2018",
+        "description": "Introduction -- Bullshit: a spotters guide -- Why is there so much bullshit? -- How to do things with bullshit -- Cutting the bullshit",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1138911666"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781138911666"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Businesspeople"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RDDLsgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RDDLsgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RDDLsgEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=81&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=RDDLsgEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Business_Bullshit.html?hl=&id=RDDLsgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RDDLsgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Introduction -- Bullshit: a spotters guide -- Why is there so much bullshit? -- How to do things with bullshit -- Cutting the bullshit"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Nx4_TO5bBTUC",
+      "etag": "+KhH+o7U9lU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Nx4_TO5bBTUC",
+      "volumeInfo": {
+        "title": "Beyond Basketball",
+        "subtitle": "Coach K's Keywords for Success",
+        "authors": [
+          "Mike Krzyzewski",
+          "Jamie K. Spatola"
+        ],
+        "publisher": "Business Plus",
+        "publishedDate": "2006-10-10",
+        "description": "This is a collection of short but extraordinarily powerful essays as to how Coach K of Duke inspires, motivates, and teaches his basketball players about the game of life, both on and off the court.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780759516748"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "075951674X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Nx4_TO5bBTUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Nx4_TO5bBTUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Nx4_TO5bBTUC&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=82&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Nx4_TO5bBTUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Nx4_TO5bBTUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Nx4_TO5bBTUC&rdid=book-Nx4_TO5bBTUC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Beyond_Basketball-sample-epub.acsm?id=Nx4_TO5bBTUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Nx4_TO5bBTUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is a collection of short but extraordinarily powerful essays as to how Coach K of Duke inspires, motivates, and teaches his basketball players about the game of life, both on and off the court."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_T9tCvzIFrcC",
+      "etag": "pxB4osbnSlc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_T9tCvzIFrcC",
+      "volumeInfo": {
+        "title": "Pictures at a Revolution",
+        "subtitle": "Five Movies and the Birth of the New Hollywood",
+        "authors": [
+          "Mark Harris"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2008",
+        "description": "Documents the cultural revolution behind the making of 1967's five Best Picture-nominated films, including Guess Who's Coming to Dinner, The Graduate, Doctor Doolittle, In the Heat of the Night, and Bonnie and Clyde, in an account that discusses how the movies reflected period beliefs about race, violence, and identity. 40,000 first printing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1594201528"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781594201523"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 522,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_T9tCvzIFrcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_T9tCvzIFrcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_T9tCvzIFrcC&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=83&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=_T9tCvzIFrcC&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pictures_at_a_Revolution.html?hl=&id=_T9tCvzIFrcC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_T9tCvzIFrcC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Documents the cultural revolution behind the making of 1967&#39;s five Best Picture-nominated films, including Guess Who&#39;s Coming to Dinner, The Graduate, Doctor Doolittle, In the Heat of the Night, and Bonnie and Clyde, in an account that ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6G9Stwg7eP4C",
+      "etag": "jpdMJ38M5iw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6G9Stwg7eP4C",
+      "volumeInfo": {
+        "title": "Profit from the Core",
+        "subtitle": "A Return to Growth in Turbulent Times",
+        "authors": [
+          "Chris Zook",
+          "James Allen"
+        ],
+        "publisher": "Harvard Business Press",
+        "publishedDate": "2010-02-05",
+        "description": "When Profit from the Core was published in 2001, it became an international bestseller, helping hundreds of companies find their way back to profitable growth after the bursting of the Internet bubble. The 2007 global financial meltdown reaffirmed the perils of pursuing heady growth through untested strategies, as firms in industries from finance to retailing to automobiles strayed too far from their core businesses and suffered the consequences. In this updated edition of Profit from the Core, authors Chris Zook and James Allen show that a renewed focus on the core is more critical than ever as firms seek to rebuild their competitive advantage coming out of the downturn\u2014and that a strong core will be the foundation for successful expansion as the economy recovers. Based on more than ten years of Bain & Company research and analysis and fresh examples from firms responding to the current downturn, the book outlines what today\u2019s executives and managers need to do now to revitalize their core, identify the next wave of profitable growth, and build on it successfully. Zook and Allen explain how companies can: \u2022 Develop a strong, well-defined core and use it to establish a leadership position \u2022 Follow the golden rule of strategy: discourage competitors from investing in your core \u2022 Assess whether your core is operating at its full potential \u2022 Uncover hidden assets in your core that provide the seeds for new growth \u2022 Find a repeatable formula to apply core business strengths in adjacent markets Building on powerful and proven ideas to meet today\u2019s formidable business challenges, Profit from the Core is the back-to-basics strategy field guide no manager should be without.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781422157138"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "142215713X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 194,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "5.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6G9Stwg7eP4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6G9Stwg7eP4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=6G9Stwg7eP4C&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=84&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6G9Stwg7eP4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6G9Stwg7eP4C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 32.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 18.12,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=6G9Stwg7eP4C&rdid=book-6G9Stwg7eP4C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 32950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 18120000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Profit_from_the_Core-sample-epub.acsm?id=6G9Stwg7eP4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Profit_from_the_Core-sample-pdf.acsm?id=6G9Stwg7eP4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6G9Stwg7eP4C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this updated edition of Profit from the Core, authors Chris Zook and James Allen show that a renewed focus on the core is more critical than ever as firms seek to rebuild their competitive advantage coming out of the downturn\u2014and that ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xpGX1EWL_EMC",
+      "etag": "2IlFs2ZVgWc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xpGX1EWL_EMC",
+      "volumeInfo": {
+        "title": "Leading Change",
+        "authors": [
+          "John P. Kotter"
+        ],
+        "publisher": "Harvard Business Press",
+        "publishedDate": "2012",
+        "description": "From the ill-fated dot-com bubble to unprecedented merger and acquisition activity to scandal, greed, and, ultimately, recession -- we've learned that widespread and difficult change is no longer the exception. By outlining the process organizations have used to achieve transformational goals and by identifying where and how even top performers derail during the change process, Kotter provides a practical resource for leaders and managers charged with making change initiatives work.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781422186435"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1422186431"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xpGX1EWL_EMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xpGX1EWL_EMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xpGX1EWL_EMC&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=85&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xpGX1EWL_EMC&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Leading_Change.html?hl=&id=xpGX1EWL_EMC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Leading_Change-sample-pdf.acsm?id=xpGX1EWL_EMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xpGX1EWL_EMC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "By outlining the process organizations have used to achieve transformational goals and by identifying where and how even top performers derail during the change process, Kotter provides a practical resource for leaders and managers charged ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QYb0Ob9cqD4C",
+      "etag": "Jjls5/PImtE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QYb0Ob9cqD4C",
+      "volumeInfo": {
+        "title": "Start Where You Are",
+        "subtitle": "Life Lessons in Getting from Where You Are to Where You Want to Be",
+        "authors": [
+          "Chris Gardner",
+          "Mim E. Rivas"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2009-05-12",
+        "description": "Ever since the story of his transformation from homeless, single and struggling father to millionaire became known the world over, Chris Gardner --whose life story both inspired the movie The Pursuit of Happyness and became a #1 New York Times bestseller by the same name--has been inundated with two questions: \u201cHow Did You Do It\u201d and \u201cHow Can I Do it Too?\u201d Gardner\u2019s power-packed, transformational reply is the basis of this long-anticipated book. As a departure from standard self-help tomes that promise overnight riches and exclusive secrets for success, Gardner avoids any tilt toward magical thinking by staying with real issues and solutions impacting individuals in all walks of life. If you\u2019ve had the rug pulled out from under you, or have been dealing with the loss of a home, a job, a health or financial crisis, or simply can\u2019t find the motivation to pursue new challenges, Start Where You Are abounds with life lessons that offer hope and provide a road map for starting anew. This is also the book for anyone ready to launch a personal, professional undertaking, or break generational cycles that hem in their potential. Taking stock of his own credos, including \u201cThe Cavalry Ain\u2019t Coming,\u201d \u201cFind Your Button,\u201d and \u201cSeek the Furthest Star\u201d-- Gardner\u2019s 44 life lessons are earthy, soulful, and always accessible. With an array of stories from the author\u2019s own life, as well as from those he has known or admired, both famous and not, Start Where You Are has arrived just in time to embolden and encourage all of us, even in our era of great global change, reminding us of the infinite resources we already have in our collective pursuit of happyness, and spurring us on in only one direction - forward!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780061537110"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "006153711X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 326,
+        "printType": "BOOK",
+        "categories": [
+          "Self-Help"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QYb0Ob9cqD4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QYb0Ob9cqD4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QYb0Ob9cqD4C&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=86&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=QYb0Ob9cqD4C&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Start_Where_You_Are.html?hl=&id=QYb0Ob9cqD4C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QYb0Ob9cqD4C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ever since the story of his transformation from homeless, single and struggling father to millionaire became known the world over, Chris Gardner --whose life story both inspired the movie The Pursuit of Happyness and became a #1 New York ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8Hq6NAAACAAJ",
+      "etag": "swbQzPcoX+w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8Hq6NAAACAAJ",
+      "volumeInfo": {
+        "title": "Coaching Questions",
+        "subtitle": "A Coach's Guide to Powerful Asking Skills",
+        "authors": [
+          "Tony Stoltzfus"
+        ],
+        "publisher": "Pegasus Creative Arts",
+        "publishedDate": "2008",
+        "description": "The single most important skill in coaching is asking powerful questions. In this volume, master coach trainer Tony Stoltzfus joins with 12 other professional coaches to present dozens of valuable asking tools, models and exercises, then illustrates these coaching strategies with over 1,000 examples of penetrating questions. Covering the gamut from basic techniques like options and actions to advanced concepts such as challenge and reframing, Coaching Questions is a book that will find a home on any coach's short list of handy references. Coaching Questions: A Coach's Guide to Powerful Asking Skills includes:1. Dozens of asking tools, models, and strategies.2. The top ten asking mistakes coaches make, and how to correct each one.3. Nearly 1200 examples of powerful questions from real coaching situations.4. Destiny discovery tools organized in a four-part life-purpose model .5. Overviews of 15 popular coaching niches, with a tool and examples for each.6. A schedule of training exercises to help you become a \"Master of Asking\".",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0979416361"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780979416361"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Counseling"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8Hq6NAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8Hq6NAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8Hq6NAAACAAJ&dq=business&hl=&as_pt=BOOKS&cd=87&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8Hq6NAAACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Coaching_Questions.html?hl=&id=8Hq6NAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8Hq6NAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this volume, master coach trainer Tony Stoltzfus joins with 12 other professional coaches to present dozens of valuable asking tools, models and exercises, then illustrates these coaching strategies with over 1,000 examples of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vNuUCgAAQBAJ",
+      "etag": "VHV9Y0nLob4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vNuUCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Play Bigger",
+        "subtitle": "How Pirates, Dreamers, and Innovators Create and Dominate Markets",
+        "authors": [
+          "Al Ramadan",
+          "Dave Peterson",
+          "Christopher Lochhead",
+          "Kevin Maney"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2016-06-14",
+        "description": "The founders of a respected Silicon Valley advisory firm study legendary category-creating companies and reveal a groundbreaking discipline called category design. Winning today isn\u2019t about beating the competition at the old game. It\u2019s about inventing a whole new game\u2014defining a new market category, developing it, and dominating it over time. You can\u2019t build a legendary company without building a legendary category. If you think that having the best product is all it takes to win, you\u2019re going to lose. In this farsighted, pioneering guide, the founders of Silicon Valley advisory firm Play Bigger rely on data analysis and interviews to understand the inner workings of \u201ccategory kings\u201d\u2014 companies such as Amazon, Salesforce, Uber, and IKEA\u2014that give us new ways of living, thinking or doing business, often solving problems we didn\u2019t know we had. In Play Bigger, the authors assemble their findings to introduce the new discipline of category design. By applying category design, companies can create new demand where none existed, conditioning customers\u2019 brains so they change their expectations and buying habits. While this discipline defines the tech industry, it applies to every kind of industry and even to personal careers. Crossing the Chasm revolutionized how we think about new products in an existing market. The Innovator\u2019s Dilemma taught us about disrupting an aging market. Now, Play Bigger is transforming business once again, showing us how to create the market itself.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062407627"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0062407627"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 202,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vNuUCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vNuUCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=vNuUCgAAQBAJ&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=88&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vNuUCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vNuUCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 21.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 21.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=vNuUCgAAQBAJ&rdid=book-vNuUCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 21990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 21990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Play_Bigger-sample-epub.acsm?id=vNuUCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vNuUCgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These are the companies that shape our lives and alter the future. They play bigger than other companies. In Play Bigger, the authors assemble their findings to introduce the new discipline of category design."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VFg0tAEACAAJ",
+      "etag": "XIBJ6et/hEw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VFg0tAEACAAJ",
+      "volumeInfo": {
+        "title": "The Business of Television",
+        "authors": [
+          "Ken Basin"
+        ],
+        "publisher": "Focal Press",
+        "publishedDate": "2018",
+        "description": "In this book, esteemed television executive and Harvard lecturer Ken Basin offers a comprehensive overview of the business, financial, and legal structure of the U.S. television industry, as well as its dealmaking norms. Written for working or aspiring creative professionals who want to better understand the entertainment industry -- as well as for executives, agents, managers, and lawyers looking for a reference guide -- The Business of Television presents a readable, in-depth introduction to rights and talent negotiations, intellectual property, backend deals, licensing, streaming platforms, international production, and much more. The book also includes breakdowns after each chapter summarizing deal points and points of negotiation, a glossary, a list of referenced cases, and a wealth of real-world examples to help readers put the material into context.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0815368666"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780815368663"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 293,
+        "printType": "BOOK",
+        "categories": [
+          "Television broadcasting"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VFg0tAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VFg0tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VFg0tAEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=89&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=VFg0tAEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Business_of_Television.html?hl=&id=VFg0tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VFg0tAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this book, esteemed television executive and Harvard lecturer Ken Basin offers a comprehensive overview of the business, financial, and legal structure of the U.S. television industry, as well as its dealmaking norms."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xOgTQgAACAAJ",
+      "etag": "HILmac5Um6w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xOgTQgAACAAJ",
+      "volumeInfo": {
+        "title": "Producer to Producer",
+        "subtitle": "A Step-by-step Guide to Low-budget Independent Film Producing",
+        "authors": [
+          "Maureen A. Ryan"
+        ],
+        "publishedDate": "2010",
+        "description": "\"This is THE book for producers. Nowhere else will you find the wisdom, insight, and tried and-true, nuts-and-bolts know-how found here.\"---Sheila Curran Dennin, Writer/director: RED FLAG; Becoming Medusa --Book Jacket.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1932907750"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781932907759"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Low-budget films"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xOgTQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xOgTQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xOgTQgAACAAJ&dq=business&hl=&as_pt=BOOKS&cd=90&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xOgTQgAACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Producer_to_Producer.html?hl=&id=xOgTQgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xOgTQgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;This is THE book for producers. Nowhere else will you find the wisdom, insight, and tried and-true, nuts-and-bolts know-how found here.&quot;---Sheila Curran Dennin, Writer/director: RED FLAG; Becoming Medusa --Book Jacket."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cBEbrgEACAAJ",
+      "etag": "N9LfQtVfcm4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cBEbrgEACAAJ",
+      "volumeInfo": {
+        "title": "Quiet Power Strategy",
+        "authors": [
+          "Tara Gentile"
+        ],
+        "publisher": "Cocommercial, LLC",
+        "publishedDate": "2015-02-01",
+        "description": "There's a better way to run your business: your way. You've never had more more access to ideas for how to run your business. There's a lot of Noise out there. This book is your opportunity to seize the power of Quiet. You won't find success in the Noise. It's only when you get quiet and find your own path to your vision that you can create the wealth, peace, and ease you truly crave. Tara Gentile, creator of Quiet Power Strategy, shares the concepts she's honed by working with hundreds of entrepreneurs and business owners to help them discover their own plans for success. You'll discover what separates smart, creative people who achieve their goals and smart, creative people who don't. You'll learn why self-leadership is more important than ever and how perception, discernment, and focus help you uncover unique opportunities. Then, step by step, you'll craft your own Quiet Power Strategic Plan and learn to lead yourself and your business through the Noise. If you've ever looked for a better way to do things YOUR way, this is the book for you.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "069238037X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780692380376"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 130,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cBEbrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cBEbrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cBEbrgEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=91&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=cBEbrgEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Quiet_Power_Strategy.html?hl=&id=cBEbrgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cBEbrgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "There&#39;s a better way to run your business: your way. You&#39;ve never had more more access to ideas for how to run your business. There&#39;s a lot of Noise out there. This book is your opportunity to seize the power of Quiet."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Pe0AswEACAAJ",
+      "etag": "oq05a4knbvU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Pe0AswEACAAJ",
+      "volumeInfo": {
+        "title": "Investing for Beginners",
+        "authors": [
+          "David Cohne"
+        ],
+        "publishedDate": "2015-07-24",
+        "description": "The Best Guide to Getting Started Investing You'll Find Anywhere What Does Your Retirement Look Like? If you are like most Americans, you don't know how you're are going to retire. Pensions have almost completely disappeared and the financial future of Social Security has many worried. This book shows you how to take control of your own future by teaching you the fundamentals of investing. Many people are afraid to put their hard earned money in the stock market because they don't want to lose it all. This book shows you how to invest your money for growth instead of treating the stock market like a slot machine and just hoping to get lucky. Inside the book you will discover: The basics of what the stock market is and how it works The differences between passive and active investing The differences between stocks, bonds, and cash All about mutual funds and other types of funds What you need to know about the economy to make good investments How to plan for retirement All about risk And Much More This quick start guide will help you go from knowing very little about investing to being confident in starting your own investment in your retirement. If you are looking for a get rich quick scheme, this book isn't for you. But, if you want to learn about how to invest and the best ways to plan for your retirement, this book will start you on the path of taking control of your own future. The sooner you get your copy, the sooner you can start your personal investment education. Don't wait another second. Get Your Copy Right Now",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0692487107"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780692487105"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Pe0AswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Pe0AswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Pe0AswEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=92&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Pe0AswEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Investing_for_Beginners.html?hl=&id=Pe0AswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Pe0AswEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If you are looking for a get rich quick scheme, this book isn&#39;t for you. But, if you want to learn about how to invest and the best ways to plan for your retirement, this book will start you on the path of taking control of your own future."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PkPRswEACAAJ",
+      "etag": "yKPv+xYzUDY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PkPRswEACAAJ",
+      "volumeInfo": {
+        "title": "Never Split the Difference",
+        "subtitle": "Negotiating As If Your Life Depended On It",
+        "authors": [
+          "Chris Voss",
+          "Tahl Raz"
+        ],
+        "publisher": "HarperBusiness",
+        "publishedDate": "2018-06-05",
+        "description": "From policing the rough streets of Kansas City, Missouri, to becoming the FBI\u2019s lead international kidnapping negotiator to teaching negotiation at leading universities, Chris Voss has tested the techniques in Never Split the Difference across the full spectrum of human endeavor and proved their effectiveness. Those who have benefited from these techniques include business clients generating millions in additional profits, MBA students getting better jobs, and even parents dealing with their kids. Never Split the Difference provides a gripping, behind-the-scenes recounting of dramatic scenarios from the gang-infested streets of Haiti to a Brooklyn bank robbery gone horribly wrong, revealing the negotiation strategies that helped Voss and his colleagues succeed where it mattered most: saving lives. Whether buying a car, getting a better raise, buying a home, renegotiating rent, or deliberating with your partner, Voss shows you how to use these skills in the workplace and in every other realm of your life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0062872303"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062872302"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PkPRswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PkPRswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PkPRswEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=93&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=PkPRswEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Never_Split_the_Difference.html?hl=&id=PkPRswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PkPRswEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Never Split the Difference provides a gripping, behind-the-scenes recounting of dramatic scenarios from the gang-infested streets of Haiti to a Brooklyn bank robbery gone horribly wrong, revealing the negotiation strategies that helped Voss ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aPyBrrTzZgsC",
+      "etag": "+dX8m7gwys0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aPyBrrTzZgsC",
+      "volumeInfo": {
+        "title": "55 Surefire Homebased Businesses You Can Start for Under $5000",
+        "authors": [
+          "Entrepreneur Press"
+        ],
+        "publisher": "Entrepreneur Press",
+        "publishedDate": "2009-02-01",
+        "description": "Coaching you all the way, the experts at Entrepreneur guide you into the thriving homebased industry, revealing unique, slam-dunk opportunities, outlining vital business basics, sharing priceless industry need-to-knows, and so much more! If you can bankroll $5,000 (some even less!), you can boldly choose your next big business move, decide to be your own boss, and start making profits! \u2022 Choose from a diverse list of 55 surefire homebased businesses \u2022 Spend less than $5,000 on startup \u2022 Quickly and legitimately setup your home office \u2022 Master industry language and fundamentals \u2022 Use business-specific marketing techniques to secure success \u2022 Create repeat business with engaging customer service practices \u2022 Plan for expansion \u2022 And more You\u2019re on target for success\u2014let us help you hit the bullseye! (maybe use the target image from the logo in the background)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781613081044"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1613081049"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 266,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.9.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aPyBrrTzZgsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aPyBrrTzZgsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=aPyBrrTzZgsC&pg=PA59&dq=business&hl=&as_pt=BOOKS&cd=94&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=aPyBrrTzZgsC&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/55_Surefire_Homebased_Businesses_You_Can.html?hl=&id=aPyBrrTzZgsC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/55_Surefire_Homebased_Businesses_You_Can-sample-epub.acsm?id=aPyBrrTzZgsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aPyBrrTzZgsC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b>. It may be the specific industry they are in, the aspect of industry their <b>business</b> does (manufacturing, retail, service industry, for example), or even just small <b>business</b> vs. large corporation. Book authors, film actors&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pncGzgEACAAJ",
+      "etag": "IZPxsUQJL00",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pncGzgEACAAJ",
+      "volumeInfo": {
+        "title": "Fundamentals of Business, Third Edition",
+        "authors": [
+          "Stephen J. Skripak",
+          "Ron Poff"
+        ],
+        "publishedDate": "2020-12-21",
+        "description": "This book \"covers the following topics in business: Teamwork; economics; ethics; entrepreneurship; business ownership, management, and leadership; organizational structures and operations management; human resources and motivating employees; managing in labor union contexts; marketing and pricing strategy; hospitality and tourism, accounting and finance, and personal finances\"--web site.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1949373355"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781949373356"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 370,
+        "printType": "BOOK",
+        "categories": [
+          "Business"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pncGzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pncGzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=pncGzgEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=95&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=pncGzgEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fundamentals_of_Business_Third_Edition.html?hl=&id=pncGzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pncGzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book &quot;covers the following topics in business: Teamwork; economics; ethics; entrepreneurship; business ownership, management, and leadership; organizational structures and operations management; human resources and motivating employees ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m9GkEAAAQBAJ",
+      "etag": "sdc/CJrQAZA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m9GkEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Stolen Focus",
+        "subtitle": "Why You Can't Pay Attention",
+        "authors": [
+          "Johann Hari"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2023",
+        "description": "THE SUNDAY TIMES AND NEW YORK TIMES BESTSELLERA SPECTATOR AND FINANCIAL TIMES BEST BOOK OF 2022A WATERSTONES NON-FICTION BOOK OF THE MONTH'If you read just one book about how the modern world is driving us crazy, read this one' TELEGRAPH'This book is exactly what the world needs right now' OPRAH WINFREY'A beautifully researched and argued exploration of the breakdown of humankind's ability to pay attention' STEPHEN FRY'A really important book . . . Everyone should read it' PHILIPPA PERRY---Is your ability to focus and pay attention in free fall?You are not alone. The average office worker now focuses on any one task for just three minutes. But it's not your fault. Your attention didn't collapse. It has been stolen.Internationally bestselling author Johann Hari shows twelve deep factors harming our focus. Once we understand them, together, we can take back our minds.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781526620217"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1526620219"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 354,
+        "printType": "BOOK",
+        "categories": [
+          "Family & Relationships"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m9GkEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m9GkEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=m9GkEAAAQBAJ&dq=business&hl=&as_pt=BOOKS&cd=96&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=m9GkEAAAQBAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stolen_Focus.html?hl=&id=m9GkEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m9GkEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "THE SUNDAY TIMES AND NEW YORK TIMES BESTSELLER A SPECTATOR AND FINANCIAL TIMES BEST BOOK OF 2022 A WATERSTONES NON-FICTION BOOK OF THE MONTH &#39;If you read just one book about how the modern world is driving us crazy, read this one&#39; TELEGRAPH ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "779fQgAACAAJ",
+      "etag": "9DOv8T7zXT4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/779fQgAACAAJ",
+      "volumeInfo": {
+        "title": "The Intelligent Investor",
+        "subtitle": "A Book of Practical Counsel",
+        "authors": [
+          "Benjamin Graham"
+        ],
+        "publisher": "Harpercollins",
+        "publishedDate": "1985",
+        "description": "Analyzes the principles of stock selection and various approaches to investing, and compares the patterns and behavior of specific securities under diverse economic conditions",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0060155477"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780060155476"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 340,
+        "printType": "BOOK",
+        "categories": [
+          "Investments."
+        ],
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=779fQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=779fQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=779fQgAACAAJ&dq=business&hl=&as_pt=BOOKS&cd=97&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=779fQgAACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Intelligent_Investor.html?hl=&id=779fQgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=779fQgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Analyzes the principles of stock selection and various approaches to investing, and compares the patterns and behavior of specific securities under diverse economic conditions"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FF5jnQAACAAJ",
+      "etag": "5qZKWY9S8Xo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FF5jnQAACAAJ",
+      "volumeInfo": {
+        "title": "Nobody Knows Anything",
+        "subtitle": "Investing Basics Learn to Ignore the Experts, the Gurus and Other Fools",
+        "authors": [
+          "Robert Moriarty"
+        ],
+        "publishedDate": "2017-02-23",
+        "description": "Investors not only need to know what to do to profit, they also need to know what not to do. Learn how to understand how humans think and act as a herd so you can avoid being part of the herd. What works in nature may well not work as an investor. The book discusses bubbles, when to sell, buzzwords and pitfalls waiting for every new investor.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0692852980"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780692852989"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 134,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FF5jnQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FF5jnQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=FF5jnQAACAAJ&dq=business&hl=&as_pt=BOOKS&cd=98&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=FF5jnQAACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nobody_Knows_Anything.html?hl=&id=FF5jnQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FF5jnQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "What works in nature may well not work as an investor. The book discusses bubbles, when to sell, buzzwords and pitfalls waiting for every new investor."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xT2QzgEACAAJ",
+      "etag": "Ge9+ns82KXw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xT2QzgEACAAJ",
+      "volumeInfo": {
+        "title": "7 Benefits of FIAs For Retirement: Retirement is a Rollercoaster, Are You Prepared to Enjoy the Ride?",
+        "authors": [
+          "Sean Ruggiero"
+        ],
+        "publisher": "MindStir Media",
+        "publishedDate": "2021-06-08",
+        "description": "Imagine you are on a rollercoaster. The slight nervousness when you are in line waiting to board. The feeling of anticipation as you \"clank, clank, clank\" your way up to the top of the first peak, and then the rush of adrenaline as you accelerate through a feeling of freefall down the rails, followed by a jarring hard left turn followed by a jarring hard right turn. All this to stimulate your sense of danger and to create a true \"thrill ride.\" The enjoyment of a rollercoaster can only be achieved when you know and trust that you are safe throughout the entire experience. If there was ever any doubt that you were safe, you wouldn't even think about riding. Retirement for many Americans can be like a rollercoaster. We experience the ups and the downs, the jarring turns, and the panic-inducing plummets. However, we have no guarantees and no trust that we are going to be taken care of, so it creates fear and not enjoyment. Is that how we want our retirement to go? Does this sound like a \"fun ride\"? Fortunately, you have a choice how you want to experience retirement. For most of us, we don't want it to feel like a rollercoaster, and for good reason! For those who want to feel some of the ups and not the downs, there is a solution, and that solution is a Fixed Indexed Annuity. 7 Benefits of FIAs for Retirement is a holistic and easy to understand retirement readiness book. It is written to benefit both consumers and professionals. This start to finish retirement education is concise and effective and is a must read for every American. Registered Investment Advisor (CRD #7201706) CEP, RICP, WMCP & National Social Security Advisor Certificate Holder, Sean's focus is on helping consumers and agents and agencies with holistic retirement readiness through the use of evolving FIAs, education, training and software. Sean's expertise includes in the retirement income planning, wealth management, SaaS, insurance, credit, automotive, mortgage and finance verticals. Voted by Life Health Pro as one of \"Top 20 Most Creative People in Insurance\" for 2015. DIA award winner in 2016 Barcelona. Listed Top 100 InsurTech Startups by Digital Insurance Agenda 2016-2018. Marketing consultant for two of the top 60 insurance companies in the United States. Founder of SafeMoneySmart.org, a non-profit dedicated to the awareness of alternatives to the stock market in retirement. Author of \"7 Benefits of FIAs for Retirement\".",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1737279134"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781737279136"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xT2QzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xT2QzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xT2QzgEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=99&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xT2QzgEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/7_Benefits_of_FIAs_For_Retirement_Retire.html?hl=&id=xT2QzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xT2QzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Founder of SafeMoneySmart.org, a non-profit dedicated to the awareness of alternatives to the stock market in retirement. Author of &quot;7 Benefits of FIAs for Retirement&quot;."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jExgzwEACAAJ",
+      "etag": "LNQv141ybts",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jExgzwEACAAJ",
+      "volumeInfo": {
+        "title": "Buy Then Build",
+        "subtitle": "How Acquisition Entrepreneurs Outsmart the Startup Game",
+        "authors": [
+          "Walker Deibel"
+        ],
+        "publishedDate": "2022-09",
+        "description": "Entrepreneurs have a problem: startups. Almost all startups either fail or never truly reach a sustainable size. Despite the popularity of entrepreneurship, we haven't engineered a better way to start...until now. What if you could skip the startup phase and generate profitable revenue on day one? In BUY THEN BUILD, acquisition entrepreneur Walker Deibel shows you how to begin with a sustainable, profitable company and grow from there. You'll learn how to: Buy an existing company rather than starting from scratch Use ownership as a path to financial independence Spend a fraction of the time raising capital Find great brokers, generate your own \"deal flow,\" and see new listings early Uncover the best opportunities and biggest risks of any company Navigate the acquisition process Become a successful acquisition entrepreneur And more BUY THEN BUILD is your guide to outsmart the startup game, live the entrepreneurial lifestyle, and reap the financial rewards of ownership now.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "154453566X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781544535661"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jExgzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jExgzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=jExgzwEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=100&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=jExgzwEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Buy_Then_Build.html?hl=&id=jExgzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jExgzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "What if you could skip the startup phase and generate profitable revenue from day one? In Buy Then Build, acquisition entrepreneur Walker Deibel shows you how to begin with a sustainable, profitable company and grow from there."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XeDZzgEACAAJ",
+      "etag": "9wZMQ89BjlE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XeDZzgEACAAJ",
+      "volumeInfo": {
+        "title": "Your Baby's Ugly",
+        "subtitle": "Maximize the Value of Your Business Or You'll Have Nothing to Sell",
+        "authors": [
+          "Justin A Goodbread"
+        ],
+        "publishedDate": "2022-02",
+        "description": "With this book, you can improve your business in eight key areas to increase your company revenue and profits today, not just for when you sell your company. The real payoff comes from building value into your company, beyond annual profits. Follow this book, and you'll have more sales, more profit, and even more exit options. This book will help raise you to new career highs in entrepreneurship, making the difference between selling your business for massive amounts of money, or failing to get even a single offer. The sooner you read this book, the better.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1954759339"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781954759336"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 233,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XeDZzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XeDZzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XeDZzgEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=101&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XeDZzgEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Your_Baby_s_Ugly.html?hl=&id=XeDZzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XeDZzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book will help raise you to new career highs in entrepreneurship, making the difference between selling your business for massive amounts of money, or failing to get even a single offer. The sooner you read this book, the better."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3woIEAAAQBAJ",
+      "etag": "a20mhDRG0LU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3woIEAAAQBAJ",
+      "volumeInfo": {
+        "title": "SUN TZU ENTREPRENEURSHIP\u2122",
+        "authors": [
+          "James Sonhill DBA",
+          "Sun Tzu"
+        ],
+        "publisher": "Sonhill Publishing LLC",
+        "publishedDate": "2020-06-28",
+        "description": "Sun Tzu Entrepreneurship\u2122 gives you all strategy principles and strategy formulas you need in order to embark on your entrepreneurship venture and lead your new business with serious strategy skills. First you develop a realistic business strategic plan that helps define your business strategic position and your future success. Then you craft a practical business strategy that helps define your strategy cycle. Strategy principles and formulas in this book will turn you into a successful entrepreneur who is decisive and effective in the way you lead and make decision as well as adaptive and competitive in the way you perform and take actions to win in business. For more information on our business strategy books, business strategy planners, business strategy courses, and business strategy certification programs, visit our websites: www.JamesSonhill.com and www.SunTzuStore.com.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 294,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3woIEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3woIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=3woIEAAAQBAJ&pg=PA109&dq=business&hl=&as_pt=BOOKS&cd=102&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3woIEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3woIEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 15,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 15,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3woIEAAAQBAJ&rdid=book-3woIEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 15000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 15000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3woIEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b> campaign or <b>business</b> organization has to have strong leader and strong mangers , strong workers and strong followers , and strong competing systems and strong competing capabilities. Thus , your competing <b>business</b> campaign&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GunzDwAAQBAJ",
+      "etag": "0trzwN4gbYU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GunzDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Data Management at Scale",
+        "authors": [
+          "Piethein Strengholt"
+        ],
+        "publisher": "O'Reilly Media",
+        "publishedDate": "2020-07-29",
+        "description": "As data management and integration continue to evolve rapidly, storing all your data in one place, such as a data warehouse, is no longer scalable. In the very near future, data will need to be distributed and available for several technological solutions. With this practical book, you\u2019ll learnhow to migrate your enterprise from a complex and tightly coupled data landscape to a more flexible architecture ready for the modern world of data consumption. Executives, data architects, analytics teams, and compliance and governance staff will learn how to build a modern scalable data landscape using the Scaled Architecture, which you can introduce incrementally without a large upfront investment. Author Piethein Strengholt provides blueprints, principles, observations, best practices, and patterns to get you up to speed. Examine data management trends, including technological developments, regulatory requirements, and privacy concerns Go deep into the Scaled Architecture and learn how the pieces fit together Explore data governance and data security, master data management, self-service data marketplaces, and the importance of metadata",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781492054757"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1492054755"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 348,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GunzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GunzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GunzDwAAQBAJ&pg=PA26&dq=business&hl=&as_pt=BOOKS&cd=103&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=GunzDwAAQBAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Management_at_Scale.html?hl=&id=GunzDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GunzDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b> ecosystem . <b>Business</b> architecture is supported by building holistic and multidimensional busi- ness views with <b>business</b> capabilities . 13 From bounded context we can draw a parallel to <b>business</b> architecture and <b>business</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G5t-zgEACAAJ",
+      "etag": "K0TD8DWKiJ0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G5t-zgEACAAJ",
+      "volumeInfo": {
+        "title": "Exponential Theory: Reimaginingthe Future Through the Power of Thinking Big",
+        "authors": [
+          "Aaron D. Bare"
+        ],
+        "publishedDate": "2022-03-22",
+        "description": "The definitive leadership book on digital adaptation and solving major global crises.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1631956671"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781631956676"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 225,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G5t-zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G5t-zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=G5t-zgEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=104&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=G5t-zgEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Exponential_Theory_Reimaginingthe_Future.html?hl=&id=G5t-zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G5t-zgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Exponential Theory provides ten keys of exponential leadership in order to solve climate change, social imbalances, and other wicked problems."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9xHe0SBlOkoC",
+      "etag": "phv5IAz/RMM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9xHe0SBlOkoC",
+      "volumeInfo": {
+        "title": "Monthly Catalog of United States Government Publications",
+        "authors": [
+          "United States. Superintendent of Documents"
+        ],
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "RUTGERS:39030037106673"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 912,
+        "printType": "BOOK",
+        "categories": [
+          "Government publications"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9xHe0SBlOkoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9xHe0SBlOkoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9xHe0SBlOkoC&pg=PA308&dq=business&hl=&as_pt=BOOKS&cd=105&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9xHe0SBlOkoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9xHe0SBlOkoC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=9xHe0SBlOkoC&rdid=book-9xHe0SBlOkoC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Monthly_Catalog_of_United_States_Governm.epub?id=9xHe0SBlOkoC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9xHe0SBlOkoC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>BUSINESS</b>. ,. Committee. on. ,. House. Washington. ,. DC. 20515. Y 4.Sm 1 : C 86/5 United States . Congress . House . Committee on Small <b>Business</b> . Subcommittee on Antitrust and Restraint of Trade Activities Affecting Small <b>Business</b> . Small&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y1FiwPXypEYC",
+      "etag": "0arllRsVaEY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y1FiwPXypEYC",
+      "volumeInfo": {
+        "title": "Federal Register",
+        "publishedDate": "1988-02",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924109250286"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "categories": [
+          "Administrative law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=y1FiwPXypEYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=y1FiwPXypEYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=y1FiwPXypEYC&pg=PA5118&dq=business&hl=&as_pt=BOOKS&cd=106&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=y1FiwPXypEYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=y1FiwPXypEYC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=y1FiwPXypEYC&rdid=book-y1FiwPXypEYC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Federal_Register.epub?id=y1FiwPXypEYC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y1FiwPXypEYC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b> , small disadvantaged <b>business</b> utilization and labor surplus area program ( s ) within the Command ; ( iv ) Defense Logistics Agency- Commanders of Defense Supply Centers , Commanders , Defense Contract Administration Services&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_NREAQAAMAAJ",
+      "etag": "UtMm6W/HCnw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_NREAQAAMAAJ",
+      "volumeInfo": {
+        "title": "U.S. House of Representatives Detailed Statement of Disbursements",
+        "subtitle": "(July 1 to December 31, 1967)",
+        "authors": [
+          "United States. Congress. House. Committee on House Administration"
+        ],
+        "publishedDate": "1968",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951D03599482X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_NREAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_NREAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_NREAQAAMAAJ&pg=PA88&dq=business&hl=&as_pt=BOOKS&cd=107&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_NREAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_NREAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=_NREAQAAMAAJ&rdid=book-_NREAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/U_S_House_of_Representatives_Detailed_St.epub?id=_NREAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_NREAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Business</b> Machines Royal Typewriter Co .. 1730 29 1792 Oct. 3 1856 9 1967 1970 12 2051 2052 24 2275 31 2394 2395 SCM Corp ... DeJur Amsco Corp. <b>Business</b> Equipment Center . International <b>Business</b> Machines . Dura <b>Business</b> Machines . 3M&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hbYVBAAAQBAJ",
+      "etag": "p4/jB+XFU3k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hbYVBAAAQBAJ",
+      "volumeInfo": {
+        "title": "ECRM2013-Proceedings of the 12th European Conference on Research Methods",
+        "subtitle": "ECRM 2013",
+        "authors": [
+          "Isabel Ramos",
+          "Anabela Mesquita"
+        ],
+        "publisher": "Academic Conferences Limited",
+        "publishedDate": "2013-04-07",
+        "description": "Complete proceedings of the 13th European Conference on Research Methodology for Business and Management Studies ECRM 2013 PRINT version Published by Academic Conferences and Publishing International Limited.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781909507302"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "190950730X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 415,
+        "printType": "BOOK",
+        "categories": [
+          "Reference"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hbYVBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hbYVBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=hbYVBAAAQBAJ&pg=PA174&dq=business&hl=&as_pt=BOOKS&cd=108&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hbYVBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hbYVBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 77.51,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 77.51,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hbYVBAAAQBAJ&rdid=book-hbYVBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 77510000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 77510000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/ECRM2013_Proceedings_of_the_12th_Europea-sample-pdf.acsm?id=hbYVBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hbYVBAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b> success for many <b>business</b> owners. A number of Indigenous <b>business</b> owners have Indigenous employment policies in place to ensure Indigenous employment remains a focus of the <b>business</b>. One <b>business</b> owner commented: I have a&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "la_mJetj9CUC",
+      "etag": "jceEK2OCp9U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/la_mJetj9CUC",
+      "volumeInfo": {
+        "title": "Taxpayer Information Publications",
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCR:31210020117709"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 380,
+        "printType": "BOOK",
+        "categories": [
+          "Income tax"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=la_mJetj9CUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=la_mJetj9CUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=la_mJetj9CUC&pg=PA12&dq=business&hl=&as_pt=BOOKS&cd=109&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=la_mJetj9CUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=la_mJetj9CUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=la_mJetj9CUC&rdid=book-la_mJetj9CUC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Taxpayer_Information_Publications.epub?id=la_mJetj9CUC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=la_mJetj9CUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b> with the person during the entertainment period , and You had more than a general expectation of getting income or some other specific <b>business</b> benefit . \u2022 Entertainment is associated with your trade or <b>business</b> , and&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IuAjAQAAMAAJ",
+      "etag": "y78cWf980Po",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IuAjAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Reports and Documents",
+        "authors": [
+          "United States. Congress"
+        ],
+        "publishedDate": "1960",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951D02196679T"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1916,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.12.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IuAjAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IuAjAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=IuAjAQAAMAAJ&pg=RA13-PA5&dq=business&hl=&as_pt=BOOKS&cd=110&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IuAjAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IuAjAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=IuAjAQAAMAAJ&rdid=book-IuAjAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Reports_and_Documents.epub?id=IuAjAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IuAjAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Business</b> Investment Co. , Bloomington , Ill .. $ 301,000 $ 150,000 $ 150,000 Businessmen&#39;s Small <b>Business</b> Investment Co. , Chicago , Ill . 301 , 100 149 , 850 90,000 Evansville Small <b>Business</b> Investment Corp. , Evansville , Ind&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LTmPzgEACAAJ",
+      "etag": "UJIGUh/qs04",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LTmPzgEACAAJ",
+      "volumeInfo": {
+        "title": "Business Buying Strategies",
+        "subtitle": "How to Buy a Business Without Risking Your Own Capital",
+        "authors": [
+          "Jonathan Jay"
+        ],
+        "publishedDate": "2019-11-18",
+        "description": "If you're in business you probably have three challenges:You want to grow - but have hit a plateauYou want to reach your goals fasterYou want to do this with less stress and hassle...Buying a business can solve all three of these problems:You can grow your business in leaps and bounds by acquiring similar businesses, competitors or your supply chain. You can literally double your annual sales in twelve weeksYou will get where you want to go faster - in months rather than yearsYou will do this with less stress as others will manage the business for youThis book will help you shift from thinking like an 'operator' to thinking like a 'dealmaker'. As a result you will have a larger, more profitable business which can be sold for more money, faster.JONATHAN JAYis a an experienced dealmaker, buying and selling businesses for over twenty years. Dealmaking transformed Jonathan from a business 'operator' working long hours for little reward, to a multimillionaire. He is still actively investing and coaches and mentors others to do the same.I have just completed The Dealmakers Academy Mastermind Programme with Jonathan Jay. This has been a fast-paced year of exponential group learning, ably led by Jonathan, a seasoned authority in the buying and selling of businesses in a variety of different sectors. His facilitation and delivery of the programme has been eloquent and effusive and he has generously shared his 'secret sauce' for nimbly and ethically negotiating and constructing business deals with very little money down! I highly recommend Jonathan and this programme to anyone who wants to take business entrepreneurship to the next level! I very much look forward to working with Jonathan in the future! Dr Andrew Greenland",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1709433868"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781709433863"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=LTmPzgEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=111&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=LTmPzgEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Business_Buying_Strategies.html?hl=&id=LTmPzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LTmPzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "He is still actively investing and coaches and mentors others to do the same.I have just completed The Dealmakers Academy Mastermind Programme with Jonathan Jay."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dlCkYE5AbCYC",
+      "etag": "WlJH1V7rGqg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dlCkYE5AbCYC",
+      "volumeInfo": {
+        "title": "Publication",
+        "publishedDate": "1964",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32435025584772"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 44,
+        "printType": "BOOK",
+        "categories": [
+          "Income tax"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dlCkYE5AbCYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dlCkYE5AbCYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=dlCkYE5AbCYC&pg=RA1-PA9&dq=business&hl=&as_pt=BOOKS&cd=112&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dlCkYE5AbCYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dlCkYE5AbCYC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=dlCkYE5AbCYC&rdid=book-dlCkYE5AbCYC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Publication.epub?id=dlCkYE5AbCYC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dlCkYE5AbCYC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b> and entertain- ment was the transaction of <b>business</b> . You are not required to show that busi- mess income or other <b>business</b> benefit ac- tually resulted from each entertainment expenditure . In determining that the principal&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_gDRAAAAMAAJ",
+      "etag": "QJkimscYLg4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_gDRAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Official Gazette of the United States Patent and Trademark Office",
+        "subtitle": "Trademarks",
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89068497395"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1248,
+        "printType": "BOOK",
+        "categories": [
+          "Trademarks"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.12.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_gDRAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_gDRAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_gDRAAAAMAAJ&pg=RA3-PA37&dq=business&hl=&as_pt=BOOKS&cd=113&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_gDRAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_gDRAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=_gDRAAAAMAAJ&rdid=book-_gDRAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Official_Gazette_of_the_United_States_Pa.epub?id=_gDRAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_gDRAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>BUSINESS</b> FOR <b>BUSINESS</b> MANAGEMENT CONSULTING ; BUSI- NESS CONSULTING ; <b>BUSINESS</b> PROCESS MANAGE- MENT AND CONSULTING ; <b>BUSINESS</b> MARKETING CONSULTING SERVICES ; PROCUREMENT SERVICES , NAMELY , PURCHASING COMPUTER HARDWARE AND SOFTWARE FOR&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NHj3TfPwfQEC",
+      "etag": "QLdAfPr6GUk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NHj3TfPwfQEC",
+      "volumeInfo": {
+        "title": "Biennial Survey of Education 1916-18",
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89005986187"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 806,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NHj3TfPwfQEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NHj3TfPwfQEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=NHj3TfPwfQEC&pg=PA453&dq=business&hl=&as_pt=BOOKS&cd=114&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NHj3TfPwfQEC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NHj3TfPwfQEC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=NHj3TfPwfQEC&rdid=book-NHj3TfPwfQEC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Biennial_Survey_of_Education_1916_18.epub?id=NHj3TfPwfQEC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NHj3TfPwfQEC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "INDIANA . Mattoon <b>Business</b> College ....... Brown&#39;s <b>Business</b> College .. Southwestern Commercial College . Olney <b>Business</b> College ... Brown&#39;s <b>Business</b> College . Capes Shorthand School . Gem City <b>Business</b> College . Brown&#39;s <b>Business</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KwAntNhLhhUC",
+      "etag": "DGCGX1J+VRA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KwAntNhLhhUC",
+      "volumeInfo": {
+        "title": "Report of the Clerk of the House from ...",
+        "authors": [
+          "United States. Congress. House. Office of the Clerk"
+        ],
+        "publishedDate": "1995",
+        "description": "Covers receipts and expenditures of appropriations and other funds.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCR:31210019767670"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 2012,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KwAntNhLhhUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KwAntNhLhhUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=KwAntNhLhhUC&pg=PA651&dq=business&hl=&as_pt=BOOKS&cd=115&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KwAntNhLhhUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KwAntNhLhhUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=KwAntNhLhhUC&rdid=book-KwAntNhLhhUC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Report_of_the_Clerk_of_the_House_from.epub?id=KwAntNhLhhUC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KwAntNhLhhUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>BUSINESS</b> TK # 3132 . 149.00 07/25/94 ONEWAY AIRFARE FOR MEMBER CHICAGO TO D.C. WHILE TRAVELLING IN SUPPORT OF OFFICIAL <b>BUSINESS</b> TK # 3017 . 92.00 03-22 5081720019 03-22 5081720023 03-22 5081720010 ONEWAY AIRFARE FOR MEMBER D.C. TO&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dRQOBAAAQBAJ",
+      "etag": "2gQHh2goh7s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dRQOBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Trust and Partnership",
+        "subtitle": "Strategic IT Management for Turbulent Times",
+        "authors": [
+          "Robert J. Benson"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2014-04-01",
+        "description": "Proven methodologies to enhance business value by exploiting the latest global technology trends and best business and IT practices There is no doubt that a tidal wave of change is hitting the area of business technology; new business models are forming around the cloud, new insights on how an enterprise runs is being aided by mining massive transactional and operational data sets. Decision-making is becoming almost prescient through new classes of data visualization, data analytics, and dashboards. Despite the promise of technologies to make a difference, or perhaps because of it, IT organizations face continued challenges in realizing partnerships and trust with their business partners. While many books take on elements of these emerging developments or address the stubborn barriers to \"real\" partnership, none make the practices involved fit together in a highly effective fashion - until now. Strategic IT Management in Turbulent Times reveals how this framework ensures that organizations make the right strategic decisions to succeed in times of turbulence and change. Draws together authors with global experience including the Americas, Europe, Pacific Rim, and Africa Offers a comprehensive framework for IT and business managers to maximize the value IT brings to business Addresses the effects of turbulence on business and IT Focuses on developing partnerships and trust with business With practical examples and implementation guidance based on proven techniques developed by the authors over the past twenty years, Strategic IT Management in Turbulent Times considers the challenges facing today's enterprise, IT's critical role in value creation, and the practical road map for achieving strategic IT management competencies.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118853528"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118853520"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 443,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dRQOBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dRQOBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=dRQOBAAAQBAJ&pg=PT342&dq=business&hl=&as_pt=BOOKS&cd=116&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=dRQOBAAAQBAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Trust_and_Partnership.html?hl=&id=dRQOBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Trust_and_Partnership-sample-epub.acsm?id=dRQOBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Trust_and_Partnership-sample-pdf.acsm?id=dRQOBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dRQOBAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b> outcomes ? Does IT perform ? 2. Do the Angus enterprise IT capabilities add to trust and partnership ? 3 ... <b>business</b> in more than 100 jurisdictions , some with differing laws and cultures . The six <b>businesses</b> have&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Wag0k5zjcJIC",
+      "etag": "Ra8F9lbCPKo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Wag0k5zjcJIC",
+      "volumeInfo": {
+        "title": "Cumulative List of Organizations Described in Section 170 (c) of the Internal Revenue Code of 1954",
+        "authors": [
+          "United States. Internal Revenue Service"
+        ],
+        "publishedDate": "1979",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105029364622"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1188,
+        "printType": "BOOK",
+        "categories": [
+          "Charitable uses, trusts, and foundations"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Wag0k5zjcJIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Wag0k5zjcJIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Wag0k5zjcJIC&pg=PA141&dq=business&hl=&as_pt=BOOKS&cd=117&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Wag0k5zjcJIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Wag0k5zjcJIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Wag0k5zjcJIC&rdid=book-Wag0k5zjcJIC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Cumulative_List_of_Organizations_Describ.epub?id=Wag0k5zjcJIC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Wag0k5zjcJIC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Business</b> Mens Bible Class , San Angelo , Tx . Butler Volunteer Fire Company Baltimore County Bvl Fund Inc. ,. Burton ... <b>Business</b> and Community United Corporation , St Louis , Mo. <b>Business</b> and Economic Training Corporation , Until&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ou7ezAEACAAJ",
+      "etag": "3cF+s3ai6Oc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ou7ezAEACAAJ",
+      "volumeInfo": {
+        "title": "Handbook of Materials Behavior Models, Three-Volume Set",
+        "subtitle": "Nonlinear Models and Properties",
+        "authors": [
+          "Jean LeMaitre"
+        ],
+        "publisher": "Academic Press",
+        "publishedDate": "2001-10-29",
+        "description": "This first of a kind reference/handbook deals with nonlinear models and properties of material. In the study the behavior of materials' phenomena no unique laws exist. Therefore, researchers often turn to models to determine the properties of materials. This will be the first book to bring together such a comprehensive collection of these models. The Handbook deals with all solid materials, and is organized first by phenomena. Most of the materials models presented in an applications-oriented fashion, less descriptive and more practitioner-geared, making it useful in the daily working activities of professionals. The Handbook is divided into three volumes. Volume I, Deformation of Materials, introduces general methodologies in the art of modeling, in choosing materials, and in the \"so-called\" size effect. Chapters 2-5 deal respectively with elasticity and viscoelasticity, yield limit, plasticity, and visco-plasticity. Volume II, Failures in Materials, provides models on such concerns as continuous damage, cracking and fracture, and friction wear. Volume III, Multiphysics Behavior, deals with multiphysics coupled behaviors. Chapter's 10 and 11 are devoted to special classes of materials (composites, biomaterials, and geomaterials). The different sections within each chapter describe one model each with its domain of validity, its background, its formulation, the identification of material parameters for as many materials as possible, and advice on how to implement or use the model. The study of the behavior of materials, especially solids, is related to hundreds of areas in engineering design and control. Predicting how a material will perform under various conditions is essential to determining the optimal performance of machines and vehicles and the structural integrity of buildings, as well as safety issues. Such practical examples would be how various new materials, such as those used in new airplane hulls, react to heat or cold or sudden temperature changes, or how new building materials hold up under extreme earthquake conditions. The Handbook of Materials Behavior Models: Gathers together 117 models of behavior of materials written by the most eminent specialists in their field Presents each model's domain of validity, a short background, its formulation, a methodology to identify the materials parameters, advise on how to use it in practical applications as well as extensive references Covers all solid materials: metals, alloys, ceramics, polymers, composites, concrete, wood, rubber, geomaterials such as rocks, soils, sand, clay, biomaterials, etc Concerns all engineering phenomena: elasticity, viscoelasticity, yield limit, plasticity, viscoplasticity, damage, fracture, friction, and wear",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0124433413"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780124433410"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1200,
+        "printType": "BOOK",
+        "categories": [
+          "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Ou7ezAEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=118&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Ou7ezAEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Handbook_of_Materials_Behavior_Models_Th.html?hl=&id=Ou7ezAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ou7ezAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This will be the first book to bring together such a comprehensive collection of these models. The Handbook deals with all solid materials, and is organized first by phenomena."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WuXR5WQAev4C",
+      "etag": "AW5e7EoCrK4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WuXR5WQAev4C",
+      "volumeInfo": {
+        "title": "Federal Trade Commission Decisions",
+        "authors": [
+          "United States. Federal Trade Commission"
+        ],
+        "publishedDate": "1995",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32435068650894"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1188,
+        "printType": "BOOK",
+        "categories": [
+          "Competition, Unfair"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WuXR5WQAev4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WuXR5WQAev4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WuXR5WQAev4C&pg=PA641&dq=business&hl=&as_pt=BOOKS&cd=119&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WuXR5WQAev4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WuXR5WQAev4C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=WuXR5WQAev4C&rdid=book-WuXR5WQAev4C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Federal_Trade_Commission_Decisions.epub?id=WuXR5WQAev4C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WuXR5WQAev4C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b> ) , or otherwise impair the marketability , viability or competitiveness of the Peters Consumer Water Soluble Fertilizer <b>Business</b> or the Peters <b>Business</b> . f . Scotts shall continue to provide to the Peters <b>Business</b> and the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fCRCAgAAQBAJ",
+      "etag": "LbuW6HB1yQo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fCRCAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Object-Oriented Analysis and Design for Information Systems",
+        "subtitle": "Agile Modeling with UML, OCL, and IFML",
+        "authors": [
+          "Raul Sidnei Wazlawick"
+        ],
+        "publisher": "Elsevier",
+        "publishedDate": "2014-01-28",
+        "description": "Object-Oriented Analysis and Design for Information Systems clearly explains real object-oriented programming in practice. Expert author Raul Sidnei Wazlawick explains concepts such as object responsibility, visibility and the real need for delegation in detail. The object-oriented code generated by using these concepts in a systematic way is concise, organized and reusable. The patterns and solutions presented in this book are based in research and industrial applications. You will come away with clarity regarding processes and use cases and a clear understand of how to expand a use case. Wazlawick clearly explains clearly how to build meaningful sequence diagrams. Object-Oriented Analysis and Design for Information Systems illustrates how and why building a class model is not just placing classes into a diagram. You will learn the necessary organizational patterns so that your software architecture will be maintainable. - Learn how to build better class models, which are more maintainable and understandable. - Write use cases in a more efficient and standardized way, using more effective and less complex diagrams. - Build true object-oriented code with division of responsibility and delegation.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780124172937"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0124172938"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 469,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fCRCAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fCRCAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fCRCAgAAQBAJ&pg=PA9&dq=business&hl=&as_pt=BOOKS&cd=120&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fCRCAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fCRCAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 53.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 43.16,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fCRCAgAAQBAJ&rdid=book-fCRCAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 53950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 43160000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Object_Oriented_Analysis_and_Design_for-sample-epub.acsm?id=fCRCAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Object_Oriented_Analysis_and_Design_for-sample-pdf.acsm?id=fCRCAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fCRCAgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b> model: If the goal is to build one or more systems that will serve a pool of organizations, then <b>business</b> modeling is useful in order to align the different organizations to a common <b>business</b> view, or, if that is not possible&nbsp;..."
+      }
+    }
+  ]
+}

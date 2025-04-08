@@ -1,0 +1,3235 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "MTGZAAAAQBAJ",
+      "etag": "FCyAi0x8S0M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MTGZAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Doing Business by the Good Book",
+        "subtitle": "52 Lessons on Success Straight from the Bible",
+        "authors": [
+          "David L. Steward",
+          "Robert L. Shook"
+        ],
+        "publisher": "Hachette Books",
+        "publishedDate": "2012-04-24",
+        "description": "An indispensable volume that shows how to succeed in business by using the Bible and its lessons as a source of inspiration and guidance n 1990, David L. Steward founded his company, Worldwide Technology, Inc., on a shoestring budget and borrowed money, well aware of the high-risk nature of the venture he was undertaking. Despite the fact that he was a novice entrepreneur, he was certain he would succeed. Steward believed intensely that God wouldn't let him down. Doing Business by the Good Book shares the inspiring lessons culled straight from the Bible, that Steward used to build his privately held billion-dollar company into a global information technology enterprise.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781401342944"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1401342949"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 223,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MTGZAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MTGZAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=MTGZAAAAQBAJ&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MTGZAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MTGZAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MTGZAAAAQBAJ&rdid=book-MTGZAAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Doing_Business_by_the_Good_Book-sample-epub.acsm?id=MTGZAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MTGZAAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Doing Business by the Good Book shares the inspiring lessons culled straight from the Bible, that Steward used to build his privately held billion-dollar company into a global information technology enterprise."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KsLLDAAAQBAJ",
+      "etag": "OF4ak0CjhqU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KsLLDAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Movie Business Book",
+        "authors": [
+          "Jason E Squire"
+        ],
+        "publisher": "CRC Press",
+        "publishedDate": "2016-08-05",
+        "description": "Tapping experts in an industry experiencing major disruptions, The Movie Business Book is the authoritative, comprehensive sourcebook, covering online micro-budget movies to theatrical tentpoles. This book pulls back the veil of secrecy on producing, marketing, and distributing films, including business models, dealmaking, release windows, revenue streams, studio accounting, DIY online self-distribution and more. First-hand insider accounts serve as primary references involving negotiations, management decisions, workflow, intuition and instinct. The Movie Business Book is an essential guide for those launching or advancing careers in the global media marketplace.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781317221593"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1317221591"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 653,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KsLLDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KsLLDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=KsLLDAAAQBAJ&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KsLLDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KsLLDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 56.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 42.71,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=KsLLDAAAQBAJ&rdid=book-KsLLDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 56950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 42710000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Movie_Business_Book-sample-pdf.acsm?id=KsLLDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KsLLDAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book pulls back the veil of secrecy on producing, marketing, and distributing films, including business models, dealmaking, release windows, revenue streams, studio accounting, DIY online self-distribution and more."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WG_XBQAAQBAJ",
+      "etag": "JgD712SXDCA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WG_XBQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Business Book",
+        "authors": [
+          "DK"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2014-12-19",
+        "description": "Learn about concepts, management, and commerce in The Business Book. Part of the fascinating Big Ideas series, this book tackles tricky topics and themes in a simple and easy to follow format. Learn about Business in this overview guide to the subject, great for beginners looking to learn and experts wishing to refresh their knowledge alike! The Business Book brings a fresh and vibrant take on the topic through eye-catching graphics and diagrams to immerse yourself in. This captivating book will broaden your understanding of Business, with: - Up to 100 quotations from the great business thinkers and gurus - Packed with facts, charts, timelines and graphs to help explain core concepts - A visual approach to big subjects with striking illustrations and graphics throughout - Easy to follow text makes topics accessible for people at any level of understanding The Business Book is the perfect introduction the to key theories that have shaped the world of business, management, and commerce, aimed at adults with an interest in the subject and students wanting to gain more of an overview. Here you\u2019ll discover every facet of business management, including alternative business models, with real life examples from the marketplace. If you\u2019ve ever wondered about the stages of business strategy, from start-up to delivering the goods, this is the perfect book for you. Your Business Questions, Simply Explained This book introduces the would-be entrepreneur and general reader to the work of great commercial thinkers, leaders, and gurus. Learn about the hurdles facing every new business, such as finding a gap in the market, securing finance, employing people, and creating an eye-catching brand. If you thought it was difficult to learn about the world of commerce, The Business Book presents information in an easy to follow layout. Learn the ideas of seminal business thinkers, such as Malcolm Gladwell's \"tipping point\", Michael Porter's \"five forces\", and Meredith Belbin's theories on effective teamwork, with fantastic mind maps and step-by-step summaries. The Big Ideas Series With millions of copies sold worldwide, The Business Book is part of the award-winning Big Ideas series from DK. The series uses striking graphics along with engaging writing, making big topics easy to understand.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781465438386"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1465438386"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 745,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WG_XBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WG_XBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WG_XBQAAQBAJ&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WG_XBQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WG_XBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WG_XBQAAQBAJ&rdid=book-WG_XBQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Business_Book-sample-epub.acsm?id=WG_XBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Business_Book-sample-pdf.acsm?id=WG_XBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WG_XBQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Business Book helps you over the hurdles facing every new business, such as finding a gap in the market, securing finance, employing people, and creating an eye-catching brand."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "T9sfEAAAQBAJ",
+      "etag": "C88WXwBL6P8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T9sfEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Like Nobody's Business",
+        "subtitle": "An Insider's Guide to How US University Finances Really Work",
+        "authors": [
+          "Andrew C. Comrie"
+        ],
+        "publisher": "Open Book Publishers",
+        "publishedDate": "2021-02-23",
+        "description": "How do university finances really work? From flagship public research universities to small, private liberal arts colleges, there are few aspects of these institutions associated with more confusion, myths or lack of understanding than how they fund themselves and function in the business of higher education. Using simple, approachable explanations supported by clear illustrations, this book takes the reader on an engaging and enlightening tour of how the money flows. How does the university really pay for itself? Why do tuition and fees rise so fast? Why do universities lose money on research? Do most donations go to athletics? Grounded in hard data, original analyses, and the practical experience of a seasoned administrator, this book provides refreshingly clear answers and comprehensive insights for anyone on or off campus who is interested in the business of the university: how it earns its money, how it spends it, and how it all works.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781800641105"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1800641109"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 422,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=T9sfEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=T9sfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=T9sfEAAAQBAJ&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=T9sfEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=T9sfEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.74,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.74,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=T9sfEAAAQBAJ&rdid=book-T9sfEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7740000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7740000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T9sfEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Grounded in hard data, original analyses, and the practical experience of a seasoned administrator, this book provides refreshingly clear answers and comprehensive insights for anyone on or off campus who is interested in the business of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ipQTrgEACAAJ",
+      "etag": "3h1GTW14sps",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ipQTrgEACAAJ",
+      "volumeInfo": {
+        "title": "The Business Book Bible",
+        "subtitle": "Everything You Need to Know to Write a Great Business Book",
+        "authors": [
+          "Derek B Lewis"
+        ],
+        "publisher": "Derek Lewis Ink",
+        "publishedDate": "2014-12-31",
+        "description": "Brian Tracy said, \"This book gives you a proven strategy to write and sell an excellent book on any business subject you know and care about.\" Todd Sattersten, co-author of \"The 100 Best Business Books of All Time,\" said, \"No one tells you how hard it is to write a business book. Luckily, Derek's 'Bible' makes it easier-much easier.\" Literary agents, publishers, Fortune 500 consultants-they've all had rave reviews for \"The Business Book Bible,\" the only full-length, in-depth book on how to put together a great thought leadership book. There are plenty of writing guides out there for memoirs, general business communication, crime thrillers, or romance novels. But until now, there's never been anywhere would-be business authors could turn to for help. That's unfortunate because business books present a completely different set of challenges. For example: - How do you connect with your readers so they trust you and your advice? - How do you artfully point to your products and services without coming off like a late-night infomercial? - How do you keep your reader engaged throughout the book, especially if your material is--shall we say--less than thrilling? No other writing guide can teach you what you need to know...and do you really want to learn the hard way? With writing your book, you want to get it right the first time. Written by a business ghostwriter, \"The Business Book Bible\" covers everything you need to know, from framing your authority to picking the perfect title, plus: - Figuring out how long your book should be - Winning the battle of writer's block - Nailing down your real reader (and what to do when they're different than your ideal client) - Giving away the secret sauce - The unforgivable sin in writing - Looking like a pro (and not a rank amateur) - Acting like a publisher (even if you have one) ....and much, much more. You'll learn how to follow the same 5-step process the author uses to write and ghostwrite multiple books a year. You'll see how to keep your book focused and how to cut the unnecessary material. You'll discover multiple methods of getting your ideas out of your head--and most of them don't even involve writing! John Spence, voted one of the top 100 business thought leaders in America, said, \"As the author of five business books, I sure wish I had read this one earlier in my career. It's would've saved me a lot of time, headache, stress, and money.\" Here's a startling example of just one of the great tips and tricks contained in the book: you don't start writing a book by actually writing the book. One of the biggest mistakes first-time authors make is sitting down at their computer, expecting to start with the first word of chapter one, and then write all the way through to \"The End.\" If only it were that easy! Amateurs try to get it perfect right from the start. The pros know that writing is a process. You start by getting all your ideas out of head and onto paper first. You'll have a jumbled mess that looks like a new jigsaw puzzle. You have to sift and sort through it to find the material worth using. Then and only then can you start piecing the puzzle together. It's a painstaking, time-consuming process-but one that's well worth it. Peter Economy, \"The Management Guy\" at Inc. said, \"Derek Lewis's 'The Business Book Bible' is by far the most comprehensive book I have ever seen on the nuts and bolts of writing a business book. If you're planning to write a business book, then you would do well to read this book first.\" Start writing your book by reading this one!\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0990735605"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780990735601"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ipQTrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ipQTrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ipQTrgEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ipQTrgEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Business_Book_Bible.html?hl=&id=ipQTrgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ipQTrgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Brian Tracy said, &quot;This book gives you a proven strategy to write and sell an excellent book on any business subject you know and care about."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dYnUu1T0RKAC",
+      "etag": "KOnY9275aIQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dYnUu1T0RKAC",
+      "volumeInfo": {
+        "title": "Book Business: Publishing Past, Present, and Future",
+        "authors": [
+          "Jason Epstein"
+        ],
+        "publisher": "W. W. Norton & Company",
+        "publishedDate": "2011-02-07",
+        "description": "\"An irresistible book about Grub Street, authorship and the literary marketplace.\"\u2014Washington Post Book World Jason Epstein has led arguably the most creative career in book publishing during the past half-century. He founded Anchor Books and launched the quality paperback revolution, cofounded the New York Review of Books, and created of the Library of America, the prestigious publisher of American classics, and The Reader's Catalog, the precursor of online bookselling. In this short book he discusses the severe crisis facing the book business today\u2014a crisis that affects writers and readers as well as publishers\u2014and looks ahead to the radically transformed industry that will revolutionize the idea of the book as profoundly as the introduction of movable type did five centuries ago.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393103779"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0393103773"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 203,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dYnUu1T0RKAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dYnUu1T0RKAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=dYnUu1T0RKAC&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dYnUu1T0RKAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dYnUu1T0RKAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 20.85,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=dYnUu1T0RKAC&rdid=book-dYnUu1T0RKAC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 20850000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Book_Business_Publishing_Past_Present_an-sample-epub.acsm?id=dYnUu1T0RKAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dYnUu1T0RKAC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this short book he discusses the severe crisis facing the book business today\u2014a crisis that affects writers and readers as well as publishers\u2014and looks ahead to the radically transformed industry that will revolutionize the idea of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_p_5DwAAQBAJ",
+      "etag": "tvsQkj7bF9E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_p_5DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Heart of Business",
+        "subtitle": "Leadership Principles for the Next Era of Capitalism",
+        "authors": [
+          "Hubert Joly"
+        ],
+        "publisher": "Harvard Business Press",
+        "publishedDate": "2021-05-04",
+        "description": "A Wall Street Journal Bestseller Named a Financial Times top title How to unleash \"human magic\" and achieve improbable results. Hubert Joly, former CEO of Best Buy and orchestrator of the retailer's spectacular turnaround, unveils his personal playbook for achieving extraordinary outcomes by putting people and purpose at the heart of business. Back in 2012, \"Everyone thought we were going to die,\" says Joly. Eight years later, Best Buy was transformed as Joly and his team rebuilt the company into one of the nation's favorite employers, vastly increased customer satisfaction, and dramatically grew Best Buy's stock price. Joly and his team also succeeded in making Best Buy a leader in sustainability and innovation. In The Heart of Business, Joly shares the philosophy behind the resurgence of Best Buy: pursue a noble purpose, put people at the center of the business, create an environment where every employee can blossom, and treat profit as an outcome, not the goal. This approach is easy to understand, but putting it into practice is not so easy. It requires radically rethinking how we view work, how we define companies, how we motivate, and how we lead. In this book Joly shares memorable stories, lessons, and practical advice, all drawn from his own personal transformation from a hard-charging McKinsey consultant to a leader who believes in human magic. The Heart of Business is a timely guide for leaders ready to abandon old paradigms and lead with purpose and humanity. It shows how we can reinvent capitalism so that it contributes to a sustainable future.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781647820398"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1647820391"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 157,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_p_5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_p_5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_p_5DwAAQBAJ&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_p_5DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_p_5DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 31.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 17.27,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_p_5DwAAQBAJ&rdid=book-_p_5DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 31990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 17270000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Heart_of_Business-sample-epub.acsm?id=_p_5DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Heart_of_Business-sample-pdf.acsm?id=_p_5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_p_5DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this book Joly shares memorable stories, lessons, and practical advice, all drawn from his own personal transformation from a hard-charging McKinsey consultant to a leader who believes in human magic."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i2M9EAAAQBAJ",
+      "etag": "gTRMsUzjmYw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i2M9EAAAQBAJ",
+      "volumeInfo": {
+        "title": "So You Wanna: Start a Food or Beverage Business",
+        "subtitle": "A Pick-Your-Path Business Book",
+        "authors": [
+          "Douglas Raggio"
+        ],
+        "publisher": "BenBella Books",
+        "publishedDate": "2022-03-01",
+        "description": "A pick-your-own-path guide to launching and sustaining a successful food or beverage business The specialty food and beverage business is a thriving industry, and the barriers to entry are low: all you need is a recipe idea and a place to make it. It sounds simple, but launching a food or beverage company is a maze of choices and consequences. Douglas Raggio has been there, both as a food business founder and as a consultant to other successful start-ups, and he\u2019s come to learn that every choice a food founder makes has a fairly predictable outcome. In So You Wanna: Start a Food or Beverage Business, he helps you think through the many decisions you\u2019ll make along the road from idea to success\u2014whether you see yourself building a following at your farmer\u2019s market, partnering with a local restaurant, or launching the next Pepsi. This innovative guide follows four archetypal food start-ups that cover a range of business ideas and founders. Every few pages, you\u2019ll make crucial decisions about the next step to take in growing a hypothetical business. You\u2019ll have a chance to see how each choice is likely to play out before you try out anything in the real world, where the stakes are higher. In this book, you\u2019ll see the maze of choices and outcomes that go into: Coming up with an exciting, profitable new product Funding your start-up Conducting market research Pricing and producing to scale Establishing partnerships, promotions, and branding Deciding when to keep going\u2014and when to fold By understanding the perils and pleasures of this fast-growing industry, you will be able to approach your own business with confidence, make the decisions that feel right to you, and avoid the most common pitfalls along the way.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781637740002"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "163774000X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 182,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i2M9EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i2M9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=i2M9EAAAQBAJ&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=i2M9EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=i2M9EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=i2M9EAAAQBAJ&rdid=book-i2M9EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/So_You_Wanna_Start_a_Food_or_Beverage_Bu-sample-epub.acsm?id=i2M9EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i2M9EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this book, you\u2019ll see the maze of choices and outcomes that go into: Coming up with an exciting, profitable new product Funding your start-up Conducting market research Pricing and producing to scale Establishing partnerships, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "irQTEAAAQBAJ",
+      "etag": "diagMeYBM3I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/irQTEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Good Business",
+        "subtitle": "The Talk, Fight, Win Way to Change the World",
+        "authors": [
+          "Bill Novelli"
+        ],
+        "publisher": "JHU Press",
+        "publishedDate": "2021-02-02",
+        "description": "An inspiring and practical look inside the mind of Bill Novelli, one of the founders of social marketing, Good Business challenges all of us to change the world for the better and is a blueprint for tackling today's critical issues. From his humble beginnings selling soap in a sales training program to his rapid rise in the fast-paced New York advertising scene, Bill Novelli was well on his way to becoming a leader in the hypercompetitive business world. But it wasn't long before he became disillusioned with the drive for profits at any cost. He knew that his marketing skills made those companies successful, but what good did that success do for the world? That question sent him on a career path that involved taking the marketing and communication tactics long used by big businesses and applying them to social change. He found that this strategy was not only good for the world but also good for business. In Good Business, Novelli begins with his early career success in Mad Men\u2013era marketing, which left him feeling unfulfilled. He describes the process of changing career trajectory: how he helped reposition the Peace Corps; built Porter Novelli, a global PR agency for social impact; fought the Tobacco Wars; and became CEO of AARP, the largest nonprofit in America. Drawing practical lessons and principles from play-by-play stories of his experiences in large and small organizations, Novelli deploys his characteristic wit to stress the importance of building and maintaining connections with people\u2014and engaging them in the cause. Good Business, which is part behind-the-scenes look at crafting social and health policy, part inspirational guide, proves that you can do well (creating economic and financial success for yourself and your company or organization) by doing good (helping to solve the world's and society's major problems). Throughout the book, Novelli shows that you can make a positive social difference regardless of what business you are in or where you are in your career. Readers will come away with the message that anyone who wants to have a positive impact on the world can do it right now from where they are\u2014or can be inspired by Novelli's story to make the leap to somewhere they can.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781421440439"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1421440431"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 389,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=irQTEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=irQTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=irQTEAAAQBAJ&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=irQTEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=irQTEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 27.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 27.95,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=irQTEAAAQBAJ&rdid=book-irQTEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 27950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 27950000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=irQTEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Throughout the book, Novelli shows that you can make a positive social difference regardless of what business you are in or where you are in your career."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_TzwzwEACAAJ",
+      "etag": "S73yLE7Ruqk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_TzwzwEACAAJ",
+      "volumeInfo": {
+        "title": "Introduction to Business",
+        "authors": [
+          "Lawrence J. Gitman",
+          "Carl Mcdaniel",
+          "Amit Shah"
+        ],
+        "publishedDate": "2023-05-19",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1998109313"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781998109319"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_TzwzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_TzwzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_TzwzwEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=_TzwzwEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introduction_to_Business.html?hl=&id=_TzwzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_TzwzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book provides detailed explanations in the context of core themes such as customer satisfaction, ethics, entrepreneurship, global business, and managing change."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6Tk0vAEACAAJ",
+      "etag": "SbxATzYfC+I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6Tk0vAEACAAJ",
+      "volumeInfo": {
+        "title": "The Better Business Book",
+        "subtitle": "100 People, 100 Stories, 100 Business Lessons To Live By",
+        "authors": [
+          "Authors Unite",
+          "Tyler Wagner"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-09-14",
+        "description": "If you're like me, you probably have 100+ business books on your shelf collecting dust. Some of them you've read, some of them you had hopes of reading, but life just got in the way. Each of those books probably followed a theme and had one important underlying message to share with you. Hundreds of pages, thousands of words, but only one golden nugget of underlying wisdom. All that reading for just one golden nugget. Imagine if you could have one book that gave you 100 golden nuggets. Less dust. Less clutter. Just one book to always have by your side and reference whenever you need to. Well, that's The Better Business Book. It's your one-stop shop for crystal-clear business advice that you can use to grow your business and live the life you've always wanted. The Better Business Book is better than your average business book. That's how we came up with the title. It consists of 100 people each sharing their most valuable business lesson. A real story from their business experience and the lesson they learned from it. Each time you read it, you will learn something new. Guaranteed. We hope you enjoy reading this book half as much as we enjoyed creating it for you.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1727339304"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781727339307"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 348,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6Tk0vAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6Tk0vAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=6Tk0vAEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=6Tk0vAEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Better_Business_Book.html?hl=&id=6Tk0vAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6Tk0vAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A real story from their business experience and the lesson they learned from it. Each time you read it, you will learn something new. Guaranteed. We hope you enjoy reading this book half as much as we enjoyed creating it for you."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NI1cDwAAQBAJ",
+      "etag": "AoKlp0+qq1A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NI1cDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Can Business Save the Earth?",
+        "subtitle": "Innovating Our Way to Sustainability",
+        "authors": [
+          "Michael Lenox",
+          "Aaron Chatterji"
+        ],
+        "publisher": "Stanford University Press",
+        "publishedDate": "2018-05-22",
+        "description": "Increasingly, business leaders are tasked with developing new products, services, and business models that minimize environmental impact while driving economic growth. It's a tall order\u2014and a call that is only getting louder. In Can Business Save the Earth?, Michael Lenox and Aaron Chatterji explain just how the private sector can help. Many believe that markets will inevitably demand sustainable practices and force them to emerge. But Lenox and Chatterji see it differently. Based on more than a decade of research and work with companies, they argue that a bright green future is only possible with dramatic innovation across multiple sectors at the same time. To achieve this, a broader ecosystem of players\u2014including inventors, executives, customers, investors, activists, and governments\u2014all must play a role. The book outlines how and the extent to which each group can serve as a driver of green growth. Then, Lenox and Chatterji identify where economic incentives currently exist, or could exist with institutional change, and ultimately address the larger question of how far well-coordinated efforts can take us in addressing the current environmental crisis.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781503606197"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1503606198"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 191,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NI1cDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NI1cDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=NI1cDwAAQBAJ&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NI1cDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NI1cDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 38,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 30.4,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=NI1cDwAAQBAJ&rdid=book-NI1cDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 38000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 30400000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Can_Business_Save_the_Earth-sample-epub.acsm?id=NI1cDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Can_Business_Save_the_Earth-sample-pdf.acsm?id=NI1cDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NI1cDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book outlines how and the extent to which each group can serve as a driver of green growth."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RgiBDwAAQBAJ",
+      "etag": "B6Mj/6uXq9U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RgiBDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Big Business",
+        "subtitle": "A Love Letter to an American Anti-Hero",
+        "authors": [
+          "Tyler Cowen"
+        ],
+        "publisher": "St. Martin's Press",
+        "publishedDate": "2019-04-09",
+        "description": "An against-the-grain polemic on American capitalism from New York Times bestselling author Tyler Cowen. We love to hate the 800-pound gorilla. Walmart and Amazon destroy communities and small businesses. Facebook turns us into addicts while putting our personal data at risk. From skeptical politicians like Bernie Sanders who, at a 2016 presidential campaign rally said, \u201cIf a bank is too big to fail, it is too big to exist,\u201d to millennials, only 42 percent of whom support capitalism, belief in big business is at an all-time low. But are big companies inherently evil? If business is so bad, why does it remain so integral to the basic functioning of America? Economist and bestselling author Tyler Cowen says our biggest problem is that we don\u2019t love business enough. In Big Business, Cowen puts forth an impassioned defense of corporations and their essential role in a balanced, productive, and progressive society. He dismantles common misconceptions and untangles conflicting intuitions. According to a 2016 Gallup survey, only 12 percent of Americans trust big business \u201cquite a lot,\u201d and only 6 percent trust it \u201ca great deal.\u201d Yet Americans as a group are remarkably willing to trust businesses, whether in the form of buying a new phone on the day of its release or simply showing up to work in the expectation they will be paid. Cowen illuminates the crucial role businesses play in spurring innovation, rewarding talent and hard work, and creating the bounty on which we\u2019ve all come to depend.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250110541"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1250110548"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 270,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RgiBDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RgiBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RgiBDwAAQBAJ&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=RgiBDwAAQBAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Big_Business.html?hl=&id=RgiBDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RgiBDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In Big Business, Cowen puts forth an impassioned defense of corporations and their essential role in a balanced, productive, and progressive society. He dismantles common misconceptions and untangles conflicting intuitions."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "M9VWvgAACAAJ",
+      "etag": "fFuD31RIEK4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M9VWvgAACAAJ",
+      "volumeInfo": {
+        "title": "Fundamentals of Business (black and White)",
+        "authors": [
+          "Stephen J. Skripak"
+        ],
+        "publishedDate": "2016-07-29",
+        "description": "(Black & White version) Fundamentals of Business was created for Virginia Tech's MGT 1104 Foundations of Business through a collaboration between the Pamplin College of Business and Virginia Tech Libraries. This book is freely available at: http://hdl.handle.net/10919/70961 It is licensed with a Creative Commons-NonCommercial ShareAlike 3.0 license.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0997920114"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780997920116"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 442,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=M9VWvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=M9VWvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=M9VWvgAACAAJ&dq=business&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=M9VWvgAACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fundamentals_of_Business_black_and_White.html?hl=&id=M9VWvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M9VWvgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is freely available at: http://hdl.handle.net/10919/70961 It is licensed with a Creative Commons-NonCommercial ShareAlike 3.0 license."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DwC4DwAAQBAJ",
+      "etag": "VUo1C/yXbJU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DwC4DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Making Sense of Incentives",
+        "subtitle": "Taming Business Incentives to Promote Prosperity",
+        "authors": [
+          "Timothy J. Bartik"
+        ],
+        "publisher": "W.E. Upjohn Institute",
+        "publishedDate": "2019-10-15",
+        "description": "Bartik provides a clear and concise overview of how state and local governments employ economic development incentives in order to lure companies to set up shop\u2014and provide new jobs\u2014in needy local labor markets. He shows that many such incentive offers are wasteful and he provides guidance, based on decades of research, on how to improve these programs.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780880996686"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0880996684"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DwC4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DwC4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DwC4DwAAQBAJ&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DwC4DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DwC4DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=DwC4DwAAQBAJ&rdid=book-DwC4DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Making_Sense_of_Incentives-sample-epub.acsm?id=DwC4DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Making_Sense_of_Incentives-sample-pdf.acsm?id=DwC4DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DwC4DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Bartik provides a clear and concise overview of how state and local governments employ economic development incentives in order to lure companies to set up shop\u2014and provide new jobs\u2014in needy local labor markets."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cEdOEAAAQBAJ",
+      "etag": "tSbc5u3XvKY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cEdOEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Book of Business Awesome / The Book of Business UnAwesome",
+        "authors": [
+          "Scott Stratten",
+          "Alison Kramer"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2012-08-07",
+        "description": "UnAwesome is UnAcceptable. The Book of Business Awesome is designed as two short books put together\u2014one read from the front and the other read from the back when flipped over. Covering key business concepts related to marketing, branding, human resources, public relations, social media, and customer service, The Book of Business Awesome includes case studies of successful businesses that gained exposure through being awesome and effective. This book provides actionable tools enabling readers to apply the concepts immediately to their own businesses. The flip side of the book, The Book of Business UnAwesome, shares the train-wreck stories of unsuccessful businesses and showcases what not to do. Key concepts include the power of peripheral referrals and how to create content for your \"third circle\" Explains how to re-recruiting your employees and re-court your customers Ensure that your business remains awesome, instead of unawesome, and apply these awesomely effective strategies to your business today.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118315224"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118315227"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 275,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cEdOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cEdOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cEdOEAAAQBAJ&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=cEdOEAAAQBAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_of_Business_Awesome_The_Book_of.html?hl=&id=cEdOEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Book_of_Business_Awesome_The_Book_of-sample-pdf.acsm?id=cEdOEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cEdOEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book provides actionable tools enabling readers to apply the concepts immediately to their own businesses."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xSy4DQAAQBAJ",
+      "etag": "tYgEN2B5lUM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xSy4DQAAQBAJ",
+      "volumeInfo": {
+        "title": "HBR Guide to Buying a Small Business",
+        "subtitle": "Think Big, Buy Small, Own Your Own Company",
+        "authors": [
+          "Richard S. Ruback",
+          "Royce Yudkoff"
+        ],
+        "publisher": "Harvard Business Review Press",
+        "publishedDate": "2017-01-17",
+        "description": "An all-in-one guide to helping you buy and own your own business. Are you looking for an alternative to a career path at a big firm? Does founding your own start-up seem too risky? There is a radical third path open to you: You can buy a small business and run it as CEO. Purchasing a small company offers significant financial rewards\u2014as well as personal and professional fulfillment. Leading a firm means you can be your own boss, put your executive skills to work, fashion a company environment that meets your own needs, and profit directly from your success. But finding the right business to buy and closing the deal isn't always easy. In the HBR Guide to Buying a Small Business, Harvard Business School professors Richard Ruback and Royce Yudkoff help you: Determine if this path is right for you Raise capital for your acquisition Find and evaluate the right prospects Avoid the pitfalls that could derail your search Understand why a \"dull\" business might be the best investment Negotiate a potential deal with the seller Avoid deals that fall through at the last minute Arm yourself with the advice you need to succeed on the job, with the most trusted brand in business. Packed with how-to essentials from leading experts, the HBR Guides provide smart answers to your most pressing work challenges.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781633692510"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1633692515"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xSy4DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xSy4DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xSy4DQAAQBAJ&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xSy4DQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xSy4DQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 21.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 13.17,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=xSy4DQAAQBAJ&rdid=book-xSy4DQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 21950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 13170000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/HBR_Guide_to_Buying_a_Small_Business-sample-epub.acsm?id=xSy4DQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/HBR_Guide_to_Buying_a_Small_Business-sample-pdf.acsm?id=xSy4DQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xSy4DQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the HBR Guide to Buying a Small Business, Harvard Business School professors Richard Ruback and Royce Yudkoff help you: Determine if this path is right for you Raise capital for your acquisition Find and evaluate the right prospects ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ocNOnwEACAAJ",
+      "etag": "pzmaqx3vf14",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ocNOnwEACAAJ",
+      "volumeInfo": {
+        "title": "The Everything Start Your Own Business Book",
+        "subtitle": "From Financing Your Project to Making Your First Sale, All You Need to Get Your Business Off the Ground",
+        "authors": [
+          "Judith B Harrington"
+        ],
+        "publisher": "Everything",
+        "publishedDate": "2006-08-28",
+        "description": "The Everything Start Your Own Business Book, 2nd Edition has everything you need to start your own business-and keep it running in the black. Completely updated and expertly revised by successful businesswoman Judith B. Harrington, this one-stop resource contains new information on: Online business strategy Critical professional associations and organizations Regulatory pitfalls Competitive concepts such as leased employees Being your own boss, head cook, and bottle washer isn't easy-one in three new businesses fail the first year. With this straightforward, no-nonsense reference book, you can make sure your business succeeds. Whether you need help formulating a business plan, finding financing, or running the business once it's off the ground, you'll find it all in The Everything Start Your Own Business Book, 2nd Edition.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1593376618"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781593376611"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ocNOnwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ocNOnwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ocNOnwEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ocNOnwEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Everything_Start_Your_Own_Business_B.html?hl=&id=ocNOnwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ocNOnwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Everything Start Your Own Business Book, 2nd Edition has everything you need to start your own business-and keep it running in the black."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5BorYAzbysgC",
+      "etag": "u9cagYd5Vvk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5BorYAzbysgC",
+      "volumeInfo": {
+        "title": "Start Your Own Business",
+        "subtitle": "The Only Start-up Book You'll Ever Need",
+        "authors": [
+          "Rieva Lesonsky"
+        ],
+        "publishedDate": "2001",
+        "description": "With this newly updated edition, the experts show you how to make your dreams of starting a business come true!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1891984217"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781891984211"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 796,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5BorYAzbysgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5BorYAzbysgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=5BorYAzbysgC&q=business&dq=business&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=5BorYAzbysgC&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Start_Your_Own_Business.html?hl=&id=5BorYAzbysgC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5BorYAzbysgC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With this newly updated edition, the experts show you how to make your dreams of starting a business come true!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZOUREQAAQBAJ",
+      "etag": "lIx6fFwV28o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZOUREQAAQBAJ",
+      "volumeInfo": {
+        "title": "Business for the Glory of God",
+        "subtitle": "The Bible's Teaching on the Moral Goodness of Business",
+        "authors": [
+          "Wayne Grudem"
+        ],
+        "publisher": "Crossway",
+        "publishedDate": "2022-04-25",
+        "description": "Can business activity in itself be morally good and pleasing to God? Sometimes business can seem so shady\u2014manipulating the \"bottom line,\" deceiving the consumer, or gaining promotions because of whom you know. But Wayne Grudem introduces a novel concept: business itself glorifies God when it is conducted in a way that imitates God's character and creation. He shows that all aspects of business, including ownership, profit, money, competition, and borrowing and lending, glorify God because they are reflective of God's nature. Though Grudem isn't na\u00efve about the easy ways these activities can be perverted and used as a means to sin, he knows that Christians can be about the business of business. This biblically based book is a thoughtful guide to imitating God during interactions with customers, coworkers, employees, and other businesses. See how your business\u2014and your life in business\u2014can be dedicated to God's glory.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781433581489"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1433581485"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 65,
+        "printType": "BOOK",
+        "categories": [
+          "Religion"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZOUREQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZOUREQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZOUREQAAQBAJ&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZOUREQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZOUREQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZOUREQAAQBAJ&rdid=book-ZOUREQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZOUREQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This biblically based book is a thoughtful guide to imitating God during interactions with customers, coworkers, employees, and other businesses. See how your business\u2014and your life in business\u2014can be dedicated to God&#39;s glory."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZMPTAwAAQBAJ",
+      "etag": "RVUv4qDgeG4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZMPTAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Business Adventures",
+        "subtitle": "Twelve Classic Tales from the World of Wall Street",
+        "authors": [
+          "John Brooks"
+        ],
+        "publisher": "Open Road Media",
+        "publishedDate": "2014-07-08",
+        "description": "\u201cBusiness Adventures remains the best business book I\u2019ve ever read.\u201d \u2014Bill Gates, The Wall Street Journal What do the $350 million Ford Motor Company disaster known as the Edsel, the fast and incredible rise of Xerox, and the unbelievable scandals at General Electric and Texas Gulf Sulphur have in common? Each is an example of how an iconic company was defined by a particular moment of fame or notoriety; these notable and fascinating accounts are as relevant today to understanding the intricacies of corporate life as they were when the events happened. Stories about Wall Street are infused with drama and adventure and reveal the machinations and volatile nature of the world of finance. Longtime New Yorker contributor John Brooks\u2019s insightful reportage is so full of personality and critical detail that whether he is looking at the astounding market crash of 1962, the collapse of a well-known brokerage firm, or the bold attempt by American bankers to save the British pound, one gets the sense that history repeats itself. Five additional stories on equally fascinating subjects round out this wonderful collection that will both entertain and inform readers . . . Business Adventures is truly financial journalism at its liveliest and best.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781497638853"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1497638852"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.27.26.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZMPTAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZMPTAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZMPTAwAAQBAJ&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=21&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZMPTAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZMPTAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 19.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 19.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZMPTAwAAQBAJ&rdid=book-ZMPTAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 19990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 19990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Business_Adventures-sample-epub.acsm?id=ZMPTAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Business_Adventures-sample-pdf.acsm?id=ZMPTAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZMPTAwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Five additional stories on equally fascinating subjects round out this wonderful collection that will both entertain and inform readers . . . Business Adventures is truly financial journalism at its liveliest and best."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ng59zgEACAAJ",
+      "etag": "5Yx4huAjtBw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ng59zgEACAAJ",
+      "volumeInfo": {
+        "title": "The Antiracist Business Book",
+        "subtitle": "An Equity Centered Approach to Work, Wealth, and Leadership",
+        "authors": [
+          "Trudi Lebr\u00f3n"
+        ],
+        "publisher": "Row House Publishing",
+        "publishedDate": "2022-03-15",
+        "description": "The Antiracist Business Book is the first of its kind, as DEI business coach Trudi Lebr\u00f3n offers business owners real-life lessons on how to build, reshape, and re-envision their work to support and repair the wealth of all people. The Antiracist Business Book: An Equity Centered Approach to Work, Wealth, and Leadership is the business book for the modern world. Trudi Lebr\u00f3n has spent the last decade working as a DEI and impact coach for businesses, nonprofits, and entrepreneurs. And what she learned over that time was that making a lasting change wasn't about fixing the old system; it was about building a new one. In this seminal work, Trudi lays out a plan for all businesses, leaders, entrepreneurs, and coaches to remix business, so that equity and impact become synonymous with profit and power. Trudi provides lessons on understanding the long-term impacts of living in a hyper-capitalist, post-colonial world (aka White People Sh*t) to recognizing that the way we have viewed wealth (whether as an obsession or an obscenity). She will compel business owners and leaders to rethink how they do business. Trudi shares ways to create an antiracist business in a capitalist system, showing readers: How to make the shift from toxic capitalism to justice-based commerce \u2013 Trudi has spent years working with corporate leaders, online entrepreneurs, and mid-level managers on understanding how to build profitable businesses based on ethical transparency, justice-based leadership, and equitable business practices. She explains how justice can be found in a system that places profit above all else, re-imagining our economic systems not just in theory but in practice. How to move from the streets to the suites (\"-isms\" in business) \u2013 Trudi identifies the new form of leadership, which isn't from above but is built from the trust, creativity, and community usually found in the streets. As younger generations demand a new world order, the old one is dying and is being replaced with something remarkably more dynamic, equitable, and wealth-generating for all. How to make friends with money \u2013 This is for all you activists in the back row. Money is not the devil. In fact, without embracing and creating wealth generation, antiracism will always struggle at the corners of the conversation. In this work, Trudi will help readers heal their business journey, inviting them to redefine and re-envision their relationship to wealth. Unlike any other book on the market, The Antiracist Business Book takes an antiracist perspective. It applies it to how we are doing business\u2014at the top, in the middle, and at the bottom, offering tools for advancement in how we work, earn, and lead. The wisdom inside this timely and essential book advocates for a new order of business that creates transparency, opportunity, and disruption. Businesses can no longer be successful while operating as tools of the status quo.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1955905010"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781955905015"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ng59zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ng59zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Ng59zgEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Ng59zgEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Antiracist_Business_Book.html?hl=&id=Ng59zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ng59zgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this work, Trudi will help readers heal their business journey, inviting them to redefine and re-envision their relationship to wealth. Unlike any other book on the market, The Antiracist Business Book takes an antiracist perspective."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QbY2AAAAQBAJ",
+      "etag": "Vil2pOCYkV8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QbY2AAAAQBAJ",
+      "volumeInfo": {
+        "title": "Disciplined Entrepreneurship",
+        "subtitle": "24 Steps to a Successful Startup",
+        "authors": [
+          "Bill Aulet"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2013-08-12",
+        "description": "24 Steps to Success! Disciplined Entrepreneurship will change the way you think about starting a company. Many believe that entrepreneurship cannot be taught, but great entrepreneurs aren\u2019t born with something special \u2013 they simply make great products. This book will show you how to create a successful startup through developing an innovative product. It breaks down the necessary processes into an integrated, comprehensive, and proven 24-step framework that any industrious person can learn and apply. You will learn: Why the \u201cF\u201d word \u2013 focus \u2013 is crucial to a startup\u2019s success Common obstacles that entrepreneurs face \u2013 and how to overcome them How to use innovation to stand out in the crowd \u2013 it\u2019s not just about technology Whether you\u2019re a first-time or repeat entrepreneur, Disciplined Entrepreneurship gives you the tools you need to improve your odds of making a product people want. Author Bill Aulet is the managing director of the Martin Trust Center for MIT Entrepreneurship as well as a senior lecturer at the MIT Sloan School of Management. For more please visit http://disciplinedentrepreneurship.com/",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118692288"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118692284"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QbY2AAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QbY2AAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QbY2AAAAQBAJ&printsec=frontcover&dq=business&hl=&as_pt=BOOKS&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=QbY2AAAAQBAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Disciplined_Entrepreneurship.html?hl=&id=QbY2AAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Disciplined_Entrepreneurship-sample-pdf.acsm?id=QbY2AAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QbY2AAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book provides an invaluable comprehensive framework for innovation-driven entrepreneurs to execute the business planning process.&quot; \u2014BRAD FELD, Managing Director of the Foundry Group, co-founder of TechStars, and creator of the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mjzxzwEACAAJ",
+      "etag": "Jr4/VU0+nzo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mjzxzwEACAAJ",
+      "volumeInfo": {
+        "title": "Business Ethics",
+        "authors": [
+          "Stephen M. Byars",
+          "Kurt Stanberry"
+        ],
+        "publishedDate": "2023-05-20",
+        "description": "Color print. \ufeffBusiness Ethics is designed to meet the scope and sequence requirements of the single-semester business ethics course. This title includes innovative features designed to enhance student learning, including case studies, application scenarios, and links to video interviews with executives, all of which help instill in students a sense of ethical awareness and responsibility.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1998109410"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781998109418"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mjzxzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mjzxzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=mjzxzwEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=mjzxzwEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Business_Ethics.html?hl=&id=mjzxzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mjzxzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Color print. \ufeffBusiness Ethics is designed to meet the scope and sequence requirements of the single-semester business ethics course."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-vmAzgEACAAJ",
+      "etag": "9A4/YwMw/Uk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-vmAzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Beautiful Business",
+        "subtitle": "An Actionable Manifesto to Create an Unignorable Business with Love at the Core",
+        "authors": [
+          "Steven Morris"
+        ],
+        "publishedDate": "2021-10-26",
+        "description": "The Beautiful Business encourages entrepreneurs to reclaim their business and life as a fundamental creative journey that enables their people and their business entity to continually evolve and thrive. Based on timeless business, psychology, and artistic principles put forward by some of the greatest hearts and minds in history, The Beautiful Business presents an actionable manifesto to shape any business into an unignorable entity that stands the test of time. This book will change the questions you ask about why your business exists. It will change the way you see your business, your life, and the people around you. It will change how you measure success in your business. It will help you, the business seeker, to make a more beautiful business, life, and world. Your business matters. Make it beautiful.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1950466280"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781950466283"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 338,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-vmAzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-vmAzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-vmAzgEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=-vmAzgEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Beautiful_Business.html?hl=&id=-vmAzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-vmAzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Based on the principles of the greatest hearts and minds in history, The Beautiful Business is an actionable manifesto to shape any business into an unignorable entity that stands the test of time. Your business matters. Make it beautiful."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wzq-ygEACAAJ",
+      "etag": "RwOBKB/Qc5Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wzq-ygEACAAJ",
+      "volumeInfo": {
+        "title": "Business Law I Essentials",
+        "authors": [
+          "MIRANDE. DE ASSIS VALBRUNE (RENEE. CARDELL, SUZANNE.)",
+          "Renee de Assis",
+          "Suzanne Cardell"
+        ],
+        "publishedDate": "2019-09-27",
+        "description": "A less-expensive grayscale paperback version is available. Search for ISBN 9781680923018. Business Law I Essentials is a brief introductory textbook designed to meet the scope and sequence requirements of courses on Business Law or the Legal Environment of Business. The concepts are presented in a streamlined manner, and cover the key concepts necessary to establish a strong foundation in the subject. The textbook follows a traditional approach to the study of business law. Each chapter contains learning objectives, explanatory narrative and concepts, references for further reading, and end-of-chapter questions. Business Law I Essentials may need to be supplemented with additional content, cases, or related materials, and is offered as a foundational resource that focuses on the baseline concepts, issues, and approaches.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1680923021"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781680923025"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wzq-ygEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wzq-ygEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wzq-ygEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=wzq-ygEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Business_Law_I_Essentials.html?hl=&id=wzq-ygEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wzq-ygEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Business Law I Essentials may need to be supplemented with additional content, cases, or related materials, and is offered as a foundational resource that focuses on the baseline concepts, issues, and approaches."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wzSgSQAACAAJ",
+      "etag": "s/xlHALPnbo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wzSgSQAACAAJ",
+      "volumeInfo": {
+        "title": "Exploring Business",
+        "authors": [
+          "Karen Collins"
+        ],
+        "publisher": "Ingram",
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1936126206"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781936126200"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 408,
+        "printType": "BOOK",
+        "categories": [
+          "Business"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wzSgSQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wzSgSQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wzSgSQAACAAJ&dq=business&hl=&as_pt=BOOKS&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=wzSgSQAACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Exploring_Business.html?hl=&id=wzSgSQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wzSgSQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ghpbzgEACAAJ",
+      "etag": "vDFaKrcyNMI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ghpbzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Leveraged Business",
+        "subtitle": "How You Can Go from Overwhelmed at Six Figures to Seven Figures (and Get Your Life Back)",
+        "authors": [
+          "Fabienne Fredrickson"
+        ],
+        "publishedDate": "2021-03-22",
+        "description": "Most entrepreneurs start a business to get freedom, do meaningful work, on their terms. Sadly, most end up feeling overwhelmed, working long hours and not paying themselves enough. No more! This proven Leverage methodology outlined in the eight 'Activators' in this book works to grow your business to a million or more a year, while giving you your life back. It is a powerful model based on two decades of experience and tens of millions of dollars in results each year for those who've applied it. You've invested so much. You deserve your big payday and exquisite quality of life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1734913711"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781734913712"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ghpbzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ghpbzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ghpbzgEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ghpbzgEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Leveraged_Business.html?hl=&id=ghpbzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ghpbzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "No more! This proven Leverage methodology outlined in the eight &#39;Activators&#39; in this book works to grow your business to a million or more a year, while giving you your life back."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wNXfzAEACAAJ",
+      "etag": "6zfyOoTkfgo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wNXfzAEACAAJ",
+      "volumeInfo": {
+        "title": "Start Your Own Business, Fifth Edition",
+        "authors": [
+          "Entrepreneur Press"
+        ],
+        "publisher": "Entrepreneur Press",
+        "publishedDate": "2010-08-31",
+        "description": "BE YOUR OWN BOSS \u201cEntrepreneurs enjoy a freedom few ever know. Starting your own business is one of the few remaining paths to wealth\u2014and this book is a valuable road map.\u201d Robert K. Kiyosaki, Author of Rich Dad Poor Dad Tap into more than 30 years of small business expertise as you embark on the most game-changing journey of your life \u2013 your new business. This unmatched guide - the best-selling business startup book of all time - offers critical startup essentials and a current, comprehensive view of what it takes to survive the crucial first three years, giving your exactly what you need to survive and succeed. Plus, you\u2019ll get advice and insight from experts and practicing entrepreneurs, all offering common-sense approaches and solutions to a wide range of challenges. Pin point your target market Uncover creative financing for startup and growth Use online resources to streamline your business plan Learn the secrets of successful marketing Discover digital and social media tools and how to use them Take advantage of hundreds of resources Receive vital forms, worksheets and checklists From startup to retirement, millions of entrepreneurs and small business owners have trusted Entrepreneur to point them in the right direction. We\u2019ll teach you the secrets of the winners, and give you exactly what you need to lay the groundwork for success.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1599183870"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781599183879"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wNXfzAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wNXfzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wNXfzAEACAAJ&dq=business&hl=&as_pt=BOOKS&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=wNXfzAEACAAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Start_Your_Own_Business_Fifth_Edition.html?hl=&id=wNXfzAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wNXfzAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Starting your own business is one of the few remaining paths to wealth\u2014and this book is a valuable road map.\u201d Robert K. Kiyosaki, Author of Rich Dad Poor Dad Tap into more than 30 years of small business expertise as you embark on the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fkO4UJ7kOlUC",
+      "etag": "MnDlvyDbTPU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fkO4UJ7kOlUC",
+      "volumeInfo": {
+        "title": "Business",
+        "subtitle": "A Magazine for Office, Store and Factory",
+        "publishedDate": "1910",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112057150333"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 656,
+        "printType": "BOOK",
+        "categories": [
+          "Accounting"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fkO4UJ7kOlUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fkO4UJ7kOlUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fkO4UJ7kOlUC&pg=PA39&dq=business&hl=&as_pt=BOOKS&cd=30&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fkO4UJ7kOlUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fkO4UJ7kOlUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=fkO4UJ7kOlUC&rdid=book-fkO4UJ7kOlUC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Business.epub?id=fkO4UJ7kOlUC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fkO4UJ7kOlUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b> world is recognized as of so great importance that it has been intrusted to the care of one astute in- dividual known as the credit man . If any <b>business</b> succeeds without him it is favored by good luck , pure and simple ; few&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aPyBrrTzZgsC",
+      "etag": "SH3yksgTRZc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aPyBrrTzZgsC",
+      "volumeInfo": {
+        "title": "55 Surefire Homebased Businesses You Can Start for Under $5000",
+        "authors": [
+          "Entrepreneur Press"
+        ],
+        "publisher": "Entrepreneur Press",
+        "publishedDate": "2009-02-01",
+        "description": "Coaching you all the way, the experts at Entrepreneur guide you into the thriving homebased industry, revealing unique, slam-dunk opportunities, outlining vital business basics, sharing priceless industry need-to-knows, and so much more! If you can bankroll $5,000 (some even less!), you can boldly choose your next big business move, decide to be your own boss, and start making profits! \u2022 Choose from a diverse list of 55 surefire homebased businesses \u2022 Spend less than $5,000 on startup \u2022 Quickly and legitimately setup your home office \u2022 Master industry language and fundamentals \u2022 Use business-specific marketing techniques to secure success \u2022 Create repeat business with engaging customer service practices \u2022 Plan for expansion \u2022 And more You\u2019re on target for success\u2014let us help you hit the bullseye! (maybe use the target image from the logo in the background)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781613081044"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1613081049"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 266,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.9.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aPyBrrTzZgsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aPyBrrTzZgsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=aPyBrrTzZgsC&pg=PA59&dq=business&hl=&as_pt=BOOKS&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=aPyBrrTzZgsC&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/55_Surefire_Homebased_Businesses_You_Can.html?hl=&id=aPyBrrTzZgsC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/55_Surefire_Homebased_Businesses_You_Can-sample-epub.acsm?id=aPyBrrTzZgsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aPyBrrTzZgsC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b>. It may be the specific industry they are in, the aspect of industry their <b>business</b> does (manufacturing, retail, service industry, for example), or even just small <b>business</b> vs. large corporation. Book authors, film actors&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3woIEAAAQBAJ",
+      "etag": "mOBMg5DGNqE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3woIEAAAQBAJ",
+      "volumeInfo": {
+        "title": "SUN TZU ENTREPRENEURSHIP\u2122",
+        "authors": [
+          "James Sonhill DBA",
+          "Sun Tzu"
+        ],
+        "publisher": "Sonhill Publishing LLC",
+        "publishedDate": "2020-06-28",
+        "description": "Sun Tzu Entrepreneurship\u2122 gives you all strategy principles and strategy formulas you need in order to embark on your entrepreneurship venture and lead your new business with serious strategy skills. First you develop a realistic business strategic plan that helps define your business strategic position and your future success. Then you craft a practical business strategy that helps define your strategy cycle. Strategy principles and formulas in this book will turn you into a successful entrepreneur who is decisive and effective in the way you lead and make decision as well as adaptive and competitive in the way you perform and take actions to win in business. For more information on our business strategy books, business strategy planners, business strategy courses, and business strategy certification programs, visit our websites: www.JamesSonhill.com and www.SunTzuStore.com.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 294,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3woIEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3woIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=3woIEAAAQBAJ&pg=PA109&dq=business&hl=&as_pt=BOOKS&cd=32&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3woIEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3woIEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 15,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 15,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3woIEAAAQBAJ&rdid=book-3woIEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 15000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 15000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3woIEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b> campaign or <b>business</b> organization has to have strong leader and strong mangers , strong workers and strong followers , and strong competing systems and strong competing capabilities. Thus , your competing <b>business</b> campaign&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GunzDwAAQBAJ",
+      "etag": "1QSVgD53aH8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GunzDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Data Management at Scale",
+        "authors": [
+          "Piethein Strengholt"
+        ],
+        "publisher": "O'Reilly Media",
+        "publishedDate": "2020-07-29",
+        "description": "As data management and integration continue to evolve rapidly, storing all your data in one place, such as a data warehouse, is no longer scalable. In the very near future, data will need to be distributed and available for several technological solutions. With this practical book, you\u2019ll learnhow to migrate your enterprise from a complex and tightly coupled data landscape to a more flexible architecture ready for the modern world of data consumption. Executives, data architects, analytics teams, and compliance and governance staff will learn how to build a modern scalable data landscape using the Scaled Architecture, which you can introduce incrementally without a large upfront investment. Author Piethein Strengholt provides blueprints, principles, observations, best practices, and patterns to get you up to speed. Examine data management trends, including technological developments, regulatory requirements, and privacy concerns Go deep into the Scaled Architecture and learn how the pieces fit together Explore data governance and data security, master data management, self-service data marketplaces, and the importance of metadata",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781492054757"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1492054755"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 348,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GunzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GunzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GunzDwAAQBAJ&pg=PA26&dq=business&hl=&as_pt=BOOKS&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=GunzDwAAQBAJ&dq=business&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Management_at_Scale.html?hl=&id=GunzDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GunzDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b> ecosystem . <b>Business</b> architecture is supported by building holistic and multidimensional busi- ness views with <b>business</b> capabilities . 13 From bounded context we can draw a parallel to <b>business</b> architecture and <b>business</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9xHe0SBlOkoC",
+      "etag": "aZNSj2049Rc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9xHe0SBlOkoC",
+      "volumeInfo": {
+        "title": "Monthly Catalog of United States Government Publications",
+        "authors": [
+          "United States. Superintendent of Documents"
+        ],
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "RUTGERS:39030037106673"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 912,
+        "printType": "BOOK",
+        "categories": [
+          "Government publications"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9xHe0SBlOkoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9xHe0SBlOkoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9xHe0SBlOkoC&pg=PA308&dq=business&hl=&as_pt=BOOKS&cd=34&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9xHe0SBlOkoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9xHe0SBlOkoC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=9xHe0SBlOkoC&rdid=book-9xHe0SBlOkoC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Monthly_Catalog_of_United_States_Governm.epub?id=9xHe0SBlOkoC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9xHe0SBlOkoC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>BUSINESS</b>. ,. Committee. on. ,. House. Washington. ,. DC. 20515. Y 4.Sm 1 : C 86/5 United States . Congress . House . Committee on Small <b>Business</b> . Subcommittee on Antitrust and Restraint of Trade Activities Affecting Small <b>Business</b> . Small&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y1FiwPXypEYC",
+      "etag": "IX6P5FH0XvY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y1FiwPXypEYC",
+      "volumeInfo": {
+        "title": "Federal Register",
+        "publishedDate": "1988-02",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924109250286"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "categories": [
+          "Administrative law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=y1FiwPXypEYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=y1FiwPXypEYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=y1FiwPXypEYC&pg=PA5118&dq=business&hl=&as_pt=BOOKS&cd=35&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=y1FiwPXypEYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=y1FiwPXypEYC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=y1FiwPXypEYC&rdid=book-y1FiwPXypEYC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Federal_Register.epub?id=y1FiwPXypEYC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y1FiwPXypEYC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b> , small disadvantaged <b>business</b> utilization and labor surplus area program ( s ) within the Command ; ( iv ) Defense Logistics Agency- Commanders of Defense Supply Centers , Commanders , Defense Contract Administration Services&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_NREAQAAMAAJ",
+      "etag": "lauUpPDYGz4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_NREAQAAMAAJ",
+      "volumeInfo": {
+        "title": "U.S. House of Representatives Detailed Statement of Disbursements",
+        "subtitle": "(July 1 to December 31, 1967)",
+        "authors": [
+          "United States. Congress. House. Committee on House Administration"
+        ],
+        "publishedDate": "1968",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951D03599482X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_NREAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_NREAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_NREAQAAMAAJ&pg=PA88&dq=business&hl=&as_pt=BOOKS&cd=36&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_NREAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_NREAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=_NREAQAAMAAJ&rdid=book-_NREAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/U_S_House_of_Representatives_Detailed_St.epub?id=_NREAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_NREAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Business</b> Machines Royal Typewriter Co .. 1730 29 1792 Oct. 3 1856 9 1967 1970 12 2051 2052 24 2275 31 2394 2395 SCM Corp ... DeJur Amsco Corp. <b>Business</b> Equipment Center . International <b>Business</b> Machines . Dura <b>Business</b> Machines . 3M&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hbYVBAAAQBAJ",
+      "etag": "gIIRl6NcsNg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hbYVBAAAQBAJ",
+      "volumeInfo": {
+        "title": "ECRM2013-Proceedings of the 12th European Conference on Research Methods",
+        "subtitle": "ECRM 2013",
+        "authors": [
+          "Isabel Ramos",
+          "Anabela Mesquita"
+        ],
+        "publisher": "Academic Conferences Limited",
+        "publishedDate": "2013-04-07",
+        "description": "Complete proceedings of the 13th European Conference on Research Methodology for Business and Management Studies ECRM 2013 PRINT version Published by Academic Conferences and Publishing International Limited.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781909507302"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "190950730X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 415,
+        "printType": "BOOK",
+        "categories": [
+          "Reference"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hbYVBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hbYVBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=hbYVBAAAQBAJ&pg=PA174&dq=business&hl=&as_pt=BOOKS&cd=37&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hbYVBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hbYVBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 77.51,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 77.51,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hbYVBAAAQBAJ&rdid=book-hbYVBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 77510000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 77510000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/ECRM2013_Proceedings_of_the_12th_Europea-sample-pdf.acsm?id=hbYVBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hbYVBAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b> success for many <b>business</b> owners. A number of Indigenous <b>business</b> owners have Indigenous employment policies in place to ensure Indigenous employment remains a focus of the <b>business</b>. One <b>business</b> owner commented: I have a&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "la_mJetj9CUC",
+      "etag": "JEJqTZ63t38",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/la_mJetj9CUC",
+      "volumeInfo": {
+        "title": "Taxpayer Information Publications",
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCR:31210020117709"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 380,
+        "printType": "BOOK",
+        "categories": [
+          "Income tax"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=la_mJetj9CUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=la_mJetj9CUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=la_mJetj9CUC&pg=PA12&dq=business&hl=&as_pt=BOOKS&cd=38&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=la_mJetj9CUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=la_mJetj9CUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=la_mJetj9CUC&rdid=book-la_mJetj9CUC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Taxpayer_Information_Publications.epub?id=la_mJetj9CUC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=la_mJetj9CUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b> with the person during the entertainment period , and You had more than a general expectation of getting income or some other specific <b>business</b> benefit . \u2022 Entertainment is associated with your trade or <b>business</b> , and&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IuAjAQAAMAAJ",
+      "etag": "CM9O0USOeiM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IuAjAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Reports and Documents",
+        "authors": [
+          "United States. Congress"
+        ],
+        "publishedDate": "1960",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951D02196679T"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1916,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.12.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IuAjAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IuAjAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=IuAjAQAAMAAJ&pg=RA13-PA5&dq=business&hl=&as_pt=BOOKS&cd=39&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IuAjAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IuAjAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=IuAjAQAAMAAJ&rdid=book-IuAjAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Reports_and_Documents.epub?id=IuAjAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IuAjAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Business</b> Investment Co. , Bloomington , Ill .. $ 301,000 $ 150,000 $ 150,000 Businessmen&#39;s Small <b>Business</b> Investment Co. , Chicago , Ill . 301 , 100 149 , 850 90,000 Evansville Small <b>Business</b> Investment Corp. , Evansville , Ind&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dlCkYE5AbCYC",
+      "etag": "i2KxHfiyfKc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dlCkYE5AbCYC",
+      "volumeInfo": {
+        "title": "Publication",
+        "publishedDate": "1964",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32435025584772"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 44,
+        "printType": "BOOK",
+        "categories": [
+          "Income tax"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dlCkYE5AbCYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dlCkYE5AbCYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=dlCkYE5AbCYC&pg=RA1-PA9&dq=business&hl=&as_pt=BOOKS&cd=40&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dlCkYE5AbCYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dlCkYE5AbCYC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=dlCkYE5AbCYC&rdid=book-dlCkYE5AbCYC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Publication.epub?id=dlCkYE5AbCYC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dlCkYE5AbCYC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b> and entertain- ment was the transaction of <b>business</b> . You are not required to show that busi- mess income or other <b>business</b> benefit ac- tually resulted from each entertainment expenditure . In determining that the principal&nbsp;..."
+      }
+    }
+  ]
+}

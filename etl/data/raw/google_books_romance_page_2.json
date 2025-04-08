@@ -1,0 +1,3102 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "onmRAAAAIAAJ",
+      "etag": "5k/k9kwgSu0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/onmRAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Romance of Great Businesses",
+        "authors": [
+          "William Henry Beable"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105015255453"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 454,
+        "printType": "BOOK",
+        "categories": [
+          "Business"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.4.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=onmRAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=onmRAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=onmRAAAAIAAJ&pg=PA13&dq=romance&hl=&as_pt=BOOKS&cd=81&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=onmRAAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=onmRAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=onmRAAAAIAAJ&rdid=book-onmRAAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Romance_of_Great_Businesses.epub?id=onmRAAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=onmRAAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>romances</b> , as this book shows , even in prosaic business , in the conceptions of ideas and ideals and in bringing ... <b>Romance</b> of Industry &quot; might well be the theme of another book , and possibly will be . 66 While I am indebted to&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AUARAAAAYAAJ",
+      "etag": "IGko7/epuWY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AUARAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Tales, Romances, and Extravaganzas",
+        "authors": [
+          "Thomas Hood"
+        ],
+        "publishedDate": "1866",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HWKP6Y"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 392,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AUARAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AUARAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=AUARAAAAYAAJ&pg=PP7&dq=romance&hl=&as_pt=BOOKS&cd=82&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=AUARAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AUARAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=AUARAAAAYAAJ&rdid=book-AUARAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Tales_Romances_and_Extravaganzas.epub?id=AUARAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Tales_Romances_and_Extravaganzas.pdf?id=AUARAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3EL9Eg2WprxLfxMXXEg1WwciOmAQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AUARAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>ROMANCE</b> . MRS . PECK&#39;S PUDDING . - A CHRISTMAS <b>ROMANCE</b> . THE SCHOOLMISTRESS ABROAD . THE TOWER OF LAHNECK . MRS . GARDINER . - A HORTICULTURAL <b>ROMANCE</b> . MR . CHUBB . - A PISCATORY <b>ROMANCE</b> . NEW YORK : G. P. PUTNAM ; HURD AND HOUGHTON&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KvsszQEACAAJ",
+      "etag": "MLwjM19kSqs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KvsszQEACAAJ",
+      "volumeInfo": {
+        "title": "Beauty's Beast",
+        "authors": [
+          "Stasia Black",
+          "Lee Savino"
+        ],
+        "publishedDate": "2020-01-09",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1950097358"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781950097357"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KvsszQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KvsszQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=KvsszQEACAAJ&dq=romance&hl=&as_pt=BOOKS&cd=83&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=KvsszQEACAAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beauty_s_Beast.html?hl=&id=KvsszQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KvsszQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "htUKngEACAAJ",
+      "etag": "ICC45dZ3pbU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/htUKngEACAAJ",
+      "volumeInfo": {
+        "title": "Nothing Personal",
+        "subtitle": "The Kincaids Book Two",
+        "authors": [
+          "Rosalind James"
+        ],
+        "publisher": "Kincaids",
+        "publishedDate": "2013-10-31",
+        "description": "When you wish upon a star . . . Alec Kincaid has never met the obstacle he couldn't overcome--or the woman who could resist him. And it's not going to happen now, not with his star shining more brightly than ever in the high-stakes arena of San Francisco's software industry. Desiree Harlin doesn't believe in fairy tales, and she doesn't waste time wishing. She's learned the hard way that dreams don't come true. And with her reputation and hard-won security on the line, succumbing to temptation isn't an option. But things aren't always what they seem. And even stars sometimes fall. Note: Despite the fog, San Francisco does get hot at times. If you prefer your romance without steam, you may want to visit a different city . . . er, book.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0988761963"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780988761964"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=htUKngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=htUKngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=htUKngEACAAJ&dq=romance&hl=&as_pt=BOOKS&cd=84&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=htUKngEACAAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nothing_Personal.html?hl=&id=htUKngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=htUKngEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "When you wish upon a star ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sl_dDVctycgC",
+      "etag": "1MHUUaBtD4w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sl_dDVctycgC",
+      "volumeInfo": {
+        "title": "International Encyclopedia of Linguistics",
+        "subtitle": "4-Volume Set",
+        "authors": [
+          "William Frawley"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2003-05",
+        "description": "The International Encyclopedia of Linguistics, 2nd Edition encompasses the full range of the contemporary field of linguistics, including historical, comparative, formal, mathematical, functional, and philosophical linguistics with special attention given to interrelations within branches of linguistics and to relations of linguistics with other disciplines. Areas of intersection with the social and behavioral sciences--ethnolinguistics, sociolinguistics, psycholinguistics, and behavioral linguistics--receive major coverage, along with interdisciplinary work in language and literature, mathematical linguistics, computational linguistics, and applied linguistics.Longer entries in the International Encyclopedia of Linguistics, ranging up to four thousand words, survey the major fields of study--for example, anthropological linguistics, history of linguistics, semantics, and phonetics. Shorter entries treat specific topics within these fields, such as code switching, sound symbolism, and syntactic features. Other short entries define and discuss technical terms used within the various subfields or provide sketches of the careers of important scholars in the history of linguistics, such as Leonard Bloomfield, Roman Jakobson, and Edward Sapir.A major portion of the work is its extensive coverage of languages and language families. From those as familiar as English, Japanese, and the Romance languages to Hittite, Yoruba, and Nahuatl, all corners of the world receive treatment. Languages that are the subject of independent entries are analyzed in terms of their phonology, grammatical features, syntax, and writing systems. Lists attached to each article on a language group or family enumerate all languages, extinct or still spoken, within that group and provide detailed information on the number of known speakers, geographical range, and degree of intelligibility with other languages in the group. In this way, virtually every known language receives coverage.For ease of reference and to aid research, the articles are alphabetically arranged, each signed by the contributor, supported by up-to-date bibliographies, line drawings, maps, tables, and diagrams, and readily accessible via a system of cross-references and a detailed index and synoptic outline. Authoritative, comprehensive, and innovative, the 2nd edition of the International Encyclopedia of Linguistics will be an indispensable addition to personal, public, academic, and research libraries and will introduce a new generation of readers to the complexities and concerns of this field of study.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780195139778"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0195139771"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 2198,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sl_dDVctycgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sl_dDVctycgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=sl_dDVctycgC&pg=RA2-PA467&dq=romance&hl=&as_pt=BOOKS&cd=85&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=sl_dDVctycgC&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/International_Encyclopedia_of_Linguistic.html?hl=&id=sl_dDVctycgC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/International_Encyclopedia_of_Linguistic-sample-pdf.acsm?id=sl_dDVctycgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sl_dDVctycgC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Romance</b> MAP 1. Distribution of Daco - <b>Romance</b> Dialects . (. FIGURE 1. Genetic Classification of <b>Romance</b> Languages Italic Classical Latin Latin Western <b>Romance</b> Ibero - <b>Romance</b> Common <b>Romance</b> Western Eastern <b>Romance</b> Italo - Dalmatian Balkan&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GRfOEAAAQBAJ",
+      "etag": "tfag4kLzXQU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GRfOEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Encyclopedia of Comic Books and Graphic Novels",
+        "subtitle": "[2 volumes]",
+        "authors": [
+          "M. Keith Booker"
+        ],
+        "publisher": "Bloomsbury Publishing USA",
+        "publishedDate": "2010-05-11",
+        "description": "The most comprehensive reference ever compiled about the rich and enduring genre of comic books and graphic novels, from their emergence in the 1930s to their late-century breakout into the mainstream. At a time when graphic novels have expanded beyond their fan cults to become mainstream bestsellers and sources for Hollywood entertainment, Encyclopedia of Comic Books and Graphic Novels serves as an exhaustive exploration of the genre's history, its landmark creators and creations, and its profound influence on American life and culture. Encyclopedia of Comic Books and Graphic Novels focuses on English-language comics\u2014plus a small selection of influential Japanese and European works available in English\u2014with special emphasis on the new graphic novel format that emerged in the 1970s. Entries cover influential comic artists and writers such as Will Eisner, Alan Moore, and Grant Morrison, major genres and themes, and specific characters, comic book imprints, and landmark titles, including the pulp noir 100 Bullets, the post-apocalyptic Y: The Last Man, the revisionist superhero drama, Identity Crisis, and more. Key franchises such as Superman and Batman are the center of a constellation of related entries that include graphic novels and other imprints featuring the same characters or material.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780313357473"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0313357471"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 807,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GRfOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GRfOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GRfOEAAAQBAJ&pg=PA522&dq=romance&hl=&as_pt=BOOKS&cd=86&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GRfOEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GRfOEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 180,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 144,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=GRfOEAAAQBAJ&rdid=book-GRfOEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 180000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 144000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Encyclopedia_of_Comic_Books_and_Graphic-sample-pdf.acsm?id=GRfOEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GRfOEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>romance</b> comics except for a 12-issue run of Cowgirl <b>Romances</b> in 1950\u201352. Baker&#39;s shift was fortuitous, since it gave him the opportunity to illustrate with a lavish, bravura style many of the best-written of all <b>romance</b> comics, notwith&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DJ9ozgEACAAJ",
+      "etag": "FUuVrpVCIuI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DJ9ozgEACAAJ",
+      "volumeInfo": {
+        "title": "Out of the Gate",
+        "subtitle": "A Small Town Second Chance Romance",
+        "authors": [
+          "Elsie Silver"
+        ],
+        "publishedDate": "2021-04-21",
+        "description": "Dermot Harding is ten years older than me.A family friend. An employee on my father's ranch.But I've loved him as long as I can remember.At eighteen, I kissed him and he pushed me away. He said I was too young. The army took him from me for three long years, but now he's back at Gold Rush Ranch-looking at me like he's never looked at me before. Letting his hands linger longer than they should. Offering to help me train the racehorse I've always dreamed of owning.I say that I've moved on, but our chemistry? It's electric. It's overpowering. And soon all our reasons for staying away from each other fall away, along with our clothes.He says he's too old and too broken for someone like me. He says we can never work. But his body tells another story.I put my pride on the line for him once before.Am I a fool to risk it again?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798742154778"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DJ9ozgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DJ9ozgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DJ9ozgEACAAJ&dq=romance&hl=&as_pt=BOOKS&cd=87&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=DJ9ozgEACAAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Out_of_the_Gate.html?hl=&id=DJ9ozgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DJ9ozgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dermot Harding is ten years older than me."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ykb3zgEACAAJ",
+      "etag": "NkwQgVfj5qE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ykb3zgEACAAJ",
+      "volumeInfo": {
+        "title": "Blood of the Wicked",
+        "authors": [
+          "K. N. Banet"
+        ],
+        "publishedDate": "2022-03-15",
+        "description": "I once worked for vampires. I'd never thought I'd be one. My throat is always on fire. My mouth is always dry. The only thing that helps? Human blood. As much as vampires need it, it is also our curse. Blood can drive us mad if we're not careful. That madness breeds a wickedness as the need for blood reigns supreme. We revel in it, desiring the power and vitality it gives us. When we drain someone, we get high; it's a rush that some vampires love to chase once they cross that line. Vampires will do anything to get it and there's nothing that will stop them from killing hundreds. Our humanity slips away the more we indulge the need and there is no way to regain it. Alexius makes it his duty to kill any vampire that loses control and I've promised to help him. After months, I get to help on my first case, just like I wanted to the night I woke up as an immortal. I thought I knew what sort of vampires we'd be stopping. I didn't think about how bad things could get. My name is Everly Abbott... And the wicked really do know no bounds.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1957385006"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781957385006"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ykb3zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ykb3zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Ykb3zgEACAAJ&dq=romance&hl=&as_pt=BOOKS&cd=88&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Ykb3zgEACAAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Blood_of_the_Wicked.html?hl=&id=Ykb3zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ykb3zgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "I once worked for vampires."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kvtCAQAAMAAJ",
+      "etag": "Z1r7TlZRNmU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kvtCAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Peoria Public Library List of English Fiction, French Fiction, and Juveniles",
+        "subtitle": "Arranged Alphabetically by Author and Title",
+        "authors": [
+          "Peoria Public Library (Peoria, Ill.)"
+        ],
+        "publishedDate": "1894",
+        "description": "A catalog of juvenile and fiction books held by the Peoria Public Library, in one alphabetical listing.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112087487036"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "categories": [
+          "Children's literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kvtCAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kvtCAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=kvtCAQAAMAAJ&pg=PA54&dq=romance&hl=&as_pt=BOOKS&cd=89&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=kvtCAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kvtCAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=kvtCAQAAMAAJ&rdid=book-kvtCAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Peoria_Public_Library_List_of_English_Fi.epub?id=kvtCAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kvtCAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>ROMANCE Romance</b> of a ch\u00e2let . Praed Ruffini , G. D. Continued . <b>Romance</b> of a mummy . Gautier <b>Romance</b> of a poor young man . Feuillet <b>Romance</b> of a shop . Levy <b>Romance</b> of a spahi . Loti <b>Romance</b> of a Spanish nun . Baldy Lorenzo Benoni&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_TqFEAAAQBAJ",
+      "etag": "gpI5Bddj8dc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_TqFEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Bridge Kingdom",
+        "subtitle": "From the No.1 Sunday Times bestseller of A Fate Inked in Blood",
+        "authors": [
+          "Danielle L. Jensen"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2022-09-08",
+        "description": "DISCOVER THE SPELLBINDING DARK FANTASY TIKTOK SENSATION 'Do not walk to pick up this book. Run' JENNIFER L. ARMENTROUT, bestselling author of FROM BLOOD AND ASH 'You will devour it! Badass females, slow burn romance, enemies to lovers . . . Do I even need to say more?' 5***** READER REVIEW 'Enemies to Lovers and full of Angst . . . Loved the book so much I can't put it into words' 5***** READER REVIEW ___________ Raised as a warrior, Princess Lara has always known her destiny: to destroy her enemy, King Aren. The Bridge Kingdom where he resides uses its power to deprive Lara's homeland of vital resources. So when she is sent to be King Aren's bride, she has her way in. Now, all Lara needs to do is destroy the kingdom - and her new husband - from the inside. But when hostility turns to passion, her loyalty will be tested to its limits . . . ___________ 'This book is just everything!!! It's such an atmospheric read that completely immerses you. This book has me completely captivated, it honestly has stolen a piece of my heart' 5***** READER REVIEW 'Heart-pounding. I enjoyed every moment of this book' 5***** READER REVIEW 'I don't think I'll ever be over how amazing this book is . . .The world and characters were so immersive' 5***** READER REVIEW PRAISE FOR THE BRIDGE KINGDOM SERIES 'Exquisite, phenomenal and sexy' Olivia Wildenstein, USA Today bestselling author of Feather 'An epic, action-packed tale of love, revenge, and betrayal' Jennifer Estep, New York Times bestselling author of Kill the Queen 'Heart-pounding romance and intense action wrapped in a spellbinding world. I was hooked from the first page!' Elise Kova, USA Today bestselling author of A Deal with the Elf King PRAISE FOR DANIELLE L. JENSEN 'Richly-woven, evocative and absolutely impossible to put down . . . I loved every word' Sarah J. Maas, bestselling author of A Court of Thorns and Roses 'Stellar world-building and multidimensional characters' Kirkus 'Stunning world-building, a vivid cast of secondary characters, and a steamy slow-burn romance' Bookist",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781405955867"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1405955864"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 353,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_TqFEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_TqFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_TqFEAAAQBAJ&dq=romance&hl=&as_pt=BOOKS&cd=90&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=_TqFEAAAQBAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Bridge_Kingdom.html?hl=&id=_TqFEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_TqFEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book has me completely captivated, it honestly has stolen a piece of my heart&#39; 5***** READER REVIEW &#39;Heart-pounding. I enjoyed every moment of this book&#39; 5***** READER REVIEW &#39;I don&#39;t think I&#39;ll ever be over how amazing this book is ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sBn42eyawK8C",
+      "etag": "3rjo5kHT2CU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sBn42eyawK8C",
+      "volumeInfo": {
+        "title": "Class Fictions",
+        "subtitle": "Shame and Resistance in the British Working Class Novel, 1890\u20131945",
+        "authors": [
+          "Pamela Fox"
+        ],
+        "publisher": "Duke University Press",
+        "publishedDate": "1994-11-21",
+        "description": "Many recent discussions of working-class culture in literary and cultural studies have tended to present an oversimplified view of resistance. In this groundbreaking work, Pamela Fox offers a far more complex theory of working-class identity, particularly as reflected in British novels of the late nineteenth and early twentieth centuries. Through the concept of class shame, she produces a model of working-class subjectivity that understands resistance in a more accurate and useful way\u2014as a complicated kind of refusal, directed at both dominated and dominant culture. With a focus on certain classics in the working-class literary \"canon,\" such as The Ragged Trousered Philanthropists and Love on the Dole, as well as lesser-known texts by working-class women, Fox uncovers the anxieties that underlie representations of class and consciousness. Shame repeatedly emerges as a powerful counterforce in these works, continually unsettling the surface narrative of protest to reveal an ambivalent relation toward the working-class identities the novels apparently champion. Class Fictions offers an equally rigorous analysis of cultural studies itself, which has historically sought to defend and value the radical difference of working-class culture. Fox also brings to her analysis a strong feminist perspective that devotes considerable attention to the often overlooked role of gender in working-class fiction. She demonstrates that working-class novels not only expose master narratives of middle-class culture that must be resisted, but that they also reveal to us a need to create counter narratives or formulas of working-class life. In doing so, this book provides a more subtle sense of the role of resistance in working class culture. While of interest to scholars of Victorian and working-class fiction, Pamela Fox\u2019s argument has far-reaching implications for the way literary and cultural studies will be defined and practiced.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0822315424"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780822315421"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sBn42eyawK8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sBn42eyawK8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=sBn42eyawK8C&pg=PA146&dq=romance&hl=&as_pt=BOOKS&cd=91&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=sBn42eyawK8C&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Class_Fictions.html?hl=&id=sBn42eyawK8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sBn42eyawK8C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Romance</b> \u201d Feminist theorists from Mary Wollstonecraft to the present have had a particular and obvious stake in examining heterosexual <b>romance</b> as one linchpin of patriarchal systems . Whether cultural myth , plot device , or popular&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sYY-YgEACAAJ",
+      "etag": "Tfn7Q0X/Sgo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sYY-YgEACAAJ",
+      "volumeInfo": {
+        "title": "Jules Et Jim",
+        "authors": [
+          "Henri Pierre Roch\u00e9"
+        ],
+        "publisher": "Penguin Classics",
+        "publishedDate": "2011",
+        "description": "In free-spirited Paris, Jules and Jim live a carefree, bohemian existence. They write in caf\u00e9s, travel when the mood takes them, and share the women they love without jealousy. Like Lucie, flawless, an abbess, and Odile, impulsive, mischievous, almost feral. But it is Kate - with a smile the two friends have determined to follow always, but capricious enough to jump in the Seine from spite - who steals their hearts most thoroughly. Henri-Pierre Roch\u00e9 was in his mid-seventies when he wrote this, his autobiographical debut novel. The inspiration for the legendary film, it captures perfectly with excitement and great humour the tenderness of three people in love with each other and with life. With an Afterword by Fran\u00e7ois Truffaut With a new Introduction by Agnes Catherine Poirier 'A perfect hymn to love and perhaps to life.' Fran\u00e7ois Truffaut",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0141194634"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141194639"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+          "Love stories"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sYY-YgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sYY-YgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=sYY-YgEACAAJ&dq=romance&hl=&as_pt=BOOKS&cd=92&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=sYY-YgEACAAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jules_Et_Jim.html?hl=&id=sYY-YgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sYY-YgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Together they embark on a riotously Bohemian life. Kate the untamed German girl steals their hearts in turn, and so begins the moving story of 3 people in love with life and each other."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xTZpzgEACAAJ",
+      "etag": "KNWdfQ9WwfQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xTZpzgEACAAJ",
+      "volumeInfo": {
+        "title": "Starting Over in Maple Bay",
+        "subtitle": "A Sweet Small Town Cowboy Romance",
+        "authors": [
+          "Brittney Joy"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-01-18",
+        "description": "Welcome to Maple Bay, a small Midwestern town with heaps of heart--where family dinner is a must, and someone will always leave the light on for you. A new series perfect for fans of Debbie Macomber, Jenny Hale, and Susan Mallery. An inheritance from a mother she never knew. But can this fixer-upper mend her heart? Hazel didn't think there was anything a homemade apple pie couldn't fix--until her husband divorced her and left her broke. Trying her best to raise her ten-year old daughter and make ends meet, Hazel is desperate for a fresh start. When she inherits a fixer-upper in the small town of Maple Bay, Hazel and her daughter head to the country for the reading of her biological mother's will. But a clause in the will says Hazel and her sister--the sister she didn't know existed--must live together on the rural property for one summer, or forfeit their inheritance. If Hazel can tough it out in the country for a few months, she stands to gain a historic carriage house. It needs renovation, but Hazel thinks she can fix it up, sell it as a bed-and-breakfast, and use the profits to begin her life anew, back in the city. She isn't planning to stay in Maple Bay, or to fall in love with her sister's best friend, Jesse--a single dad and handsome cowboy who is recovering from heartbreak of his own. Hazel and Jesse are from two different worlds, but this horse-whisperer just might know how to speak to Hazel's broken heart . . . until Hazel discovers a box of letters and a secret from her past that changes everything. \u2605\u2605\u2605 Starting Over in Maple Bay is a sweet, feel-good small-town romance, and the first book in a new series by award-winning author Brittney Joy. This tale of second chances and newfound family will warm the hearts of readers--like tater tot hotdish or sweet apple pie. Curl up with your favorite blanket and visit Maple Bay today! \u2665 BONUS: Includes a Recipe for Hazel's scrumptious Peanut Butter Pie. Books in the Maple Bay Series (each book can be read as a standalone): Starting Over in Maple Bay Second Chance in Maple Bay Country Stars in Maple Bay (coming soon)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798594125308"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xTZpzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xTZpzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xTZpzgEACAAJ&dq=romance&hl=&as_pt=BOOKS&cd=93&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xTZpzgEACAAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Starting_Over_in_Maple_Bay.html?hl=&id=xTZpzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xTZpzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This tale of second chances and newfound family will warm the hearts of readers--like tater tot hotdish or sweet apple pie."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "w7WaCwAAQBAJ",
+      "etag": "KpIoPZdtBr0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/w7WaCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Adoring Outlander",
+        "subtitle": "Essays on Fandom, Genre and the Female Audience",
+        "authors": [
+          "Valerie Estelle Frankel"
+        ],
+        "publisher": "McFarland",
+        "publishedDate": "2016-02-17",
+        "description": "What is behind Outlander fever--the hit television drama's popularity? Is it author Diana Gabaldon's teasing posts on social media? Is it the real history reimagined? The highly emotional melodrama? Or is it the take-charge heroine and the sweet hero in a kilt? One of the show's biggest draws is its multigenre appeal. Gabaldon--whose Outlander novels form the basis of the series--has called it science fiction, fantasy, romance, historical fiction and military fiction, depending on her audience. This collection of new essays explores the series as a romance, a ghost story, an epic journey, a cozy mystery, a comedy of manners, a gothic thriller and a feminist answer to Game of Thrones, and considers the source of its broad appeal.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781476664231"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1476664234"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 225,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=w7WaCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=w7WaCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=w7WaCwAAQBAJ&pg=PA96&dq=romance&hl=&as_pt=BOOKS&cd=94&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=w7WaCwAAQBAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Adoring_Outlander.html?hl=&id=w7WaCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Adoring_Outlander-sample-pdf.acsm?id=w7WaCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=w7WaCwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>romance</b> fiction : \u201c I don&#39;t have guaranteed happy endings \u2014 which you really must have in a <b>romance</b> \u201d she writes ( &quot; About the Books , &quot; emphasis in original ) . On reading the Outlander series against some of the various ways <b>romance</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8b9_EAAAQBAJ",
+      "etag": "Iu7us+qm2r0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8b9_EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Under the Golden Sun",
+        "subtitle": "A Novel",
+        "authors": [
+          "Jenny Ashcroft"
+        ],
+        "publisher": "St. Martin's Griffin",
+        "publishedDate": "2023-08-08",
+        "description": "A \"remarkable novel of family and love during a time of war,\"* Jenny Ashcroft's Under the Golden Sun follows a soul-searching young woman who takes a leap of faith and discovers a place to call home and someone to share her heart. England, 1941. The world is at war. London is under siege as the German blitz pounds the city without warning, without mercy. Rose Hamilton did her part as a member of the Women\u2019s Auxiliary Air Force until she was unfairly discharged following a tragic loss. Working as a secretary on a Devon farmland, Rose is out of harm\u2019s way, but she needs to contribute to something greater than herself to truly recover. Answering a newspaper advertisement for a companion to accompany an orphaned child to Australia, Rose becomes enchanted with four-year-old Walter Lucknow. Shy, imaginative, and kind, the boy lost his parents and has been living in near seclusion with his elder great aunt. As heir to a wealthy Australian cattle station, Walter must return to his homeland and his mother\u2019s family. Leaving her own family\u2014and fianc\u00e9\u2014Rose braves the long, dangerous voyage across Pacific waters where war is imminent to see Walter safely home. But upon arrival, Rose learns the truth about Walter\u2019s relationship to the Lucknows and the land he\u2019s supposed to inherit, a truth that haunts the boy\u2019s Uncle Max, a wounded pilot scarred inside and out. And as Max opens his heart up to Walter, Rose is drawn to the man\u2019s strength and compassion, finding herself torn between returning to England and staying with the child and man she\u2019s grown to love. *New York Times bestselling author Karen White",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250793386"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1250793386"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8b9_EAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8b9_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8b9_EAAAQBAJ&dq=romance&hl=&as_pt=BOOKS&cd=95&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8b9_EAAAQBAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Under_the_Golden_Sun.html?hl=&id=8b9_EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8b9_EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A &quot;remarkable novel of family and love during a time of war,&quot;* Jenny Ashcroft&#39;s Under the Golden Sun follows a soul-searching young woman who takes a leap of faith and discovers a place to call home and someone to share her heart."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r3DEEAAAQBAJ",
+      "etag": "NWvI8IljgaU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r3DEEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Historicizing the Enlightenment, Volume 2",
+        "subtitle": "Literature, the Arts, and the Aesthetic in Britain",
+        "authors": [
+          "Michael McKeon"
+        ],
+        "publisher": "Rutgers University Press",
+        "publishedDate": "2023-07-14",
+        "description": "Enlightenment critics from Dryden through Johnson and Wordsworth conceived the modern view that art and especially literature entails a double reflection: a reflection of the world, and a reflection on the process by which that reflection is accomplished. Instead \u201cneoclassicism\u201d and \u201cAugustanism\u201d have been falsely construed as involving a one-dimensional imitation of classical texts and an unselfconscious representation of the world. In fact these Enlightenment movements adopted an oblique perspective that registers the distance between past tradition and its present reenactment, between representation and presence. Two modern movements, Romanticism and modernism, have appropriated as their own these innovations, which derive from Enlightenment thought. Both of these movements ground their error in a misreading of \u201cimitation\u201d as understood by Aristotle and his Enlightenment proponents. Rightly understood, neoclassical imitation, constitutively aware of the difference between what it knows and how it knows it, is an experimental inquiry that generates a range of prefixes\u2014\u201ccounter-,\u201d \u201cmock-,\u201d \u201canti-,\u201d \u201cneo-\u201d\u2014that mark formal degrees of its epistemological detachment. Romantic ideology has denied the role of the imagination in Enlightenment imitation, imposing on the eighteenth century a dichotomous periodization: duplication versus imagination, the mirror versus the lamp. Structuralist ideology has dichotomized narration and description, form and content, structure and history. Poststructuralist ideology has propounded for the novel a contradictory \u201cnovel tradition\u201d\u2014realism, modernism, postmodernism, postcolonialism\u2014whose stages both constitute a sequence and collapse it, each stage claiming the innovation of the stage that precedes it. Published by Bucknell University Press. Distributed worldwide by Rutgers University Press.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781684484775"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1684484774"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=r3DEEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=r3DEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=r3DEEAAAQBAJ&pg=PT23&dq=romance&hl=&as_pt=BOOKS&cd=96&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=r3DEEAAAQBAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historicizing_the_Enlightenment_Volume_2.html?hl=&id=r3DEEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Historicizing_the_Enlightenment_Volume_2-sample-epub.acsm?id=r3DEEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Historicizing_the_Enlightenment_Volume_2-sample-pdf.acsm?id=r3DEEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r3DEEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>romance</b> attribution of vraisemblance and the roman \u00e0 clef&#39;s indirect claim to historical v\u00e9rit\u00e9 or factuality . In the twelfth century , <b>romance</b> had begun to detach from the body of the chanson de geste , and over the next several&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wo99CwAAQBAJ",
+      "etag": "33/cn70Rdjo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wo99CwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Seal's Second Chance Baby (Cowboy SEALs, Book 3) (Mills & Boon Cherish)",
+        "authors": [
+          "Laura Marie Altom"
+        ],
+        "publisher": "HarperCollins UK",
+        "publishedDate": "2016-06-01",
+        "description": "A SEAL\u2019S REDEMPTION... What Navy SEAL Marsh Langtree needs is to make sense of his life. What he gets is a near-fatal snakebite. If it weren\u2019t for Effie Washington, Marsh would be a goner. Her blue eyes and gorgeous smile make him thankful he\u2019s still breathing. But he shouldn\u2019t be flirting with a single mom...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781474041249"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1474041248"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 145,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wo99CwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wo99CwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wo99CwAAQBAJ&dq=romance&hl=&as_pt=BOOKS&cd=97&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=wo99CwAAQBAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Seal_s_Second_Chance_Baby_Cowboy_SEA.html?hl=&id=wo99CwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wo99CwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A SEAL\u2019S REDEMPTION."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gr6pkLyrSL0C",
+      "etag": "UnRKUOuRKlU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gr6pkLyrSL0C",
+      "volumeInfo": {
+        "title": "Intertextuality and Victorian Studies",
+        "authors": [
+          "Sudha Shastri"
+        ],
+        "publisher": "Orient Blackswan",
+        "publishedDate": "2001",
+        "description": "This book explores the recall of the Victorians, displayed by select novels ranging in time from Rhys s Wide Sargasso Sea (1996) to A. S. Byatt s Possession: A Romance (1990). These Victorianist novels are complex studies of Victorian literature, society and modes of representation.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8125020888"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788125020882"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gr6pkLyrSL0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gr6pkLyrSL0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=gr6pkLyrSL0C&pg=PA46&dq=romance&hl=&as_pt=BOOKS&cd=98&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=gr6pkLyrSL0C&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Intertextuality_and_Victorian_Studies.html?hl=&id=gr6pkLyrSL0C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Intertextuality_and_Victorian_Studies-sample-pdf.acsm?id=gr6pkLyrSL0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gr6pkLyrSL0C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sudha Shastri. <b>Romance</b> / &#39; A &#39; <b>Romance</b> Byatt&#39;s use of an article before &#39; <b>romance</b> &#39; , in the subtitle to her novel , may be glossed by the following observation : &#39; From the Romantic period onwards writers more and more abandon the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YiTsjwEACAAJ",
+      "etag": "AacE6LjV7gg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YiTsjwEACAAJ",
+      "volumeInfo": {
+        "title": "The Hating Game",
+        "authors": [
+          "Sally Thorne"
+        ],
+        "publisher": "Piatkus Books",
+        "publishedDate": "2017-08",
+        "description": "Twee medewerkers van een net gefuseerde Amerikaanse uitgeverij hebben een haat-liefde verhouding maar ze proberen hun loopbaan toch op de rails te zetten.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0349414262"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780349414263"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YiTsjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YiTsjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "da",
+        "previewLink": "http://books.google.com/books?id=YiTsjwEACAAJ&dq=romance&hl=&as_pt=BOOKS&cd=99&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=YiTsjwEACAAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hating_Game.html?hl=&id=YiTsjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YiTsjwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Twee medewerkers van een net gefuseerde Amerikaanse uitgeverij hebben een haat-liefde verhouding maar ze proberen hun loopbaan toch op de rails te zetten."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8YYjzgEACAAJ",
+      "etag": "0Wz3jczjP8s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8YYjzgEACAAJ",
+      "volumeInfo": {
+        "title": "Go Down Hard",
+        "authors": [
+          "Ali Seay"
+        ],
+        "publishedDate": "2020",
+        "description": "What if a victimized woman decided to be a silent guardian angel for other women and turn the tables on predatory men? What if she stumbled into the hunting grounds of a cocky serial killer while looking for her own private murder den? What if a confident killer met his match in the form of a jean-clad, whiskey-swigging stranger in an hour glass-shaped package--and she made him want things--things he's far too superior to want?When predator meets predator, the only question is: Is the attraction they feel to bed one another . . . or kill one another?Meg isn't expecting to catch Jack red-handed with his most recent victim. Jack isn't expecting Meg to come busting through his front door while chasing her current prey. Now that each recognizes a fellow killer, what urge will win--kiss or kill?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1005081115"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781005081119"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8YYjzgEACAAJ&dq=romance&hl=&as_pt=BOOKS&cd=100&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8YYjzgEACAAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Go_Down_Hard.html?hl=&id=8YYjzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8YYjzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "What if a victimized woman decided to be a silent guardian angel for other women and turn the tables on predatory men?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fyFACgAAQBAJ",
+      "etag": "EM3njsDZDNA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fyFACgAAQBAJ",
+      "volumeInfo": {
+        "title": "Culture and Society in Medieval Galicia",
+        "subtitle": "A Cultural Crossroads at the Edge of Europe",
+        "publisher": "BRILL",
+        "publishedDate": "2015-07-28",
+        "description": "In Culture and Society in Medieval Galicia, twenty-three international authors examine Galicia\u2019s changing place in Iberia, Europe, and the Mediterranean and Atlantic worlds from late antiquity through the thirteenth century. With articles on art and architecture; religion and the church; law and society; politics and historiography; language and literature; and learning and textual culture, the authors introduce medieval Galicia and current research on the region to medievalists, Hispanists, and students of regional culture and society. The cult of St. James, Santiago Cathedral, and the pilgrimage to Compostela are highlighted and contextualized to show how Galicia\u2019s remoteness became the basis for a paradoxical centrality in medieval art, culture, and religion. Contributors are Jeffrey A. Bowman, Manuel Casti\u00f1eiras, James D'Emilio, Thomas Deswarte, Pablo C. D\u00edaz, Emma Falque, Am\u00e9lia P. Hutchinson, Amancio Isla, Henrik Karge, Melissa R. Katz, Michael Kulikowski, Fernando L\u00f3pez S\u00e1nchez, Luis R. Men\u00e9ndez Bueyes, William D. Paden, Francisco Javier P\u00e9rez Rodr\u00edguez, Ermelindo Portela, Roc\u00edo S\u00e1nchez Ameijeiras, Adeline Rucquoi, Ana Su\u00e1rez Gonz\u00e1lez, Purificaci\u00f3n Ubric, Ram\u00f3n Villares, John Williams \u2020, and Roger Wright.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789004288607"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9004288600"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1121,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fyFACgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fyFACgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fyFACgAAQBAJ&pg=PA848&dq=romance&hl=&as_pt=BOOKS&cd=101&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=fyFACgAAQBAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Culture_and_Society_in_Medieval_Galicia.html?hl=&id=fyFACgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Culture_and_Society_in_Medieval_Galicia-sample-pdf.acsm?id=fyFACgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fyFACgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Romance</b> &#39; . If we can refer to the vernacular of the centuries between 800 and 1200 as &#39; <b>Romance</b> &#39; , in Galicia and elsewhere , many problems are avoided . There is little doubt that by the ninth century the spoken language had evolved&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KR8WBAAAQBAJ",
+      "etag": "o8R9BARb68w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KR8WBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Film Genre for the Screenwriter",
+        "authors": [
+          "Jule Selbo"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2014-07-25",
+        "description": "Film Genre for the Screenwriter is a practical study of how classic film genre components can be used in the construction of a screenplay. Based on Jule Selbo\u2019s popular course, this accessible guide includes an examination of the historical origins of specific film genres, how and why these genres are received and appreciated by film-going audiences, and how the student and professional screenwriter alike can use the knowledge of film genre components in the ideation and execution of a screenplay. Explaining the defining elements, characteristics and tropes of genres from romantic comedy to slasher horror, and using examples from classic films like Casablanca alongside recent blockbuster franchises like Harry Potter, Selbo offers a compelling and readable analysis of film genre in its written form. The book also offers case studies, talking points and exercises to make its content approachable and applicable to readers and writers across the creative field.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781317695677"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1317695674"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 345,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.8.10.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KR8WBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KR8WBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=KR8WBAAAQBAJ&pg=RA1-PA1960&dq=romance&hl=&as_pt=BOOKS&cd=102&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KR8WBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KR8WBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 72.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 58.39,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=KR8WBAAAQBAJ&rdid=book-KR8WBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 72990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 58390000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Film_Genre_for_the_Screenwriter-sample-epub.acsm?id=KR8WBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Film_Genre_for_the_Screenwriter-sample-pdf.acsm?id=KR8WBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KR8WBAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Romance</b>. The <b>romance</b> genre must have a narrative that revolves around one or more love relationships. In most cases, the film story explores a very deep and true love; mere flirtations are not of enough import to fulfill audience&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YKUSAQAAMAAJ",
+      "etag": "8viF/uj6K4k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YKUSAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Submarine Engineering of To-day",
+        "subtitle": "A Popular Account of the Methods by which Sunken Ships are Raised, Docks Built, Rocks Blasted Away, Tunnels Axcavated, and Many Other Feats of Engineering Beneath the Surface of the Water, Together with a Description of the Latest Type of Submarine Boats",
+        "authors": [
+          "Charles William Domville-Fife"
+        ],
+        "publishedDate": "1914",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015013935237"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 394,
+        "printType": "BOOK",
+        "categories": [
+          "Deep diving"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YKUSAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YKUSAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=YKUSAQAAMAAJ&pg=PR6&dq=romance&hl=&as_pt=BOOKS&cd=103&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YKUSAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YKUSAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=YKUSAQAAMAAJ&rdid=book-YKUSAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Submarine_Engineering_of_To_day.epub?id=YKUSAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YKUSAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Romance</b> offers a splendid choice . &quot; - Globe . THE <b>ROMANCE</b> OF SCIENTIFIC DISCOVERY A Popular and Non - Technical Account of some of the most Important Discoveries in Science from the Earliest Historical Times to the Present Day . By&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AHdhBAAAQBAJ",
+      "etag": "B1fLYknNfv4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AHdhBAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Cambridge History of the English Novel",
+        "authors": [
+          "Robert L. Caserio",
+          "Clement Hawes"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2012-01-12",
+        "description": "The Cambridge History of the English Novel chronicles an ever-changing and developing body of fiction across three centuries. An interwoven narrative of the novel's progress unfolds in more than fifty chapters, charting continuities and innovations of structure, tracing lines of influence in terms of themes and techniques, and showing how greater and lesser authors shape the genre. Pushing beyond the usual period-centered boundaries, the History's emphasis on form reveals the range and depth the novel has achieved in English. This book will be indispensable for research libraries and scholars, but is accessibly written for students. Authoritative, bold and clear, the History raises multiple useful questions for future visions of the invention and re-invention of the novel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781316175101"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1316175103"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1006,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AHdhBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AHdhBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=AHdhBAAAQBAJ&pg=PT256&dq=romance&hl=&as_pt=BOOKS&cd=104&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=AHdhBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AHdhBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 42,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 42,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=AHdhBAAAQBAJ&rdid=book-AHdhBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 42000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 42000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Cambridge_History_of_the_English_Nov-sample-epub.acsm?id=AHdhBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Cambridge_History_of_the_English_Nov-sample-pdf.acsm?id=AHdhBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AHdhBAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>romance</b>.2 But the distinction between <b>romance</b> and novel was unstable throughout the long eighteenth century and easily breaks down when it comes to particulars. In his \u201cEssay on <b>Romance</b>\u201d (1824) Walter Scott starts with Samuel Johnson&#39;s&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ALH6EAAAQBAJ",
+      "etag": "VRh00o6Xea0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ALH6EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Breaking the Alien Love Curse",
+        "authors": [
+          "Veronica Scott"
+        ],
+        "publisher": "Veronica Scott",
+        "publishedDate": "2024-03-12",
+        "description": "Amellia Taneek loved her job as the office manager for a group of Sectors agents from various organizations, all based out of her central location. She enjoyed the challenges of handling administrative details for them and the excitement of constantly meeting new offworlders. She was especially intrigued by Hagan Raljarr, seven feet of green, scaled, muscular SCIA agent, and more than a little curious about his tail. Hey, she was a healthy unmarried, unattached female and there was no rule against dating a co-worker. But so far he\u2019d shown confusing signs of reciprocating her interest. Hagan was an honorable warrior and before he could pursue his definite interest in Amellia, who might even be his fated mate, he had to clear up one little detail \u2013 the engagement contract he\u2019d been entered into as a child with a female from his own planet. They barely knew each other and she was highly ambitious. Surely in this modern day and age she\u2019d be happy for him to sever the contract and set her free, right? Leaving him in the perfect position to begin courting the lovely human. But the jilted fianc\u00e9e sends a mysterious box across the galaxy to him and when he unwisely opens it, a powerful love curse is activated, striking both him and Amellia. They\u2019ll die at dawn if the curse isn\u2019t broken. With help from Amellia\u2019s aunt, who is said to have magic powers, the pair set out on a desperate quest for three special ingredients needed to break the spell. Over the course of a very long night, will Hagan and Amellia find their way to a relationship, break the curse in time and survive? Is such a thing even possible? This 23K word novella first appeared in the Supra Vellum Anthology, which is no longer available. No new material has been added.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798988096948"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 87,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ALH6EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ALH6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ALH6EAAAQBAJ&pg=PT82&dq=romance&hl=&as_pt=BOOKS&cd=105&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ALH6EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ALH6EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ALH6EAAAQBAJ&rdid=book-ALH6EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ALH6EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Romance</b> Novel Mateer: A Badari Warriors SciFi <b>Romance</b> Novel Timtur: The Teacher&#39;s Alien Healer (Badari Warriors): In the Stars <b>Romance</b> Note: Timtur is book 2.5 in the series timeline Jadrian: A Badari Warriors SciFi <b>Romance</b> Novel&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Zj-gDwAAQBAJ",
+      "etag": "9wD+va5R1YA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Zj-gDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Readers' Advisory Guide to Genre Fiction, Third Edition",
+        "authors": [
+          "Neal Wyatt",
+          "Joyce G. Saricks"
+        ],
+        "publisher": "American Library Association",
+        "publishedDate": "2019-07-03",
+        "description": "Everyone\u2019s favorite guide to fiction that\u2019s thrilling, mysterious, suspenseful, thought-provoking, romantic, and just plain fun is back\u2014and better than ever in this completely revamped and revised edition. A must for every readers\u2019 advisory desk, this resource is also a useful tool for collection development librarians and students in LIS programs. Inside, RA experts Wyatt and Saricks cover genres such as Psychological Suspense, Horror, Science Fiction, Fantasy, Romance, Mystery, Literary and Historical Fiction, and introduce the concepts of Adrenaline and Relationship Fiction; include everything advisors need to get up to speed on a genre, including its appeal characteristics, key authors, sure bets, and trends; demonstrate how genres overlap and connect, plus suggestions for guiding readers among genres; and tie genre fiction to the whole collection, including nonfiction, audiobooks, graphic novels, film and TV, poetry, and games. Both insightful and comprehensive, this matchless guidebook will help librarians become familiar with many different fiction genres, especially those they do not regularly read, and aid library staff in connecting readers to books they\u2019re sure to love.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780838917817"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "083891781X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 345,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Zj-gDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Zj-gDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Zj-gDwAAQBAJ&pg=PA233&dq=romance&hl=&as_pt=BOOKS&cd=106&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Zj-gDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Zj-gDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 52,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 41.6,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Zj-gDwAAQBAJ&rdid=book-Zj-gDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 52000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 41600000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Readers_Advisory_Guide_to_Genre_Fict-sample-pdf.acsm?id=Zj-gDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Zj-gDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Romance</b>, and, as Amanda Bouchet&#39;s A Promise of Fire illustrates, the two can successfully merge. Expect more of these multi- subgenres to appear and for niche <b>Romances</b>, such as Sports <b>Romances</b> and Romantic Comedy, to gain steam. Above&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HZLbzgEACAAJ",
+      "etag": "5GpUtCiSYs0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HZLbzgEACAAJ",
+      "volumeInfo": {
+        "title": "Ten Trends to Seduce Your Bestfriend",
+        "authors": [
+          "Penny Reid"
+        ],
+        "publishedDate": "2022-04-12",
+        "description": "\"Winnifred Gobaldi and Byron Visser are not best friends. Yes, they've known each other for years, but they're not even friendly. Winnie considers them more like casual, distant acquaintances who find each other barely tolerable ... The truth is, they have nothing in common. She's a public school science teacher with stars in her eyes, and he's a pretentious, joyless double PhD turned world-famous bestselling fiction author. She loves sharing her passion for promulgating women in STEM careers and building community via social media, and he eschews all socialization, virtual or otherwise. She's looking for a side hustle to help pay down a mountain of student debt, and his financial portfolio is the stuff of fiduciary wet dreams. So why are they faking a #bestfriend relationship for millions of online spectators? When a simple case of tit-for-tat trends between nonfriends leads to a wholly unexpected kind of pretend, nothing is simple\"--Page 4 of cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1942874847"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781942874843"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 436,
+        "printType": "BOOK",
+        "categories": [
+          "Authors"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HZLbzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HZLbzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=HZLbzgEACAAJ&dq=romance&hl=&as_pt=BOOKS&cd=107&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=HZLbzgEACAAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ten_Trends_to_Seduce_Your_Bestfriend.html?hl=&id=HZLbzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HZLbzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Winnifred Gobaldi and Byron Visser are not best friends."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NIMRAAAAIAAJ",
+      "etag": "H3ogWiINoP0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NIMRAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Catalogue of the Mathematical, Historical Bibliographical and Miscellaneous Portion of the Celebrated Library ... Apr. 26, 1861 ...",
+        "authors": [
+          "Guillaume Libri"
+        ],
+        "publishedDate": "1861",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433057514527"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 950,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.10.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NIMRAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NIMRAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=NIMRAAAAIAAJ&pg=PA680&dq=romance&hl=&as_pt=BOOKS&cd=108&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NIMRAAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NIMRAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=NIMRAAAAIAAJ&rdid=book-NIMRAAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Catalogue_of_the_Mathematical_Historical.epub?id=NIMRAAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NIMRAAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>romances</b> of chivalry . 6319 <b>ROMANCE</b> OF CHIVALRY . Ortunez de Calahorra ( Diego ) L&#39;admirable Histoire du Chevalier du Soleil ou sont racont\u00e9es les immortelles Pro\u00fcesses de cest invincible Guerrier et de son Frere Rosicler Enfans du&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FPdRAwAAQBAJ",
+      "etag": "IopsI7E3dqI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FPdRAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Encyclopedia of the Novel",
+        "authors": [
+          "Paul Schellinger"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2014-04-08",
+        "description": "The Encyclopedia of the Novel is the first reference book that focuses on the development of the novel throughout the world. Entries on individual writers assess the place of that writer within the development of the novel form, explaining why and in exactly what ways that writer is importnant. Similarly, an entry on an individual novel discusses the importance of that novel not only form, analyzing the particular innovations that novel has introduced and the ways in which it has influenced the subsequent course of the genre. A wide range of topic entries explore the history, criticism, theory, production, dissemination and reception of the novel. A very important component of the Encyclopedia of the Novel is its long surveys of development of the novel in various regions of the world.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781135918262"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1135918260"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 838,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FPdRAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FPdRAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=FPdRAwAAQBAJ&pg=PA1115&dq=romance&hl=&as_pt=BOOKS&cd=109&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FPdRAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FPdRAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 475,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 380,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FPdRAwAAQBAJ&rdid=book-FPdRAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 475000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 380000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Encyclopedia_of_the_Novel-sample-pdf.acsm?id=FPdRAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FPdRAwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>romance</b> , designating the hero&#39;s adolescent illusions as well as premodern cultural habits , fall under the in- exorable pressure of &quot; real history , &quot; but <b>romance</b> also returns as the medium in which the subject is able to inhabit&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LeS0DwAAQBAJ",
+      "etag": "HEmF26gRwYA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LeS0DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Mad and Bad",
+        "subtitle": "Real Heroines of the Regency",
+        "authors": [
+          "Bea Koch"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2020-09-01",
+        "description": "Discover a feminist pop history that looks beyond the Ton and Jane Austen to highlight the Regency women who succeeded on their own terms and were largely lost to history -- until now. Regency England is a world immortalized by Jane Austen and Lord Byron in their beloved novels and poems. The popular image of the Regency continues to be mythologized by the hundreds of romance novels set in the period, which focus almost exclusively on wealthy, white, Christian members of the upper classes. But there are hundreds of fascinating women who don't fit history books limited perception of what was historically accurate for early 19th century England. Women like Dido Elizabeth Belle, whose mother was a slave but was raised by her white father's family in England, Caroline Herschel, who acted as her brother's assistant as he hunted the heavens for comets, and ended up discovering eight on her own, Anne Lister, who lived on her own terms with her common-law wife at Shibden Hall, and Judith Montefiore, a Jewish woman who wrote the first English language Kosher cookbook. As one of the owners of the successful romance-only bookstore The Ripped Bodice, Bea Koch has had a front row seat to controversies surrounding what is accepted as \"historically accurate\" for the wildly popular Regency period. Following in the popular footsteps of books like Ann Shen's Bad Girls Throughout History, Koch takes the Regency, one of the most loved and idealized historical time periods and a huge inspiration for American pop culture, and reveals the independent-minded, standard-breaking real historical women who lived life on their terms. She also examines broader questions of culture in chapters that focus on the LGBTQ and Jewish communities, the lives of women of color in the Regency, and women who broke barriers in fields like astronomy and paleontology. In Mad and Bad, we look beyond popular perception of the Regency into the even more vibrant, diverse, and fascinating historical truth.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781538701027"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1538701022"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 247,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LeS0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LeS0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=LeS0DwAAQBAJ&dq=romance&hl=&as_pt=BOOKS&cd=110&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=LeS0DwAAQBAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mad_and_Bad.html?hl=&id=LeS0DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LeS0DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In Mad and Bad, we look beyond popular perception of the Regency into the even more vibrant, diverse, and fascinating historical truth."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r3pBDwAAQBAJ",
+      "etag": "aooadJOK9oA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r3pBDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Stranded With The Rancher (Wind River Cowboys, Book 2) (Mills & Boon True Love)",
+        "authors": [
+          "Rebecca Winters"
+        ],
+        "publisher": "HarperCollins UK",
+        "publishedDate": "2018-05-31",
+        "description": "Two sultry strangers... stranded on a ranch!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781474077811"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1474077811"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=r3pBDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=r3pBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=r3pBDwAAQBAJ&dq=romance&hl=&as_pt=BOOKS&cd=111&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=r3pBDwAAQBAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stranded_With_The_Rancher_Wind_River_Cow.html?hl=&id=r3pBDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r3pBDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Two sultry strangers... stranded on a ranch!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BViC_wkbd4oC",
+      "etag": "QLH3yuKGumA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BViC_wkbd4oC",
+      "volumeInfo": {
+        "title": "Mikhail Bakhtin",
+        "subtitle": "Creation of a Prosaics",
+        "authors": [
+          "Gary Saul Morson",
+          "Caryl Emerson"
+        ],
+        "publisher": "Stanford University Press",
+        "publishedDate": "1990",
+        "description": "Books about thinkers require a kind of unity that their thought may not possess. This cautionary statement is especially applicable to Mikhail Bakhtin, whose intellectual development displays a diversity of insights that cannot be easily integrated or accurately described in terms of a single overriding concern. Indeed, in a career spanning some sixty years, he experienced both dramatic and gradual changes in his thinking, returned to abandoned insights that he then developed in unexpected ways, and worked through new ideas only loosely related to his earlier concerns Small wonder, then, that Bakhtin should have speculated on the relations among received notions of biography, unity, innovation, and the creative process. Unity--with respect not only to individuals but also to art, culture, and the world generally--is usually understood as conformity to an underlying structure or an overarching scheme. Bakhtin believed that this idea of unity contradicts the possibility of true creativity. For if everything conforms to a preexisting pattern, then genuine development is reduced to mere discovery, to a mere uncovering of something that, in a strong sense, is already there. And yet Bakhtin accepted that some concept of unity was essential. Without it, the world ceases to make sense and creativity again disappears, this time replaced by the purely aleatory. There would again be no possibility of anything meaningfully new. The grim truth of these two extremes was expressed well by Borges: an inescapable labyrinth could consist of an infinite number of turns or of no turns at all. Bakhtin attempted to rethink the concept of unity in order to allow for the possibility of genuine creativity. The goal, in his words, was a \"nonmonologic unity,\" in which real change (or \"surprisingness\") is an essential component of the creative process. As it happens, such change was characteristic of Bakhtin's own thought, which seems to have developed by continually diverging from his initial intentions. Although it would not necessarily follow that the development of Bakhtin's thought corresponded to his ideas about unity and creativity, we believe that in this case his ideas on nonmonologic unity are useful in understanding his own thought--as well as that of other thinkers whose careers are comparably varied and productive.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780804718226"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0804718229"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1108,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BViC_wkbd4oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BViC_wkbd4oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=BViC_wkbd4oC&pg=PA399&dq=romance&hl=&as_pt=BOOKS&cd=112&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=BViC_wkbd4oC&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mikhail_Bakhtin.html?hl=&id=BViC_wkbd4oC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Mikhail_Bakhtin-sample-epub.acsm?id=BViC_wkbd4oC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Mikhail_Bakhtin-sample-pdf.acsm?id=BViC_wkbd4oC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BViC_wkbd4oC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>romances</b> follow from this one . Whereas the hero of Greek <b>romance</b> wishes to restore normal life , the hero of the chivalric <b>romance</b> seeks adventures ; they are his native element , in fact , and so the world is no longer alien to him&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WRD0FpLu4D0C",
+      "etag": "SBVQFmxjMT0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WRD0FpLu4D0C",
+      "volumeInfo": {
+        "title": "The Structure and Ideology of Romance Fiction",
+        "authors": [
+          "Michael Andrew Young"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951002469455J"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 302,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WRD0FpLu4D0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WRD0FpLu4D0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WRD0FpLu4D0C&q=romance&dq=romance&hl=&as_pt=BOOKS&cd=113&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=WRD0FpLu4D0C&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Structure_and_Ideology_of_Romance_Fi.html?hl=&id=WRD0FpLu4D0C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WRD0FpLu4D0C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>romance</b> sphere in a group of Vikings , a racial identity the text sees as close to that of the English . Even when they locate <b>romance</b> action partly or wholly in the history of other times , places and societies , Kingsley&#39;s <b>romance</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5Wr1AQAAQBAJ",
+      "etag": "fDZNOR/yD+E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5Wr1AQAAQBAJ",
+      "volumeInfo": {
+        "title": "Stories about Stories",
+        "subtitle": "Fantasy and the Remaking of Myth",
+        "authors": [
+          "Brian Attebery"
+        ],
+        "publisher": "Oxford University Press, USA",
+        "publishedDate": "2014-02",
+        "description": "The first comprehensive study of fantasy's uses of myth, this book offers insights into the genre's popularity and cultural importance. Combining history, folklore, and narrative theory, Attebery's study explores familiar and forgotten fantasies and shows how the genre is also an arena for negotiating new relationships with traditional tales.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780199316076"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0199316074"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 251,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5Wr1AQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5Wr1AQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=5Wr1AQAAQBAJ&pg=PA95&dq=romance&hl=&as_pt=BOOKS&cd=114&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=5Wr1AQAAQBAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stories_about_Stories.html?hl=&id=5Wr1AQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Stories_about_Stories-sample-pdf.acsm?id=5Wr1AQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5Wr1AQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>romance</b>, and it is a call that elite literature forgot for much of the twentieth century. One of the attractions of fantasy as a genre is its promise to reconnect the pleasures of literary narrative\u2014insight into character, poetic&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HnmJCgAAQBAJ",
+      "etag": "vlRevqINmE8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HnmJCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Teaching Tainted Lit",
+        "subtitle": "Popular American Fiction in Today's Classroom",
+        "authors": [
+          "Janet G. Casey"
+        ],
+        "publisher": "University of Iowa Press",
+        "publishedDate": "2015-11-15",
+        "description": "Popular American fiction has now secured a routine position in the higher education classroom despite its historic status as culturally suspect. This newfound respect and inclusion have almost certainly changed the pedagogical landscape, and Teaching Tainted Lit explores that altered terrain. If the academy has historically ignored, or even sneered at, the popular, then its new accommodation within the framework of college English is noteworthy: surely the popular introduces both pleasures and problems that did not exist when faculty exclusively taught literature from an established \u201chigh\u201d canon. How, then, does the assumption that the popular matters affect teaching strategies, classroom climates, and both personal and institutional notions about what it means to study literature? The essays in this collection presume that the popular is here to stay and that its instructive implications are not merely noteworthy, but richly nuanced and deeply compelling. They address a broad variety of issues concerning canonicity, literature, genre, and the classroom, as its contributors teach everything from Stephen King and Lady Gaga to nineteenth-century dime novels and the 1852 best-seller Uncle Tom\u2019s Cabin. It is no secret that teaching popular texts fuels controversies about the value of cultural studies, the alleged relaxation of aesthetic standards, and the possible \u201cdumbing down\u201d of Americans. By implicitly and explicitly addressing such contentious issues, these essays invite a broader conversation about the place of the popular not only in higher education but in the reading lives of all Americans.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781609383732"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1609383737"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 247,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HnmJCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HnmJCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=HnmJCgAAQBAJ&pg=PA213&dq=romance&hl=&as_pt=BOOKS&cd=115&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=HnmJCgAAQBAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Teaching_Tainted_Lit.html?hl=&id=HnmJCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Teaching_Tainted_Lit-sample-pdf.acsm?id=HnmJCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HnmJCgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Romance</b> in the Liberal Arts Classroom 1. Pamela Regis, Web. <b>Romance</b> Listserv communication. Dec. 2011. 2. For an excellent discussion of the reasons <b>romance</b> has been dismissed by critics, see Frantz and Selinger, \u201cIntroduction,\u201d New&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XNnpEAAAQBAJ",
+      "etag": "9nKBOC16kkE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XNnpEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Translation and Temporality in Beno\u00eet de Sainte-Maure's Roman de Troie",
+        "authors": [
+          "Maud Burnett McInerney"
+        ],
+        "publisher": "Boydell & Brewer",
+        "publishedDate": "2021",
+        "description": "An exciting new approach to one of the most important texts of medieval Europe. The story of the Trojan War has been told and retold across the ages, from Homer's Iliad and Virgil's Aeneid to recent film and television adaptations. The peoples of medieval Europe were especially enthralled with the tale of the siege of the great city by the Greeks, and by the fourteenth century virtually every royal house in Europe traced its ancestry to some long-ago Trojan warrior. The medieval West, however, had no access to Homer, and though Virgil was certainly read, the most influential version of the Troy story for centuries was that recounted in the Roman de Troie, by Beno\u00eet de Sainte Maure. This massive poem in Old French claimed to be a translation of two eyewitness accounts of the War, both actually late antique forgeries, but it is in reality a largely original tapestry of chivalric exploits, elaborate descriptions and marvellous creatures such as centaurs and Amazons. The love story of Troilus and Briseida was invented in its pages, later inspiring Boccaccio, Chaucer and Shakespeare. The huge popularity of the Roman de Troie allowed medieval dynasties to create new kinds of political authority by extending their pedigrees back into days of legend, and was an essential element in the inauguration of a new genre, romance. This book uses approaches from theories of translation and temporality to develop its analysis of the Roman de Troie and its context. It reads the text against Geoffrey of Monmouth's History of the Kings of Britain to argue that Beno\u00eet is a participant in the Anglo-Norman invention of a new kind of history. It develops readings grounded in both gender studies and queer theory to demonstrate the ways in which the Roman de Troie participates in the invention of romance time, even as it uses its queer characters to cast doubt upon the optimistic genealogical fantasies of romance. Finally, it argues that the great series of ekphrastic passages so characteristic of the Roman de Troie operate as lieux de m\u00e9moire, epitomizing the potential of poetry to stop time, at least in the moment. The author also provides an overview of the complex manuscript tradition of the Roman de Troie in support of the contention that the text deserves to be central to any study of medieval literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781843846154"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1843846152"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 243,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XNnpEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XNnpEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XNnpEAAAQBAJ&pg=PA91&dq=romance&hl=&as_pt=BOOKS&cd=116&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XNnpEAAAQBAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Translation_and_Temporality_in_Beno%C3%AEt_d.html?hl=&id=XNnpEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Translation_and_Temporality_in_Beno%C3%AEt_d-sample-pdf.acsm?id=XNnpEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XNnpEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>romance</b> by grafting courtly love onto the stock of an epic narrative \u2014 or , as Simon Gaunt puts it , as constructing \u201c a bridge between epic and <b>romance</b> . &quot; In what follows , I focus on the temporality of the translation of epic into&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UYaTzQEACAAJ",
+      "etag": "n7xD3z6J/gk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UYaTzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Longing of Lone Wolves",
+        "subtitle": "A Fantasy Romance",
+        "authors": [
+          "Lana Pecherczyk"
+        ],
+        "publisher": "Lana Pecherczyk",
+        "publishedDate": "2020-06-08",
+        "description": "Rush is a Fae Guardian, a wolf-shifter whose enhanced abilities have made him a ruthless protector of Elphyne. His job is to protect the realm from the human enemy, and to ensure the sins of the past never come to pass again lest magic die forever. But one night of weakness resulted in a curse worse than death - exile. Now he spends his lonely time longing to be part of the living, once again protecting them from monsters... until one mysteriously washes up on the shores of his lake. Clarke is human. She's beautiful, feisty, and fierce. She's also the only person who can see him, speak to him, and touch him. If he hands her over to the Order, she's his ticket to having his curse removed. Unable to resist the opportunity, he tricks her into a bargain of obedience, never once suspecting his world is about to be turned upside down. The more he learns about this human enemy, the more he realizes she's not the monster he's been trained to believe. In fact, she's capable of inciting passion he'd never dreamed possible again. But Clarke has a message from the past... sins are already repeating. This time, if they don't stop the coming evil, it won't just be magic that dies. It will be everything. The Witcher meets Beauty and the Beast in this gripping, epic fantasy featuring steamy romance, a dash of time travel, monster hunting, a band of fae protectors and their strong willed women from our time. If you love your books full of page turning action, intrigue, and romantic tension then this book is for you. For fans of Kristen Ashley's Fantastical series or Sarah J Maas's adult fantasy romance.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0648593975"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780648593973"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UYaTzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UYaTzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=UYaTzQEACAAJ&dq=romance&hl=&as_pt=BOOKS&cd=117&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=UYaTzQEACAAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Longing_of_Lone_Wolves.html?hl=&id=UYaTzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UYaTzQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If you love your books full of page turning action, intrigue, and romantic tension then this book is for you. For fans of Kristen Ashley&#39;s Fantastical series or Sarah J Maas&#39;s adult fantasy romance."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ez_edSWAQGAC",
+      "etag": "Tjxhfe3M/34",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ez_edSWAQGAC",
+      "volumeInfo": {
+        "title": "Handbook of Medieval Studies",
+        "subtitle": "Terms \u2013 Methods \u2013 Trends",
+        "authors": [
+          "Albrecht Classen"
+        ],
+        "publisher": "Walter de Gruyter",
+        "publishedDate": "2010-11-29",
+        "description": "This interdisciplinary handbook provides extensive information about research in medieval studies and its most important results over the last decades. The handbook is a reference work which enables the readers to quickly and purposely gain insight into the important research discussions and to inform themselves about the current status of research in the field. The handbook consists of four parts. The first, large section offers articles on all of the main disciplines and discussions of the field. The second section presents articles on the key concepts of modern medieval studies and the debates therein. The third section is a lexicon of the most important text genres of the Middle Ages. The fourth section provides an international bio-bibliographical lexicon of the most prominent medievalists in all disciplines. A comprehensive bibliography rounds off the compendium. The result is a reference work which exhaustively documents the current status of research in medieval studies and brings the disciplines and experts of the field together.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783110215588"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3110215586"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 2822,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ez_edSWAQGAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ez_edSWAQGAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ez_edSWAQGAC&pg=PA1832&dq=romance&hl=&as_pt=BOOKS&cd=118&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ez_edSWAQGAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ez_edSWAQGAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1007,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 1007,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ez_edSWAQGAC&rdid=book-ez_edSWAQGAC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1007000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 1007000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Handbook_of_Medieval_Studies-sample-pdf.acsm?id=ez_edSWAQGAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ez_edSWAQGAC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Romance</b> in Medieval France , &quot; The Cambridge Companion to Medieval <b>Romance</b> , ed . KRUEGER , 13-28 ; Nathaniel GRIFFIN , &quot; The Defini- tion of <b>Romance</b> , &quot; PMLA 38.1 [ 1923 ] : 50\u201370 ) . <b>Romance</b> , of course , has no be- ginning , no&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f5JaDwAAQBAJ",
+      "etag": "V/uHiNjtajs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f5JaDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Handbook of the American Novel of the Nineteenth Century",
+        "authors": [
+          "Christine Gerhardt"
+        ],
+        "publisher": "Walter de Gruyter GmbH & Co KG",
+        "publishedDate": "2018-06-11",
+        "description": "This handbook offers students and researchers a compact introduction to the nineteenth-century American novel in the light of current debates, theoretical concepts, and critical methodologies. The volume turns to the nineteenth century as a formative era in American literary history, a time that saw both the rise of the novel as a genre, and the emergence of an independent, confident American culture. A broad range of concise essays by European and American scholars demonstrates how some of America\u2018s most well-known and influential novels responded to and participated in the radical transformations that characterized American culture between the early republic and the age of imperial expansion. Part I consists of 7 systematic essays on key historical and critical frameworks \u2015 including debates aboutrace and citizenship, transnationalism, environmentalism and print culture, as well as sentimentalism, romance and the gothic, realism and naturalism. Part II provides 22 essays on individual novels, each combining an introduction to relevant cultural contexts with a fresh close reading and the discussion of critical perspectives shaped by literary and cultural theory.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783110480917"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3110480913"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 643,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=f5JaDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=f5JaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=f5JaDwAAQBAJ&pg=PT46&dq=romance&hl=&as_pt=BOOKS&cd=119&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=f5JaDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=f5JaDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 320,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 320,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=f5JaDwAAQBAJ&rdid=book-f5JaDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 320000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 320000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Handbook_of_the_American_Novel_of_the_Ni-sample-epub.acsm?id=f5JaDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Handbook_of_the_American_Novel_of_the_Ni-sample-pdf.acsm?id=f5JaDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f5JaDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>romance</b> features were celebrated for example by the British philosopher and author William Godwin who linked the genre to his favorite way of writing history in his essay &quot; Of History and <b>Romance</b> &quot; in 1797. He spoke up against the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rixfDwAAQBAJ",
+      "etag": "TrnHhwRiDuc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rixfDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Don Quixote as Children's Literature",
+        "subtitle": "A Tradition in English Words and Pictures",
+        "authors": [
+          "Velma Bourgeois Richmond"
+        ],
+        "publisher": "McFarland",
+        "publishedDate": "2018-06-09",
+        "description": "Cervantes is regarded as the author of the first novel and the inventor of fiction. From its publication in 1605, Don Quixote--recently named the world's best book by authors from 54 countries--has been widely translated and imitated. Among its less acknowledged imitations are stories in children's literature. In context of English adaptation and critical response this book explores the noble and \"mad\" adventures retold for children by distinguished writers and artists in Edwardian books, collections, home libraries, schoolbooks and picture books. More recent adaptations including comics and graphic novels deviate from traditional retellings. All speak to the knight-errant's lasting influence and appeal to children.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781476632438"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "147663243X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 271,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rixfDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rixfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=rixfDwAAQBAJ&pg=PA41&dq=romance&hl=&as_pt=BOOKS&cd=120&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rixfDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rixfDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 35.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 35.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=rixfDwAAQBAJ&rdid=book-rixfDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 35990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 35990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Don_Quixote_as_Children_s_Literature-sample-epub.acsm?id=rixfDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Don_Quixote_as_Children_s_Literature-sample-pdf.acsm?id=rixfDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rixfDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>romance</b> Cervantes opposed , while he praised Amadis de Gaul , the Spanish <b>romance</b> that supplanted French <b>romances</b> to which Castilians had long objected because of their high praise of Charlemagne . 41 Johnson , like many others , never&nbsp;..."
+      }
+    }
+  ]
+}

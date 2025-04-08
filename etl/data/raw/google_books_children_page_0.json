@@ -1,0 +1,3307 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "H9lYESPjKjAC",
+      "etag": "oaAOS0Y+xPU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/H9lYESPjKjAC",
+      "volumeInfo": {
+        "title": "Other People's Children",
+        "subtitle": "Cultural Conflict in the Classroom",
+        "authors": [
+          "Lisa D. Delpit"
+        ],
+        "publisher": "The New Press",
+        "publishedDate": "2006",
+        "description": "An updated edition of the award-winning analysis of the role of race in the classroom features a new author introduction and framing essays by Herbert Kohl and Charles Payne, in an account that shares ideas about how teachers can function as \"cultural transmitters\" in contemporary schools and communicate more effectively to overcome race-related academic challenges. Original.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781595580740"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1595580743"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=H9lYESPjKjAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=H9lYESPjKjAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=H9lYESPjKjAC&printsec=frontcover&dq=children&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=H9lYESPjKjAC&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Other_People_s_Children.html?hl=&id=H9lYESPjKjAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Other_People_s_Children-sample-epub.acsm?id=H9lYESPjKjAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Other_People_s_Children-sample-pdf.acsm?id=H9lYESPjKjAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=H9lYESPjKjAC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An updated edition of the award-winning analysis of the role of race in the classroom features a new author introduction and framing essays by Herbert Kohl and Charles Payne, in an account that shares ideas about how teachers can function ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ARNFDwAAQBAJ",
+      "etag": "Dh0xfBMMTbE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ARNFDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Be Kind",
+        "authors": [
+          "Pat Zietlow Miller"
+        ],
+        "publishedDate": "2018-02-06",
+        "description": "A thoughtful picture book illustrating the power of small acts of kindness, from the award-winning author of Sophie's Squash.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781626723214"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1626723214"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 37,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ARNFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ARNFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ARNFDwAAQBAJ&printsec=frontcover&dq=children&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ARNFDwAAQBAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Be_Kind.html?hl=&id=ARNFDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ARNFDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A thoughtful picture book illustrating the power of small acts of kindness, from the award-winning author of Sophie&#39;s Squash."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TVg80AEACAAJ",
+      "etag": "p7pj5jGuePU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TVg80AEACAAJ",
+      "volumeInfo": {
+        "title": "The Art Book for Children",
+        "authors": [
+          "Ferren Gipson",
+          "Amanda Renshaw",
+          "Gilda Williams"
+        ],
+        "publisher": "Phaidon Press",
+        "publishedDate": "2024-05-22",
+        "description": "'A perfect introduction to art for parents and children to enjoy together.' - The Guardian A brand-new combined, revised, and expanded edition of the ground-breaking, iconic art book series for children - perfect for readers aged 7-12 Two decades ago, Phaidon published the first volume in The Art Book for Children series (adapted especially for children from Phaidon's iconic The Art Book), which quickly became beloved by children and parents the world over. To share its legacy with a new generation of readers, this combined, updated, and expanded edition pairs a selection of 'best of' artists from the original series with 30 brand-new contemporary entries. This single volume features 60 artists through a wide range of large-scale, full-page reproductions of their artworks, including paintings, photographs, sculptures, video, prints, and installations from across time and space. Each page showcases defining artworks by the artists, combined with an interactive and informative conversation, giving relatable and memorable contexts for children, and inspiring a curiosity and appreciation for the Visual Arts that will continue into adulthood. With a fresh new design, this book both features the 'best of' from the original two volumes, plus new entries, specially selected in collaboration with art historian and writer, Ferren Gipson. Ages 7-12",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1838667873"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781838667870"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TVg80AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TVg80AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=TVg80AEACAAJ&dq=children&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=TVg80AEACAAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Art_Book_for_Children.html?hl=&id=TVg80AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TVg80AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Invites the reader to take a closer look at works of art while pointing out tiny details hidden in famous works, providing information about a work or an artist, or explaining the techniques used to create the piece."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_WOw6NdE-z4C",
+      "etag": "Ke1w9RFxl9c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_WOw6NdE-z4C",
+      "volumeInfo": {
+        "title": "Building a Culture of Literacy in Your Community Through D\u00eda",
+        "subtitle": "El D\u00eda de Los Ni\u00f1os, El D\u00eda de Los Libros",
+        "authors": [
+          "Jeanette Larson"
+        ],
+        "publisher": "American Library Association",
+        "publishedDate": "2011-03-29",
+        "description": "A celebration of children, families, and reading held annually since 1996, Children\u2019s Day/Book Day, known as D\u00eda, emphasizes the importance of literacy for children of all linguistic and cultural backgrounds. In anticipation of D\u00eda\u2019s fifteenth anniversary, the Association for Library Service to Children (ALSC) presents a collection of the best of its D\u00eda programming ideas, offering * A wealth of ready-to-use programs, easily adaptable for a variety of cultures * Cultural competency training tips to encourage outreach to minority populations * Interviews with library directors about the best ways to heighten awareness of cultural and literacy issues Complemented by numerous bilingual book suggestions, this resource is perfect for collection development, early literacy storytimes, and year-round program planning.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780838935996"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0838935990"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_WOw6NdE-z4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_WOw6NdE-z4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_WOw6NdE-z4C&printsec=frontcover&dq=children&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_WOw6NdE-z4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_WOw6NdE-z4C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 36,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 28.44,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_WOw6NdE-z4C&rdid=book-_WOw6NdE-z4C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 36000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 28440000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_WOw6NdE-z4C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A celebration of children, families, and reading held annually since 1996, Children\u2019s Day/Book Day, known as D\u00eda, emphasizes the importance of literacy for children of all linguistic and cultural backgrounds."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XP1EDQAAQBAJ",
+      "etag": "l9lmRtVlDdU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XP1EDQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Very Hungry Caterpillar",
+        "authors": [
+          "Eric Carle"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2016-11-22",
+        "description": "The all-time classic picture book, from generation to generation, sold somewhere in the world every 30 seconds! Have you shared it with a child or grandchild in your life? For the first time, Eric Carle\u2019s The Very Hungry Caterpillar is now available in e-book format, perfect for storytime anywhere. As an added bonus, it includes read-aloud audio of Eric Carle reading his classic story. This fine audio production pairs perfectly with the classic story, and it makes for a fantastic new way to encounter this famous, famished caterpillar.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781524739553"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1524739553"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.4.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XP1EDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XP1EDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XP1EDQAAQBAJ&printsec=frontcover&dq=children&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XP1EDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XP1EDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=XP1EDQAAQBAJ&rdid=book-XP1EDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Very_Hungry_Caterpillar-sample-epub.acsm?id=XP1EDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Very_Hungry_Caterpillar-sample-pdf.acsm?id=XP1EDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XP1EDQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An innovative, entertaining story that teaches little ones about counting and the days of the week, this book doubles as the perfect way to introduce change as a positive and necessary part of life."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vvGjivw-rHgC",
+      "etag": "ss/jCsN8ouY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vvGjivw-rHgC",
+      "volumeInfo": {
+        "title": "The Children's Book",
+        "authors": [
+          "A. S. Byatt"
+        ],
+        "publisher": "Vintage Canada",
+        "publishedDate": "2009-11-03",
+        "description": "From the renowned author of Possession, The Children\u2019s Book is the absorbing story of the close of what has been called the Edwardian summer: the deceptively languid, blissful period that ended with the cataclysmic destruction of World War I. In this compelling novel, A.S. Byatt summons up a whole era, revealing that beneath its golden surface lay tensions that would explode into war, revolution and unbelievable change \u2014 for the generation that came of age before 1914 and, most of all, for their children. The novel centres around Olive Wellwood, a fairy tale writer, and her circle, which includes the brilliant, erratic craftsman Benedict Fludd and his apprentice Phillip Warren, a runaway from the poverty of the Potteries; Prosper Cain, the soldier who directs what will become the Victoria and Albert Museum; Olive\u2019s brother-in-law Basil Wellwood, an officer of the Bank of England; and many others from every layer of society. A.S. Byatt traces their lives in intimate detail and moves between generations, following the children who must choose whether to follow the roles expected of them or stand up to their parents\u2019 \u201cporcelain socialism.\u201d Olive\u2019s daughter Dorothy wishes to become a doctor, while her other daughter, Hedda, wants to fight for votes for women. Her son Tom, sent to an upper-class school, wants nothing more than to spend time in the woods, tracking birds and foxes. Her nephew Charles becomes embroiled with German-influenced revolutionaries. Their portraits connect the political issues at the heart of nascent feminism and socialism with grave personal dilemmas, interlacing until The Children\u2019s Book becomes a perfect depiction of an entire world. Olive is a fairy tale writer in the era of Peter Pan and Kenneth Grahame\u2019s The Wind In the Willows, not long after Alice\u2019s Adventures in Wonderland. At a time when children in England suffered deprivation by the millions, the concept of childhood was being refined and elaborated in ways that still influence us today. For each of her children, Olive writes a special, private book, bound in a different colour and placed on a shelf; when these same children are ferried off into the unremitting destruction of the Great War, the reader is left to wonder who the real children in this novel are. The Children\u2019s Book is an astonishing novel. It is an historical feat that brings to life an era that helped shape our own as well as a gripping, personal novel about parents and children, life\u2019s most painful struggles and its richest pleasures. No other writer could have imagined it or created it.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307373830"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307373835"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 626,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vvGjivw-rHgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vvGjivw-rHgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=vvGjivw-rHgC&printsec=frontcover&dq=children&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=vvGjivw-rHgC&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Children_s_Book.html?hl=&id=vvGjivw-rHgC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Children_s_Book-sample-epub.acsm?id=vvGjivw-rHgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vvGjivw-rHgC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From the renowned author of Possession, The Children\u2019s Book is the absorbing story of the close of what has been called the Edwardian summer: the deceptively languid, blissful period that ended with the cataclysmic destruction of World ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "c3xIEAAAQBAJ",
+      "etag": "19v7hMav1WY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c3xIEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Can Sophie Change the World?",
+        "authors": [
+          "Nancy Elizabeth Wallace"
+        ],
+        "publisher": "Chronicle Books",
+        "publishedDate": "2022-03-08",
+        "description": "This is Pay It Forward meets the #BeKind movement, as seen through a Jewish principle. It's Grandpop's birthday, and all he wants is one little thing: for Sophie to change the world. He wants Sophie to do a mitzvah\u2014something kind for others. But what exactly does that mean? As Sophie shares, teaches, helps her friends, takes care of birds, and picks up litter, she wonders which of these acts, if any, might change the world. By performing this sequence of poignant mitzvahs with an open heart, unending empathy, and a big imagination, Sophie's about to discover that what sounds like an impossible task just might be the best way to live life. In this exploration of an essential part of Jewish traditional teaching, Sophie's efforts to grant Grandpop's wish show that the smallest acts of kindness are what truly change the world. TIMELESS: Mitzvahs are a time-honored tradition and a central part of Judaic practice. This universal, timeless picture book shares a meaningful message about doing good in the world that will always be welcome and needed. A JEWISH PERSPECTIVE: This story explores an aspect of Jewish culture that is applicable to anyone interested in improving their world, making it a book that is both relevant and relatable to kids who are Jewish and non-Jewish alike. SPREAD KINDNESS: This book shows a variety of kind actions and engages with how kindness and good deeds can affect and lift up friends, family, and entire communities. BEAUTIFUL ILLUSTRATIONS: The art in this book is bright and cheerful, perfect for engaging kids and getting them excited to learn how they, too, can change the world! Perfect for: \u2022 Jewish families \u2022 Jewish schools and learning centers \u2022 Teachers \u2022 Parents looking for books about kindness",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781452181592"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1452181594"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 33,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=c3xIEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=c3xIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=c3xIEAAAQBAJ&printsec=frontcover&dq=children&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=c3xIEAAAQBAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Can_Sophie_Change_the_World.html?hl=&id=c3xIEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Can_Sophie_Change_the_World-sample-pdf.acsm?id=c3xIEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=c3xIEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is Pay It Forward meets the #BeKind movement, as seen through a Jewish principle."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h_iZswEACAAJ",
+      "etag": "dhhC0foI1iA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h_iZswEACAAJ",
+      "volumeInfo": {
+        "title": "Where is Bear?",
+        "subtitle": "A Terrific Tale for 2-year-olds",
+        "authors": [
+          "Libby Martinez"
+        ],
+        "publisher": "Centers for Disease Control & Prevention",
+        "publishedDate": "2017",
+        "description": "\"Meet Tiger, Bear, and their forest friends, Bird, Frog, Fox, and Turtle! In this terrifically unique and interactive tale, your 2-year-old child with help Tiger find Bear. Each step in your child's quest to find Bear highlights important milestones in your child's growth and development. Look for the leaf at the bottom of the page for these Milestone Moments\"--Back cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0160941563"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780160941566"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=h_iZswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=h_iZswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=h_iZswEACAAJ&dq=children&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=h_iZswEACAAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Where_is_Bear.html?hl=&id=h_iZswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h_iZswEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Look for the leaf at the bottom of the page for these Milestone Moments. Be sure to review the milestone checklist and helpful parenting tips at the end of the book to learn more about your child&#39;s development."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y-DYCwAAQBAJ",
+      "etag": "VA+mFcMGiWA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y-DYCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Reading Picture Books with Children",
+        "subtitle": "How to Shake Up Storytime and Get Kids Talking about What They See",
+        "authors": [
+          "Megan Dowd Lambert"
+        ],
+        "publisher": "Charlesbridge Publishing",
+        "publishedDate": "2015-11-03",
+        "description": "A new, interactive approach to storytime, The Whole Book Approach was developed in conjunction with the Eric Carle Museum of Picture Book Art and expert author Megan Dowd Lambert's graduate work in children's literature at Simmons College, offering a practical guide for reshaping storytime and getting kids to think with their eyes. Traditional storytime often offers a passive experience for kids, but the Whole Book approach asks the youngest of readers to ponder all aspects of a picture book and to use their critical thinking skills. Using classic examples, Megan asks kids to think about why the trim size of Ludwig Bemelman's Madeline is so generous, or why the typeset in David Wiesner's Caldecott winner,The Three Pigs, appears to twist around the page, or why books like Chris Van Allsburg's The Polar Express and Eric Carle's The Very Hungry Caterpillar are printed landscape instead of portrait. The dynamic discussions that result from this shared reading style range from the profound to the hilarious and will inspire adults to make children's responses to text, art, and design an essential part of storytime.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781580896627"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1580896626"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Y-DYCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Y-DYCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Y-DYCwAAQBAJ&printsec=frontcover&dq=children&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Y-DYCwAAQBAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reading_Picture_Books_with_Children.html?hl=&id=Y-DYCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Reading_Picture_Books_with_Children-sample-pdf.acsm?id=Y-DYCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y-DYCwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A new, interactive approach to storytime, The Whole Book Approach was developed in conjunction with the Eric Carle Museum of Picture Book Art and expert author Megan Dowd Lambert&#39;s graduate work in children&#39;s literature at Simmons College, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gotuEWAj_MwC",
+      "etag": "DwpfV988m8o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gotuEWAj_MwC",
+      "volumeInfo": {
+        "title": "The Book of Children",
+        "subtitle": "Supporting the Freedom and Intelligence of a New Generation",
+        "authors": [
+          "Osho"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "2013-07-16",
+        "description": "Children have a natural authenticity and freedom, a joyfulness and a playfulness and a natural creativity. This book calls for a \"children's liberation movement\" to break through the patterns and create the opportunity for an entirely new way of relating as human beings.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250006202"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1250006201"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 257,
+        "printType": "BOOK",
+        "categories": [
+          "Family & Relationships"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gotuEWAj_MwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gotuEWAj_MwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=gotuEWAj_MwC&printsec=frontcover&dq=children&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=gotuEWAj_MwC&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_of_Children.html?hl=&id=gotuEWAj_MwC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gotuEWAj_MwC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book calls for a &quot;children&#39;s liberation movement&quot; to break through the patterns and create the opportunity for an entirely new way of relating as human beings."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NM2lANfmxUAC",
+      "etag": "Zarq/zE/ONI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NM2lANfmxUAC",
+      "volumeInfo": {
+        "title": "Children's Literature",
+        "authors": [
+          "Elizabeth Lennox Keyser",
+          "Julie Pfeiffer"
+        ],
+        "publisher": "Yale University Press",
+        "publishedDate": "2002-01-01",
+        "description": "Annual of The Modern Language Association Division on Children\u2019s Literature and The Children\u2019s Literature Association ARTICLES: Perry Nodelman Speculations on the Characteristics of Children\u2019s Fiction; Roderick McGillis The Pleasure of the Process; Thomas Travisano Of Dialectic and Divided Consciousness; Margaret R. Higonnet A Pride of Pleasures; Perry Nodelman The Urge to Sameness; Kenneth Kidd Boyology in the Twentieth Century; Marilynn Olson Turn-of-the-Century Grotesque; Peter Hollindale Plain Speaking; Hamida Bosmajian Doris Orgel\u2019s The Devil in Vienna; Joseph Stanton Maurice Sendak\u2019s Urban Landscapes. VARIA: Andrea Immel James Pettit Andrews\u2019s \"Books\" (1790); Penny Mahon \"Things by Their Right Name\"; Phyllis Bixler The Lion and the Lamb. IN MEMORIAM: R. H. W. Dillard In Memoriam: Francelia Butler, 1913\u20131998; John Cech In Mansfield Hollow: For Francelia; Eric Dawson Francelia\u2019s Dream. REVIEWS: Anita Tarr \"Still so much work to be done\"; Gillian Adams A Fuzzy Genre; Kenneth Kidd Crosswriting the School Story; Raymond E. Jones A New Salvo in the Literary Battle of the Sexes; Stephen Canham From Wonderland to the Marketplace; Jan Susina Dealing with Victorian Fairies; Gregory Eiselein Reading a Feminist Romance; Anne K. Phillips The Wizard of Oz in the Twentieth Century; June Cummins \"Where the Girls Are\"\u2014and Aren\u2019t; Deborah Stevenson Letters from the Editor; Hamida Bosmajian Dangerous Images; Roberta Seelinger Trites The Transactional School of Children\u2019s Literature Criticism. DISSERTATIONS OF NOTE: Mary Mayfield and Rachel Fordyce",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780300094893"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0300094892"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 278,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NM2lANfmxUAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NM2lANfmxUAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=NM2lANfmxUAC&pg=PA42&dq=children&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=NM2lANfmxUAC&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Children_s_Literature.html?hl=&id=NM2lANfmxUAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NM2lANfmxUAC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Children&#39;s</b> literature has persuasively been described as a means of seduction , a solicitation by which the adult writer draws in and de- fines the child reader.1 Given the anxiety that has traditionally hovered around the connection&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cIwrAQAAMAAJ",
+      "etag": "i5LFApObPWI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cIwrAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Poetry Speaks to Children",
+        "authors": [
+          "Elise Paschen"
+        ],
+        "publisher": "Sourcebooks MediaFusion",
+        "publishedDate": "2005",
+        "description": "A collection of 95 remarkable poems by the poets and a few close friends.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000063399417"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cIwrAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cIwrAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cIwrAQAAMAAJ&q=children&dq=children&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=cIwrAQAAMAAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poetry_Speaks_to_Children.html?hl=&id=cIwrAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cIwrAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Poetry Speaks to Children is an imaginative treasury of the spoken and written word for kids of all ages.? 52 Wonderful Performances by the poets and a few close friends, featuring: Rita Dove Reads The First Book ---ROBERT FROST Reads ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yxNbEAAAQBAJ",
+      "etag": "rbYIAULiSsA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yxNbEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Illustrating Children's Books",
+        "subtitle": "Creating Pictures for Publication",
+        "authors": [
+          "Martin Salisbury"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2018",
+        "description": "Learn how to create effective illustrations to match children's stories for different age groups.The art of illustration for children has a long and rich tradition, and for generations has been loved by countless readers. Illustrating Children's Books shows you how to create beautiful artwork for children, examines the approaches taken by advanced-level students and leading artists and describes how their ideas evolve from start to finish through step-by-step sketches.- Identify the techniques used by successful children's illustrators and get advice on how to tackle fantasy, fairy tale, realism and nature drawings- Learn tips on working in a wide variety of media and receive professional advice on illustrating for different age groups and types of publication- Discover how to interpret and enrich the text, build consistent character identities, and create vibrant settings that will stir readers' imaginations- Find out how to create storyboards and layouts, work to brief, and present your work professionally- Explore specific examples such as picture books for little ones, storybooks for older children and educational books, with the final chapters devoted to design and typography and the business of getting published",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781912217571"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1912217570"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 10,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yxNbEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yxNbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=yxNbEAAAQBAJ&dq=children&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=yxNbEAAAQBAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Illustrating_Children_s_Books.html?hl=&id=yxNbEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yxNbEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "- Identify the techniques used by successful children&#39;s illustrators and get advice on how to tackle fantasy, fairy tale, realism and nature drawings - Learn tips on working in a wide variety of media and receive professional advice on ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-m3vDwAAQBAJ",
+      "etag": "Hj2yi4+1teI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-m3vDwAAQBAJ",
+      "volumeInfo": {
+        "title": "C Is for Country",
+        "authors": [
+          "Lil Nas X"
+        ],
+        "publisher": "Random House Books for Young Readers",
+        "publishedDate": "2021-01-05",
+        "description": "NEW YORK TIMES BESTSELLER \u2022 It\u2019s time to saddle up! Lil Nas X, the chart-topping music icon and internet sensation behind the hit single \u201cOld Town Road,\u201d has crafted an empowering alphabet adventure that shows off his signature \u201cS is for Swagger\u201d and \u201cX is for Extra\u201d energy in a kid-friendly picture book that is one of a kind\u2014just like him! A is for Adventure. Every day is a brand-new start! B is for Boots\u2014whether they\u2019re big or small, short or tall. And C is for Country. Join superstar Lil Nas X and Panini the pony on a fabulous journey through the alphabet from sunup to sundown. Featuring bold, bright art from Theodore Taylor III, kids will experience wide-open pastures, farm animals, guitar music, cowboy hats, and all things country in this debut picture book that\u2019s perfect for music lovers learning their ABCs and for anyone who loves Nas\u2019s unique genre-blending style and his iconic red-carpet looks. (After all, \u201cF is for feathers. And fringe. And fake fur.\u201d)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593300800"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593300807"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 23,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-m3vDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-m3vDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-m3vDwAAQBAJ&printsec=frontcover&dq=children&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-m3vDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-m3vDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-m3vDwAAQBAJ&rdid=book--m3vDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/C_Is_for_Country-sample-epub.acsm?id=-m3vDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/C_Is_for_Country-sample-pdf.acsm?id=-m3vDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-m3vDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Featuring bold, bright art from Theodore Taylor III, kids will experience wide-open pastures, farm animals, guitar music, cowboy hats, and all things country in this debut picture book that\u2019s perfect for music lovers learning their ABCs ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MssvPAAACAAJ",
+      "etag": "axznTqqjZUA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MssvPAAACAAJ",
+      "volumeInfo": {
+        "title": "The Children's Book of Heroes",
+        "authors": [
+          "William J. Bennett"
+        ],
+        "publisher": "Simon & Schuster",
+        "publishedDate": "1997-10-06",
+        "description": "William Bennett and Michael Hague, the team that brought us the national bestseller The Children's Book of Virtues, have once again collaborated to create The Children's Book of Heroes, a beautifully illustrated celebration of heroic deeds, both real and fictional, that will delight and inspire millions of young children and their parents. \"We all need a hero or two to help us stand fast and think right,\" says William J. Bennett, author of The Book of Virtues, the bestseller that millions of American families turn to for moral inspiration. With excerpts chosen for young children, this new treasury presents splendid tales of the valor and indomitable spirit that are a lasting testament to our cherished values. Jackie Robinson stands fast on the playing field and his strength of character inspires a nation. David slays Goliath and his faith and bravery give hope to underdogs everywhere. A little boy goes in search of an angel and finds one who guards him day and night: his own mother. From Abraham Lincoln and Mother Teresa to warriors on the battlefield, real moms and dads, and even young girls and boys, here are worthy and heroic figures all kids can look up to and emulate. The Children's Book of Heroes is a celebration of the endurance, sacrifice, courage, and compassion that characterize truly heroic deeds.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0684834456"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780684834450"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MssvPAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MssvPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=MssvPAAACAAJ&dq=children&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=MssvPAAACAAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Children_s_Book_of_Heroes.html?hl=&id=MssvPAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MssvPAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Children&#39;s Book of Heroes is a celebration of the endurance, sacrifice, courage, and compassion that characterize truly heroic deeds."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K-CGZEc1ArUC",
+      "etag": "z/fEHVYy1Kg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K-CGZEc1ArUC",
+      "volumeInfo": {
+        "title": "The 5 Love Languages of Children",
+        "authors": [
+          "Gary Chapman",
+          "Ross Campbell"
+        ],
+        "publisher": "Moody Publishers",
+        "publishedDate": "2012-02-01",
+        "description": "Does your child speak a different language? Sometimes they wager for your attention, and other times they ignore you completely. Sometimes they are filled with gratitude and affection, and other times they seem totally indifferent. Attitude. Behavior. Development. Everything depends on the love relationship between you and your child. When children feel loved, they do their best. But how can you make sure your child feels loved? Since 1992, Dr. Gary Chapman's best-selling book The 5Love Languages has helped millions of couples develop stronger, more fulfilling relationships by teaching them to speak each others' love language. Each child, too, expresses and receives love through one of five different communication styles. And your love language may be totally different from that of your child. While you are doing all you can to show your child love, he may be hearing it as something completely opposite. Discover your child's primary language and learn what you can do to effectively convey unconditional feelings of respect, affection, and commitment that will resonate in your child's emotions and behavior.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780802479334"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0802479332"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 245,
+        "printType": "BOOK",
+        "categories": [
+          "Family & Relationships"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K-CGZEc1ArUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=K-CGZEc1ArUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=K-CGZEc1ArUC&printsec=frontcover&dq=children&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=K-CGZEc1ArUC&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_5_Love_Languages_of_Children.html?hl=&id=K-CGZEc1ArUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_5_Love_Languages_of_Children-sample-epub.acsm?id=K-CGZEc1ArUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_5_Love_Languages_of_Children-sample-pdf.acsm?id=K-CGZEc1ArUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K-CGZEc1ArUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Since 1992, Dr. Gary Chapman&#39;s best-selling book The 5Love Languages has helped millions of couples develop stronger, more fulfilling relationships by teaching them to speak each others&#39; love language."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zbX9jwEACAAJ",
+      "etag": "aP5HAjYIbKY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zbX9jwEACAAJ",
+      "volumeInfo": {
+        "title": "The Barefoot Book of Children",
+        "authors": [
+          "Tessa Strickland",
+          "Kate DePalma"
+        ],
+        "publishedDate": "2016",
+        "description": "The Barefoot Book of children takes its readers on a visual trek across the globe, where they discover that--despite our different clothes and homes and languages--we are more alike than different.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1782852964"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781782852964"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zbX9jwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zbX9jwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=zbX9jwEACAAJ&dq=children&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=zbX9jwEACAAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Barefoot_Book_of_Children.html?hl=&id=zbX9jwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zbX9jwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Barefoot Book of children takes its readers on a visual trek across the globe, where they discover that--despite our different clothes and homes and languages--we are more alike than different."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yTVDuQEACAAJ",
+      "etag": "3CWlVXGvzKI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yTVDuQEACAAJ",
+      "volumeInfo": {
+        "title": "A Children's Book of Demons",
+        "authors": [
+          "Aaron Leighton"
+        ],
+        "publishedDate": "2019-05-22",
+        "description": "With this handy Necronomicon for kids, and its easy to follow how-to steps, summoning demons has never been so much fun!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1927668662"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781927668665"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yTVDuQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yTVDuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=yTVDuQEACAAJ&dq=children&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=yTVDuQEACAAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Children_s_Book_of_Demons.html?hl=&id=yTVDuQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yTVDuQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With this handy Necronomicon for kids, and its easy to follow how-to steps, summoning demons has never been so much fun!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9qtVr-_gN6cC",
+      "etag": "DB3Q98c5NyY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9qtVr-_gN6cC",
+      "volumeInfo": {
+        "title": "The Children of Men",
+        "authors": [
+          "P. D. James"
+        ],
+        "publisher": "Vintage Canada",
+        "publishedDate": "2012-01-11",
+        "description": "The year is 2021. No child has been born for twenty-five years. The human race faces extinction. Under the despotic rule of Xan Lyppiat, the Warden of England, the old are despairing and the young cruel. Theo Faren, a cousin of the Warden, lives a solitary life in this ominous atmosphere. That is, until a chance encounter with a young woman leads him into contact with a group of dissenters. Suddenly his life is changed irrevocably as he faces agonising choices which could affect the future of mankind. NOW A MAJOR MOTION PICTURE",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307367716"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307367711"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 323,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9qtVr-_gN6cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9qtVr-_gN6cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9qtVr-_gN6cC&printsec=frontcover&dq=children&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9qtVr-_gN6cC&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Children_of_Men.html?hl=&id=9qtVr-_gN6cC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Children_of_Men-sample-epub.acsm?id=9qtVr-_gN6cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9qtVr-_gN6cC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The year is 2021."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "724ezgEACAAJ",
+      "etag": "hb1iokiyaVc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/724ezgEACAAJ",
+      "volumeInfo": {
+        "title": "A Lion for the Emperor, Volume 2",
+        "authors": [
+          "Sophie De Mullenheim"
+        ],
+        "publisher": "In the Shadows of Rome",
+        "publishedDate": "2021-03-08",
+        "description": "A Lion for the Emperor is the second volume of the gripping new series for 10 year olds and up titled In the Shadows of Rome (5 books total). Being a Christian in ancient Rome was very dangerous. To spread the faith and stay alive, you had to live in the shadows . . . Maximus and Aghiles join their friend Titus on his father's expedition to capture a magnificent lion in the forests of North Africa. After surviving the dangers of the hunt, the three friends face a perilous voyage back to Rome. Their mission: present Emperor Diocletian with a priceless beast that will be used to satisfy the pagan appetite for violence during games in the Colosseum. Follow their adventures as they forge priceless friendships--and discover the many secrets lurking in the shadows of the Rome.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1621644561"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781621644569"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=724ezgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=724ezgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=724ezgEACAAJ&dq=children&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=724ezgEACAAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Lion_for_the_Emperor_Volume_2.html?hl=&id=724ezgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=724ezgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Lion for the Emperor is the second volume of the gripping new series for 10 yr. olds and up titled In the Shadows of Rome (5 books total)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dh6LMAEACAAJ",
+      "etag": "yWeOg0x9a+o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dh6LMAEACAAJ",
+      "volumeInfo": {
+        "title": "The World of Children",
+        "authors": [
+          "Greg Cook",
+          "Joan Littlefield Cook"
+        ],
+        "publisher": "Pearson College Division",
+        "publishedDate": "2013-07-08",
+        "description": "ALERT: Before you purchase, check with your instructor or review your course syllabus to ensure that you select the correct ISBN. Several versions of Pearson's MyLab & Mastering products exist for each title, including customized versions for individual schools, and registrations are not transferable. In addition, you may need a CourseID, provided by your instructor, to register for and use Pearson's MyLab & Mastering products. Packages Access codes for Pearson's MyLab & Mastering products may not be included when purchasing or renting from companies other than Pearson; check with the seller before completing your purchase. Used or rental books If you rent or purchase a used book with an access code, the access code may have been redeemed previously and you may have to purchase a new access code. Access codes Access codes that are purchased from sellers other than Pearson carry a higher risk of being either the wrong ISBN or a previously redeemed code. Check with the seller prior to purchase. -- Helping students make connections between science and practice The World of Children helps students connect the science and the practice of child development in a way that can positively change lives. The third edition features an active learning system that exposes students to real people facing real world child development challenges. It encourages readers to think critically about issues from multiple perspectives. The World of Children is a chronological child development text. MyPsychLab is available with World of Children, 3e. Through MyPsychLab, students have access to MyVirtualChild, an interactive web-based simulation that allows students to raise a child from birth to age 18 and monitor the effects of their parenting decisions over time. A better teaching and learning experience The teaching and learning experience with this program helps to: Personalize Learning -- The new MyPsychLab delivers proven results in helping students succeed, provides engaging experiences that personalize learning, and comes from a trusted partner with educational expertise and a deep commitment to helping students and instructions achieve their goals. Improve Critical Thinking --Prompts throughout each chapter jumpstart readers' critical thinking process. Engage Students -- Real-life cases encourage students apply what they are learning. Also, students can raise a child through MyVirtualChild. Explore Research -- With over 600 new research citations, this new edition reflects the latest research in the field of child psychology. Understand Different Perspectives - Several perspectives are included in the reading to help students think about the content from different points of view. Support Instructors -- New MyPsychLab Video Series. These cross-cultural videos feature original footage filmed in the United States, Mexico, and Botswana. Guided by series editor Ashley Maynard (University of Hawaii, Manoa), they show how culture impacts child development. Videos are available in multiple formats: on an instructor's DVD, tied to quizzes in MyPsychLab, and called out in the chapter with \"Watch\" icons.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0205953735"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780205953738"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 656,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dh6LMAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dh6LMAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=dh6LMAEACAAJ&dq=children&hl=&as_pt=BOOKS&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=dh6LMAEACAAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_World_of_Children.html?hl=&id=dh6LMAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dh6LMAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Also, students can raise a child through MyVirtualChild. Explore Research -- With over 600 new research citations, this new edition reflects the latest research in the field of child psychology."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ziykJemypD8C",
+      "etag": "JqUGQnyQIZU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ziykJemypD8C",
+      "volumeInfo": {
+        "title": "Encounters with Children",
+        "subtitle": "Pediatric Behavior and Development",
+        "authors": [
+          "Suzanne D. Dixon",
+          "Martin T. Stein"
+        ],
+        "publisher": "Mosby",
+        "publishedDate": "1992",
+        "description": "TABLE OF CONTENTS. 1. Basic perspectives: biases and format / S. D. Dixon and M. T. Stein. 2. Setting the stage: theories and concepts of child development / S. D. Dixon. 3. Interviewing in a pediatric setting / M. T. Stein. 4. Designing an office with a developmental perspective / M. T. Stein. 5. The prenatal visit: making an alliance with the family / S. D. Dixon. 6. The newborn examination: innate readiness for interaction with the environment / S. D. Dixon. 7. The hospital discharge examination: getting to know the individual child / M. T. Stein. 8. The special care nursery: unlocking the behavior of the vulnerable neonate / S. D. Dixon and P. Gorski. 9. Five days to four weeks: making a place in the family / P. Kaiser and S. D. Dixon. 10. Five weeks to two months: getting on track / M. T. Stein. 11. Three to four months: having fun with the picture book baby / S. D. Dixon. 12. Five to Six months: reaching out to play / S. D. Dixon, M. J. Hennessy, and P. Kaiser. 13. Seven to eight months: separation and strangers / P. Kaiser and S. D. Dixon. 14. Nine to ten months: active exploration in a safe environment / P. Kaiser and S. D. Dixon. 15. One year: one giant step forward / S. D. Dixon and M. J. Hennessy. 16. Eighteen months: asserting oneself, a push-pull process / M. T. Stein. 17. Two years: learning the rules language and cognition / S. D. Dixon, H. Feldman, and E. Bates. 18. Two and one-half to Three years: emergence of magic / S. D. Dixon. 19. Four years: clearer sense of self / N. Putnam and S. D. Dixon. 20. Five years: entering school / P. Nader. 21. Six years: Learning to use symbols / N. Putnam and M. T. Stein. 22. Seven to ten years: growth and competency / N. Putnam. 23. Seven to Ten years: the world of the elementary school child / R. D. Wells and M. T. Stein. 24. Overview of adolescence / M. E. Felice. 25. Eleven to thirteen years: early adolescence - age of rapid changes / M. E. Felice. 26. Fourteen to sixteen years: mid-adolescence the dating game / M. E. Felice. 27. Seventeen to twenty-one years: late adolescence / L. I. Rice and M. E. Felice. 28. Special Families / R. D. Wells, N. Putnam, and M. T. Stein. 29. Childrens encounters with illness: hospitalization and procedures / M. T. Stein. 30. Child advocacy: a pediatric perspective / M. T. Stein, S. D. Dixon, and J. E. Schanberger. 31. The use of drawings by children in the pediatric office / J. B. Welsh. 32. Books for parents, videos for kids: an annotated bibliography / P. Kaiser, M. Caffery, H. J. Brehm, S. D. Dixon, M. T. Stein, and M. E. Felice.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0801614325"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780801614323"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 516,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ziykJemypD8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ziykJemypD8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ziykJemypD8C&q=children&dq=children&hl=&as_pt=BOOKS&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ziykJemypD8C&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Encounters_with_Children.html?hl=&id=ziykJemypD8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ziykJemypD8C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Five days to four weeks: making a place in the family / P. Kaiser and S. D. Dixon. 10. Five weeks to two months: getting on track / M. T. Stein. 11. Three to four months: having fun with the picture book baby / S. D. Dixon. 12."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LIBePgAACAAJ",
+      "etag": "qxVea6Vu6Lw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LIBePgAACAAJ",
+      "volumeInfo": {
+        "title": "One Thousand and One Children's Books You Must Read Before You Grow Up",
+        "authors": [
+          "Julia Eccleshare",
+          "Quentin Blake"
+        ],
+        "publishedDate": "2009",
+        "description": "The perfect introduction to the very best books for children, from wordless picture books and simple, illustrated story books through to hard-hitting and edgy teenage fiction. Introduces a wonderfully rich world of literature to parents and their children, offering both new titles and much loved classics.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0733325629"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780733325625"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 960,
+        "printType": "BOOK",
+        "categories": [
+          "Best books"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LIBePgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LIBePgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=LIBePgAACAAJ&dq=children&hl=&as_pt=BOOKS&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=LIBePgAACAAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/One_Thousand_and_One_Children_s_Books_Yo.html?hl=&id=LIBePgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LIBePgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These books will enable you to travel to some of the most famous worlds imagined, such as Narnia, Middle Earth, and Hogwart&#39;s School. And the route taken may be pretty strange, too."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dCgxDwAAQBAJ",
+      "etag": "lRaxDbdP7uU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dCgxDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Children's Rights",
+        "authors": [
+          "Ursula Kilkelly"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2017-07-05",
+        "description": "The articles in this volume shed light on some of the major tensions in the field of children?s rights (such as the ways in which children?s best interests and respect for their autonomy can be reconciled), challenges (such as how the CRC can be made a reality in the lives of children in the face of ignorance, apathy or outright opposition) and critiques (whether children?s rights are a Western imposition or a successful global consensus). Along the way, the writing covers a myriad of issues, encompassing the opposition to the CRC in the US; gay parenting: Dr Seuss?s take on children?s autonomy; the voice of neonates on their health care; the role of NGO in supporting child labourers in India, and young people in detention and more.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781351572071"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1351572075"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 647,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dCgxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dCgxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=dCgxDwAAQBAJ&pg=PT271&dq=children&hl=&as_pt=BOOKS&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=dCgxDwAAQBAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Children_s_Rights.html?hl=&id=dCgxDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Children_s_Rights-sample-epub.acsm?id=dCgxDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Children_s_Rights-sample-pdf.acsm?id=dCgxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dCgxDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children</b> to the struggle33 was an aspect that could not be overlooked . However , these do not on their own adequately explain the phenomenon of unanimous support for <b>children&#39;s</b> rights on the political front . After all , the right to&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t7VRAAAACAAJ",
+      "etag": "F12rPIh94Ik",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t7VRAAAACAAJ",
+      "volumeInfo": {
+        "title": "When Children Grieve",
+        "subtitle": "For Adults to Help Children Deal With Death, Divorce, Pet Loss, Moving, and Other Losses",
+        "authors": [
+          "John W. James",
+          "Russell Friedman",
+          "Leslie Landon Matthews"
+        ],
+        "publishedDate": "2001-05-01",
+        "description": "To watch a child grieve & not know what to do is one of the most difficult experiences for parents, teachers, & caregivers. This book offers guidelines for helping children develop a lifelong, healthy response to loss. This cutting-edge volume will help free children from the false idea that they shouldn't feel bad\u00d3 & will empower them with positive, effective methods of dealing with loss. There are many life experiences that can produce feelings of grief in a child, everything from the death of a relative or a divorce, to more everyday experiences such as moving to a new neighborhood, or losing a pet. Whatever the reason or the degree of severity, if a child you love is grieving, this book can help.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0756757819"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780756757816"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=t7VRAAAACAAJ&dq=children&hl=&as_pt=BOOKS&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=t7VRAAAACAAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/When_Children_Grieve.html?hl=&id=t7VRAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t7VRAAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "To watch a child grieve &amp; not know what to do is one of the most difficult experiences for parents, teachers, &amp; caregivers. This book offers guidelines for helping children develop a lifelong, healthy response to loss."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Kb-vzQEACAAJ",
+      "etag": "VwNTou5zK6U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Kb-vzQEACAAJ",
+      "volumeInfo": {
+        "title": "Developmentally Appropriate Practice in Early Childhood Programs Serving Children from Birth Through Age 8, Fourth Edition (Fully Revised and Updated)",
+        "authors": [
+          "Naeyc"
+        ],
+        "publishedDate": "2021-08",
+        "description": "The long-awaited new edition of NAEYC's book Developmentally Appropriate Practice in Early Childhood Programs is here, fully revised and updated! Since the first edition in 1987, it has been an essential resource for the early childhood education field. Early childhood educators have a professional responsibility to plan and implement intentional, developmentally appropriate learning experiences that promote the social and emotional development, physical development and health, cognitive development, and general learning competencies of each child served. But what is developmentally appropriate practice (DAP)? DAP is a framework designed to promote young children's optimal learning and development through a strengths-based approach to joyful, engaged learning. As educators make decisions to support each child's learning and development, they consider what they know about (1) commonality in children's development and learning, (2) each child as an individual (within the context of their family and community), and (3) everything discernible about the social and cultural contexts for each child, each educator, and the program as a whole. This latest edition of the book is fully revised to underscore the critical role social and cultural contexts play in child development and learning, including new research about implicit bias and teachers' own context and consideration of advances in neuroscience. Educators implement developmentally appropriate practice by recognizing the many assets all young children bring to the early learning program as individuals and as members of families and communities. They also develop an awareness of their own context. Building on each child's strengths, educators design and implement learning settings to help each child achieve their full potential across all domains of development and across all content areas.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1938113950"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781938113956"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Kb-vzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Kb-vzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Kb-vzQEACAAJ&dq=children&hl=&as_pt=BOOKS&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Kb-vzQEACAAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Developmentally_Appropriate_Practice_in.html?hl=&id=Kb-vzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Kb-vzQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition provides a comprehensive approach to implementing practices that ensure all young children have access to high-quality early learning."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nWEICgAAQBAJ",
+      "etag": "Sot1Bz/koBI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nWEICgAAQBAJ",
+      "volumeInfo": {
+        "title": "Children\u2019s Images of Identity",
+        "subtitle": "Drawing the Self and the Other",
+        "authors": [
+          "Jill Brown",
+          "Nicola F. Johnson"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2015-06-25",
+        "description": "\"The understandings which children have of Indigenous identity provide means by which to explore the ways in which Indigenous identity is both projected and constructed in society. These understandings play a powerful part in the ways in which Indigenous peoples are positioned in the mainstream society with which they are connected. The research presented in this edited collection uses children\u2019s drawings to illuminate and explore the images children, both mainstream and Indigenous, have of Indigenous peoples. The data generated by this process allows exploration of the ways in which Indigenous identity is understood globally, through a series of locally focussed studies connected by theme and approach. The data serves to illuminate both the space made available by mainstream groups, and aspects of modernity accommodated within the Indigenous sense of self. Our aim within this project has been to analyse and discuss the ways in which children construct identity, both their own and that of others. Children were asked to share their thoughts through drawings which were then used as the basis for conversation with the researchers. In this way the interaction between mainstream modernity and traditional Indigenous identity is made available for discussion and the connection between children\u2019s lived experiences of identity and the wider global discussion is both immediately enacted and located within broader international understandings of Indigenous cultures and their place in the world.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789463001243"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9463001247"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 187,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nWEICgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nWEICgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nWEICgAAQBAJ&pg=PA113&dq=children&hl=&as_pt=BOOKS&cd=27&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nWEICgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nWEICgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE_AND_RENTAL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 49.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 39.49,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=nWEICgAAQBAJ&rdid=book-nWEICgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 49990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 39490000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          },
+          {
+            "finskyOfferType": 3,
+            "listPrice": {
+              "amountInMicros": 17500000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 15220000,
+              "currencyCode": "USD"
+            },
+            "rentalDuration": {
+              "unit": "DAY",
+              "count": 90
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Children_s_Images_of_Identity-sample-pdf.acsm?id=nWEICgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nWEICgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children</b> enjoy wonderful lives - even the sun is smiling . 434 DISCUSSION Drawings reveal <b>children&#39;s</b> inner selves . It is a channel to express their understanding of a specific issue or phenomenon . In past years , issues related to&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OWNHDwAAQBAJ",
+      "etag": "LUKgQqkRhlw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OWNHDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Rethinking Children's Rights",
+        "subtitle": "Attitudes in Contemporary Society",
+        "authors": [
+          "Phil Jones",
+          "Sue Welch"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2018-02-22",
+        "description": "Rethinking Children's Rights explores attitudes towards and experiences of children's rights. Phil Jones and Sue Welch draw on a wide range of thought, research and practice from different fields and countries to debate, challenge and re-appraise long held beliefs, attitudes and ways of working and living with children. This second edition contains updated references to legislation and research underpinning children's rights, reflecting on recent scholarship and on the current world context. New research and examples are discussed around: - online protection and privacy - evaluating UK progress and the children's rights review by the United Nations - recent insights on the implementation of the United Nations Convention on the Rights of the Child (UNCRC) - new debates about the construction and development of children's rights - new debates about the relationships between social exclusion and children's rights Recent developments in the definition of rights are considered from a variety of perspectives and in relation to different arenas of children's lives. This second edition brings an increased focus on exploring the notion of disjunction between the rhetoric of policy and legislation and the enacted and perceived experiences of children's rights. Themes discussed include power relations between adults and children, the child's voice, intercultural perspectives, social justice, gender and disability. Examples of research, activities, interviews with researchers and guidance on further reading make this an essential text for those studying childhood.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781350001268"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1350001260"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 311,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OWNHDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OWNHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=OWNHDwAAQBAJ&pg=PA289&dq=children&hl=&as_pt=BOOKS&cd=28&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OWNHDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OWNHDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 121.5,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 97.2,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=OWNHDwAAQBAJ&rdid=book-OWNHDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 121500000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 97200000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Rethinking_Children_s_Rights-sample-epub.acsm?id=OWNHDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Rethinking_Children_s_Rights-sample-pdf.acsm?id=OWNHDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OWNHDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Children&#39;s</b> Participation in Decisionmaking: A <b>Children&#39;s</b> Views Report, London: <b>Children&#39;s</b> Rights Alliance of England, National <b>Children&#39;s</b> Bureau, Office of the <b>Children&#39;s</b> Commissioner and Participation Works. Department for Education (2004)&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wdSkEAAAQBAJ",
+      "etag": "yV2NnDDYALk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wdSkEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Exploring Children's Suffrage",
+        "subtitle": "Interdisciplinary Perspectives on Ageless Voting",
+        "authors": [
+          "John Wall"
+        ],
+        "publisher": "Springer Nature",
+        "publishedDate": "2023-01-01",
+        "description": "This edited volume offers a critical, thorough, and interdisciplinary examination of arguments for eliminating the minimum democratic voting age. As children and youth increasingly assert their political voices on issues such as climate change, gun legislation, Black Lives Matter, and education reform, calls for youth enfranchisement merit further academic conversation. Leading scholars in childhood studies, political science, philosophy, history, law, medicine, and economics come together in this collection to explore the diverse assumptions behind excluding children from voting rights and why these are open to question. While arriving at different and sometimes competing conclusions, each chapter deconstructs the idea of voting as necessarily tied to age while reconstructing a more democratic imagination able to enfranchise the third of humanity made up by children and youth. Thus, this book defines and establishes a new field of academic study and public debate around children's suffrage. Chapter \u201cThe Reform that never happened: a history of children's suffrage restrictions\u201d is available open access under a Creative Commons Attribution 4.0 International License via link.springer.com.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783031145414"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3031145410"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wdSkEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wdSkEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wdSkEAAAQBAJ&pg=PA80&dq=children&hl=&as_pt=BOOKS&cd=29&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wdSkEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wdSkEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 119,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 95.2,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=wdSkEAAAQBAJ&rdid=book-wdSkEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 119000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 95200000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Exploring_Children_s_Suffrage-sample-epub.acsm?id=wdSkEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Exploring_Children_s_Suffrage-sample-pdf.acsm?id=wdSkEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wdSkEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children&#39;s</b> childhoods comes from not having the freedom to vote. In this case, not only are your concerns safely ... <b>children</b> arguably should not have. <b>Children</b> already have lots of rights that do not entail further inappropriate&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QUlGAQAAMAAJ",
+      "etag": "ICNOGogw4ps",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QUlGAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Publications of the Children's Bureau",
+        "authors": [
+          "United States. Children's Bureau"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951000839278L"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 946,
+        "printType": "BOOK",
+        "categories": [
+          "Child welfare"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QUlGAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QUlGAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QUlGAQAAMAAJ&pg=RA3-PA37&dq=children&hl=&as_pt=BOOKS&cd=30&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QUlGAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QUlGAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=QUlGAQAAMAAJ&rdid=book-QUlGAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Publications_of_the_Children_s_Bureau.epub?id=QUlGAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QUlGAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "United States. <b>Children&#39;s</b> Bureau. AGES OF <b>CHILDREN</b> AND VIOLATIONS OF AGE STANDARD OF STATE CHILD LABOR LAW As Delaware is one of the few States where <b>children</b> under 14 years of age are permitted by law to work in canneries ( see p&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gvwFEAAAQBAJ",
+      "etag": "jmkuNECXEeI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gvwFEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Capturing Children's Meanings in Early Childhood Research and Practice",
+        "subtitle": "A Practical Guide",
+        "authors": [
+          "Ann Marie Halpenny"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2020-11-26",
+        "description": "Capturing Children\u2019s Meanings in Early Childhood Research and Practice draws together contemporary research and established theories to produce a unique take on the meanings children express through a range of creative tools. Drawing on Reggio Emilia and the Mosaic approach, this book provides readers with a range of strategies for accessing, recording and interpreting young children\u2019s perceptions of and responses to their experiences. Providing a synthesis of the multiple imaginative ways we can capture young children\u2019s meanings through observations, art, photo elicitation, mindfulness, music and other creative methods, Halpenny covers topics such as: Negotiating challenges presented by researching with children Frameworks for seeing and hearing children\u2019s intentions Accurately documenting and interpreting research findings Promoting children\u2019s meanings and their performance of them Moving forward with new understandings This book is an indispensable resource for students of early childhood education, especially for courses focusing on the lived experiences of children from early to middle childhood. It is also a useful reference for those working with young children in educational and caregiving settings, and for those advocating for young children.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781351163941"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1351163949"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gvwFEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gvwFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=gvwFEAAAQBAJ&pg=PA2024&dq=children&hl=&as_pt=BOOKS&cd=31&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gvwFEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gvwFEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 39.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 31.19,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gvwFEAAAQBAJ&rdid=book-gvwFEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 39990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 31190000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Capturing_Children_s_Meanings_in_Early_C-sample-epub.acsm?id=gvwFEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Capturing_Children_s_Meanings_in_Early_C-sample-pdf.acsm?id=gvwFEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gvwFEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children</b> themselves in the process of making the language used meaningful and accessible . Any critical discussion on the challenges of doing research with young <b>children</b> must begin with a focus on the theoretical underpinnings that&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LGE4q7yYqcsC",
+      "etag": "gJ7OKqSNJwc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LGE4q7yYqcsC",
+      "volumeInfo": {
+        "title": "Picturing the Wolf in Children's Literature",
+        "authors": [
+          "Debra Mitts-Smith"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2012-12-06",
+        "description": "From the villainous beast of \u201cLittle Red Riding Hood\u201d and \u201cThe Three Little Pigs,\u201d to the nurturing wolves of Romulus and Remus and Rudyard Kipling\u2019s The Jungle Book, the wolf has long been a part of the landscape of children\u2019s literature. Meanwhile, since the 1960s and the popularization of scientific research on these animals, children\u2019s books have begun to feature more nuanced views. In Picturing the Wolf in Children\u2019s Literature, Mitts-Smith analyzes visual images of the wolf in children\u2019s books published in Western Europe and North America from 1500 to the present. In particular, she considers how wolves are depicted in and across particular works, the values and attitudes that inform these depictions, and how the concept of the wolf has changed over time. What she discovers is that illustrations and photos in works for children impart social, cultural, and scientific information not only about wolves, but also about humans and human behavior. First encountered in childhood, picture books act as a training ground where the young learn both how to decode the \u201csymbolic\u201d wolf across various contexts and how to make sense of \u201creal\u201d wolves. Mitts-Smith studies sources including myths, legends, fables, folk and fairy tales, fractured tales, fictional stories, and nonfiction, highlighting those instances in which images play a major role, including illustrated anthologies, chapbooks, picture books, and informational books. This book will be of interest to children\u2019s literature scholars, as well as those interested in the figure of the wolf and how it has been informed over time.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781135765712"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1135765715"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.6.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LGE4q7yYqcsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LGE4q7yYqcsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=LGE4q7yYqcsC&pg=PR2&dq=children&hl=&as_pt=BOOKS&cd=32&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LGE4q7yYqcsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LGE4q7yYqcsC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE_AND_RENTAL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 66.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 53.59,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=LGE4q7yYqcsC&rdid=book-LGE4q7yYqcsC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 66990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 53590000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          },
+          {
+            "finskyOfferType": 3,
+            "listPrice": {
+              "amountInMicros": 33500000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 29480000,
+              "currencyCode": "USD"
+            },
+            "rentalDuration": {
+              "unit": "DAY",
+              "count": 180
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Picturing_the_Wolf_in_Children_s_Literat-sample-epub.acsm?id=LGE4q7yYqcsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Picturing_the_Wolf_in_Children_s_Literat-sample-pdf.acsm?id=LGE4q7yYqcsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LGE4q7yYqcsC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Children</b> and Young Adults edited by Naomi J. Miller Representing the Holocaust in Youth Literature Lydia Kokkola Translating for <b>Children</b> Riitta Oittinen Beatrix Potter Writing in Code M. Daphne Kutzer <b>Children&#39;s</b> Films History, Ideology&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9zjLEAAAQBAJ",
+      "etag": "gWg7nhHKO3A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9zjLEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Oxford Textbook of Children's Sport and Exercise Medicine",
+        "authors": [
+          "Neil Armstrong",
+          "Willem Van Mechelen"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2023",
+        "description": "The 4th edition of the Oxford Textbook of Children's Sport and Exercise Medicine is the definitive single-volume reference in the field presented in four sections Exercise Science; Exercise Medicine; Sport Science; and Sport Medicine.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780192843968"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0192843966"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 785,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9zjLEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9zjLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9zjLEAAAQBAJ&pg=PA175&dq=children&hl=&as_pt=BOOKS&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9zjLEAAAQBAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oxford_Textbook_of_Children_s_Sport_and.html?hl=&id=9zjLEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Oxford_Textbook_of_Children_s_Sport_and-sample-pdf.acsm?id=9zjLEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9zjLEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children</b> and adults, but lower peripheral fatigue in <b>children</b>. This suggests that at similar peripheral fatigue, <b>children</b> could have developed more central fatigue. This finding also supports the assumption that the central nervous&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GbcQxQP_woIC",
+      "etag": "jP4decgdDZU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GbcQxQP_woIC",
+      "volumeInfo": {
+        "title": "Children's Drawings of the Human Figure",
+        "authors": [
+          "Maureen V. Cox"
+        ],
+        "publisher": "Psychology Press",
+        "publishedDate": "2013-05-24",
+        "description": "The human figure is one of the earliest topics drawn by the young child and remains popular throughout childhood and into adolescence. When it first emerges, however, the human figure in the child's drawing is very bizarre: it appears to have no torso and its arms, if indeed it has any, are attached to its head. Even when the figure begins to look more conventional the child must still contend with a variety of problems: for instance, how to draw the head and body in the right proportions and how to draw the figure in action. In this book, Maureen Cox traces the development of the human form in children's drawings; she reviews the literature in the field, criticises a number of major theories which purport to explain the developing child's drawing skills and also presents new data.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781134832309"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1134832303"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GbcQxQP_woIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GbcQxQP_woIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GbcQxQP_woIC&pg=PA72&dq=children&hl=&as_pt=BOOKS&cd=34&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GbcQxQP_woIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GbcQxQP_woIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 64.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 51.96,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=GbcQxQP_woIC&rdid=book-GbcQxQP_woIC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 64950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 51960000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Children_s_Drawings_of_the_Human_Figure-sample-pdf.acsm?id=GbcQxQP_woIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GbcQxQP_woIC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children</b> with learning difficulties ( LD ) produce the same kinds of drawings that normal <b>children</b> produce , albeit at a younger age . In other words , the standard of <b>children&#39;s</b> drawings is closer to their mental age than to their&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JeyFAwAAQBAJ",
+      "etag": "axX6OMPyo1M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JeyFAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Indicators of Children's Well-Being",
+        "authors": [
+          "Robert M. Hauser",
+          "Brett V. Brown",
+          "William R. Prosser"
+        ],
+        "publisher": "Russell Sage Foundation",
+        "publishedDate": "1997-12-04",
+        "description": "The search for reliable information on the well-being of America's young is vital to designing programs to improve their lives. Yet social scientists are concerned that many measurements of children's physical and emotional health are inadequate, misleading, or outdated, leaving policymakers ill-informed. Indicators of Children's Well-Being is an ambitious inquiry into current efforts to monitor children from the prenatal period through adolescence. Working with the most up-to-date statistical sources, experts from multiple disciplines assess how data on physical development, education, economic security, family and neighborhood conditions, and social behavior are collected and analyzed, what findings they reveal, and what improvements are needed to create a more comprehensive and policy-relevant system of measurement. Today's climate of welfare reform has opened new possibilities for program innovation and experimentation, but it has also intensified the need for a clearly defined and wide-ranging empirical framework to pinpoint where help is needed and what interventions will succeed. Indicators of Children's Well-Being emphasizes the importance of accurate studies that address real problems. Essays on children's material well-being show why income data must be supplemented with assessments of housing, medical care, household expenditure, food consumption, and education. Other contributors urge refinements to existing survey instruments such as the Census and the Current Population Survey. The usefulness of records from human service agencies, child welfare records, and juvenile court statistics is also evaluated.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781610442763"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1610442768"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 533,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JeyFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JeyFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=JeyFAwAAQBAJ&pg=PA237&dq=children&hl=&as_pt=BOOKS&cd=35&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=JeyFAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JeyFAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 85,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 68,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=JeyFAwAAQBAJ&rdid=book-JeyFAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 85000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 68000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Indicators_of_Children_s_Well_Being-sample-pdf.acsm?id=JeyFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JeyFAwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Children&#39;s</b> Economic Well - Being and Parental Employment Susan E. Mayer 11 IN CONTRAST TO measures of <b>children&#39;s</b> own outcomes , parents &#39; income and em- ployment are indirect indicators of <b>children&#39;s</b> well - being . The usefulness of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9_IoDAAAQBAJ",
+      "etag": "qn7rZ8WHovI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9_IoDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Ethics and Children's Literature",
+        "authors": [
+          "Claudia Mills"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2016-05-13",
+        "description": "Exploring the ethical questions posed by, in, and about children\u2019s literature, this collection examines the way texts intended for children raise questions of value, depict the moral development of their characters, and call into attention shared moral presuppositions. The essays in Part I look at various past attempts at conveying moral messages to children and interrogate their underlying assumptions. What visions of childhood were conveyed by explicit attempts to cultivate specific virtues in children? What unstated cultural assumptions were expressed by growing resistance to didacticism? How should we prepare children to respond to racism in their books and in their society? Part II takes up the ethical orientations of various classic and contemporary texts, including 'prosaic ethics' in the Hundred Acre Wood, moral discernment in Narnia, ethical recognition in the distant worlds traversed by L\u2019Engle, and virtuous transgression in recent Anglo-American children\u2019s literature and in the emerging children\u2019s literature of 1960s Taiwan. Part III\u2019s essays engage in ethical criticism of arguably problematic messages about our relationship to nonhuman animals, about war, and about prejudice. The final section considers how we respond to children\u2019s literature with ethically focused essays exploring a range of ways in which child readers and adult authorities react to children\u2019s literature. Even as children\u2019s literature has evolved in opposition to its origins in didactic Sunday school tracts and moralizing fables, authors, parents, librarians, and scholars remain sensitive to the values conveyed to children through the texts they choose to share with them.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781317141402"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1317141407"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 279,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9_IoDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9_IoDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9_IoDAAAQBAJ&pg=PA43&dq=children&hl=&as_pt=BOOKS&cd=36&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9_IoDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9_IoDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 52.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 42.36,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9_IoDAAAQBAJ&rdid=book-9_IoDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 52950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 42360000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Ethics_and_Children_s_Literature-sample-pdf.acsm?id=9_IoDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9_IoDAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children&#39;s</b> librarianship, which had already begun stressing the need for <b>children</b> to understand a complex, urban, hierarchical world through the lens of tradition. Child professionals working with African American <b>children</b> specifically&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0sNdAgAAQBAJ",
+      "etag": "/ahgm4pe76I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0sNdAgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Feminine Subject in Children's Literature",
+        "authors": [
+          "Christine Wilkie-Stibbs"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2013-12-16",
+        "description": "This book builds upon and contributes to the growing academic interest in feminism within the field of children's literature studies. Christie Wilkie-Stibbs draws upon the work of Luce Irigaray, Helene Cixous, Julia Kristeva, and Jacques Lacan in her analysis of particular children's literature texts to demonstrate how a feminist analysis opens up textual possibilities that may be applied to works of children's fiction in general, extending the range of textual engagements in children's literature through the application of a new poststructural critical apparati.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781136699924"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1136699929"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0sNdAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0sNdAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0sNdAgAAQBAJ&pg=PR2&dq=children&hl=&as_pt=BOOKS&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=0sNdAgAAQBAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Feminine_Subject_in_Children_s_Liter.html?hl=&id=0sNdAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Feminine_Subject_in_Children_s_Liter-sample-epub.acsm?id=0sNdAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Feminine_Subject_in_Children_s_Liter-sample-pdf.acsm?id=0sNdAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0sNdAgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Children&#39;s</b> Literature by Suzanne Rahn Regendering the School Story Sassy Sissies and Tattling Tomboys by Beverly Lyon Clark White Supremacy in <b>Children&#39;s</b> Literature Characterizations of African Americans , 1830-1900 by Donnarae MacCann&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9Q-tAgAAQBAJ",
+      "etag": "ejRpnNTK7do",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9Q-tAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Irish Children's Literature and Culture",
+        "subtitle": "New Perspectives on Contemporary Writing",
+        "authors": [
+          "Keith O'Sullivan",
+          "Valerie Coghlan"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2011-03-17",
+        "description": "What constitutes a \u2018national literature\u2019 is rarely straightforward, and it is especially complex when discussing writing for young people in an Irish context. Until recently, there was only a slight body of work that could be classified as \u2018Irish children\u2019s literature\u2019 (whatever the parameters) in comparison with Ireland\u2019s contribution to adult literature in the twentieth century. This volume looks critically at Irish writing for children from the 1980s to the present, examining the work of many writers and illustrators and engaging with all the major forms and genres. Topics include the gothic, the speculative, picturebooks, poetry, post-colonial discourse, identity and ethnicity, and globalization. Modern Irish children\u2019s literature is also contextualized in relation to Irish mythology and earlier writings, thereby demonstrating the complexity of this fascinating area. The contributors, who are leading experts in their fields, examine a range of texts in relation to contemporary literary and cultural theory, and also in relation to writing for adults, thereby inviting a consideration of how well writing for a young audience can compare with writing for an adult one. This groundbreaking work is essential reading for all interested in Irish literature, childhood, and children\u2019s literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781136825101"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "113682510X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 214,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9Q-tAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9Q-tAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9Q-tAgAAQBAJ&pg=PP4&dq=children&hl=&as_pt=BOOKS&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9Q-tAgAAQBAJ&dq=children&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Irish_Children_s_Literature_and_Culture.html?hl=&id=9Q-tAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Irish_Children_s_Literature_and_Culture-sample-pdf.acsm?id=9Q-tAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9Q-tAgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Children&#39;s</b> Literature Old and New Ways of Seeing Vivian Yenika - Agbaw The Fantasy of Family Nineteenth - Century <b>Children&#39;s</b> Literature and the Myth of the Domestic Ideal Liz Thiel From Nursery Rhymes to Nationhood <b>Children&#39;s</b> Literature&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kJJ5DwAAQBAJ",
+      "etag": "znsQ+8MdRsk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kJJ5DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Challenge of Children's Rights for Canada, 2nd edition",
+        "authors": [
+          "Katherine Covell",
+          "R. Brian Howe",
+          "J.C. Blokhuis"
+        ],
+        "publisher": "Wilfrid Laurier Univ. Press",
+        "publishedDate": "2018-08-30",
+        "description": "More than a quarter of a century has passed since Canada promised to recognize and respect the rights of children under the United Nations Convention on the Rights of the Child. Ratification of the Convention cannot, however, guarantee that everyone will abandon proprietary notions about children, or that all children will be free to enjoy the substance of their rights in every social and institutional context in which they find themselves, including\u2014and perhaps especially\u2014within families. This disconnect remains one of the most important challenges to the recognition of children\u2019s rights in Canada. The authors argue that social toxins are as harmful to children\u2019s independent welfare and developmental interests as environmental toxins, and that both must be eradicated if Canada is to fulfill its commitments under the Convention. They also argue that if Canada wishes to ensure the substance of the rights outlined in the Convention are socially guaranteed, an attitudinal or cultural shift is required concerning the moral and legal status of children. This revised, expanded, and updated edition of the bestselling Challenge of Children\u2019s Rights for Canada will be of interest to academics, policymakers, parents, teachers, social workers, and human service professionals\u2014indeed to anyone who cares about and for children.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781771123570"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1771123575"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 328,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kJJ5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kJJ5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=kJJ5DwAAQBAJ&pg=PT219&dq=children&hl=&as_pt=BOOKS&cd=39&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=kJJ5DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kJJ5DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 44.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 44.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=kJJ5DwAAQBAJ&rdid=book-kJJ5DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 44990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 44990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Challenge_of_Children_s_Rights_for_C-sample-epub.acsm?id=kJJ5DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Challenge_of_Children_s_Rights_for_C-sample-pdf.acsm?id=kJJ5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kJJ5DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Children&#39;s</b> Rights Treaty,\u201d UN News Centre, May 4, 2015, http://www.un.org/apps/news/story.asp?NewsID=50759#.Wn2pY2aZOTc. 19. Canadian Council on <b>Children</b> and Youth, Admittance Restricted: The Child as Citizen in Canada (Ottawa&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AiXeCwAAQBAJ",
+      "etag": "usYUOaCtAlY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AiXeCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Children's Literacy Practices and Preferences",
+        "subtitle": "Harry Potter and Beyond",
+        "authors": [
+          "Jane Sunderland",
+          "Steven Dempster",
+          "Joanne Thistlethwaite"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2016-03-31",
+        "description": "Over the past few decades there have been intense debates in education surrounding children\u2019s literacy achievement and ways to promote reading, particularly that of boys. The Harry Potter book series has been received enthusiastically by very many children, boys and girls alike, but has also been constructed in popular and media discourses as a children\u2019s, particularly a boys\u2019, literacy saviour. Children\u2019s Literacy Practices and Preferences: Harry Potter and Beyond provides empirical evidence of young people\u2019s reported literacy practices and views on reading, and of how they see how the Harry Potter series as having impacted their own literacy. The volume explores and debunks some of the myths surrounding Harry Potter and literacy, and contextualizes these within children\u2019s wider reading.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781317554721"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1317554728"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 199,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AiXeCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AiXeCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=AiXeCwAAQBAJ&pg=PT4&dq=children&hl=&as_pt=BOOKS&cd=40&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=AiXeCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AiXeCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 55.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 43.11,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=AiXeCwAAQBAJ&rdid=book-AiXeCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 55990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 43110000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Children_s_Literacy_Practices_and_Prefer-sample-epub.acsm?id=AiXeCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Children_s_Literacy_Practices_and_Prefer-sample-pdf.acsm?id=AiXeCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AiXeCwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>children</b> still have for the series . At the same time , the data suggest that although there has been a slight overall decline in its popularity , Harry Potter remains a favoured literary choice among contemporary American <b>children</b> . In&nbsp;..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,3222 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "WunBAgAAQBAJ",
+      "etag": "FIshfuEJro0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WunBAgAAQBAJ",
+      "volumeInfo": {
+        "title": "CLEP\u00ae History of the U.S. I Book + Online",
+        "authors": [
+          "Editors of REA"
+        ],
+        "publisher": "Research & Education Assoc.",
+        "publishedDate": "2013-06-10",
+        "description": "Earn College Credit with REA\u2019s Test Prep for CLEP History of the United States I: Early Colonization to 1877 Everything you need to pass the exam and get the college credit you deserve. REA leads the way in helping students pass their College Board CLEP exams and earn college credit while reducing their tuition costs. With 25+ years of experience in test prep for the College-Level Examination Program (CLEP), REA is your trusted source for the most up-to-date test-aligned content. Whether you\u2019re an adult returning to finish your degree, a traditional-age college student, a military service member, or a high school or home-schooled student looking to get a head start on college and shorten your path to graduation, CLEP is perfect for you. REA\u2019s expert authors know the CLEP tests inside out. And thanks to our partners at Proctortrack (proctortrack.com/clep), you can now take your exam at your convenience, from the comfort of home. Prep for success on the CLEP History of the United States I exam with REA\u2019s personalized three-step plan: (1) focus your study, (2) review with the book, and (3) measure your test-readiness. Our Book + Online prep gives you all the tools you need to make the most of your study time: Diagnostic exam: Pinpoint what you already know and what you need to study. Targeted subject review: Learn what you\u2019ll be tested on. Two full-length practice exams: Zero in on the topics that give you trouble now so you\u2019ll be confident and prepared on test day. Glossary of key terms: Round out your prep with must-know vocabulary. REA is America\u2019s recognized leader in CLEP preparation. Our test prep helps you earn valuable college credit, save on tuition, and accelerate your path to a college degree.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780738671284"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0738671282"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 347,
+        "printType": "BOOK",
+        "categories": [
+          "Study Aids"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WunBAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WunBAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WunBAgAAQBAJ&printsec=frontcover&dq=history&hl=&as_pt=BOOKS&cd=41&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WunBAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WunBAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 24.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.74,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WunBAgAAQBAJ&rdid=book-WunBAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14740000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/CLEP_History_of_the_U_S_I_Book_+_Online-sample-epub.acsm?id=WunBAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/CLEP_History_of_the_U_S_I_Book_+_Online-sample-pdf.acsm?id=WunBAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WunBAgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Prep for success on the CLEP History of the United States I exam with REA\u2019s personalized three-step plan: (1) focus your study, (2) review with the book, and (3) measure your test-readiness."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G2LVdhtEc1AC",
+      "etag": "20E5ywPVxGM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G2LVdhtEc1AC",
+      "volumeInfo": {
+        "title": "History of the United States of America",
+        "subtitle": "From the Discovery of the Continent",
+        "authors": [
+          "George Bancroft"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044037698586"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 660,
+        "printType": "BOOK",
+        "categories": [
+          "United States"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G2LVdhtEc1AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G2LVdhtEc1AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=G2LVdhtEc1AC&printsec=frontcover&dq=history&hl=&as_pt=BOOKS&cd=42&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=G2LVdhtEc1AC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=G2LVdhtEc1AC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=G2LVdhtEc1AC&rdid=book-G2LVdhtEc1AC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/History_of_the_United_States_of_America.epub?id=G2LVdhtEc1AC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/History_of_the_United_States_of_America.pdf?id=G2LVdhtEc1AC&hl=&output=pdf&sig=ACfU3U2ALf1lHVz9JKsB5UCAmGKfM9wZUA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G2LVdhtEc1AC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YF6vDwAAQBAJ",
+      "etag": "z0i4zyRyrXs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YF6vDwAAQBAJ",
+      "volumeInfo": {
+        "title": "A Curious History of Sex",
+        "authors": [
+          "Kate Lister"
+        ],
+        "publisher": "Unbound Publishing",
+        "publishedDate": "2020-02-06",
+        "description": "This is not a comprehensive study of every sexual quirk, kink and ritual across all cultures throughout time, as that would entail writing an encyclopaedia. Rather, this is a drop in the ocean, a paddle in the shallow end of sex history, but I hope you will get pleasantly wet nonetheless. The act of sex has not changed since people first worked out what went where, but the ways in which society dictates how sex is culturally understood and performed have varied significantly through the ages. Humans are the only creatures that stigmatise particular sexual practices, and sex remains a deeply divisive issue around the world. Attitudes will change and grow \u2013 hopefully for the better \u2013 but sex will never be free of stigma or shame unless we acknowledge where it has come from. Based on the popular research project Whores of Yore, and written with her distinctive humour and wit, A Curious History of Sex draws upon Dr Kate Lister\u2019s extensive knowledge of sex history. From medieval impotence tests to twentieth-century testicle thefts, from the erotic frescoes of Pompeii, to modern-day sex doll brothels, Kate unashamedly roots around in the pants of history, debunking myths, challenging stereotypes and generally getting her hands dirty. This fascinating book is peppered with surprising and informative historical slang, and illustrated with eye-opening, toe-curling and meticulously sourced images from the past. You will laugh, you will wince and you will wonder just how much has actually changed.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781783528066"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1783528060"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 444,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YF6vDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YF6vDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=YF6vDwAAQBAJ&printsec=frontcover&dq=history&hl=&as_pt=BOOKS&cd=43&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YF6vDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YF6vDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=YF6vDwAAQBAJ&rdid=book-YF6vDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Curious_History_of_Sex-sample-epub.acsm?id=YF6vDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Curious_History_of_Sex-sample-pdf.acsm?id=YF6vDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YF6vDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is not a comprehensive study of every sexual quirk, kink and ritual across all cultures throughout time, as that would entail writing an encyclopaedia."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pHEhEAAAQBAJ",
+      "etag": "54+PQkftWpo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pHEhEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Norse America",
+        "subtitle": "The Story of a Founding Myth",
+        "authors": [
+          "Gordon Campbell"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2021",
+        "description": "Tracking the saga of the Norse across the North Atlantic to America, this book sets the record straight about the idea that the Vikings 'discovered' America. The journey described is a continuum, with evidence-based history and archaeology at one end, and fake history and outright fraud at the other. In between there lies a huge expanse of uncertainty: sagas that may contain shards of truth and characters that may be partly historical",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780198861553"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0198861559"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pHEhEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pHEhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=pHEhEAAAQBAJ&printsec=frontcover&dq=history&hl=&as_pt=BOOKS&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=pHEhEAAAQBAJ&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Norse_America.html?hl=&id=pHEhEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Norse_America-sample-pdf.acsm?id=pHEhEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pHEhEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Tracking the saga of the Norse across the North Atlantic to America, this book sets the record straight about the idea that the Vikings &#39;discovered&#39; America."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z6VZAAAAYAAJ",
+      "etag": "PM2I54A8rf8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z6VZAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The 100 Most Influential Books Ever Written",
+        "subtitle": "The History of Thought from Ancient Times to Today",
+        "authors": [
+          "Martin Seymour-Smith"
+        ],
+        "publisher": "Citadel Press",
+        "publishedDate": "2001",
+        "description": "The hundred books discussed here have radically altered the course of civilisation , whether they have embodied religions practised by millions, achieved the pinnacle of artistic expression, pointed the way to scientific discovery of enormous consequence, redirected beliefs about the nature of man, or forever altered the global political landscape. For each there is a historical overview, an analysis of the work's effect on our lives today and a lively discussion of the reasons for inclusion.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000049137330"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 532,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=z6VZAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=z6VZAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=z6VZAAAAYAAJ&q=history&dq=history&hl=&as_pt=BOOKS&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=z6VZAAAAYAAJ&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_100_Most_Influential_Books_Ever_Writ.html?hl=&id=z6VZAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z6VZAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The hundred books discussed here have radically altered the course of civilisation , whether they have embodied religions practised by millions, achieved the pinnacle of artistic expression, pointed the way to scientific discovery of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZqxWEAAAQBAJ",
+      "etag": "zBJO817MsRs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZqxWEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The World",
+        "subtitle": "A Family History of Humanity",
+        "authors": [
+          "Simon Sebag Montefiore"
+        ],
+        "publisher": "Knopf",
+        "publishedDate": "2023-05-16",
+        "description": "NEW YORK TIMES BESTSELLER \u2022 A magisterial world history unlike any other that tells the story of humanity through the one thing we all have in common: families \u2022 From the author of The Romanovs A Best Book of the Year: The New Yorker, Smithsonian \u201cSuccession meets Game of Thrones.\u201d \u2014The Spectator \u2022 \u201cThe author brings his cast of dynastic titans, rogues and psychopaths to life...An epic that both entertains and informs.\u201d \u2014The Economist, Best Books of the Year Around 950,000 years ago, a family of five walked along the beach and left behind the oldest family footprints ever discovered. For award-winning historian Simon Sebag Montefiore, these poignant, familiar fossils serve as an inspiration for a new kind of world history, one that is genuinely global, spans all eras and all continents, and focuses on the family ties that connect every one of us. In this epic, ever-surprising book, Montefiore chronicles the world\u2019s great dynasties across human history through palace intrigues, love affairs, and family lives, linking grand themes of war, migration, plague, religion, and technology to the people at the heart of the human drama. It features a cast of extraordinary diversity: in addition to rulers and conquerors, there are priests, charlatans, artists, scientists, tycoons, gangsters, lovers, husbands, wives, and children. There is Hongwu, the beggar who founded the Ming dynasty; Ewuare, the Leopard-King of Benin; Henry Christophe, King of Haiti; Kamehameha, the conqueror of Hawaii; Zenobia, the Arab empress who defied Rome; Lady Murasaki, the first female novelist; Sayyida al-Hurra, the Moroccan pirate-queen. Here too are moderns such as Indira Gandhi, Margaret Thatcher, Barack Obama, Vladimir Putin, and Volodymyr Zelensky. Here are the Caesars, Medicis and Incas, Ottomans and Mughals, Bonapartes, Habsburgs and Zulus, Rothschilds, Rockefellers and Krupps, Churchills, Kennedys, Castros, Nehrus, Pahlavis and Kenyattas, Saudis, Kims and Assads. These powerful families represent the breadth of human endeavor, with bloody succession battles, treacherous conspiracies, and shocking megalomania alongside flourishing culture, moving romances, and enlightened benevolence. A dazzling achievement as spellbinding as fiction, The World captures the whole human story in a single, masterful narrative.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525659549"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0525659544"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 1345,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZqxWEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZqxWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZqxWEAAAQBAJ&printsec=frontcover&dq=history&hl=&as_pt=BOOKS&cd=46&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZqxWEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZqxWEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZqxWEAAAQBAJ&rdid=book-ZqxWEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_World-sample-epub.acsm?id=ZqxWEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZqxWEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "NEW YORK TIMES BESTSELLER \u2022 A magisterial world history unlike any other that tells the story of humanity through the one thing we all have in common: families \u2022 From the author of The Romanovs A Best Book of the Year: The New Yorker, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LzQta-VAUysC",
+      "etag": "KbqfQjh5+r4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LzQta-VAUysC",
+      "volumeInfo": {
+        "title": "A History of Chicago, Volume I",
+        "subtitle": "The Beginning of a City 1673-1848",
+        "authors": [
+          "Bessie Louise Pierce"
+        ],
+        "publisher": "University of Chicago Press",
+        "publishedDate": "2007-09",
+        "description": "The first major history of Chicago ever written, A History of Chicago covers the city\u2019s great history over two centuries, from 1673 to 1893. Originally conceived as a centennial history of Chicago, the project became, under the guidance of renowned historian Bessie Louise Pierce, a definitive, three-volume set describing the city\u2019s growth\u2014from its humble frontier beginnings to the horrors of the Great Fire, the construction of some of the world\u2019s first skyscrapers, and the opulence of the 1893 World\u2019s Fair. Pierce and her assistants spent over forty years transforming historical records into an inspiring human story of growth and survival. Rich with anecdotal evidence and interviews with the men and women who made Chicago great, all three volumes will now be available for the first time in years. A History of Chicago will be essential reading for anyone who wants to know this great city and its place in America. \u201cWith this rescue of its history from the bright, impressionable newspapermen and from the subscription-volumes, Chicago builds another impressive memorial to its coming of age, the closing of its first \u2018century of progress.\u2019\u201d\u2014E. D. Branch, New York Times (1937)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780226668390"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0226668398"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 523,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LzQta-VAUysC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LzQta-VAUysC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=LzQta-VAUysC&printsec=frontcover&dq=history&hl=&as_pt=BOOKS&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=LzQta-VAUysC&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_History_of_Chicago_Volume_I.html?hl=&id=LzQta-VAUysC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_History_of_Chicago_Volume_I-sample-pdf.acsm?id=LzQta-VAUysC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LzQta-VAUysC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A History of Chicago will be essential reading for anyone who wants to know this great city and its place in America. \u201cWith this rescue of its history from the bright, impressionable newspapermen and from the subscription-volumes, Chicago ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9RkgAAAACAAJ",
+      "etag": "jubchOPDdNo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9RkgAAAACAAJ",
+      "volumeInfo": {
+        "title": "The Usborne Book of World History",
+        "authors": [
+          "Anne Millard",
+          "Patricia Vanags"
+        ],
+        "publishedDate": "2001",
+        "description": "This reduced format book introduces the reader to world history from the first civilizations to the early 20th century, using short, visual chapters.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0746045549"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780746045541"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "World history"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9RkgAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9RkgAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9RkgAAAACAAJ&dq=history&hl=&as_pt=BOOKS&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9RkgAAAACAAJ&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Usborne_Book_of_World_History.html?hl=&id=9RkgAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9RkgAAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Synopsis coming soon......."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ddnaYaMUWcAC",
+      "etag": "YcC/521LY1g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ddnaYaMUWcAC",
+      "volumeInfo": {
+        "title": "Sterling Township",
+        "subtitle": "1875-1968",
+        "authors": [
+          "Sterling Township Public Library and Historical Commision"
+        ],
+        "publisher": "Arcadia Publishing",
+        "publishedDate": "2005-10-31",
+        "description": "Sterling Township, located about 18 miles northeast of Detroit, was first settled after the Erie Canal was opened. The rich soil, relatively flat land, and the vital Clinton River attracted pioneer and immigrant families who arrived to establish farmsteads. The first influx of immigrants came mainly from the British Isles, and by the 1870s, German families had flocked to the area, raising dairy cattle and establishing farms. Belgians, arriving in the early 1900s, developed truck farminggrowing fruits and vegetables to sell every week at the farmers market in Detroit. Farm culture prevailed until the 1950s, when large industrial plants began moving in, bringing with them workers and a need for housing and city services. Sterling Township became the city of Sterling Heights in 1968, and this collection of photographs will showcase the families and the way of life in the early days of this community, a historic community that is now the fourth largest city in Michigan.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781439632802"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1439632804"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "categories": [
+          "Photography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ddnaYaMUWcAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ddnaYaMUWcAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ddnaYaMUWcAC&printsec=frontcover&dq=history&hl=&as_pt=BOOKS&cd=49&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ddnaYaMUWcAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ddnaYaMUWcAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ddnaYaMUWcAC&rdid=book-ddnaYaMUWcAC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Sterling_Township-sample-epub.acsm?id=ddnaYaMUWcAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Sterling_Township-sample-pdf.acsm?id=ddnaYaMUWcAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ddnaYaMUWcAC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sterling Township became the city of Sterling Heights in 1968, and this collection of photographs will showcase the families and the way of life in the early days of this community, a historic community that is now the fourth largest city ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_2dnEAAAQBAJ",
+      "etag": "VKHNqpi3DOo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_2dnEAAAQBAJ",
+      "volumeInfo": {
+        "title": "An Infinite History",
+        "subtitle": "The Story of a Family in France Over Three Centuries",
+        "authors": [
+          "Emma Rothschild"
+        ],
+        "publisher": "Princeton University Press",
+        "publishedDate": "2022-08-30",
+        "description": "An innovative history of deep social and economic changes in France, told through the story of a single extended family across five generations Marie Aymard was an illiterate widow who lived in the provincial town of Angoul\u00eame in southwestern France, a place where seemingly nothing ever happened. Yet, in 1764, she made her fleeting mark on the historical record through two documents: a power of attorney in connection with the property of her late husband, a carpenter on the island of Grenada, and a prenuptial contract for her daughter, signed by eighty-three people in Angoul\u00eame. Who was Marie Aymard? Who were all these people? And why were they together on a dark afternoon in December 1764? Beginning with these questions, An Infinite History offers a panoramic look at an extended family over five generations. Through ninety-eight connected stories about inquisitive, sociable individuals, ending with Marie Aymard\u2019s great-great granddaughter in 1906, Emma Rothschild unfurls an innovative modern history of social and family networks, emigration, immobility, the French Revolution, and the transformation of nineteenth-century economic life. Rothschild spins a vast narrative resembling a period novel, one that looks at a large, obscure family, of whom almost no private letters survive, whose members traveled to Syria, Mexico, and Tahiti, and whose destinies were profoundly unequal, from a seamstress living in poverty in Paris to her third cousin, the cardinal of Algiers. Rothschild not only draws on discoveries in local archives but also uses new technologies, including the visualization of social networks, large-scale searches, and groundbreaking methods of genealogical research. An Infinite History demonstrates how the ordinary lives of one family over three centuries can constitute a remarkable record of deep social and economic changes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780691208183"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0691208182"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 464,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_2dnEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_2dnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_2dnEAAAQBAJ&printsec=frontcover&dq=history&hl=&as_pt=BOOKS&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=_2dnEAAAQBAJ&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/An_Infinite_History.html?hl=&id=_2dnEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/An_Infinite_History-sample-pdf.acsm?id=_2dnEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_2dnEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An innovative history of deep social and economic changes in France, told through the story of a single extended family across five generations Marie Aymard was an illiterate widow who lived in the provincial town of Angoul\u00eame in ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i1zzoAEACAAJ",
+      "etag": "lBe7ctzYbs4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i1zzoAEACAAJ",
+      "volumeInfo": {
+        "title": "A History of the Book in 100 Books",
+        "subtitle": "Mankind's 5000 Year Thirst for Knowledge",
+        "authors": [
+          "Roderick Cave",
+          "Sara Ayad"
+        ],
+        "publisher": "Crows Nest",
+        "publishedDate": "2014",
+        "description": "The ebook age has taken 'the book' to a turning point. But in fact, casting off old technologies and taking on new ones has been part of the history of the book since Egyptian times...From inscriptions on tombs to the first writings on papyrus; how scrolls gave way to the first bound codex books in Roman times; from exclusive and expensive hand-scribed books, to the creation of movable type, and the invention of printing for the masses; and from the printed book to the digital book, the ebook reader ... and beyond...Illustrating this story with lavish photography of some of the most treasured artefacts from the world's historic collections, 'A History of the Book in 100 Books' traces mankind's 5,000-year quest to communicate ideas and knowledge.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "174331714X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781743317143"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i1zzoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i1zzoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=i1zzoAEACAAJ&dq=history&hl=&as_pt=BOOKS&cd=51&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=i1zzoAEACAAJ&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_History_of_the_Book_in_100_Books.html?hl=&id=i1zzoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i1zzoAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "At this crucial time for the future of books as we know them today, this volume tells the story of the book from the very beginning."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JYjqEAAAQBAJ",
+      "etag": "7gNT4XzGh1Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JYjqEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Ethos of History",
+        "subtitle": "Time and Responsibility",
+        "authors": [
+          "Stefan Helgesson",
+          "Jayne Svenungsson"
+        ],
+        "publisher": "Berghahn Books",
+        "publishedDate": "2018-06-19",
+        "description": "At a time when rapidly evolving technologies, political turmoil, and the tensions inherent in multiculturalism and globalization are reshaping historical consciousness, what is the proper role for historians and their work? By way of an answer, the contributors to this volume offer up an illuminating collective meditation on the idea of ethos and its relevance for historical practice. These intellectually adventurous essays demonstrate how ethos\u2014a term evoking a society\u2019s \u201cfundamental character\u201d as well as an ethical appeal to knowledge and commitment\u2014can serve as a conceptual lodestar for history today, not only as a narrative, but as a form of consciousness and an ethical-political orientation.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781805394334"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1805394339"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 327,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JYjqEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JYjqEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=JYjqEAAAQBAJ&printsec=frontcover&dq=history&hl=&as_pt=BOOKS&cd=52&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=JYjqEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JYjqEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 34.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 19.22,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=JYjqEAAAQBAJ&rdid=book-JYjqEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 34950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 19220000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Ethos_of_History-sample-epub.acsm?id=JYjqEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Ethos_of_History-sample-pdf.acsm?id=JYjqEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JYjqEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These intellectually adventurous essays demonstrate how ethos\u2014a term evoking a society\u2019s \u201cfundamental character\u201d as well as an ethical appeal to knowledge and commitment\u2014can serve as a conceptual lodestar for history today, not ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "07IgAAAAIAAJ",
+      "etag": "FM4KNhNpYn8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/07IgAAAAIAAJ",
+      "volumeInfo": {
+        "title": "NASA Historical Data Book",
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105050053243"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 562,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.13.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=07IgAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=07IgAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=07IgAAAAIAAJ&printsec=frontcover&dq=history&hl=&as_pt=BOOKS&cd=53&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=07IgAAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=07IgAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=07IgAAAAIAAJ&rdid=book-07IgAAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/NASA_Historical_Data_Book.epub?id=07IgAAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=07IgAAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wEQ6EAAAQBAJ",
+      "etag": "Bk8JbE90Mh4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wEQ6EAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Climate of History in a Planetary Age",
+        "authors": [
+          "Dipesh Chakrabarty"
+        ],
+        "publisher": "University of Chicago Press",
+        "publishedDate": "2021-03-22",
+        "description": "For the past decade, historian Dipesh Chakrabarty has been one of the most influential scholars addressing the meaning of climate change. Climate change, he argues, upends long-standing ideas of history, modernity, and globalization. The burden of The Climate of History in a Planetary Age is to grapple with what this means and to confront humanities scholars with ideas they have been reluctant to reconsider\u2014from the changed nature of human agency to a new acceptance of universals. Chakrabarty argues that we must see ourselves from two perspectives at once: the planetary and the global. This distinction is central to Chakrabarty\u2019s work\u2014the globe is a human-centric construction, while a planetary perspective intentionally decenters the human. Featuring wide-ranging excursions into historical and philosophical literatures, The Climate of History in a Planetary Age boldly considers how to frame the human condition in troubled times. As we open ourselves to the implications of the Anthropocene, few writers are as likely as Chakrabarty to shape our understanding of the best way forward.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780226732862"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "022673286X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 293,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wEQ6EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wEQ6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wEQ6EAAAQBAJ&printsec=frontcover&dq=history&hl=&as_pt=BOOKS&cd=54&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=wEQ6EAAAQBAJ&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Climate_of_History_in_a_Planetary_Ag.html?hl=&id=wEQ6EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Climate_of_History_in_a_Planetary_Ag-sample-pdf.acsm?id=wEQ6EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wEQ6EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The burden of The Climate of History in a Planetary Age is to grapple with what this means and to confront humanities scholars with ideas they have been reluctant to reconsider\u2014from the changed nature of human agency to a new acceptance ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Gmh3zQEACAAJ",
+      "etag": "S/HRHMlQt0w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Gmh3zQEACAAJ",
+      "volumeInfo": {
+        "title": "On the Judgment of History",
+        "authors": [
+          "JOAN WALLACH. SCOTT"
+        ],
+        "publishedDate": "2020-10-20",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0231196946"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780231196949"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Gmh3zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Gmh3zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Gmh3zQEACAAJ&dq=history&hl=&as_pt=BOOKS&cd=55&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Gmh3zQEACAAJ&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/On_the_Judgment_of_History.html?hl=&id=Gmh3zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Gmh3zQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Preface: History, Race, Nation -- 1."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IzxCDwAAQBAJ",
+      "etag": "pKO7NSEaf9M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IzxCDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Clashing Over Commerce",
+        "subtitle": "A History of US Trade Policy",
+        "authors": [
+          "Douglas A. Irwin"
+        ],
+        "publisher": "University of Chicago Press",
+        "publishedDate": "2017-11-29",
+        "description": "Revenue. The struggle for Independence, 1763-1789 ; Trade policy for the new nation, 1789-1816 ; Sectional conflict and crisis, 1816-1833 ; Tariff peace and Civil War, 1833-1865 -- Restriction. The failure of tariff reform, 1865-1890 ; Protectionism entrenched, 1890-1912 ; Policy reversals and drift, 1912-1928 ; The Hawley-Smoot tariff and the Great Depression, 1928-1932 -- Reciprocity. The New Deal and reciprocal trade agreements, 1932-1943 ; Creating a multilateral trading system, 1943-1950 ; New Order and new stresses, 1950-1979 ; Trade shocks and response, 1979-1992 ; From globalization to polarization, 1992-2017 -- Conclusion",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780226398969"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "022639896X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 873,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IzxCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IzxCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=IzxCDwAAQBAJ&printsec=frontcover&dq=history&hl=&as_pt=BOOKS&cd=56&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=IzxCDwAAQBAJ&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Clashing_Over_Commerce.html?hl=&id=IzxCDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Clashing_Over_Commerce-sample-pdf.acsm?id=IzxCDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IzxCDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Revenue. The struggle for Independence, 1763-1789 ; Trade policy for the new nation, 1789-1816 ; Sectional conflict and crisis, 1816-1833 ; Tariff peace and Civil War, 1833-1865 -- Restriction."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g68gEAAAQBAJ",
+      "etag": "tgPessSfIpw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g68gEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Paper Trails",
+        "subtitle": "The US Post and the Making of the American West",
+        "authors": [
+          "Cameron Blevins"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2021-03-04",
+        "description": "A groundbreaking history of how the US Post made the nineteenth-century American West. There were five times as many post offices in the United States in 1899 than there are McDonald's restaurants today. During an era of supposedly limited federal government, the United States operated the most expansive national postal system in the world. In this cutting-edge interpretation of the late nineteenth-century United States, Cameron Blevins argues that the US Post wove together two of the era's defining projects: western expansion and the growth of state power. Between the 1860s and the early 1900s, the western United States underwent a truly dramatic reorganization of people, land, capital, and resources. It had taken Anglo-Americans the better part of two hundred years to occupy the eastern half of the continent, yet they occupied the West within a single generation. As millions of settlers moved into the region, they relied on letters and newspapers, magazines and pamphlets, petitions and money orders to stay connected to the wider world. Paper Trails maps the spread of the US Post using a dataset of more than 100,000 post offices, revealing a new picture of the federal government in the West. The western postal network bore little resemblance to the civil service bureaucracies typically associated with government institutions. Instead, the US Post grafted public mail service onto private businesses, contracting with stagecoach companies to carry the mail and paying local merchants to distribute letters from their stores. These arrangements allowed the US Post to rapidly spin out a vast and ephemeral web of postal infrastructure to thousands of distant places. The postal network's sprawling geography and localized operations forces a reconsideration of the American state, its history, and the ways in which it exercised power.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780190053697"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0190053690"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 249,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=g68gEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=g68gEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=g68gEAAAQBAJ&printsec=frontcover&dq=history&hl=&as_pt=BOOKS&cd=57&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=g68gEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=g68gEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 26.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.57,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=g68gEAAAQBAJ&rdid=book-g68gEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 26990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14570000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Paper_Trails-sample-epub.acsm?id=g68gEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Paper_Trails-sample-pdf.acsm?id=g68gEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g68gEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Paper Trails maps the spread of the US Post using a dataset of more than 100,000 post offices, revealing a new picture of the federal government in the West."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EOE4zgEACAAJ",
+      "etag": "fL6pl34N+14",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EOE4zgEACAAJ",
+      "volumeInfo": {
+        "title": "Search History",
+        "authors": [
+          "Eugene Lim"
+        ],
+        "publishedDate": "2021",
+        "description": "Search History oscillates between a wild cyberdog chase and lunch-date monologues as Eugene Lim deconstructs grieving and storytelling with uncanny juxtapositions and subversive satire. Frank Exit is dead--or is he? While eavesdropping on two women discussing a dog-sitting gig over lunch, a bereft friend comes to a shocking realization: Frank has been reincarnated as a dog! This epiphany launches a series of adventures--interlaced with digressions about AI-generated fiction, virtual reality, Asian American identity in the arts, and lost parents--as an unlikely cast of accomplices and enemies pursues the mysterious canine. In elliptical, propulsive prose, Search History plumbs the depths of personal and collective consciousness, questioning what we consume, how we grieve, and the stories we tell ourselves.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1566896177"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781566896177"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EOE4zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EOE4zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=EOE4zgEACAAJ&dq=history&hl=&as_pt=BOOKS&cd=58&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=EOE4zgEACAAJ&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Search_History.html?hl=&id=EOE4zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EOE4zgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In elliptical, propulsive prose, Search History plumbs the depths of personal and collective consciousness, questioning what we consume, how we grieve, and the stories we tell ourselves."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "W-ozgktIakYC",
+      "etag": "lP2IUXXEd/k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W-ozgktIakYC",
+      "volumeInfo": {
+        "title": "History and the Contemporary Novel",
+        "authors": [
+          "David Cowart"
+        ],
+        "publisher": "SIU Press",
+        "publishedDate": "1989",
+        "description": "Cowart presents a study of international historical fiction since World War II, with reflections on the affinities between historical and fictional narrative, analysis of the basic modes of historical fiction, and readings of a number of historical novels, including John Barth\u2019s The Sot-Weed Factor, Marguerite Yourcenar\u2019s Memoirs of Hadrian, Russell Hoban\u2019s Riddley Walker, Margaret Atwood\u2019s The Handmaid\u2019s Tale, Giuseppe Tomasi Di Lampedusa\u2019s The Leopard, D. M. Thomas\u2019s The White Hotel, William Faulkner\u2019s Go Down, Moses, and Umberto Eco\u2019s The Name of the Rose. He proposes recognizing four modes of the historical novel: the past as a \"distant mirror\" of the present, fictions whose authors seek to pinpoint the precise historical moment when the modern age or some prominent feature of it came into existence, fictions whose authors aspire purely or largely to historical verisimilitude, and fictions whose authors reverse history to contemplate utopia and dystopia in the future. Thus, historical fiction can be organized under the rubrics: The Distant Mirror; The Turning Point; The Way It Was; and The Way It Will Be. This fourfold schema and his focus on postwar novels set Cowart\u2019s work apart from previous studies, which have not devoted adequate space to the contemporary historical novel. Cowart argues that postwar historical fiction merits more extensive treatment because it is the product of an age unique in the annals of history\u2014an age in which history itself may end.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0809314797"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780809314799"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.9.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=W-ozgktIakYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=W-ozgktIakYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=W-ozgktIakYC&pg=PA80&dq=history&hl=&as_pt=BOOKS&cd=59&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=W-ozgktIakYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=W-ozgktIakYC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 34,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 18.7,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=W-ozgktIakYC&rdid=book-W-ozgktIakYC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 34000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 18700000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/History_and_the_Contemporary_Novel-sample-pdf.acsm?id=W-ozgktIakYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W-ozgktIakYC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> really central to his representation of the way it will be . But with Orwell&#39;s 1984 one comes to a novel imbued with a tragic sense of <b>history&#39;s</b> vulnerability to manipulation in an unscrupulous future . Although the year that&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P1HC0-zhJlkC",
+      "etag": "s5r1k4MJyUE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P1HC0-zhJlkC",
+      "volumeInfo": {
+        "title": "A Little History of the World",
+        "authors": [
+          "E. H. Gombrich"
+        ],
+        "publisher": "Yale University Press",
+        "publishedDate": "2008-10-07",
+        "description": "E. H. Gombrich\u2019s bestselling history of the world for young readers tells the story of mankind from the Stone Age to the atomic bomb, focusing not on small detail but on the sweep of human experience, the extent of human achievement, and the depth of its frailty. The product of a generous and humane sensibility, this timeless account makes intelligible the full span of human history. In forty concise chapters, Gombrich tells the story of man from the stone age to the atomic bomb. In between emerges a colorful picture of wars and conquests, grand works of art, and the spread and limitations of science. This is a text dominated not by dates and facts, but by the sweep of mankind\u2019s experience across the centuries, a guide to humanity\u2019s achievements and an acute witness to its frailties.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780300132076"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0300132077"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.9.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=P1HC0-zhJlkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=P1HC0-zhJlkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=P1HC0-zhJlkC&printsec=frontcover&dq=history&hl=&as_pt=BOOKS&cd=60&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=P1HC0-zhJlkC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=P1HC0-zhJlkC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 15,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 15,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=P1HC0-zhJlkC&rdid=book-P1HC0-zhJlkC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 15000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 15000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Little_History_of_the_World-sample-epub.acsm?id=P1HC0-zhJlkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Little_History_of_the_World-sample-pdf.acsm?id=P1HC0-zhJlkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P1HC0-zhJlkC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is a text dominated not by dates and facts, but by the sweep of mankind\u2019s experience across the centuries, a guide to humanity\u2019s achievements and an acute witness to its frailties."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5bINAAAAQAAJ",
+      "etag": "hWO5irdujWg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5bINAAAAQAAJ",
+      "volumeInfo": {
+        "title": "The Comic History of England",
+        "authors": [
+          "Gilbert Abbott \u00c0 Beckett"
+        ],
+        "publishedDate": "1847",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:503337920"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 364,
+        "printType": "BOOK",
+        "categories": [
+          "Caricatures and cartoons"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.12.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5bINAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5bINAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=5bINAAAAQAAJ&printsec=frontcover&dq=history&hl=&as_pt=BOOKS&cd=61&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5bINAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5bINAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=5bINAAAAQAAJ&rdid=book-5bINAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Comic_History_of_England.epub?id=5bINAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/The_Comic_History_of_England.pdf?id=5bINAAAAQAAJ&hl=&output=pdf&sig=ACfU3U0tFQTl8fuQQJT-Gf6UVZO1W3wEow&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5bINAAAAQAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gp5mAAAAMAAJ",
+      "etag": "oxav8ADRkOc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gp5mAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Digital History",
+        "subtitle": "A Guide to Gathering, Preserving, and Presenting the Past on the Web",
+        "authors": [
+          "Daniel Cohen",
+          "Roy Rosenzweig"
+        ],
+        "publisher": "University of Pennsylvania Press",
+        "publishedDate": "2006",
+        "description": "\"This is an important book that fills an important niche: a careful and comprehensive report to the field on the development and possibilities of online history.\"\u2014Stephen Brier, Associate Provost and Dean for Interdisciplinary Studies, Graduate Center, CUNY",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015062844678"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gp5mAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gp5mAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=gp5mAAAAMAAJ&q=history&dq=history&hl=&as_pt=BOOKS&cd=62&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=gp5mAAAAMAAJ&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Digital_History.html?hl=&id=gp5mAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gp5mAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;This is an important book that fills an important niche: a careful and comprehensive report to the field on the development and possibilities of online history.&quot;\u2014Stephen Brier, Associate Provost and Dean for Interdisciplinary Studies, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Z2zVtAEACAAJ",
+      "etag": "vW2fBQSC6n0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Z2zVtAEACAAJ",
+      "volumeInfo": {
+        "title": "History, Big History, and Metahistory",
+        "authors": [
+          "David Krakauer",
+          "John Gaddis",
+          "Kenneth Pomeranz"
+        ],
+        "publishedDate": "2017-04-15",
+        "description": "What is history anyway? Most people would say it's what happened in the past, but how far back does the past extend? To the first written sources? To what other forms of evidence reveal about pre-literate civilizations? What does that term mean-an empire, a nation, a city, a village, a family, a lonely hermit somewhere? Why stop with people: shouldn't history also comprise the environment in which they exist, and if so on what scale and how far back? And as long as we're headed in that direction, why stop with the earth and the solar system? Why not go all the way back to the Big Bang itself? There's obviously no consensus on how to answer these questions, but even asking them raises another set of questions about history: who should be doing it? Traditionally trained historians, for whom archives are the only significant source? Historians willing to go beyond archives, who must therefore rely on, and to some extent themselves become, psychologists, sociologists, anthropologists, archeologists? But if they're also going to take environments into account, don't they also have to know something about climatology, biology, paleontology, geology, and even astronomy? And how can they do that without knowing some basic physics, chemistry, and mathematics?This inaugural volume of the SFI Press (the new publishing arm of the Santa Fe Institute) attempts to address these questions via thoughtful essays on history written by distinguished scholars-including Nobel laureate Murray Gell-Mann-from across a wide range of fields.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1545349096"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781545349090"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 322,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Z2zVtAEACAAJ&dq=history&hl=&as_pt=BOOKS&cd=63&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Z2zVtAEACAAJ&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/History_Big_History_and_Metahistory.html?hl=&id=Z2zVtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Z2zVtAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "And how can they do that without knowing some basic physics, chemistry, and mathematics?This inaugural volume of the SFI Press (the new publishing arm of the Santa Fe Institute) attempts to address these questions via thoughtful essays on ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ix060QZD-fIC",
+      "etag": "W6d16QqnGt0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ix060QZD-fIC",
+      "volumeInfo": {
+        "title": "History of Political Ideas, Volume 8",
+        "subtitle": "Crisis and the Apocalypse of Man",
+        "authors": [
+          "Eric Voegelin"
+        ],
+        "publisher": "University of Missouri Press",
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780826261908"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0826261906"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 513,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ix060QZD-fIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ix060QZD-fIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ix060QZD-fIC&pg=PA1&dq=history&hl=&as_pt=BOOKS&cd=64&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ix060QZD-fIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ix060QZD-fIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 59.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 59.95,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ix060QZD-fIC&rdid=book-ix060QZD-fIC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 59950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 59950000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/History_of_Political_Ideas_Volume_8-sample-epub.acsm?id=ix060QZD-fIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/History_of_Political_Ideas_Volume_8-sample-pdf.acsm?id=ix060QZD-fIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ix060QZD-fIC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>History</b>. Within this and the preceding volume, The New Order and Last Orientation, we can see the pressures that compelled that shift of philosophical attention. Viewed as a <b>history</b> of political ideas, these volumes are at best&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C_QsEAAAQBAJ",
+      "etag": "rzEuAKqnGXA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C_QsEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Dawn of Everything",
+        "subtitle": "A New History of Humanity",
+        "authors": [
+          "David Graeber",
+          "David Wengrow"
+        ],
+        "publisher": "Signal",
+        "publishedDate": "2021-10-19",
+        "description": "NATIONAL BESTSELLER NEW YORK TIMES BESTSELLER Renowned activist and public intellectual David Graeber teams up with professor of comparative archaeology David Wengrow to deliver a trailblazing account of human history, challenging our most fundamental assumptions about social evolution--from the development of agriculture and cities to the emergence of \"the state,\" political violence, and social inequality--and revealing new possibilities for human emancipation. For generations, our remote ancestors have been cast as primitive and childlike--either free and equal innocents, or thuggish and warlike. Civilization, we are told, could only be achieved by sacrificing those original freedoms, or alternatively, by taming our baser instincts. Graeber and Wengrow show how such theories first emerged in the eighteenth century as a conservative reaction to powerful critiques of European society posed by Indigenous observers and intellectuals. Revisiting this encounter has startling implications for how we make sense of human history today, including the origins of farming, property, cities, democracy, slavery, and civilization itself. Drawing on path-breaking research in archaeology and anthropology, the authors show how history becomes a far more interesting place once we learn to throw off our conceptual shackles and perceive what's really there. If humans did not spend 95% of their evolutionary past in tiny bands of hunter-gatherers, what were they doing all that time? If agriculture, and cities, did not mean a plunge into hierarchy and domination, then what kinds of social and economic organization did they lead to? What was really happening during the periods that we usually describe as the emergence of \"the state\"? The answers are often unexpected, and suggest that the course of human history may be less set in stone, and more full of playful, hopeful possibilities, than we tend to assume. The Dawn of Everything fundamentally transforms our understanding of the human past and offers a path toward imagining new forms of freedom, new ways of organizing society. This is a monumental book of formidable intellectual range, animated by curiosity, moral vision, and a faith in the power of direct action.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780771049835"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0771049838"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 844,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C_QsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C_QsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=C_QsEAAAQBAJ&dq=history&hl=&as_pt=BOOKS&cd=65&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=C_QsEAAAQBAJ&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Dawn_of_Everything.html?hl=&id=C_QsEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C_QsEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is a monumental book of formidable intellectual range, animated by curiosity, moral vision, and a faith in the power of direct action."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LiuTEAAAQBAJ",
+      "etag": "dMnrIpfmZo8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LiuTEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Who Was? History of the World",
+        "authors": [
+          "Paula K. Manzanero",
+          "Who HQ"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2019-10-08",
+        "description": "Based on The New York Times Best-Selling series, this timeline of world history gives a fresh take on global events, from King Tut to Malala Yousafzai. For the first time ever, the Who Was? subjects are gathered into a single title! The Who Was? History of the World is a journey along the timeline of history, noting the birthdays of 150 people in the series and what was happening in the world at that moment in time. Follow the timeline to learn who was doing what when, from the days of ancient Egypt, all the way up to the present.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593097267"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593097262"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LiuTEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LiuTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=LiuTEAAAQBAJ&dq=history&hl=&as_pt=BOOKS&cd=66&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=LiuTEAAAQBAJ&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Who_Was_History_of_the_World.html?hl=&id=LiuTEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LiuTEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Who Was? History of the World is a journey along the timeline of history, noting the birthdays of 150 people in the series and what was happening in the world at that moment in time."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f45x-_cTkE8C",
+      "etag": "389juUlmQ+A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f45x-_cTkE8C",
+      "volumeInfo": {
+        "title": "What is History? and Other Late Unpublished Writings",
+        "authors": [
+          "Eric Voegelin"
+        ],
+        "publisher": "University of Missouri Press",
+        "publishedDate": "1990",
+        "description": "This volume contains the most significant pieces of unpublished writing completed by Eric Voegelin during an important time of his career. Spanning the period from the early 1960s to the late 1970s, these selections supplement the body of work Voegelin published after the appearance of the first three volumes of Order and History in 1956 and 1957. The five texts included here are \"What Is History?\" \"Anxiety and Reason,\" \"The Eclipse of Reality,\" \"The Moving Soul,\" and \"The Beginning and the Beyond.\" In their introduction to the volume, Thomas A. Hollweck and Paul Caringella place these writings in their proper context and discuss the ways in which they reveal clues to the evolution of Voegelin's thought. In \"What Is History?\" Voegelin considers the development of a transcendent structure of history while simultaneously rejecting the notion that history can have a universal meaning. \"Anxiety and Reason\" focuses on Voegelin's critically important theory of historiogenesis, which links events in pragmatic history with legendary and mythical events leading back to the beginning of the cosmic order. In \"The Eclipse of Reality,\" Voegelin presents a critique of modernity by analyzing the work of Sartre, Schiller, Comte, and others. \"The Moving Soul\"--a \"thought experiment\" inspired by a remark Henry Margenau makes in The Nature of Physical Reality--attempts to reformulate the connections between physics and myth. The most important of these essays is \"Me Beginning and the Beyond.\" Here Voegelin meditates on the universality of experience formed by the tension of existence under God. Publication of these previously unpublished writings will enable scholars to trace the genesis of many of the concerns that occupied Voegelin during a period in which the conception of his main work was undergoing frequent and perhaps fundamental changes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0807116033"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780807116036"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 308,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.8.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=f45x-_cTkE8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=f45x-_cTkE8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=f45x-_cTkE8C&pg=PR19&dq=history&hl=&as_pt=BOOKS&cd=67&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=f45x-_cTkE8C&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/What_is_History_and_Other_Late_Unpublish.html?hl=&id=f45x-_cTkE8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/What_is_History_and_Other_Late_Unpublish-sample-pdf.acsm?id=f45x-_cTkE8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f45x-_cTkE8C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> shares in the givenness of objects while it &quot; constitutes itself in the acts of sym- bolic expression . &quot; Thus , in the final analysis , <b>history</b> is one of hu- manity&#39;s modes of self - interpretation . Voegelin&#39;s subsequent&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GCT2ngEACAAJ",
+      "etag": "Cktvc8vf8yM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GCT2ngEACAAJ",
+      "volumeInfo": {
+        "title": "Deep Risk",
+        "subtitle": "How History Informs Portfolio Design",
+        "authors": [
+          "William J. Bernstein"
+        ],
+        "publishedDate": "2013-08",
+        "description": "This booklet takes portfolio design beyond the familiar \"black box\" mean-variance framework. Most importantly, the short-term volatility of financial assets, commonly measured as standard deviation, is a highly imperfect measure of the actual long-horizon perils faced by real-world investors subject to the vagaries of financial and military history. These risks have names--inflation, deflation, confiscation, and devastation--and any useful discussion of portfolio design of necessity incorporates their probabilities, consequences, and costs of mitigation ... This booklet contains ... with luck, a framework within income and all-equity portfolios. This booklet contains ... with luck, a framework within which to think more clearly about risk. Note: the entire Investing for Adults series is not for beginners.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0988780313"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780988780316"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "categories": [
+          "Asset allocation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GCT2ngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GCT2ngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GCT2ngEACAAJ&dq=history&hl=&as_pt=BOOKS&cd=68&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=GCT2ngEACAAJ&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Deep_Risk.html?hl=&id=GCT2ngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GCT2ngEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This booklet takes portfolio design beyond the familiar &quot;black box&quot; mean-variance framework."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "usq8jwEACAAJ",
+      "etag": "TGSOXdlN4io",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/usq8jwEACAAJ",
+      "volumeInfo": {
+        "title": "The Presidents Visual Encyclopedia",
+        "authors": [
+          "Philip Parker"
+        ],
+        "publisher": "DK Children",
+        "publishedDate": "2017",
+        "description": "From George Washington to Donald Trump, this visual reference guide presents a unique insight into life in the White House.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1465458530"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781465458537"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "JUVENILE NONFICTION"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=usq8jwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=usq8jwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=usq8jwEACAAJ&dq=history&hl=&as_pt=BOOKS&cd=69&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=usq8jwEACAAJ&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Presidents_Visual_Encyclopedia.html?hl=&id=usq8jwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=usq8jwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From George Washington to Donald Trump, this visual reference guide presents a unique insight into life in the White House."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iuxMAAAAMAAJ",
+      "etag": "9UobhtgD5H8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iuxMAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The History of Ireland, Ancient and Modern",
+        "authors": [
+          "James MacGeoghegan"
+        ],
+        "publishedDate": "1844",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015068455032"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 644,
+        "printType": "BOOK",
+        "categories": [
+          "Ireland"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.7.10.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iuxMAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iuxMAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=iuxMAAAAMAAJ&pg=PR3&dq=history&hl=&as_pt=BOOKS&cd=70&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=iuxMAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=iuxMAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=iuxMAAAAMAAJ&rdid=book-iuxMAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_History_of_Ireland_Ancient_and_Moder.epub?id=iuxMAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/The_History_of_Ireland_Ancient_and_Moder.pdf?id=iuxMAAAAMAAJ&hl=&output=pdf&sig=ACfU3U1Wt28We7lpFXxIT33EIS94Yn8fCw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iuxMAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> of Ireland . Under such circumstances it cannot be wondered at , that an impartial <b>history</b> , which has made known to France and to the Continent the wrongs and the sufferings of Ireland , and one that has accurately displayed&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uwLLzgEACAAJ",
+      "etag": "QzRUxrZTHgA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uwLLzgEACAAJ",
+      "volumeInfo": {
+        "title": "The History of Cartography",
+        "authors": [
+          "John Brian Harley",
+          "David Woodward",
+          "Mark S. Monmonier"
+        ],
+        "publishedDate": "1987",
+        "description": "When the University of Chicago Press launched the landmark History of Cartography series nearly thirty years ago, founding editors J.B. Harley and David Woodward hoped to create a new basis for map history. They did not, however, anticipate the larger renaissance in map studies that the series would inspire. But as the renown of the series and the comprehensiveness and acuity of the present volume demonstrate, the history of cartography has proven to be unexpectedly fertile ground.--Amazon.com.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0226534693"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780226534695"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1728,
+        "printType": "BOOK",
+        "categories": [
+          "Cartography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uwLLzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uwLLzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=uwLLzgEACAAJ&dq=history&hl=&as_pt=BOOKS&cd=71&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=uwLLzgEACAAJ&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_History_of_Cartography.html?hl=&id=uwLLzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uwLLzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "But as the renown of the series and the comprehensiveness and acuity of the present volume demonstrate, the history of cartography has proven to be unexpectedly fertile ground.--Amazon.com."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ocPi8x4gkn0C",
+      "etag": "7FLofCMwzKw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ocPi8x4gkn0C",
+      "volumeInfo": {
+        "title": "Necktie Parties: A History of Legal Executions in Oregon, 1851-1905",
+        "authors": [
+          "Diane L. Goeres-Gardner"
+        ],
+        "publisher": "Caxton Press",
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "087004446X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780870044465"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 356,
+        "printType": "BOOK",
+        "categories": [
+          "Executions (Administrative law)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.2.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ocPi8x4gkn0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ocPi8x4gkn0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ocPi8x4gkn0C&pg=PP17&dq=history&hl=&as_pt=BOOKS&cd=72&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ocPi8x4gkn0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ocPi8x4gkn0C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.56,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 13.56,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ocPi8x4gkn0C&rdid=book-ocPi8x4gkn0C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13560000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 13560000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Necktie_Parties_A_History_of_Legal_Execu-sample-epub.acsm?id=ocPi8x4gkn0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ocPi8x4gkn0C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> of hangings during the nineteenth century is a <b>history</b> of ordinary people who committed extraordinary acts . In many cases , the condemned enjoyed their notoriety , at least up to the moment the rope was tightened around their&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SQ4aEAAAQBAJ",
+      "etag": "02x9ZEgFAY4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SQ4aEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Scientific History",
+        "subtitle": "Experiments in History and Politics from the Bolshevik Revolution to the End of the Cold War",
+        "authors": [
+          "Elena Aronova"
+        ],
+        "publisher": "University of Chicago Press",
+        "publishedDate": "2021-04-02",
+        "description": "Increasingly, scholars in the humanities are calling for a reengagement with the natural sciences. Taking their cues from recent breakthroughs in genetics and the neurosciences, advocates of \u201cbig history\u201d are reassessing long-held assumptions about the very definition of history, its methods, and its evidentiary base. In Scientific History, Elena Aronova maps out historians\u2019 continuous engagement with the methods, tools, values, and scale of the natural sciences by examining several waves of their experimentation that surged highest at perceived times of trouble, from the crisis-ridden decades of the early twentieth century to the ruptures of the Cold War. The book explores the intertwined trajectories of six intellectuals and the larger programs they set in motion: Henri Berr (1863\u20131954), Nikolai Bukharin (1888\u20131938), Lucien Febvre (1878\u20131956), Nikolai Vavilov (1887\u20131943), Julian Huxley (1887\u20131975), and John Desmond Bernal (1901\u20131971). Though they held different political views, spoke different languages, and pursued different goals, these thinkers are representative of a larger motley crew who joined the techniques, approaches, and values of science with the writing of history, and who created powerful institutions and networks to support their projects. In tracing these submerged stories, Aronova reveals encounters that profoundly shaped our knowledge of the past, reminding us that it is often the forgotten parts of history that are the most revealing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780226761411"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "022676141X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SQ4aEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SQ4aEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=SQ4aEAAAQBAJ&pg=PA160&dq=history&hl=&as_pt=BOOKS&cd=73&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SQ4aEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SQ4aEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 48.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 48.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=SQ4aEAAAQBAJ&rdid=book-SQ4aEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 48990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 48990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Scientific_History-sample-epub.acsm?id=SQ4aEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Scientific_History-sample-pdf.acsm?id=SQ4aEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SQ4aEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b>, the latter&#39;s goal is to extend it as far as possible. There are, however, some interesting parallels between the two phenomena. Both offer radically new temporal landscapes of <b>history</b>, and both nar- rate versions of <b>history</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "weav3dvVDqsC",
+      "etag": "22art21AP4o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/weav3dvVDqsC",
+      "volumeInfo": {
+        "title": "All the People",
+        "authors": [
+          "Joy Hakim"
+        ],
+        "publisher": "Oxford University Press, USA",
+        "publishedDate": "2003",
+        "description": "Covers the period of American history from 1945 to 1998, from the end of World War II to the Clinton administration.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0195153383"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780195153385"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 276,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=weav3dvVDqsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=weav3dvVDqsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=weav3dvVDqsC&dq=history&hl=&as_pt=BOOKS&cd=74&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=weav3dvVDqsC&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/All_the_People.html?hl=&id=weav3dvVDqsC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=weav3dvVDqsC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Covers the period of American history from 1945 to 1998, from the end of World War II to the Clinton administration."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0dWrwgEACAAJ",
+      "etag": "pWc9zF2Dx2w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0dWrwgEACAAJ",
+      "volumeInfo": {
+        "title": "Becoming Colgate",
+        "subtitle": "A Bicentennial History",
+        "authors": [
+          "James Allen Smith"
+        ],
+        "publishedDate": "2019-08",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0912568313"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780912568317"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0dWrwgEACAAJ&dq=history&hl=&as_pt=BOOKS&cd=75&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=0dWrwgEACAAJ&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Becoming_Colgate.html?hl=&id=0dWrwgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0dWrwgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TKawBgAAQBAJ",
+      "etag": "Jo+wLtBgIHU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TKawBgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Cambridge World History",
+        "authors": [
+          "Norman Yoffee"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2015-03-12",
+        "description": "The most comprehensive account yet of the human past from prehistory to the present.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780521190084"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0521190088"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 597,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TKawBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TKawBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=TKawBgAAQBAJ&pg=PR19&dq=history&hl=&as_pt=BOOKS&cd=76&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=TKawBgAAQBAJ&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Cambridge_World_History.html?hl=&id=TKawBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Cambridge_World_History-sample-pdf.acsm?id=TKawBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TKawBgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>History</b> (1924\u20131939), the thirteen-volume Cambridge <b>History</b> of China (1978\u20132009), and more specialized multi-volume works on countries, religions, regions, events, themes, and genres. These works are designed, as the Cambridge <b>History</b> of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Eb0WEQAAQBAJ",
+      "etag": "lRWJVC0DW0c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Eb0WEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Contemporary history on trial",
+        "subtitle": "Europe since 1989 and the role of the expert historian",
+        "authors": [
+          "Harriet Jones",
+          "Kjell Ostberg",
+          "Nico Randeraad"
+        ],
+        "publisher": "Manchester University Press",
+        "publishedDate": "2024-07-30",
+        "description": "Is it right for historians to serve as 'expert witnesses' to past events? Since the end of the Cold War, a series of heated and politicised debates across Europe have questioned the 'truth' about painful episodes in the twentieth century. From the Holocaust to Srebrenica, inquiries and fact-finding commissions have become a common device employed by governments to deal with the pressure of public opinion. State-sponsored programmes of education and research attempt to encourage a common moral understanding of the lessons we learn from these painful memories. Contemporary historians have increasingly been drawn into these efforts since 1989 \u2013 in the courtroom, in the media, on commissions, as advisers. In a series of thoughtful essays, written by leading historians from across Europe, this volume considers the ethics and responsibilities that this new role entails. For anyone concerned with the role of the historian in contemporary society and how we arrive at a public understanding of history, this book is essential reading.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781526185990"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1526185997"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 217,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Eb0WEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Eb0WEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Eb0WEQAAQBAJ&pg=PA42&dq=history&hl=&as_pt=BOOKS&cd=77&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Eb0WEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Eb0WEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 44.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 31.69,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Eb0WEQAAQBAJ&rdid=book-Eb0WEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 44950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 31690000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Contemporary_history_on_trial-sample-pdf.acsm?id=Eb0WEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Eb0WEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> ? Obviously , these uses of <b>history</b> can overlap . Another objection against the typology , partly touched upon in the first part of the chapter , may be that the scholarly - scientific use cannot be separated from the other uses&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DokzEAAAQBAJ",
+      "etag": "AL9cqccGnCg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DokzEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Corsets 1810-1830 History Notes Book 17",
+        "authors": [
+          "Suzi Love "
+        ],
+        "publisher": "Suzi Love",
+        "publishedDate": "2021-06-17",
+        "description": "This book shows how corsets changed to fit well under clothing, give maximum support and comfort. Corsets pushed up breasts and showed off the bust line beneath a square-cut and low-cut neckline as in the early 1800s, or Regency years. Jane Austen and her female and friends wore these corsets. Corsets or stays worn during the early 1800s, or Jane Austen's lifetime.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DokzEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DokzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DokzEAAAQBAJ&pg=PT109&dq=history&hl=&as_pt=BOOKS&cd=78&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DokzEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DokzEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=DokzEAAAQBAJ&rdid=book-DokzEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Corsets_1810_1830_History_Notes_Book_17-sample-epub.acsm?id=DokzEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Corsets_1810_1830_History_Notes_Book_17-sample-pdf.acsm?id=DokzEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DokzEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Suzi Love. 23 <b>History</b> Notes Fashion Men 1800-1819 24 <b>History</b> Notes Fashion Women Box Set 25 <b>History</b> Notes Fashion Women 1801-1804 26 <b>History</b> Notes Fashion Women 1805-1809 27 <b>History</b> Notes Fashion Women 1810-1814 28 <b>History</b> Notes&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kuqRDgAAQBAJ",
+      "etag": "nn34MM5vOTM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kuqRDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Addressing Special Educational Needs and Disability in the Curriculum: History",
+        "authors": [
+          "Richard Harris",
+          "Ian Luff"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2017-04-11",
+        "description": "The SEND Code of Practice (2015) has reinforced the requirement that all teachers must meet the needs of all learners. This topical book provides practical, tried and tested strategies and resources that will support teachers in making history lessons accessible and exciting for all pupils, including those with special needs. The authors draw on a wealth of experience to share their understanding of special educational needs and disabilities and show how the history teacher can reduce or remove any barriers to learning. Offering strategies that are specific to the context of history teaching, this fully revised edition will enable teachers to: Make history education accessible and engaging to pupils of all abilities Create an inclusive classroom environment that responds to the emotional needs of the class and nurtures a culture of learning Develop inclusive practical demonstration and role play techniques to aid conceptual understanding Set assessment objectives Deploy in-class support effectively An invaluable tool for continuing professional development, this text will be essential for teachers (and their teaching assistants) seeking guidance specific to teaching history to all pupils, regardless of their individual needs. This book will also be of interest to SENDCOs, senior management teams and ITT providers. In addition to practical activities and supporting material contained in the book, there are also free online resources for readers to download and use in the preparation of successful, inclusive lessons for all pupils.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781134836314"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1134836317"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 201,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kuqRDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kuqRDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=kuqRDgAAQBAJ&pg=PT188&dq=history&hl=&as_pt=BOOKS&cd=79&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=kuqRDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kuqRDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 54.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 43.44,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=kuqRDgAAQBAJ&rdid=book-kuqRDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 54990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 43440000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Addressing_Special_Educational_Needs_and-sample-epub.acsm?id=kuqRDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Addressing_Special_Educational_Needs_and-sample-pdf.acsm?id=kuqRDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kuqRDgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>History</b> , 113 , 26\u201335 . MacAleavy , T. ( 1994 ) Meeting pupils &#39; learning needs : Differentiation and progression in the teaching of <b>history</b> . In H. Bourdillon ( ed . ) Teaching <b>history</b> . London and New York : Routledge , 153-168&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZUh2_a6aJKgC",
+      "etag": "FAXXW0ocoio",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZUh2_a6aJKgC",
+      "volumeInfo": {
+        "title": "A Guide to the Study and Use of Military History",
+        "authors": [
+          "John E. Jessup",
+          "Robert W. Coakley"
+        ],
+        "publishedDate": "1979",
+        "description": "This Guide to the Study and Use of Military History is designed to foster an appreciation of the value of military history and explain its uses and the resources available for its study. It is not a work to be read and lightly tossed aside, but one the career soldier should read again or use as a reference at those times during his career when necessity or leisure turns him to the contemplation of the military past.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCR:31210002729539"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 528,
+        "printType": "BOOK",
+        "categories": [
+          "Electronic government information"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZUh2_a6aJKgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZUh2_a6aJKgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZUh2_a6aJKgC&pg=PA22&dq=history&hl=&as_pt=BOOKS&cd=80&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZUh2_a6aJKgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZUh2_a6aJKgC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ZUh2_a6aJKgC&rdid=book-ZUh2_a6aJKgC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/A_Guide_to_the_Study_and_Use_of_Military.epub?id=ZUh2_a6aJKgC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZUh2_a6aJKgC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> are greater than ever . Political <b>history</b> , religious <b>history</b> , military <b>history</b> , and biographical <b>history</b> exist side by side with social <b>history</b> , intellectual <b>history</b> ( sometimes called the <b>history</b> of ideas or cultural <b>history</b> )&nbsp;..."
+      }
+    }
+  ]
+}

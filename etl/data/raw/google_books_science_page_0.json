@@ -1,0 +1,3414 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "OTQTEAAAQBAJ",
+      "etag": "roPQAzQ264U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OTQTEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Science of Science",
+        "authors": [
+          "Dashun Wang",
+          "Albert-L\u00e1szl\u00f3 Barab\u00e1si"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2021-03-25",
+        "description": "This is the first comprehensive overview of the exciting field of the 'science of science'. With anecdotes and detailed, easy-to-follow explanations of the research, this book is accessible to all scientists, policy makers, and administrators with an interest in the wider scientific enterprise.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781108492669"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1108492665"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 315,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OTQTEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OTQTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=OTQTEAAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=OTQTEAAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Science_of_Science.html?hl=&id=OTQTEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Science_of_Science-sample-pdf.acsm?id=OTQTEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OTQTEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the first comprehensive overview of the exciting field of the &#39;science of science&#39;."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Z4eKBgAAQBAJ",
+      "etag": "A7d6cuIxZKk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Z4eKBgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Science Book",
+        "subtitle": "Big Ideas Simply Explained",
+        "authors": [
+          "DK"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2015-02-02",
+        "description": "Now in Paperback! Take science to a whole new level. Created in partnership with Prentice Hall, the Big Idea Science Book is a comprehensive guide to key topics in science falling into four major strands (Living Things, Earth Science, Chemistry, and Physics), with a unique difference \u2014 a website component with 200 specially created digital assets that provide the opportunity for hands-on, interactive learning.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781465439277"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1465439277"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 735,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.11.11.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Z4eKBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Z4eKBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Z4eKBgAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Z4eKBgAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Science_Book.html?hl=&id=Z4eKBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Science_Book-sample-epub.acsm?id=Z4eKBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Science_Book-sample-pdf.acsm?id=Z4eKBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Z4eKBgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Science Book presents the fascinating story behind these and other of the world&#39;s most important concepts in maths, chemistry, physics and biology in plain English, with easy to grasp &quot;mind maps&quot; and eye-catching artworks."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4qlCbEbOUQkC",
+      "etag": "Lz6e/lRAYI4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4qlCbEbOUQkC",
+      "volumeInfo": {
+        "title": "The Oxford Book of Modern Science Writing",
+        "authors": [
+          "Richard Dawkins"
+        ],
+        "publisher": "Oxford University Press, USA",
+        "publishedDate": "2008",
+        "description": "Selected and introduced by Richard Dawkins, The Oxford Book of Modern Science Writing is a celebration of the finest writing by scientists for a wider audience - revealing that many of the best scientists have displayed as much imagination and skill with the pen as they have in the laboratory. This is a rich and vibrant collection that captures the poetry and excitement of communicating scientific understanding and scientific effort from 1900 to the present day. Professor Dawkins has included writing from a diverse range of scientists, some of whom need no introduction, and some of whose works have become modern classics, while others may be less familiar - but all convey the passion of great scientists writing about their science.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780199216802"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0199216800"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 439,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4qlCbEbOUQkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4qlCbEbOUQkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=4qlCbEbOUQkC&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=4qlCbEbOUQkC&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Oxford_Book_of_Modern_Science_Writin.html?hl=&id=4qlCbEbOUQkC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Oxford_Book_of_Modern_Science_Writin-sample-pdf.acsm?id=4qlCbEbOUQkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4qlCbEbOUQkC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is a rich and vibrant collection that captures the poetry and excitement of communicating scientific understanding and scientific effort from 1900 to the present day."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OKcjEQAAQBAJ",
+      "etag": "nF0kgtQAtrE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OKcjEQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Book of Potentially Catastrophic Science",
+        "subtitle": "50 Experiments for Daring Young Scientists",
+        "authors": [
+          "Sean Connolly"
+        ],
+        "publisher": "Hachette+ORM",
+        "publishedDate": "2016-12-27",
+        "description": "It\u2019s never been more important to engage a child's scientific curiosity, and Sean Connolly knows just how to do it\u2014with lively, hands-on, seemingly \"dangerous\" experiments that pop, ooze, crash, and teach! Now, the author of The Book of Totally Irresponsible Science, takes it one step further: He leads kids through the history of science, and then creates amazing yet simple experiments that demonstrate key scientific principles. Tame fire just like a Neanderthal with the Fahrenheit 451 experiment. Round up all your friends and track the spread of \"disease\" using body glitter with an experiment inspired by Edward Jenner, the vaccination pioneer who's credited with saving more lives than any other person in history. Rediscover the wheel and axle with the ancient Sumerians, and perform an astounding experiment demonstrating the theory of angular momentum. Build a simple telescope\u2014just like Galileo's\u2014and find the four moons he discovered orbiting Jupiter (an act that helped land him in prison). Take a less potentially catastrophic approach to electricity than Ben Franklin did with the Lightning Mouth experiment. Re-create the Hadron Collider in a microwave with marshmallows, calculator, and a ruler\u2014it won't jeopardize Earth with a simulated Big Bang, but will demonstrate the speed of light. And it's tasty! By letting kids stand on the shoulders of Aristotle, Newton, Einstein, the Wright brothers, Marie Curie, Darwin, Watson and Crick, and more, The Book of Potentially Catastrophic Science is an uncommonly engaging guide to science, and the great stories of the men and women behind the science.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780761189862"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0761189866"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 367,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OKcjEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OKcjEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=OKcjEQAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OKcjEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OKcjEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=OKcjEQAAQBAJ&rdid=book-OKcjEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Book_of_Potentially_Catastrophic_Sci-sample-epub.acsm?id=OKcjEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OKcjEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "By letting kids stand on the shoulders of Aristotle, Newton, Einstein, the Wright brothers, Marie Curie, Darwin, Watson and Crick, and more, The Book of Potentially Catastrophic Science is an uncommonly engaging guide to science, and the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AQOCBgAAQBAJ",
+      "etag": "qaMaV628e3M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AQOCBgAAQBAJ",
+      "volumeInfo": {
+        "title": "The End Of Science",
+        "subtitle": "Facing The Limits Of Knowledge In The Twilight Of The Scientific Age",
+        "authors": [
+          "John Horgan"
+        ],
+        "publisher": "Basic Books",
+        "publishedDate": "2015-04-14",
+        "description": "As staff writer for Scientific American, John Horgan has a window on contemporary science unsurpassed in all the world. Who else routinely interviews the likes of Lynn Margulis, Roger Penrose, Francis Crick, Richard Dawkins, Freeman Dyson, Murray Gell-Mann, Stephen Jay Gould, Stephen Hawking, Thomas Kuhn, Chris Langton, Karl Popper, Stephen Weinberg, and E.O. Wilson, with the freedom to probe their innermost thoughts? In The End Of Science, Horgan displays his genius for getting these larger-than-life figures to be simply human, and scientists, he writes, \"are rarely so human . . . so at there mercy of their fears and desires, as when they are confronting the limits of knowledge.\"This is the secret fear that Horgan pursues throughout this remarkable book: Have the big questions all been answered? Has all the knowledge worth pursuing become known? Will there be a final \"theory of everything\" that signals the end? Is the age of great discoverers behind us? Is science today reduced to mere puzzle solving and adding detains to existing theories? Horgan extracts surprisingly candid answers to there and other delicate questions as he discusses God, Star Trek, superstrings, quarks, plectics, consciousness, Neural Darwinism, Marx's view of progress, Kuhn's view of revolutions, cellular automata, robots, and the Omega Point, with Fred Hoyle, Noam Chomsky, John Wheeler, Clifford Geertz, and dozens of other eminent scholars. The resulting narrative will both infuriate and delight as it mindless Horgan's smart, contrarian argument for \"endism\" with a witty, thoughtful, even profound overview of the entire scientific enterprise. Scientists have always set themselves apart from other scholars in the belief that they do not construct the truth, they discover it. Their work is not interpretation but simple revelation of what exists in the empirical universe. But science itself keeps imposing limits on its own power. Special relativity prohibits the transmission of matter or information as speeds faster than that of light; quantum mechanics dictates uncertainty; and chaos theory confirms the impossibility of complete prediction. Meanwhile, the very idea of scientific rationality is under fire from Neo-Luddites, animal-rights activists, religious fundamentalists, and New Agers alike. As Horgan makes clear, perhaps the greatest threat to science may come from losing its special place in the hierarchy of disciplines, being reduced to something more akin to literaty criticism as more and more theoreticians engage in the theory twiddling he calls \"ironic science.\" Still, while Horgan offers his critique, grounded in the thinking of the world's leading researchers, he offers homage too. If science is ending, he maintains, it is only because it has done its work so well.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780465050857"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0465050859"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.12.13.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AQOCBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AQOCBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=AQOCBgAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=AQOCBgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AQOCBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=AQOCBgAAQBAJ&rdid=book-AQOCBgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_End_Of_Science-sample-epub.acsm?id=AQOCBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AQOCBgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;This is the secret fear that Horgan pursues throughout this remarkable book: Have the big questions all been answered? Has all the knowledge worth pursuing become known? Will there be a final &quot;theory of everything&quot; that signals the end?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "abqjP-_KfzkC",
+      "etag": "E3bsGfs7sFs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/abqjP-_KfzkC",
+      "volumeInfo": {
+        "title": "The Oxford Companion to the History of Modern Science",
+        "authors": [
+          "John L. Heilbron"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2003-02-14",
+        "description": "Containing 609 encyclopedic articles written by more than 200 prominent scholars, The Oxford Companion to the History of Modern Science presents an unparalleled history of the field invaluable to anyone with an interest in the technology, ideas, discoveries, and learned institutions that have shaped our world over the past five centuries. Focusing on the period from the Renaissance to the early twenty-first century, the articles cover all disciplines (Biology, Alchemy, Behaviorism), historical periods (the Scientific Revolution, World War II, the Cold War), concepts (Hypothesis, Space and Time, Ether), and methodologies and philosophies (Observation and Experiment, Darwinism). Coverage is international, tracing the spread of science from its traditional centers and explaining how the prevailing knowledge of non-Western societies has modified or contributed to the dominant global science as it is currently understood. Revealing the interplay between science and the wider culture, the Companion includes entries on topics such as minority groups, art, religion, and science's practical applications. One hundred biographies of the most iconic historic figures, chosen for their contributions to science and the interest of their lives, are also included. Above all The Oxford Companion to the History of Modern Science is a companion to world history: modern in coverage, generous in breadth, and cosmopolitan in scope. The volume's utility is enhanced by a thematic outline of the entire contents, a thorough system of cross-referencing, and a detailed index that enables the reader to follow a specific line of inquiry along various threads from multiple starting points. Each essay has numerous suggestions for further reading, all of which favor literature that is accessible to the general reader, and a bibliographical essay provides a general overview of the scholarship in the field. Lastly, as a contribution to the visual appeal of the Companion, over 100 black-and-white illustrations and an eight-page color section capture the eye and spark the imagination.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0195112296"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780195112290"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 994,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=abqjP-_KfzkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=abqjP-_KfzkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=abqjP-_KfzkC&pg=PA371&dq=science&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=abqjP-_KfzkC&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Oxford_Companion_to_the_History_of_M.html?hl=&id=abqjP-_KfzkC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Oxford_Companion_to_the_History_of_M-sample-pdf.acsm?id=abqjP-_KfzkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=abqjP-_KfzkC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>sciences</b>, they will be using categories that did not exist in the seventeenth century and that exclude associations presupposed by Ray&#39;s contemporaries. The constituents of a prehistory of biology, or of any other modern <b>science</b>, can&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SbwTzAEACAAJ",
+      "etag": "pM4/7kentAI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SbwTzAEACAAJ",
+      "volumeInfo": {
+        "title": "The Science Book",
+        "authors": [
+          "John Farndon",
+          "Ian Graham",
+          "Clint Twist"
+        ],
+        "publishedDate": "2019-09",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "178989025X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781789890259"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=SbwTzAEACAAJ&dq=science&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=SbwTzAEACAAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Science_Book.html?hl=&id=SbwTzAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SbwTzAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Four amazing chapters in The Animal Book: In Prehistoric Giants, meet the mega monsters that have ruled our planet throughout history."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u2qoNAEACAAJ",
+      "etag": "uY+1+ZaCJeU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u2qoNAEACAAJ",
+      "volumeInfo": {
+        "title": "People's Science",
+        "subtitle": "Bodies and Rights on the Stem Cell Frontier",
+        "authors": [
+          "Ruha Benjamin"
+        ],
+        "publisher": "Stanford University Press",
+        "publishedDate": "2013-06-05",
+        "description": "Stem cell research has sparked controversy and heated debate since the first human stem cell line was derived in 1998. Too frequently these debates devolve to simple judgments\u2014good or bad, life-saving medicine or bioethical nightmare, symbol of human ingenuity or our fall from grace\u2014ignoring the people affected. With this book, Ruha Benjamin moves the terms of debate to focus on the shifting relationship between science and society, on the people who benefit\u2014or don't\u2014from regenerative medicine and what this says about our democratic commitments to an equitable society. People's Science uncovers the tension between scientific innovation and social equality, taking the reader inside California's 2004 stem cell initiative, the first of many state referenda on scientific research, to consider the lives it has affected. Benjamin reveals the promise and peril of public participation in science, illuminating issues of race, disability, gender, and socio-economic class that serve to define certain groups as more or less deserving in their political aims and biomedical hopes. Under the shadow of the free market and in a nation still at odds with universal healthcare, the socially marginalized are often eagerly embraced as test-subjects, yet often are unable to afford new medicines and treatment regimes as patients. Ultimately, Ruha Benjamin argues that without more deliberate consideration about how scientific initiatives can and should reflect a wider array of social concerns, stem cell research\u2014 from African Americans' struggle with sickle cell treatment to the recruitment of women as tissue donors\u2014still risks excluding many. Even as regenerative medicine is described as a participatory science for the people, Benjamin asks us to consider if \"the people\" ultimately reflects our democratic ideals.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0804782970"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780804782975"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u2qoNAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u2qoNAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=u2qoNAEACAAJ&dq=science&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=u2qoNAEACAAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/People_s_Science.html?hl=&id=u2qoNAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u2qoNAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With this book, Ruha Benjamin moves the terms of debate to focus on the shifting relationship between science and society, on the people who benefit\u2014or don&#39;t\u2014from regenerative medicine and what this says about our democratic commitments ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LyOzDwAAQBAJ",
+      "etag": "n0LQ419+GHI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LyOzDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Science Be Dammed",
+        "subtitle": "How Ignoring Inconvenient Science Drained the Colorado River",
+        "authors": [
+          "Eric Kuhn",
+          "John Fleck"
+        ],
+        "publisher": "University of Arizona Press",
+        "publishedDate": "2019-11-26",
+        "description": "Science Be Dammed is an alarming reminder of the high stakes in the management\u2014and perils in the mismanagement\u2014of water in the western United States. It seems deceptively simple: even when clear evidence was available that the Colorado River could not sustain ambitious dreaming and planning by decision-makers throughout the twentieth century, river planners and political operatives irresponsibly made the least sustainable and most dangerous long-term decisions. Arguing that the science of the early twentieth century can shed new light on the mistakes at the heart of the over-allocation of the Colorado River, authors Eric Kuhn and John Fleck delve into rarely reported early studies, showing that scientists warned as early as the 1920s that there was not enough water for the farms and cities boosters wanted to build. Contrary to a common myth that the authors of the Colorado River Compact did the best they could with limited information, Kuhn and Fleck show that development boosters selectively chose the information needed to support their dreams, ignoring inconvenient science that suggested a more cautious approach. Today water managers are struggling to come to terms with the mistakes of the past. Focused on both science and policy, Kuhn and Fleck unravel the tangled web that has constructed the current crisis. With key decisions being made now, including negotiations for rules governing how the Colorado River water will be used after 2026, Science Be Dammed offers a clear-eyed path forward by looking back. Understanding how mistakes were made is crucial to understanding our contemporary problems. Science Be Dammed offers important lessons in the age of climate change about the necessity of seeking out the best science to support the decisions we make.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780816540051"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0816540055"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 289,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LyOzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LyOzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=LyOzDwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=LyOzDwAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Science_Be_Dammed.html?hl=&id=LyOzDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Science_Be_Dammed-sample-pdf.acsm?id=LyOzDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LyOzDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Science Be Dammed is an alarming reminder of the high stakes in the management\u2014and perils in the mismanagement\u2014of water in the western United States."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AIITEAAAQBAJ",
+      "etag": "CgycZXcGxbs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AIITEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Science of Citizen Science",
+        "authors": [
+          "Katrin Vohland",
+          "Anne Land-zandstra",
+          "Luigi Ceccaroni",
+          "Rob Lemmens",
+          "Josep Perell\u00f3",
+          "Marisa Ponti",
+          "Roeland Samson",
+          "Katherin Wagenknecht"
+        ],
+        "publisher": "Springer Nature",
+        "publishedDate": "2021-01-11",
+        "description": "This open access book discusses how the involvement of citizens into scientific endeavors is expected to contribute to solve the big challenges of our time, such as climate change and the loss of biodiversity, growing inequalities within and between societies, and the sustainability turn. The field of citizen science has been growing in recent decades. Many different stakeholders from scientists to citizens and from policy makers to environmental organisations have been involved in its practice. In addition, many scientists also study citizen science as a research approach and as a way for science and society to interact and collaborate. This book provides a representation of the practices as well as scientific and societal outcomes in different disciplines. It reflects the contribution of citizen science to societal development, education, or innovation and provides and overview of the field of actors as well as on tools and guidelines. It serves as an introduction for anyone whowants to get involved in and learn more about the science of citizen science.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783030582784"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3030582787"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 520,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AIITEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AIITEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=AIITEAAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=AIITEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AIITEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=AIITEAAAQBAJ&rdid=book-AIITEAAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Science_of_Citizen_Science-sample-epub.acsm?id=AIITEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Science_of_Citizen_Science-sample-pdf.acsm?id=AIITEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AIITEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This open access book discusses how the involvement of citizens into scientific endeavors is expected to contribute to solve the big challenges of our time, such as climate change and the loss of biodiversity, growing inequalities within ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "li52vgAACAAJ",
+      "etag": "XWUmTLpSAww",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/li52vgAACAAJ",
+      "volumeInfo": {
+        "title": "Sharing Books, Talking Science",
+        "subtitle": "Exploring Scientific Concepts with Children's Literature",
+        "authors": [
+          "Valerie Bang-Jensen",
+          "Mark Lubkowitz"
+        ],
+        "publisher": "Heinemann Educational Books",
+        "publishedDate": "2017",
+        "description": "Science is everywhere, in everything we do, see, and read. Books-all books-offer possibilities for talk about science in the illustrations and text once you know how to look for them. Children's literature is a natural avenue to explore the seven crosscutting concepts described in the Next Generation Science Standards*, and with guidance from Valerie Bang-Jensen and Mark Lubkowitz, you will learn to develop the mindset necessary to think like a scientist, and then help your students think, talk, and read like scientists. Sharing Books Talking Science is an engaging and user-friendly guide that provides practical, real world understandings of complex scientific concepts using children's literature. By demonstrating how to work in a very familiar and comfortable teaching context-read aloud-to address what may be less familiar and comfortable content-scientific concepts-Valerie and Mark empower teachers to use just about any book in their classroom to help deepen students' understanding of the world. Valerie and Mark supply you with everything you need to know to get to the heart of each concept, including a primer, questions and strategies to spot a concept, and ways to prompt students to see and talk about it. Each chapter offers a list of suggested titles (many of which you probably already have) to help you get started right away, as well as \"topic spotlight\" sections that help you connect the concepts to familiar topics such as eating, seasons, bridges, size, and water. With Sharing Books Talking Science, you will have the tools and confidence to explore scientific concepts with your students. Learn how to \"talk science\" with any book so that you can infuse your curriculum with scientific thinking...even when you aren't teaching science. *Next Generation Science Standards is a registered trademark of Achieve. Neither Achieve nor the lead states and partners that developed the Next Generation Science Standards were involved in the production of this product, and do not endorse it.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0325087741"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780325087740"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 137,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=li52vgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=li52vgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=li52vgAACAAJ&dq=science&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=li52vgAACAAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sharing_Books_Talking_Science.html?hl=&id=li52vgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=li52vgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Science is everywhere, in everything we do, see, and read. Books--all books--offer possibilities for talk about science in the illustrations and text once you know how to look for them."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IJIqEAAAQBAJ",
+      "etag": "BGThAxrCWRs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IJIqEAAAQBAJ",
+      "volumeInfo": {
+        "title": "What Is Science? A Guide For Those Who Love It, Hate It, Or Fear It",
+        "authors": [
+          "Elof Axel Carlson"
+        ],
+        "publisher": "World Scientific",
+        "publishedDate": "2021-03-24",
+        "description": "What is Science? A Guide for Those Who Love It, Hate It, or Fear It, provides the reader with ways science has been done through discovery, exploration, experimentation and other reason-based approaches. It discusses the basic and applied sciences, the reasons why some people hate science, especially its rejection of the supernatural, and others who fear it for human applications leading to environmental degradation, climate change, nuclear war, and other outcomes of sciences applied to society.The author uses anecdotes from interviews and associations with many scientists he has encountered in his career to illustrate these features of science and their personalities and habits of thinking or work. He also explores the culture wars of science and the humanities, values involved in doing science and applying science, the need for preventing unexpected outcomes of applied science, and the ways our world view changes through the insights of science. This book will provide teachers lots of material for discussion about science and its significance in our lives. It will also be helpful for those starting out their interest in science to know the worst and best features of science as they develop their careers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789811228735"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9811228736"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 263,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IJIqEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IJIqEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=IJIqEAAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IJIqEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IJIqEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 22,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 13.2,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=IJIqEAAAQBAJ&rdid=book-IJIqEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 22000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 13200000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/What_Is_Science_A_Guide_For_Those_Who_Lo-sample-epub.acsm?id=IJIqEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/What_Is_Science_A_Guide_For_Those_Who_Lo-sample-pdf.acsm?id=IJIqEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IJIqEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book will provide teachers lots of material for discussion about science and its significance in our lives."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZJAtjgEACAAJ",
+      "etag": "Rbhk2jvPGq4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZJAtjgEACAAJ",
+      "volumeInfo": {
+        "title": "The War on Science",
+        "subtitle": "Who's Waging It, why it Matters, what We Can Do about it",
+        "authors": [
+          "Shawn Lawrence Otto"
+        ],
+        "publishedDate": "2016",
+        "description": "\"Wherever the people are well informed,\" Thomas Jefferson wrote, \"they can be trusted with their own government.\" But what happens when they are not? In every issue of modern society--from climate change to vaccinations, transportation to technology, health care to defense--we are in the midst of an unprecedented expansion of scientific progress and a simultaneous expansion of danger. At the very time we need them most, scientists and the idea of objective knowledge are being bombarded by avast, well-funded, three-part war on science: the identity politics war on science, the ideological war on science, and the industrial war on science. The result is an unprecedented erosion of thought in Western democracies as voters, policymakers, and justices actively ignore the evidence from science, leaving major policy decisions to be based more on the demands of the most strident voices. Shawn Otto's compelling new book investigates the historical, social, philosophical, political, and emotional reasons why evidence-based politics are in decline and authoritarian politics are once again on the rise on both left and right, and provides some compelling solutions to bring us to our collective senses, before it's too late.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1571313532"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781571313539"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 514,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZJAtjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZJAtjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZJAtjgEACAAJ&dq=science&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ZJAtjgEACAAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_War_on_Science.html?hl=&id=ZJAtjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZJAtjgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Examines the current state of science in the political sphere, looking at how strategies for alleviating global warming are resisted by powerful interests and faith-based objections to the teaching of evolution erupt from the public."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "n9BwDwAAQBAJ",
+      "etag": "leSaynQ5ybo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/n9BwDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Seeing Science",
+        "subtitle": "An Illustrated Guide to the Wonders of the Universe",
+        "authors": [
+          "Iris Gottlieb"
+        ],
+        "publisher": "Chronicle Books",
+        "publishedDate": "2018-10-30",
+        "description": "From an illustrator for San Francisco\u2019s Exploratorium, a visual journey that shows how beautiful science really is. With original illustrations that deftly explain the strange-but-true world of science, Seeing Science offers a curated ride through the great mysteries of the universe. Artist and lay scientist Iris Gottlieb explains among other things: neap tides, naked mole rats, whale falls, the human heart, the Uncertainty Principle, the ten dimensions of string theory, and how glaciers are like Snickers bars. With quirky visual metaphors and concise factual explanations, she offers just the right amount of information to stoke the curious mind with a desire to know more about the life forces that animate both the smallest cell and the biggest black hole. Seeing Science illustrates, explicates, and celebrates the marvels of science as only art can.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781452167190"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1452167192"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 154,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.13.13.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=n9BwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=n9BwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=n9BwDwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=n9BwDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=n9BwDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=n9BwDwAAQBAJ&rdid=book-n9BwDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Seeing_Science-sample-epub.acsm?id=n9BwDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Seeing_Science-sample-pdf.acsm?id=n9BwDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=n9BwDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Seeing Science illustrates, explicates, and celebrates the marvels of science as only art can."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AVQ2DwAAQBAJ",
+      "etag": "++epppfWQmU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AVQ2DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Visible Learning for Science, Grades K-12",
+        "subtitle": "What Works Best to Optimize Student Learning",
+        "authors": [
+          "John Almarode",
+          "Douglas Fisher",
+          "Nancy Frey",
+          "John Hattie"
+        ],
+        "publisher": "Corwin Press",
+        "publishedDate": "2018-02-15",
+        "description": "In the best science classrooms, teachers see learning through the eyes of their students, and students view themselves as explorers. But with so many instructional approaches to choose from\u2014inquiry, laboratory, project-based learning, discovery learning\u2014which is most effective for student success? In Visible Learning for Science, the authors reveal that it\u2019s not which strategy, but when, and plot a vital K-12 framework for choosing the right approach at the right time, depending on where students are within the three phases of learning: surface, deep, and transfer. Synthesizing state-of-the-art science instruction and assessment with over fifteen years of John Hattie\u2019s cornerstone educational research, this framework for maximum learning spans the range of topics in the life and physical sciences. Employing classroom examples from all grade levels, the authors empower teachers to plan, develop, and implement high-impact instruction for each phase of the learning cycle: Surface learning: when, through precise approaches, students explore science concepts and skills that give way to a deeper exploration of scientific inquiry. Deep learning: when students engage with data and evidence to uncover relationships between concepts\u2014students think metacognitively, and use knowledge to plan, investigate, and articulate generalizations about scientific connections. Transfer learning: when students apply knowledge of scientific principles, processes, and relationships to novel contexts, and are able to discern and innovate to solve complex problems. Visible Learning for Science opens the door to maximum-impact science teaching, so that students demonstrate more than a year\u2019s worth of learning for a year spent in school.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781506394190"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1506394191"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 131,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AVQ2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AVQ2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=AVQ2DwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=AVQ2DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AVQ2DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 39,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 30.42,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=AVQ2DwAAQBAJ&rdid=book-AVQ2DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 39000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 30420000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Visible_Learning_for_Science_Grades_K_12-sample-epub.acsm?id=AVQ2DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Visible_Learning_for_Science_Grades_K_12-sample-pdf.acsm?id=AVQ2DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AVQ2DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Synthesizing state-of-the-art science instruction and assessment with over fifteen years of John Hattie\u2019s cornerstone educational research, this framework for maximum learning spans the range of topics in the life and physical sciences."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TdoPAQAAMAAJ",
+      "etag": "1s/EDGe8Mck",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TdoPAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Mad Science Book",
+        "subtitle": "100 Amazing Experiments from the History of Science",
+        "authors": [
+          "Reto U. Schneider"
+        ],
+        "publisher": "Quercus Books",
+        "publishedDate": "2008",
+        "description": "You don't have to be an eccentric obsessive to be a scientist, but it helps... In The Mad Science Book, Reto Schneider tells the extraordinary tales of 100 of the more unusual experiments conducted across seven centuries of science. From the attempts of the 14th-century Dominican monk Theodoric von Freiberg to discover the cause of the rainbow, to the efforts of the 20th-century psychologist Harry Harlow to be the perfect mother to a family of reluctant rhesus monkeys, these are stories that are often bizarre, sometimes mind-boggling - occasionally stomach-churning - but always diverting, informative and enlightening.Among the myriad delights on display in this cabinet of scientific curiosities are the renowned doctor from Padua who sat in a pair of scales for 30 years, recording the minutest changes in his weight; the sheep, the duck and the rooster who became the world's first air passengers; the disgusting Dr Stubbins Ffirth, who swallowed other people's vomit in an attempt to prove that yellow fever cannot be transmitted from one person to another; the hapless soldier Alexis St Martin, left with a hole in his stomach after an accident with a musket; and the ever-optimistic Charles-\u00c9douard Brown-S\u00e9quard, who injected himself with essence of guinea pigs' testicles as an anti-ageing remedy. There is trivia here in abundance, but also quirky, but genuinely influential, science, notably Merrill Flood's and Melvin Dresher's experiments with choices of outcomes, which have been widely influential as game theory.A fizzing cocktail of fascinating science and rich entertainment, The Mad Science Book tells the extraordinary stories of some truly, madly, geeky people. It should be top of every self-respecting science buff's Christmas 2008 wishlist.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015080857611"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 296,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TdoPAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TdoPAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=TdoPAQAAMAAJ&q=science&dq=science&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=TdoPAQAAMAAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mad_Science_Book.html?hl=&id=TdoPAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TdoPAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "You don&#39;t have to be an eccentric obsessive to be a scientist, but it helps... In The Mad Science Book, Reto Schneider tells the extraordinary tales of 100 of the more unusual experiments conducted across seven centuries of science."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DluxDwAAQBAJ",
+      "etag": "IIw4Cx79cEs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DluxDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Investing in Science",
+        "subtitle": "Social Cost-Benefit Analysis of Research Infrastructures",
+        "authors": [
+          "Massimo Florio"
+        ],
+        "publisher": "MIT Press",
+        "publishedDate": "2019-10-15",
+        "description": "A proposal for using cost-benefit analysis to evaluate the socioeconomic impact of public investment in large scientific projects. Large particle accelerators, outer space probes, genomics platforms: all are scientific enterprises managed through the new form of the research infrastructure, in which communities of scientists collaborate across nations, universities, research institutions, and disciplines. Such large projects are often publicly funded, with no accepted way to measure the benefits to society of these investments. In this book, Massimo Florio suggests the use of cost-benefit analysis (CBA) to evaluate the socioeconomic impact of public investment in large and costly scientific projects. The core concept of CBA of any infrastructure is to undertake the consistent intertemporal accounting of social welfare effects using the available information. Florio develops a simple framework for such accounting in the research infrastructure context and then offers a systematic analysis of the benefits in terms of the social agents involved. He measures the benefits to scientists, students, and postdoctoral researchers; the effect on firms of knowledge spillovers; the benefits to users of information technology and science-based innovation; the welfare effects on the general public of cultural services provided by RIs; and the willingness of taxpayers to fund scientific knowledge creation. Finally, Florio shows how these costs and benefits can be expressed in the form of stochastic net present value and other summary indicators.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780262355971"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0262355973"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 385,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DluxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DluxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DluxDwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DluxDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DluxDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 36.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 36.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=DluxDwAAQBAJ&rdid=book-DluxDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 36990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 36990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Investing_in_Science-sample-epub.acsm?id=DluxDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Investing_in_Science-sample-pdf.acsm?id=DluxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DluxDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this book, Massimo Florio suggests the use of cost-benefit analysis (CBA) to evaluate the socioeconomic impact of public investment in large and costly scientific projects."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b8i2DwAAQBAJ",
+      "etag": "LtDCKxvNuns",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b8i2DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Biomaterials Science",
+        "subtitle": "An Introduction to Materials in Medicine",
+        "authors": [
+          "William R Wagner",
+          "Shelly E. Sakiyama-Elbert",
+          "Guigen Zhang",
+          "Michael J. Yaszemski"
+        ],
+        "publisher": "Academic Press",
+        "publishedDate": "2020-05-23",
+        "description": "The revised edition of the renowned and bestselling title is the most comprehensive single text on all aspects of biomaterials science from principles to applications. Biomaterials Science, fourth edition, provides a balanced, insightful approach to both the learning of the science and technology of biomaterials and acts as the key reference for practitioners who are involved in the applications of materials in medicine.This new edition incorporates key updates to reflect the latest relevant research in the field, particularly in the applications section, which includes the latest in topics such as nanotechnology, robotic implantation, and biomaterials utilized in cancer research detection and therapy. Other additions include regenerative engineering, 3D printing, personalized medicine and organs on a chip. Translation from the lab to commercial products is emphasized with new content dedicated to medical device development, global issues related to translation, and issues of quality assurance and reimbursement. In response to customer feedback, the new edition also features consolidation of redundant material to ensure clarity and focus. Biomaterials Science, 4th edition is an important update to the best-selling text, vital to the biomaterials' community. - The most comprehensive coverage of principles and applications of all classes of biomaterials - Edited and contributed by the best-known figures in the biomaterials field today; fully endorsed and supported by the Society for Biomaterials - Fully revised and updated to address issues of translation, nanotechnology, additive manufacturing, organs on chip, precision medicine and much more. - Online chapter exercises available for most chapters",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780128161388"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0128161388"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1612,
+        "printType": "BOOK",
+        "categories": [
+          "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b8i2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b8i2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=b8i2DwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=b8i2DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=b8i2DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE_AND_RENTAL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 175,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 140,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=b8i2DwAAQBAJ&rdid=book-b8i2DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 175000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 140000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          },
+          {
+            "finskyOfferType": 3,
+            "listPrice": {
+              "amountInMicros": 70000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 64400000,
+              "currencyCode": "USD"
+            },
+            "rentalDuration": {
+              "unit": "DAY",
+              "count": 90
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Biomaterials_Science-sample-epub.acsm?id=b8i2DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Biomaterials_Science-sample-pdf.acsm?id=b8i2DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b8i2DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The revised edition of the renowned and bestselling title is the most comprehensive single text on all aspects of biomaterials science from principles to applications."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3Oo8NgAACAAJ",
+      "etag": "8H6uCHl+1aA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3Oo8NgAACAAJ",
+      "volumeInfo": {
+        "title": "The Science Book",
+        "authors": [
+          "Sara Bonnett Stein"
+        ],
+        "publisher": "Workman Publishing Company",
+        "publishedDate": "1979",
+        "description": "Examines various principles and phenomena of biology, physics, and chemistry through discussion and observation of familiar surroundings--one's own body, home, pets, siblings, food, yard, etc.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0894801201"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780894801204"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 285,
+        "printType": "BOOK",
+        "categories": [
+          "Biology"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3Oo8NgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3Oo8NgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=3Oo8NgAACAAJ&dq=science&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=3Oo8NgAACAAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Science_Book.html?hl=&id=3Oo8NgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3Oo8NgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Examines various principles and phenomena of biology, physics, and chemistry through discussion and observation of familiar surroundings--one&#39;s own body, home, pets, siblings, food, yard, etc."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9PMU1iYGe34C",
+      "etag": "zwINgBdq9qU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9PMU1iYGe34C",
+      "volumeInfo": {
+        "title": "Biomaterials Science",
+        "subtitle": "An Introduction to Materials in Medicine",
+        "authors": [
+          "Buddy D. Ratner",
+          "Allan S. Hoffman",
+          "Frederick J. Schoen",
+          "Jack E. Lemons"
+        ],
+        "publisher": "Elsevier",
+        "publishedDate": "2004-08-18",
+        "description": "The second edition of this bestselling title provides the most up-to-date comprehensive review of all aspects of biomaterials science by providing a balanced, insightful approach to learning biomaterials. This reference integrates a historical perspective of materials engineering principles with biological interactions of biomaterials. Also provided within are regulatory and ethical issues in addition to future directions of the field, and a state-of-the-art update of medical and biotechnological applications. All aspects of biomaterials science are thoroughly addressed, from tissue engineering to cochlear prostheses and drug delivery systems. Over 80 contributors from academia, government and industry detail the principles of cell biology, immunology, and pathology. Focus within pertains to the clinical uses of biomaterials as components in implants, devices, and artificial organs. This reference also touches upon their uses in biotechnology as well as the characterization of the physical, chemical, biochemical and surface properties of these materials. - Provides comprehensive coverage of principles and applications of all classes of biomaterials - Integrates concepts of biomaterials science and biological interactions with clinical science and societal issues including law, regulation, and ethics - Discusses successes and failures of biomaterials applications in clinical medicine and the future directions of the field - Cover the broad spectrum of biomaterial compositions including polymers, metals, ceramics, glasses, carbons, natural materials, and composites - Endorsed by the Society for Biomaterials",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780080470368"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "008047036X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 879,
+        "printType": "BOOK",
+        "categories": [
+          "Technology & Engineering"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.9.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9PMU1iYGe34C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9PMU1iYGe34C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9PMU1iYGe34C&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9PMU1iYGe34C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9PMU1iYGe34C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE_AND_RENTAL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 119,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 95.2,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9PMU1iYGe34C&rdid=book-9PMU1iYGe34C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 119000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 95200000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          },
+          {
+            "finskyOfferType": 3,
+            "listPrice": {
+              "amountInMicros": 41650000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 38320000,
+              "currencyCode": "USD"
+            },
+            "rentalDuration": {
+              "unit": "DAY",
+              "count": 90
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Biomaterials_Science-sample-epub.acsm?id=9PMU1iYGe34C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Biomaterials_Science-sample-pdf.acsm?id=9PMU1iYGe34C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9PMU1iYGe34C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The second edition of this bestselling title provides the most up-to-date comprehensive review of all aspects of biomaterials science by providing a balanced, insightful approach to learning biomaterials."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p3ADtAEACAAJ",
+      "etag": "GvimAXcxUxM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p3ADtAEACAAJ",
+      "volumeInfo": {
+        "title": "Science for the People",
+        "subtitle": "Documents from America's Movement of Radical Scientists",
+        "authors": [
+          "Sigrid Schmalzer",
+          "Daniel S. Chard",
+          "Alyssa Botelho"
+        ],
+        "publishedDate": "2018",
+        "description": "For the first time, this book compiles original documents from Science for the People, the most important radical science movement in U.S. history. Between 1969 and 1989, Science for the People mobilized American scientists, teachers, and students to practice a socially and economically just science, rather than one that served militarism and corporate profits. Through research, writing, protest, and organizing, members sought to demystify scientific knowledge and embolden \"the people\" to take science and technology into their own hands. The movement's numerous publications were crucial to the formation of science and technology studies, challenging mainstream understandings of science as \"neutral\" and instead showing it as inherently political. Its members, some at prominent universities, became models for politically engaged science and scholarship by using their knowledge to challenge, rather than uphold, the social, political, and economic status quo. Highlighting Science for the People's activism and intellectual interventions in a range of areas -- including militarism, race, gender, medicine, agriculture, energy, and global affairs -- this volume offers vital contributions to today's debates on science, justice, democracy, sustainability, and political power.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1625343175"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781625343178"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p3ADtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p3ADtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=p3ADtAEACAAJ&dq=science&hl=&as_pt=BOOKS&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=p3ADtAEACAAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Science_for_the_People.html?hl=&id=p3ADtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p3ADtAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "For the first time, this book compiles original documents from Science for the People, the most important radical science movement in U.S. history."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t6aHCgAAQBAJ",
+      "etag": "FhFtHgPGFsw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t6aHCgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Curious Kid's Science Book",
+        "subtitle": "100+ Creative Hands-On Activities for Ages 4-8",
+        "authors": [
+          "Asia  Citro"
+        ],
+        "publisher": "The Innovation Press",
+        "publishedDate": "2015-09-08",
+        "description": "What happens if you water plants with juice? Where can you find bacteria in your house? Is slug slime as strong as a glue stick? How would your child find the answers to these questions? In The Curious Kid's Science Book, your child will learn to design his or her own science investigations to determine the answers! Children will learn to ask their own scientific questions, discover value in failed experiments, and \u2014 most importantly \u2014 have a blast with science. The 100+ hands-on activities in the book use household items to playfully teach important science, technology, engineering, and math skills. Each creative activity includes age-appropriate explanations and (when possible) real life applications of the concepts covered. Adding science to your at-home schedule will make a positive impact on your child's learning. Just one experiment a week will help build children's confidence and excitement about the sciences, boost success in the classroom, and give them the tools to design and execute their own science fair projects.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781943147038"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1943147035"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=t6aHCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=t6aHCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=t6aHCgAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=t6aHCgAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Curious_Kid_s_Science_Book.html?hl=&id=t6aHCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Curious_Kid_s_Science_Book-sample-pdf.acsm?id=t6aHCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t6aHCgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The 100+ hands-on activities in the book use household items to playfully teach important science, technology, engineering, and math skills."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TzNKEAAAQBAJ",
+      "etag": "iO4hgCoiidg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TzNKEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Right to Science",
+        "authors": [
+          "Helle Porsdam",
+          "Sebastian Porsdam Mann"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2021-12-02",
+        "description": "The first serious, extended effort to use a human rights-based approach to address the scientific issues affecting society and the often-neglected human right to science.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781108478250"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1108478255"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 323,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TzNKEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TzNKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=TzNKEAAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=TzNKEAAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Right_to_Science.html?hl=&id=TzNKEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Right_to_Science-sample-pdf.acsm?id=TzNKEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TzNKEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The first serious, extended effort to use a human rights-based approach to address the scientific issues affecting society and the often-neglected human right to science."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "W0GjvgEACAAJ",
+      "etag": "dYR4/nSPVk8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W0GjvgEACAAJ",
+      "volumeInfo": {
+        "title": "A New Kind of Science",
+        "authors": [
+          "Stephen Wolfram"
+        ],
+        "publisher": "Wolfram Media",
+        "publishedDate": "2018-11-30",
+        "description": "NOW IN PAPERBACK\"\u20ac\"Starting from a collection of simple computer experiments\"\u20ac\"illustrated in the book by striking computer graphics\"\u20ac\"Stephen Wolfram shows how their unexpected results force a whole new way of looking at the operation of our universe.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1579550258"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781579550257"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1193,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=W0GjvgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=W0GjvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=W0GjvgEACAAJ&dq=science&hl=&as_pt=BOOKS&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=W0GjvgEACAAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_New_Kind_of_Science.html?hl=&id=W0GjvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W0GjvgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;This work presents a series of dramatic discoveries never before made public."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ak7ZCgAAQBAJ",
+      "etag": "rWdUNl/6uHc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ak7ZCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Women in Science",
+        "subtitle": "50 Fearless Pioneers Who Changed the World",
+        "authors": [
+          "Rachel Ignotofsky"
+        ],
+        "publisher": "Ten Speed Press",
+        "publishedDate": "2016-07-26",
+        "description": "NEW YORK TIMES BESTSELLER \u2022 This \u201cwittily illustrated [and] accessible volume\u201d (The Wall Street Journal) highlights the contributions of fifty notable women to the fields of science, technology, engineering, and mathematics (STEM) from the ancient to the modern world. \u201cThe must-read, girl-power STEM book.\u201d\u2014InStyle It\u2019s a scientific fact: Women rock! This fascinating, educational collection features 50 illustrated portraits of trailblazing women in STEM throughout history. Full of striking, singular art, Women in Science also contains infographics about relevant topics such as lab equipment, rates of women currently working in STEM fields, and an illustrated scientific glossary. The trailblazing women profiled include such pioneers as primatologist Jane Goodall and mathematician Katherine Johnson, who calculated the trajectory of the 1969 Apollo 11 mission to the moon. Women in Science celebrates the achievements of the intrepid women who have paved the way for the next generation of female engineers, biologists, mathematicians, doctors, astronauts, physicists, and more!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781607749776"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1607749777"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 129,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Nonfiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ak7ZCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ak7ZCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ak7ZCgAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=25&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ak7ZCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ak7ZCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ak7ZCgAAQBAJ&rdid=book-ak7ZCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Women_in_Science-sample-epub.acsm?id=ak7ZCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Women_in_Science-sample-pdf.acsm?id=ak7ZCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ak7ZCgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This fascinating, educational collection features 50 illustrated portraits of trailblazing women in STEM throughout history."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cfWxDwAAQBAJ",
+      "etag": "NyfNqjyZji8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cfWxDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Scientifica Historica",
+        "subtitle": "How the world's great science books chart the history of knowledge",
+        "authors": [
+          "Brian Clegg"
+        ],
+        "publisher": "Ivy Press",
+        "publishedDate": "2019-10-01",
+        "description": "Scientifica Historica is an illustrated, essay-based review of those books that marked the development of science from ancient civilizations to the new millennium. The book is divided into five eras and explores the leading scientific pioneers, discoveries and books within them: Ancient World \u2013 looks at the beginnings of language, plus the first ever scientific documents produced and translated Renaissance in Print \u2013 explores the effects of the invention of the printing press and the exploration of the seas and skies Modern Classical \u2013 surveys the nineteenth century and the development of science as a profession Post-Classical \u2013 dissects the twentieth century and the introduction of relativity, quantum theory and genetics The Next Generation \u2013 reviews the period from 1980 to the modern day, showing how science has become accessible to the general public Plus an introduction to the history and development of writing and books in general, and a list of the 150 greatest science books published. From carvings and scrolls to glossy bound tomes, this book beautifully illustrates the evolution of scientific communication to the world. By recounting the history of science via its key works\u2014those books written by the keenest minds our world has known\u2014this book reflects the physical results of brilliant thought manifested in titles that literally changed the course of knowledge.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781782408789"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1782408789"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 277,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cfWxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cfWxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cfWxDwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=cfWxDwAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Scientifica_Historica.html?hl=&id=cfWxDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Scientifica_Historica-sample-pdf.acsm?id=cfWxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cfWxDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From carvings and scrolls to glossy bound tomes, this book beautifully illustrates the evolution of scientific communication to the world."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xbvbDwAAQBAJ",
+      "etag": "VreNl7XJN0w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xbvbDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Designing Science Presentations",
+        "subtitle": "A Visual Guide to Figures, Papers, Slides, Posters, and More",
+        "authors": [
+          "Matt Carter"
+        ],
+        "publisher": "Academic Press",
+        "publishedDate": "2020-11-28",
+        "description": "Designing Science Presentations: A Visual Guide to Figures, Papers, Slides, Posters, and More, Second Edition, guides scientists of any discipline in the design of compelling science communication. Most scientists never receive formal training in the design, delivery and evaluation of scientific communication, yet these skills are essential for publishing in high-quality journals, soliciting funding, attracting lab personnel, and advancing a career. This clear, readable volume fills that gap, providing visually intensive guidance at every step\u2014from the construction of original figures to the presentation and delivery of those figures in papers, slideshows, posters and websites. The book provides pragmatic advice on the preparation and delivery of exceptional scientific presentations and demonstrates hundreds of visually striking presentation techniques. - Features clear headings for each section, indicating its message with graphic illustrations - Provides clear and concise explanations of design principles traditionally taught in design or visualization courses - Includes examples of high-quality figures, page layouts, slides, posters and webpages to aid readers in creating their own presentations - Includes numerous \"before and after\" examples to illustrate the contrast between poor and outstanding presentations",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780128153789"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0128153784"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 370,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xbvbDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xbvbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xbvbDwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=27&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xbvbDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xbvbDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 49.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 39.49,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=xbvbDwAAQBAJ&rdid=book-xbvbDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 49990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 39490000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Designing_Science_Presentations-sample-epub.acsm?id=xbvbDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Designing_Science_Presentations-sample-pdf.acsm?id=xbvbDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xbvbDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This clear, readable volume fills that gap, providing visually intensive guidance at every step\u2014from the construction of original figures to the presentation and delivery of those figures in papers, slideshows, posters and websites."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0G1LEAAAQBAJ",
+      "etag": "GqLRgP5dxmE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0G1LEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Open Science: the Very Idea",
+        "authors": [
+          "Frank Miedema"
+        ],
+        "publisher": "Springer Nature",
+        "publishedDate": "2021-10-29",
+        "description": "This open access book provides a broad context for the understanding of current problems of science and of the different movements aiming to improve the societal impact of science and research. The author offers insights with regard to ideas, old and new, about science, and their historical origins in philosophy and sociology of science, which is of interest to a broad readership. The book shows that scientifically grounded knowledge is required and helpful in understanding intellectual and political positions in various discussions on the grand challenges of our time and how science makes impact on society. The book reveals why interventions that look good or even obvious, are often met with resistance and are hard to realize in practice. Based on a thorough analysis, as well as personal experiences in aids research, university administration and as a science observer, the author provides - while being totally open regarding science's limitations- a realistic narrative about how research is conducted, and how reliable \u2018objective\u2019 knowledge is produced. His idea of science, which draws heavily on American pragmatism, fits in with the global Open Science movement. It is argued that Open Science is a truly and historically unique movement in that it translates the analysis of the problems of science into major institutional actions of system change in order to improve academic culture and the impact of science, engaging all actors in the field of science and academia.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789402421156"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9402421157"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 265,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0G1LEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0G1LEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0G1LEAAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=28&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0G1LEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0G1LEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE_AND_RENTAL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0G1LEAAAQBAJ&rdid=book-0G1LEAAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Open_Science_the_Very_Idea-sample-epub.acsm?id=0G1LEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Open_Science_the_Very_Idea-sample-pdf.acsm?id=0G1LEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0G1LEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This open access book provides a broad context for the understanding of current problems of science and of the different movements aiming to improve the societal impact of science and research."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y6TBywEACAAJ",
+      "etag": "ViMmE6mkhA0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y6TBywEACAAJ",
+      "volumeInfo": {
+        "title": "My First Science Book",
+        "authors": [
+          "Matthew Oldham"
+        ],
+        "publishedDate": "2020-04-02",
+        "description": "This engaging picture introduces little children to the wonders of science. Simple, friendly illustrations take you through a wide range of subjects - from astronauts living in space to simple experiments you can try at home. Discover how a seed grows, why things float, what makes materials change and much more. Full of fascinating facts and important concepts that grownups and children can share and talk about together. Includes internet links to websites with video clips, games and activities for young children to find out more about science. Part of a series which also includes My First Outdoor Book (9781474943031) and My First Body Book (9781474915977).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1474950833"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781474950831"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=y6TBywEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=y6TBywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=y6TBywEACAAJ&dq=science&hl=&as_pt=BOOKS&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=y6TBywEACAAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/My_First_Science_Book.html?hl=&id=y6TBywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y6TBywEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A brilliant book to introduce little ones to the wonders of science, from the human body, weather and seasons to forces, space, animals and plants."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4eaEDwAAQBAJ",
+      "etag": "c6ObKDe4H3s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4eaEDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Thrifty Science",
+        "subtitle": "Making the Most of Materials in the History of Experiment",
+        "authors": [
+          "Simon Werrett"
+        ],
+        "publisher": "University of Chicago Press",
+        "publishedDate": "2019-01-09",
+        "description": "If the twentieth century saw the rise of \u201cBig Science,\u201d then the seventeenth and eighteenth centuries were surely an age of thrift. As Simon Werrett\u2019s new history shows, frugal early modern experimenters transformed their homes into laboratories as they recycled, repurposed, repaired, and reused their material possessions to learn about the natural world. Thrifty Science explores this distinctive culture of experiment and demonstrates how the values of the household helped to shape an array of experimental inquiries, ranging from esoteric investigations of glowworms and sour beer to famous experiments such as Benjamin Franklin\u2019s use of a kite to show lightning was electrical and Isaac Newton\u2019s investigations of color using prisms. Tracing the diverse ways that men and women put their material possessions into the service of experiment, Werrett offers a history of practices of recycling and repurposing that are often assumed to be more recent in origin. This thriving domestic culture of inquiry was eclipsed by new forms of experimental culture in the nineteenth century, however, culminating in the resource-hungry science of the twentieth. Could thrifty science be making a comeback today, as scientists grapple with the need to make their research more environmentally sustainable?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780226610252"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "022661025X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 327,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4eaEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4eaEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=4eaEDwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=4eaEDwAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Thrifty_Science.html?hl=&id=4eaEDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Thrifty_Science-sample-pdf.acsm?id=4eaEDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4eaEDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Could thrifty science be making a comeback today, as scientists grapple with the need to make their research more environmentally sustainable?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QOs2q8n-fCQC",
+      "etag": "o8ibJAjFNAk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QOs2q8n-fCQC",
+      "volumeInfo": {
+        "title": "Science for All",
+        "subtitle": "The Popularization of Science in Early Twentieth-Century Britain",
+        "authors": [
+          "Peter J. Bowler"
+        ],
+        "publisher": "University of Chicago Press",
+        "publishedDate": "2009-10-15",
+        "description": "Recent scholarship has revealed that pioneering Victorian scientists endeavored through voluminous writing to raise public interest in science and its implications. But it has generally been assumed that once science became a profession around the turn of the century, this new generation of scientists turned its collective back on public outreach. Science for All debunks this apocryphal notion. Peter J. Bowler surveys the books, serial works, magazines, and newspapers published between 1900 and the outbreak of World War II to show that practicing scientists were very active in writing about their work for a general readership. Science for All argues that the social environment of early twentieth-century Britain created a substantial market for science books and magazines aimed at those who had benefited from better secondary education but could not access higher learning. Scientists found it easy and profitable to write for this audience, Bowler reveals, and because their work was seen as educational, they faced no hostility from their peers. But when admission to colleges and universities became more accessible in the 1960s, this market diminished and professional scientists began to lose interest in writing at the nonspecialist level. Eagerly anticipated by scholars of scientific engagement throughout the ages, Science for All sheds light on our own era and the continuing tension between science and public understanding.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780226068664"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0226068668"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 353,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QOs2q8n-fCQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QOs2q8n-fCQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QOs2q8n-fCQC&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=31&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QOs2q8n-fCQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QOs2q8n-fCQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE_AND_RENTAL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 61.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 61.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=QOs2q8n-fCQC&rdid=book-QOs2q8n-fCQC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 61990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 61990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          },
+          {
+            "finskyOfferType": 3,
+            "listPrice": {
+              "amountInMicros": 9300000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7530000,
+              "currencyCode": "USD"
+            },
+            "rentalDuration": {
+              "unit": "HOUR",
+              "count": 24
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Science_for_All-sample-epub.acsm?id=QOs2q8n-fCQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Science_for_All-sample-pdf.acsm?id=QOs2q8n-fCQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QOs2q8n-fCQC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Peter J. Bowler surveys the books, serial works, magazines, and newspapers published between 1900 and the outbreak of World War II to show that practicing scientists were very active in writing about their work for a general readership."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eUITAAAAQBAJ",
+      "etag": "u297tH9Ex5k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eUITAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Flavour Science",
+        "subtitle": "Proceedings from XIII Weurman Flavour Research Symposium",
+        "authors": [
+          "Vicente Ferreira",
+          "Ricardo Lopez"
+        ],
+        "publisher": "Academic Press",
+        "publishedDate": "2013-07-29",
+        "description": "Flavor science is continually evolving. Remaining current with the latest research and establishing a broad and sound understanding of the major developments and breakthroughs can be a challenge. The Weurman Flavour Research Symposium has long been regarded as the premier professional meeting focused on the science of flavor. Flavour Science, an extensive review of the most recent symposium, presents the latest in flavor research, enriching the chemistry-based vision of most flavorists and flavor chemists with understanding from a broad range of fields, including human physiology, ethology, psychophysics, genetics, bioinformatics or metabolomics. This book is ideal for all flavor scientists, food chemists and sensory scientists and has a strong audience among enologists as well. - Focuses on the rapidly changing field of flavor science - Includes the latest information on the physiology, chemistry and measurement of flavor - Presents practical information on the flavor industry and emerging trends",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780124017245"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "012401724X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 742,
+        "printType": "BOOK",
+        "categories": [
+          "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eUITAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eUITAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=eUITAAAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=32&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=eUITAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eUITAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 169.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 135.96,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=eUITAAAAQBAJ&rdid=book-eUITAAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 169950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 135960000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Flavour_Science-sample-epub.acsm?id=eUITAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Flavour_Science-sample-pdf.acsm?id=eUITAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eUITAAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is ideal for all flavor scientists, food chemists and sensory scientists and has a strong audience among enologists as well."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sC4bk4DZXTQC",
+      "etag": "dTK1Qwtb0/U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sC4bk4DZXTQC",
+      "volumeInfo": {
+        "title": "Science in Action",
+        "subtitle": "How to Follow Scientists and Engineers Through Society",
+        "authors": [
+          "Bruno Latour"
+        ],
+        "publisher": "Harvard University Press",
+        "publishedDate": "1987",
+        "description": "From weaker to stronger rhetoric : literature - Laboratories - From weak points to strongholds : machines - Insiders out - From short to longer networks : tribunals of reason - Centres of calculation.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0674792912"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780674792913"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sC4bk4DZXTQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sC4bk4DZXTQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=sC4bk4DZXTQC&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=sC4bk4DZXTQC&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Science_in_Action.html?hl=&id=sC4bk4DZXTQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Science_in_Action-sample-epub.acsm?id=sC4bk4DZXTQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Science_in_Action-sample-pdf.acsm?id=sC4bk4DZXTQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sC4bk4DZXTQC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From weaker to stronger rhetoric : literature - Laboratories - From weak points to strongholds : machines - Insiders out - From short to longer networks : tribunals of reason - Centres of calculation."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HR3xhuCQ4YAC",
+      "etag": "gum0Os4u41c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HR3xhuCQ4YAC",
+      "volumeInfo": {
+        "title": "The Science of Science Policy",
+        "subtitle": "A Handbook",
+        "authors": [
+          "Kaye Fealing"
+        ],
+        "publisher": "Stanford University Press",
+        "publishedDate": "2011-03-18",
+        "description": "This handbook provides an overview of the current theoretical and empirical basis for a science of science policy. It offers perspectives from the federal science and policy community, and look towards a research agenda for tomorrow.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780804770781"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0804770786"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 397,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HR3xhuCQ4YAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HR3xhuCQ4YAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=HR3xhuCQ4YAC&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=HR3xhuCQ4YAC&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Science_of_Science_Policy.html?hl=&id=HR3xhuCQ4YAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Science_of_Science_Policy-sample-epub.acsm?id=HR3xhuCQ4YAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Science_of_Science_Policy-sample-pdf.acsm?id=HR3xhuCQ4YAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HR3xhuCQ4YAC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This handbook provides an overview of the current theoretical and empirical basis for a science of science policy. It offers perspectives from the federal science and policy community, and look towards a research agenda for tomorrow."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b2L5VShktGIC",
+      "etag": "MtKw3c0Ak7k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b2L5VShktGIC",
+      "volumeInfo": {
+        "title": "A Framework for K-12 Science Education",
+        "subtitle": "Practices, Crosscutting Concepts, and Core Ideas",
+        "authors": [
+          "National Research Council",
+          "Division of Behavioral and Social Sciences and Education",
+          "Board on Science Education",
+          "Committee on a Conceptual Framework for New K-12 Science Education Standards"
+        ],
+        "publisher": "National Academies Press",
+        "publishedDate": "2012-03-28",
+        "description": "Science, engineering, and technology permeate nearly every facet of modern life and hold the key to solving many of humanity's most pressing current and future challenges. The United States' position in the global economy is declining, in part because U.S. workers lack fundamental knowledge in these fields. To address the critical issues of U.S. competitiveness and to better prepare the workforce, A Framework for K-12 Science Education proposes a new approach to K-12 science education that will capture students' interest and provide them with the necessary foundational knowledge in the field. A Framework for K-12 Science Education outlines a broad set of expectations for students in science and engineering in grades K-12. These expectations will inform the development of new standards for K-12 science education and, subsequently, revisions to curriculum, instruction, assessment, and professional development for educators. This book identifies three dimensions that convey the core ideas and practices around which science and engineering education in these grades should be built. These three dimensions are: crosscutting concepts that unify the study of science through their common application across science and engineering; scientific and engineering practices; and disciplinary core ideas in the physical sciences, life sciences, and earth and space sciences and for engineering, technology, and the applications of science. The overarching goal is for all high school graduates to have sufficient knowledge of science and engineering to engage in public discussions on science-related issues, be careful consumers of scientific and technical information, and enter the careers of their choice. A Framework for K-12 Science Education is the first step in a process that can inform state-level decisions and achieve a research-grounded basis for improving science instruction and learning across the country. The book will guide standards developers, teachers, curriculum designers, assessment developers, state and district science administrators, and educators who teach science in informal environments.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780309217422"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0309217423"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b2L5VShktGIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b2L5VShktGIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=b2L5VShktGIC&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=b2L5VShktGIC&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Framework_for_K_12_Science_Education.html?hl=&id=b2L5VShktGIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b2L5VShktGIC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book identifies three dimensions that convey the core ideas and practices around which science and engineering education in these grades should be built."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bDIyrXuS6ooC",
+      "etag": "xOEil9bDp0g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bDIyrXuS6ooC",
+      "volumeInfo": {
+        "title": "Citizen Science",
+        "subtitle": "Public Participation in Environmental Research",
+        "authors": [
+          "Janis L. Dickinson",
+          "Richard E. Bonney, Jr."
+        ],
+        "publisher": "Cornell University Press",
+        "publishedDate": "2012-04-07",
+        "description": "Citizen science enlists members of the public to make and record useful observations, such as counting birds in their backyards, watching for the first budding leaf in spring, or measuring local snowfall. The large numbers of volunteers who participate in projects such as Project FeederWatch or Project BudBurst collect valuable research data, which, when pooled together, create an enormous body of scientific data on a vast geographic scale. In return, such projects aim to increase participants' connections to science, place, and nature, while supporting science literacy and environmental stewardship. In Citizen Science, experts from a variety of disciplines\u2014including scientists and education specialists working at the Cornell Lab of Ornithology, where many large citizen science programs use birds as proxies for biodiversity\u2014share their experiences of creating and implementing successful citizen science projects, primarily those that use massive data sets gathered by citizen scientists to better understand the impact of environmental change. This first and foundational book for this developing field of inquiry addresses basic aspects of how to conduct citizen science projects, including goal-setting, program design, and evaluation, as well as the nuances of creating a robust digital infrastructure and recruiting a large participant base through communications and marketing. An overview of the types of research approaches and techniques demonstrates how to make use of large data sets arising from citizen science projects. A final section focuses on citizen science's impacts and its broad connections to understanding the human dimensions and educational aspects of participation. Citizen Science teaches teams of program developers and researchers how to cross the bridge from success at public engagement to using citizen science data to understand patterns and trends or to test hypotheses about how ecological processes respond to change at large geographic scales. Intended as a resource for a broad audience of experts and practitioners in natural sciences, information science, and social sciences, this book can be used to better understand how to improve existing programs, develop new ones, and make better use of the data resources that have accumulated from citizen science efforts. Its focus on harnessing the impact of \"crowdsourcing\" for scientific and educational endeavors is applicable to a wide range of fields, especially those that touch on the importance of massive collaboration aimed at understanding and conserving what we can of the natural world.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780801464423"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0801464420"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 299,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.12.11.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bDIyrXuS6ooC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bDIyrXuS6ooC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=bDIyrXuS6ooC&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=36&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bDIyrXuS6ooC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bDIyrXuS6ooC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 26.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.57,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=bDIyrXuS6ooC&rdid=book-bDIyrXuS6ooC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 26990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14570000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Citizen_Science-sample-epub.acsm?id=bDIyrXuS6ooC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bDIyrXuS6ooC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Intended as a resource for a broad audience of experts and practitioners in natural sciences, information science, and social sciences, this book can be used to better understand how to improve existing programs, develop new ones, and make ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0X42EQAAQBAJ",
+      "etag": "6JThebjnqRI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0X42EQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Science Book",
+        "subtitle": "From Darwin to Dark Energy, 250 Milestones in the History of Science",
+        "authors": [
+          "Clifford A. Pickover"
+        ],
+        "publisher": "Union Square & Company",
+        "publishedDate": "2019-01-15",
+        "description": "From astronomy to psychology, this beautifully illustrated chronology presents the most important and groundbreaking milestones in science. Award-winning author Cliff Pickover (The Math Book, The Physics Book, and The Medical Book) gathers into one fully illustrated volume the most important thinkers and ideas in the history of science. This unique omnibus edition includes 250 thoughtfully selected entries from many of the science-based books in the Sterling Milestones series, including math, physics, medicine, biology, chemistry, engineering, psychology, and space. With a new introduction by Pickover explaining how this impressive collection was curated, The Science Book showcases humanity\u2019s greatest achievements and provides readers with a sense of wonder at the diversity of scientific discovery.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781454933007"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1454933003"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 802,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0X42EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0X42EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0X42EQAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=37&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0X42EQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0X42EQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0X42EQAAQBAJ&rdid=book-0X42EQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Science_Book-sample-epub.acsm?id=0X42EQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0X42EQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With a new introduction by Pickover explaining how this impressive collection was curated, The Science Book showcases humanity\u2019s greatest achievements and provides readers with a sense of wonder at the diversity of scientific discovery."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Df3RDwAAQBAJ",
+      "etag": "mYg3MicaKnI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Df3RDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Tragedy of American Science",
+        "subtitle": "From Truman to Trump",
+        "authors": [
+          "Clifford D. Conner"
+        ],
+        "publisher": "Haymarket Books",
+        "publishedDate": "2020-05-05",
+        "description": "A look at the destructive history of science-for-profit, including its toll on the US pandemic response, by the author of A People\u2019s History of Science. Despite a facade of brilliant technological advances, American science has led humanity to the brink of interrelated disasters. In The Tragedy of American Science, historian of science Clifford D. Conner describes the dual processes by which this history has unfolded since the Second World War, addressing the corporatization and the militarization of science in the US. He examines the role of private profit considerations in determining the direction of scientific inquiry\u2014and the ways those considerations have dangerously undermined the integrity of sciences impacting food, water, air, medicine, and the climate. In addition, he explores the relationship between scientific industries and the US military, discussing the innumerable financial and human scientific resources that have been diverted from other critical areas in order to further military aggrandizement and technological development. While the underlying problems may appear intractable, Conner compellingly argues that replacing the current science-for-profit system with a science-for-human-needs system is not an impossible utopian dream\u2014and the first step to a better future is grappling with the mistakes of the past.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781642592030"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "164259203X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 283,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Df3RDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Df3RDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Df3RDwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=38&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Df3RDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Df3RDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 17.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Df3RDwAAQBAJ&rdid=book-Df3RDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 17990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Df3RDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In The Tragedy of American Science, historian of science Clifford D. Conner describes the dual processes by which this history has unfolded since the Second World War, addressing the corporatization and the militarization of science in the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KmPyzQEACAAJ",
+      "etag": "yE9akZip1jE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KmPyzQEACAAJ",
+      "volumeInfo": {
+        "title": "Dangerous Science",
+        "authors": [
+          "Daniel J Rozell"
+        ],
+        "publishedDate": "2020-10-09",
+        "description": "The public is generally enthusiastic about the latest science and technology, but sometimes research threatens the physical safety or ethical norms of society. When this happens, scientists and engineers can find themselves unprepared in the midst of an intense science policy debate. In the absence of convincing evidence, technological optimists and skeptics struggle to build consensus. In these situations, it is best to sidestep the instigating controversy by using a broad risk-benefit assessment as a risk exploration tool to help scientists and engineers accomplish their goals while avoiding physical or moral dangers. Dangerous Science explores the intersection of science policy and risk analysis to determine ways to minimize negative impacts of science and technology on society. This work was published by Saint Philip Street Press pursuant to a Creative Commons license permitting commercial use. All rights not granted by the work's license are retained by the author or authors.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "101329520X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781013295201"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "categories": [
+          "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KmPyzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KmPyzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=KmPyzQEACAAJ&dq=science&hl=&as_pt=BOOKS&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=KmPyzQEACAAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dangerous_Science.html?hl=&id=KmPyzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KmPyzQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work was published by Saint Philip Street Press pursuant to a Creative Commons license permitting commercial use. All rights not granted by the work&#39;s license are retained by the author or authors."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "plg5EAAAQBAJ",
+      "etag": "W4kJm/8muSU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/plg5EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Fundamentals of Ecosystem Science",
+        "authors": [
+          "Kathleen C. Weathers",
+          "David L. Strayer",
+          "Gene E. Likens"
+        ],
+        "publisher": "Elsevier",
+        "publishedDate": "2021-07-26",
+        "description": "Fundamentals of Ecosystem Science, Second Edition provides a comprehensive introduction to modern ecosystem science covering land, freshwater and marine ecosystems. Featuring full color images to support learning and written by a group of experts, this updated edition covers major concepts of ecosystem science, biogeochemistry, and energetics. Case studies of important environmental problems offer personal insights into how adopting an ecosystem approach has helped solve important intellectual and practical problems. For those choosing to use the book in a classroom environment, or who want to enrich further their reading experience, teaching and learning assets are available at Elsevier.com. Covers both aquatic (freshwater and marine) and terrestrial ecosystems with updated information Includes a new chapter on microbial biogeochemistry Features vignettes throughout the book with real examples of how an ecosystem approach has led to important change in policy, management, and ecological understanding Demonstrates the application of an ecosystem approach in synthesis chapters and case studies Contains new coverage of human-environment interactions",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780128127629"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0128127627"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 358,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=plg5EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=plg5EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=plg5EAAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=plg5EAAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fundamentals_of_Ecosystem_Science.html?hl=&id=plg5EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fundamentals_of_Ecosystem_Science-sample-pdf.acsm?id=plg5EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=plg5EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Featuring full color images to support learning and written by a group of experts, this updated edition covers major concepts of ecosystem science, biogeochemistry, and energetics."
+      }
+    }
+  ]
+}

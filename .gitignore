@@ -1,0 +1,23 @@
+# Ignore virtual environment
+airflow_env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Airflow generated files
+airflow-webserver.pid
+airflow.db
+webserver_config.py
+logs/
+
+# Ignore data files
+data/raw/
+data/cleaned/*.csv
+data/cleaned/*.db
+data/cleaned/last_run.txt
+
+# VSCode configs
+.vscode/

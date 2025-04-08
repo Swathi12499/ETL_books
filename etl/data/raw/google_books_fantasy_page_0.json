@@ -1,0 +1,3389 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "RnIf6rq9rMQC",
+      "etag": "OS3wgPmGSvM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RnIf6rq9rMQC",
+      "volumeInfo": {
+        "title": "Fantasy Life",
+        "subtitle": "The Outrageous, Uplifting, and Heartbreaking World of Fantasy Sports from the Gu y Who's Lived It",
+        "authors": [
+          "Matthew Berry"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2013-07-16",
+        "description": "Includes new chapters with small, easy-to-understand words. Bestselling words! Fantasy football, fantasy baseball, fantasy basketball, even fantasy sumo wrestling: the world of fantasy sports is huge, and still growing. Today, more than 35 million people in the United States and Canada spend hours upon hours each week on their fantasy sports teams. And as the Senior Fantasy Sports Analyst for ESPN, Matthew Berry is on the front lines of what has grown from a niche subculture into a national pastime. In his New York Times-bestselling Fantasy Life, Berry celebrates every aspect of the fantasy sports world. Brilliant trash talk. Unbelievable trophies. Insane draft day locations. Shake-your-head-in-disbelief punishments. Ingenious attempts at cheating. And surprisingly uplifting stories that remind us why we play these games in the first place. Written with the same award-winning style that has made Berry one of the most popular columnists on ESPN.com, Fantasy Life is a book for both hard-core fantasy players and people who have never played before. Between tales of love and hate, birth and death, tattoos and furry animal costumes, the White House Situation Room and a 126-pound golden pelican, Matthew chronicles his journey from a fourteen-year-old fantasy player to the face of fantasy sports for the largest sports media company in the world. Fantasy will save your life. Fantasy will set you free. And fantasy life is most definitely better than real life. You\u2019ll see.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101613979"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1101613971"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "categories": [
+          "Games & Activities"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.10.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RnIf6rq9rMQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RnIf6rq9rMQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RnIf6rq9rMQC&printsec=frontcover&dq=fantasy&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RnIf6rq9rMQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RnIf6rq9rMQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RnIf6rq9rMQC&rdid=book-RnIf6rq9rMQC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fantasy_Life-sample-epub.acsm?id=RnIf6rq9rMQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RnIf6rq9rMQC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Fantasy will save your life. Fantasy will set you free. And fantasy life is most definitely better than real life. You\u2019ll see."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ld5GswEACAAJ",
+      "etag": "pueQSsDAEfY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ld5GswEACAAJ",
+      "volumeInfo": {
+        "title": "The Fellowship of the Ring",
+        "subtitle": "Being the First Part of The Lord of the Rings",
+        "authors": [
+          "John Ronald Reuel Tolkien"
+        ],
+        "publishedDate": "2005",
+        "description": "Frodo the hobbit and a band of warriors from the different kingdoms set out to destroy the Ring of Power before the evil Sauron grasps control.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1484482352"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781484482353"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 531,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ld5GswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ld5GswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ld5GswEACAAJ&dq=fantasy&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ld5GswEACAAJ&dq=fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Fellowship_of_the_Ring.html?hl=&id=ld5GswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ld5GswEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Frodo the hobbit and a band of warriors from the different kingdoms set out to destroy the Ring of Power before the evil Sauron grasps control."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PLKLAAAACAAJ",
+      "etag": "cCYXHitdPyE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PLKLAAAACAAJ",
+      "volumeInfo": {
+        "title": "The Book of Fantasy",
+        "authors": [
+          "Jorge Luis Borges",
+          "Silvina Ocampo",
+          "Adolfo Bioy Casares"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0552994014"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780552994019"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 526,
+        "printType": "BOOK",
+        "categories": [
+          "Fantasy fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PLKLAAAACAAJ&dq=fantasy&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=PLKLAAAACAAJ&dq=fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_of_Fantasy.html?hl=&id=PLKLAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PLKLAAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fjuRDwAAQBAJ",
+      "etag": "ZeFk9y64kEc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fjuRDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Legacy of Ash",
+        "authors": [
+          "Matthew Ward"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2019-11-05",
+        "description": "Legacy of Ash is an unmissable fantasy debut--an epic tale of intrigue and revolution, soldiers and assassins, ancient magic and the eternal clash of empires. A shadow has fallen over the Tressian Republic. Ruling families -- once protectors of justice and democracy -- now plot against one another with sharp words and sharper knives. Blinded by ambition, they remain heedless of the threat posed by the invading armies of the Hadari Empire. Yet as Tressia falls, heroes rise. Viktor Akadra is the Republic's champion. A warrior without equal, he hides a secret that would see him burned as a heretic. Josiri Trelan is Viktor's sworn enemy. A political prisoner, he dreams of reigniting his mother's failed rebellion. And yet Calenne Trelan, Josiri's sister, seeks only to break free of their tarnished legacy; to escape the expectation and prejudice that haunts the family name. As war spreads across the Republic, these three must set aside their differences in order to save their home. Yet decades of bad blood are not easily set aside. And victory -- if it comes at all -- will demand a darker price than any of them could have imagined.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780316457897"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0316457892"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 804,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.9.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fjuRDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fjuRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fjuRDwAAQBAJ&dq=fantasy&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=fjuRDwAAQBAJ&dq=fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Legacy_of_Ash.html?hl=&id=fjuRDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fjuRDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Legacy of Ash is an unmissable fantasy debut--an epic tale of intrigue and revolution, soldiers and assassins, ancient magic and the eternal clash of empires."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DX2O_0df_REC",
+      "etag": "Dn6aDvJ/tuw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DX2O_0df_REC",
+      "volumeInfo": {
+        "title": "Fantasy Fiction",
+        "authors": [
+          "Frances Sinclair"
+        ],
+        "publisher": "School Library Association",
+        "publishedDate": "2008",
+        "description": "Handbook of fantasy fiction for teachers, librarians, parents and guardians and children themselves in which to find many titles of fantasy fiction that they like, or may be tempted, to read. Includes groups such as classic fantasy, comic fantasy, Arthurian, dark fantasy, animals and dragons.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781903446461"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1903446465"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "categories": [
+          "Children's literature, English"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DX2O_0df_REC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DX2O_0df_REC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DX2O_0df_REC&pg=PA6&dq=fantasy&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=DX2O_0df_REC&dq=fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fantasy_Fiction.html?hl=&id=DX2O_0df_REC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fantasy_Fiction-sample-pdf.acsm?id=DX2O_0df_REC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DX2O_0df_REC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fantasy</b> worlds. George MacDonald Phantastes was the template for portal <b>fantasy</b>,2 still seen as the first author of <b>fantasy</b> for adults and informed Tolkien and C. S. Lewis.3 Lewis Carroll Alice&#39;s Adventures in Wonderland \u2013 &#39;first great&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IIUrzQEACAAJ",
+      "etag": "Uz71/uxQp6E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IIUrzQEACAAJ",
+      "volumeInfo": {
+        "title": "Fantasy",
+        "authors": [
+          "Kim-Anh Schreiber"
+        ],
+        "publishedDate": "2020",
+        "description": "Fiction. Drama. Literary Nonfiction. Film. Asian & Asian American Studies. Women's Studies. Part exegesis on Nobuhiko Obayashi's film HOUSE and part meditation on the ineffable specters that inhabit homes and ancestral histories, FANTASY is a daughter's story of her Vietnamese mother and their twin journeys towards belonging with one another and in the world. Where exilic, inherited memory encounters its limits, FANTASY reaches towards cult cinematic atmospheres, irreverent flowers, pop culture, and photographs with no images, making for a reading experience like no other. \"Schreiber uses the fabric of cinema and horror to quasi-measure the length and width of her pre-adolescent and adolescent consciousness. It's a GORGEOUS dress that the ghost in her psyche demands that it wears before falling into ash. Here, in these immolatable, scriptive dialogues with all of her consanguineous, anecdotal, exegetical selves ('who become shoes without feet that walk back and forth' in a house that eats like hungry ghosts), her psyche is cut, recut, uncut, though not forgotten, un-linearly and nonchalantly and numerously, by her relationship to film and her relationship with her Vietnamese mother, surrogated mother in grandmother(s) and auntie(s). ... As Kim-Anh Schreiber seeks closure with the uncloseable, we see an acutely talented scholar and inventive memoirist.\" --Vi Khi Nao. \"'Schreiber, the daughter of a Vietnamese refugee and a German immigrant, combines recognizable modes--memoir, criticism, dramatic play script--into something as uncategorizable as the film she deploys throughout the book as muse and foil: Nobuhiko Obayashi's 1977 post-Hiroshima 'horror-comedy' HOUSE, in which generations of women are trapped together in a haunted house. Beginning with extended considerations of the instability of memory ('an evocative curator'), of the 'impossible problem of drawing a picture,' and of the pull to use projection and doubling as bridges across gaps in experience and understanding, FANTASY finally resolves into a flickering, unstable but vivid portrait of a mother and daughter both separated and bonded by history, violence, human fallibility, and love.\" --Anna Moschovakis",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1940090113"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781940090115"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Essays"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IIUrzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IIUrzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=IIUrzQEACAAJ&dq=fantasy&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=IIUrzQEACAAJ&dq=fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fantasy.html?hl=&id=IIUrzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IIUrzQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;&#39;Schreiber, the daughter of a Vietnamese refugee and a German immigrant, combines recognizable modes--memoir, criticism, dramatic play script--into something as uncategorizable as the film she deploys throughout the book as muse and foil: ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dwHdDwAAQBAJ",
+      "etag": "Ga6nL+TMDP4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dwHdDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Stone Knife (The Songs of the Drowned, Book 1)",
+        "authors": [
+          "Anna Stephens"
+        ],
+        "publisher": "HarperCollins UK",
+        "publishedDate": "2020-11-26",
+        "description": "A fantasy epic of freedom and empire, gods and monsters, love, loyalty, honour, and betrayal, from the acclaimed author of GODBLIND.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780008404024"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "000840402X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 565,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dwHdDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dwHdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=dwHdDwAAQBAJ&printsec=frontcover&dq=fantasy&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dwHdDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dwHdDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=dwHdDwAAQBAJ&rdid=book-dwHdDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Stone_Knife_The_Songs_of_the_Drowned-sample-epub.acsm?id=dwHdDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dwHdDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A fantasy epic of freedom and empire, gods and monsters, love, loyalty, honour, and betrayal, from the acclaimed author of GODBLIND."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4iaREAAAQBAJ",
+      "etag": "0H2gPjXpHJE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4iaREAAAQBAJ",
+      "volumeInfo": {
+        "title": "Ursula K. Le Guin",
+        "subtitle": "Conversations on Writing",
+        "authors": [
+          "Ursula K. Le Guin",
+          "David Naimon"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2018-07-17",
+        "description": "When the New York Times referred to Ursula K. Le Guin as America\u2019s greatest writer of science fiction, they just might have undersold her legacy. It\u2019s hard to look at her vast body of work--novels and stories across multiple genres, poems, translations, essays, speeches, and criticism--and see anything but one of our greatest writers, period. In a series of interviews with David Naimon (Between the Covers), Le Guin discusses craft, aesthetics, and philosophy in her fiction, poetry, and nonfiction respectively. The discussions provide ample advice and guidance for writers of every level, but also give Le Guin a chance to to sound off on some of her favorite subjects: the genre wars, the patriarchy, the natural world, and what, in her opinion, makes for great writing. With excerpts from her own books and those that she looked to for inspiration, this volume is a treat for Le Guin\u2019s longtime readers, a perfect introduction for those first approaching her writing, and a tribute to her incredible life and work.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781941040997"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1941040993"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4iaREAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4iaREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=4iaREAAAQBAJ&dq=fantasy&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=4iaREAAAQBAJ&dq=fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ursula_K_Le_Guin.html?hl=&id=4iaREAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4iaREAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With excerpts from her own books and those that she looked to for inspiration, this volume is a treat for Le Guin\u2019s longtime readers, a perfect introduction for those first approaching her writing, and a tribute to her incredible life and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4WSF_v7OYbAC",
+      "etag": "ng1aWFBq3U8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4WSF_v7OYbAC",
+      "volumeInfo": {
+        "title": "Fantasy Football For Dummies",
+        "authors": [
+          "Martin Signore"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2011-02-25",
+        "description": "Packed with expert advice and timely tips The fun and easy way to guide your American football team to glory in fantasy football Fantasy football can be an addictive hobby. But if you've never played American football before, how do you start? Have no fear! This friendly guide explains the game to you from start to finish -- from scouting and drafting your players to building your coaching skills to planning your strategy. And who knows, perhaps even to tasting victory in your league championship! Understand the basics of the game Pick the league right for you Assemble your dream team in the draft Develop your in-season management skills Know which quick fixes work and what common mistakes to avoid",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118051603"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118051602"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 291,
+        "printType": "BOOK",
+        "categories": [
+          "Games & Activities"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4WSF_v7OYbAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4WSF_v7OYbAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=4WSF_v7OYbAC&printsec=frontcover&dq=fantasy&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=4WSF_v7OYbAC&dq=fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fantasy_Football_For_Dummies.html?hl=&id=4WSF_v7OYbAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fantasy_Football_For_Dummies-sample-epub.acsm?id=4WSF_v7OYbAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fantasy_Football_For_Dummies-sample-pdf.acsm?id=4WSF_v7OYbAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4WSF_v7OYbAC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Have no fear! This friendly guide explains the game to you from start to finish -- from scouting and drafting your players to building your coaching skills to planning your strategy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oLy3H64XXkYC",
+      "etag": "c/SM/l89aXw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oLy3H64XXkYC",
+      "volumeInfo": {
+        "title": "Fantasy Baseball",
+        "authors": [
+          "Alan M. Gratz"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2011-03-17",
+        "description": "The Wizard of Oz meets America's favorite pastime! Alex Metcalf must be dreaming. What else would explain why he's playing baseball for the Oz Cyclones, with Dorothy as his captain, in the Ever After Baseball Tournament? But Alex isn't dreaming; he's just from the real world. And winning the tournament might be his only chance to get back there, because the champions get a wish granted by the Wizard. Too bad Ever After's most notorious criminal, the Big Bad Wolf, is also after the wishes. And anyone who gets in his way gets eaten! From beloved baseball author Alan Gratz comes a novel in which classic literary characters are baseball crazy, and one real-world boy must face his fears and discover the surprising truth about himself.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101476086"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1101476087"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oLy3H64XXkYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oLy3H64XXkYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oLy3H64XXkYC&printsec=frontcover&dq=fantasy&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oLy3H64XXkYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oLy3H64XXkYC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=oLy3H64XXkYC&rdid=book-oLy3H64XXkYC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fantasy_Baseball-sample-epub.acsm?id=oLy3H64XXkYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oLy3H64XXkYC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From beloved baseball author Alan Gratz comes a novel in which classic literary characters are baseball crazy, and one real-world boy must face his fears and discover the surprising truth about himself."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ae8aDAAAQBAJ",
+      "etag": "pc/vA92jfWA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ae8aDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Soul of the Fire",
+        "authors": [
+          "Terry Goodkind"
+        ],
+        "publisher": "RosettaBooks",
+        "publishedDate": "2015-03-24",
+        "description": "Mayhem runs rampant as battle lines are drawn between rival lands in the fifth novel of the #1 New York Times bestselling author\u2019s epic fantasy series. Richard Rahl has finally married his true love, Kahlan, and are enjoying their wedding night in the Village of the Mud People. But their newlywed bliss is cut short as unexplainable deaths begin to occur. Richard realizes that when Kahlan called forth the Chimes in order to save him, they remained free\u2014and now they\u2019re causing havoc. Richard\u2019s mentor Zedd sends him and Kahlan off to the Wizard\u2019s Keep in Aydindril to retrieve a magic spell that will stop the threat. But they are soon sidetracked by the people of Anderith, who wield a powerful weapon known as the Dominie Dirtch. The leadership of Anderith is making a bid to align with the evil Imperial Order. And as Richard tries to persuade them to change their minds, the Chimes continue their dangerous mischief.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780795346125"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0795346123"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 894,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.8.11.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ae8aDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ae8aDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ae8aDAAAQBAJ&printsec=frontcover&dq=fantasy&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ae8aDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ae8aDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.59,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ae8aDAAAQBAJ&rdid=book-ae8aDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9590000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Soul_of_the_Fire-sample-epub.acsm?id=ae8aDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ae8aDAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mayhem runs rampant as battle lines are drawn between rival lands in the fifth novel of the #1 New York Times bestselling author\u2019s epic fantasy series."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2juqEAAAQBAJ",
+      "etag": "WLYsqoepFV0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2juqEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Nona the Ninth",
+        "authors": [
+          "Tamsyn Muir"
+        ],
+        "publisher": "Tordotcom",
+        "publishedDate": "2023-09-12",
+        "description": "Tamsyn Muir's New York Times and USA Today bestselling Locked Tomb Series continues with Nona ...the Ninth? An Indie Next Pick! \u201cYou will love Nona, and Nona loves you.\u201d \u2014Alix E. Harrow \u201cUnlike anything I've ever read.\u201d \u2014V.E. Schwab on Gideon the Ninth \u201cDeft, tense and atmospheric, compellingly immersive and wildly original.\u201d \u2014The New York Times on Gideon the Ninth Her city is under siege. The zombies are coming back. And all Nona wants is a birthday party. In many ways, Nona is like other people. She lives with her family, has a job at her local school, and loves walks on the beach and meeting new dogs. But Nona's not like other people. Six months ago she woke up in a stranger's body, and she's afraid she might have to give it back. The whole city is falling to pieces. A monstrous blue sphere hangs on the horizon, ready to tear the planet apart. Blood of Eden forces have surrounded the last Cohort facility and wait for the Emperor Undying to come calling. Their leaders want Nona to be the weapon that will save them from the Nine Houses. Nona would prefer to live an ordinary life with the people she loves, with Pyrrha and Camilla and Palamedes, but she also knows that nothing lasts forever. And each night, Nona dreams of a woman with a skull-painted face...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250899132"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1250899133"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2juqEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2juqEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2juqEAAAQBAJ&dq=fantasy&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2juqEAAAQBAJ&dq=fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nona_the_Ninth.html?hl=&id=2juqEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2juqEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Tamsyn Muir&#39;s New York Times and USA Today bestselling Locked Tomb Series continues with Nona ...the Ninth?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QVn-CgAAQBAJ",
+      "etag": "JqH6maH18yc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QVn-CgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Way of Kings",
+        "subtitle": "Book One of the Stormlight Archive",
+        "authors": [
+          "Brandon Sanderson"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "2014-03-04",
+        "description": "A new epic fantasy series from the New York Times bestselling author chosen to complete Robert Jordan's The Wheel of Time\u00ae Series",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780765376671"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0765376679"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1013,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QVn-CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QVn-CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QVn-CgAAQBAJ&printsec=frontcover&dq=fantasy&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=QVn-CgAAQBAJ&dq=fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Way_of_Kings.html?hl=&id=QVn-CgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QVn-CgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A new epic fantasy series from the New York Times bestselling author chosen to complete Robert Jordan&#39;s The Wheel of Time\u00ae Series"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3JasKAAACAAJ",
+      "etag": "w/aRbSPhrkM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3JasKAAACAAJ",
+      "volumeInfo": {
+        "title": "Flesh and Fantasy",
+        "authors": [
+          "Penny Stallings",
+          "Howard Mandelbaum"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "1989",
+        "description": "This stylish panorma of the Great American Dream Machine reveals the wonderful unreality that made Hollywood the capital of pop culture and features quizzes, games, and gossip about stars",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0060963433"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780060963439"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 285,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=3JasKAAACAAJ&dq=fantasy&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=3JasKAAACAAJ&dq=fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Flesh_and_Fantasy.html?hl=&id=3JasKAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3JasKAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The ultimate Hollywood gossip and trivia book, illustrated with over 1,000 unusual and rarely seen photographs."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kNRcEAAAQBAJ",
+      "etag": "cVxRAM9EFjU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kNRcEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Fantasy League",
+        "authors": [
+          "Mike Lupica"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2015-07-14",
+        "description": "From the #1 New York Times bestselling author of HEAT, TRAVEL TEAM and MILLION-DOLLAR THROW comes a story of every football kid\u2019s dream come true. 12-year-old Charlie is a fantasy football guru. He may be just a bench warmer for his school's football team, but when it comes to knowing and loving the game, he's first-string. He even becomes a celebrity when his podcast gets noticed by a sports radio host, who plays Charlie's fantasy picks for all of Los Angeles to hear. Soon Charlie befriends the elderly owner of the L.A. Bulldogs -- a fictional NFL team -- and convinces him to take a chance on an aging quarterback. After that, watch out . . . it's press conferences and national fame as Charlie becomes a media curiosity and source of conflict for the Bulldogs general manager, whose job Charlie seems to have taken. It's all a bit much for a kid just trying to stay on top of his grades and maintain his friendship with his verbal sparring partner, Anna. Like the best Disney film in book form, like Moneyball for kids, Fantasy League is every football kid's dream scenario. \u201cLupica is the greatest sports writer for middle school readers.\u201d \u2013VOYA",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780147514943"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0147514940"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 321,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kNRcEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kNRcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=kNRcEAAAQBAJ&printsec=frontcover&dq=fantasy&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=kNRcEAAAQBAJ&dq=fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fantasy_League.html?hl=&id=kNRcEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kNRcEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Like the best Disney film in book form, like Moneyball for kids, Fantasy League is every football kid&#39;s dream scenario. \u201cLupica is the greatest sports writer for middle school readers.\u201d \u2013VOYA"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kU5sAAAAQBAJ",
+      "etag": "5oeaUVfaHDs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kU5sAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Ignite Me",
+        "authors": [
+          "Tahereh Mafi"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2014-02-04",
+        "description": "The heart-stopping third installment in the New York Times bestselling Shatter Me series, which Ransom Riggs, author of Miss Peregrine's Home for Peculiar Children and Hollow City, called \"a thrilling, high-stakes saga of self-discovery and forbidden love.\" With Omega Point destroyed, Juliette doesn't know if the rebels, her friends, or even Adam are alive. But that won't keep her from trying to take down The Reestablishment once and for all. Now she must rely on Warner, the handsome commander of Sector 45. The one person she never thought she could trust. The same person who saved her life. He promises to help Juliette master her powers and save their dying world . . . but that's not all he wants with her. The Shatter Me series is perfect for fans who crave action-packed young adult novels with tantalizing romance like Red Queen by Victoria Aveyard, The Hunger Games by Suzanne Collins, and Legend by Marie Lu. Tahereh Mafi has created a captivating and original story that combines the best of dystopian and paranormal and was praised by Publishers Weekly as \"a gripping read from an author who's not afraid to take risks.\" This bestselling series from powerhouse author Tahereh Mafi showcases relentlessly thrilling action, heart-stopping romance, and a war-torn world in which rebellion is the only path to freedom. And don't miss Watch Me, the first book in a new series in the Shatter Me universe set ten years after the fall of The Reestablishment, on sale in April 2025!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062085597"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "006208559X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 274,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.12.12.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kU5sAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kU5sAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=kU5sAAAAQBAJ&printsec=frontcover&dq=fantasy&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=kU5sAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kU5sAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=kU5sAAAAQBAJ&rdid=book-kU5sAAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Ignite_Me-sample-epub.acsm?id=kU5sAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kU5sAAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; This bestselling series from powerhouse author Tahereh Mafi showcases relentlessly thrilling action, heart-stopping romance, and a war-torn world in which rebellion is the only path to freedom."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ioP_Le-9toMC",
+      "etag": "piexZq2wt3k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ioP_Le-9toMC",
+      "volumeInfo": {
+        "title": "Assassins in Love",
+        "authors": [
+          "Kris DeLake"
+        ],
+        "publisher": "Sourcebooks, Inc.",
+        "publishedDate": "2012-03-01",
+        "description": "A fast, edgy, and passionate story.\" \u2014Mary Jo Putney, New York Times bestselling author When one killer falls for another Agent: Misha Profile: Highly trained in every method the assassins guild has to offer. Always goes by the book. Agent: Rikki Profile: Rogue assassin who kills only to rid the world of hardened criminals. Hates organizations. Always does it her way. Love becomes a matter of life and death Misha's mission is to get Rikki to join the guild or give up her guns. He completely underestimated the effect she would have on him...and what heat and chaos they could bring to each other...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781402262838"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1402262833"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 354,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.7.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ioP_Le-9toMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ioP_Le-9toMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ioP_Le-9toMC&printsec=frontcover&dq=fantasy&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ioP_Le-9toMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ioP_Le-9toMC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 5.38,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ioP_Le-9toMC&rdid=book-ioP_Le-9toMC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 5380000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Assassins_in_Love-sample-epub.acsm?id=ioP_Le-9toMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Assassins_in_Love-sample-pdf.acsm?id=ioP_Le-9toMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ioP_Le-9toMC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A fast, edgy, and passionate story.&quot; \u2014Mary Jo Putney, New York Times bestselling author When one killer falls for another Agent: Misha Profile: Highly trained in every method the assassins guild has to offer. Always goes by the book."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jtRC6wAGeGoC",
+      "etag": "0WY/bx5Wskg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jtRC6wAGeGoC",
+      "volumeInfo": {
+        "title": "The Anatomy of National Fantasy",
+        "subtitle": "Hawthorne, Utopia, and Everyday Life",
+        "authors": [
+          "Lauren Berlant"
+        ],
+        "publisher": "University of Chicago Press",
+        "publishedDate": "1991-08-13",
+        "description": "Examining the complex relationships between the political, popular, sexual, and textual interests of Nathaniel Hawthorne's work, Lauren Berlant argues that Hawthorne mounted a sophisticated challenge to America's collective fantasy of national unity. She shows how Hawthorne's idea of citizenship emerged from an attempt to adjudicate among the official and the popular, the national and the local, the collective and the individual, utopia and history. At the core of Berlant's work is a three-part study of The Scarlet Letter, analyzing the modes and effects of national identity that characterize the narrator's representation of Puritan culture and his construction of the novel's political present tense. This analysis emerges from an introductory chapter on American citizenship in the 1850s and a following chapter on national fantasy, ranging from Hawthorne's early work \"Alice Doane's Appeal\" to the Statue of Liberty. In her conclusion, Berlant suggests that Hawthorne views everyday life and local political identities as alternate routes to the revitalization of the political and utopian promises of modern national life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780226043777"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0226043770"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 277,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jtRC6wAGeGoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jtRC6wAGeGoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=jtRC6wAGeGoC&printsec=frontcover&dq=fantasy&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=jtRC6wAGeGoC&dq=fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Anatomy_of_National_Fantasy.html?hl=&id=jtRC6wAGeGoC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Anatomy_of_National_Fantasy-sample-epub.acsm?id=jtRC6wAGeGoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Anatomy_of_National_Fantasy-sample-pdf.acsm?id=jtRC6wAGeGoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jtRC6wAGeGoC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "At the core of Berlant&#39;s work is a three-part study of The Scarlet Letter, analyzing the modes and effects of national identity that characterize the narrator&#39;s representation of Puritan culture and his construction of the novel&#39;s political ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zvARp4yM1sUC",
+      "etag": "amEJqlscErM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zvARp4yM1sUC",
+      "volumeInfo": {
+        "title": "Canadian Science Fiction and Fantasy",
+        "authors": [
+          "David Ketterer"
+        ],
+        "publisher": "Indiana University Press",
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0253331226"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780253331229"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 236,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zvARp4yM1sUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zvARp4yM1sUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=zvARp4yM1sUC&pg=PA27&dq=fantasy&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=zvARp4yM1sUC&dq=fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Canadian_Science_Fiction_and_Fantasy.html?hl=&id=zvARp4yM1sUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Canadian_Science_Fiction_and_Fantasy-sample-epub.acsm?id=zvARp4yM1sUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Canadian_Science_Fiction_and_Fantasy-sample-pdf.acsm?id=zvARp4yM1sUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zvARp4yM1sUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fantasy</b> may reveal more about a person&#39;s or a people&#39;s soul than SF , and hence this separate chapter on French - Canadian &quot; <b>fantasy</b> . &quot; But the quotation marks around &quot; <b>fantasy</b> &quot; point to a second reason . There is no French word that&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ApxYDwAAQBAJ",
+      "etag": "VLZR37d/5ak",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ApxYDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Fantasy/Animation",
+        "subtitle": "Connections Between Media, Mediums and Genres",
+        "authors": [
+          "Christopher Holliday",
+          "Alexander Sergeant"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2018-04-27",
+        "description": "This book examines the relationship that exists between fantasy cinema and the medium of animation. Animation has played a key role in defining our collective expectations and experiences of fantasy cinema, just as fantasy storytelling has often served as inspiration for our most popular animated film and television. Bringing together contributions from world-renowned film and media scholars, Fantasy/Animation considers the various historical, theoretical, and cultural ramifications of the animated fantasy film. This collection provides a range of chapters on subjects including Disney, Pixar, and Studio Ghibli, filmmakers such as Ralph Bakshi and James Cameron, and on film and television franchises such as Dreamworks\u2019 How To Train Your Dragon (2010\u2013) and HBO\u2019s Game of Thrones (2011\u2013).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781351681407"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1351681400"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 327,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ApxYDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ApxYDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ApxYDwAAQBAJ&pg=PT22&dq=fantasy&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ApxYDwAAQBAJ&dq=fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fantasy_Animation.html?hl=&id=ApxYDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fantasy_Animation-sample-epub.acsm?id=ApxYDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fantasy_Animation-sample-pdf.acsm?id=ApxYDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ApxYDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fantasy</b>.\u201d50 Both filmmakers thus harnessed the <b>fantasy</b> of animation through the malleability of the material, turning to stop-motion as the only way of making concrete the <b>fantasy</b> of their imagination. German animator Lotte Reiniger&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8oubDwAAQBAJ",
+      "etag": "xQs/bslhx7I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8oubDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Final Fantasy Ultimania Archive Volume 2",
+        "authors": [
+          "Square Enix"
+        ],
+        "publisher": "Dark Horse Comics",
+        "publishedDate": "2018-12-18",
+        "description": "Explore the art and adventure of the quintessential entries in the Final Fantasy saga with this gorgeous 300-plus-page hardcover. Collecting concept art, design notes, creator retrospectives, and more from Final Fantasy VII, Final Fantasy VIII, and Final Fantasy IX, Dark Horse's journey through the creation of the groundbreaking role-playing masterpiece continues! Dark Horse and Square Enix are thrilled to present the second of three volumes that officially translate Square Enix's detailed history chronicling the creation of the Final Fantasy franchise's seventh, eighth, and ninth games. Filled with captivating art and creator commentary, Final Fantasy Ultimania Archive Volume 2 remains completely authentic to its Japanese source material with unrivaled access for a Western audience. This prestige compendium is a must-have addition for any Final Fantasy enthusiast's collection.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781506706627"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1506706622"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 328,
+        "printType": "BOOK",
+        "categories": [
+          "Games & Activities"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8oubDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8oubDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8oubDwAAQBAJ&pg=PA318&dq=fantasy&hl=&as_pt=BOOKS&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8oubDwAAQBAJ&dq=fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Final_Fantasy_Ultimania_Archive_Volume_2.html?hl=&id=8oubDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Final_Fantasy_Ultimania_Archive_Volume_2-sample-pdf.acsm?id=8oubDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8oubDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Fantasy</b> title . The next Final <b>Fantasy</b> after that is developed with goals lofty enough to surpass the previous one . From that experience , I sensed that this cycle is the basis for making Final <b>Fantasy</b> what it is . In the ten years&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aKU-DQAAQBAJ",
+      "etag": "ZVrlnxRLh6w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aKU-DQAAQBAJ",
+      "volumeInfo": {
+        "title": "Fantasy Literature",
+        "subtitle": "Challenging Genres",
+        "authors": [
+          "Mark A. Fabrizi"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2016-10-11",
+        "description": "Fantasy literature, often derided as superficial and escapist, is one of the most popular and enduring genres of fiction worldwide. It is also\u2014perhaps surprisingly\u2014thought-provoking, structurally complex, and relevant to contemporary society, as the essays in this volume attest. The scholars, teachers, and authors represented here offer their perspectives on this engaging genre. Within these pages, a reader will find a wealth of ideas to help teachers use these texts in the classroom, challenging students to read fantasy with a critical eye. They employ interdisciplinary, philosophical, and religious lenses, as well as Marxist and feminist critical theory, to help students unlock texts. The books discussed include epic fantasy by such authors as Tolkien and Le Guin, children\u2019s fantasy by Beatrix Potter and Saint-Exup\u00e9ry, modern fantasy by Rowling and Martin, and even fairy tales and comic books. The contributors offer provocations, questioning the texts and pushing the boundaries of meaning within the fantasy genre. And in doing so, they challenge readers themselves to ponder these tales more deeply. But through each of these chapters runs a profound love of the genre and a respect for those who produce such beautiful and moving stories. Furthermore, as with all the books in this series, this volume is informed by the tenets of critical pedagogy, and is focused on re-envisioning fantasy literature through the lens of social justice and empowerment. Prepare to be challenged and inspired as you read these explorations of a much-loved genre.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789463007580"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "946300758X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 233,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aKU-DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aKU-DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=aKU-DQAAQBAJ&pg=PA1&dq=fantasy&hl=&as_pt=BOOKS&cd=22&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=aKU-DQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aKU-DQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE_AND_RENTAL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 39.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 31.19,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=aKU-DQAAQBAJ&rdid=book-aKU-DQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 39990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 31190000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          },
+          {
+            "finskyOfferType": 3,
+            "listPrice": {
+              "amountInMicros": 14000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12180000,
+              "currencyCode": "USD"
+            },
+            "rentalDuration": {
+              "unit": "DAY",
+              "count": 90
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fantasy_Literature-sample-pdf.acsm?id=aKU-DQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aKU-DQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Challenging Genres Mark A. Fabrizi. INTRODUCTION. Challenging <b>Fantasy</b> Literature Over the years, <b>fantasy</b> literature has attracted a body of scholarly criticism devoted to illuminating works of <b>fantasy</b> not unlike critical analyses of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eFZLe-mWVogC",
+      "etag": "f6DRLMDZUOE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eFZLe-mWVogC",
+      "volumeInfo": {
+        "title": "Final Fantasy I",
+        "publisher": "PediaPress",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 105,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eFZLe-mWVogC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eFZLe-mWVogC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=eFZLe-mWVogC&pg=PA4&dq=fantasy&hl=&as_pt=BOOKS&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=eFZLe-mWVogC&dq=fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Final_Fantasy_I.html?hl=&id=eFZLe-mWVogC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Final_Fantasy_I-sample-pdf.acsm?id=eFZLe-mWVogC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eFZLe-mWVogC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "2009 \u2012 \u2012 Final <b>Fantasy</b> XIII Three Final <b>Fantasy</b> installments were released on the Nintendo Entertain- ment System (NES). Final <b>Fantasy</b> was released in Japan in 1987 andin North America in 1990.3,4 It introduced many concepts to the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jTsEEQAAQBAJ",
+      "etag": "NZFJcnNL8eg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jTsEEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Teaching Fantasy Writing",
+        "subtitle": "Lessons That Inspire Student Engagement and Creativity, Grades K-6",
+        "authors": [
+          "Carl Anderson"
+        ],
+        "publisher": "Corwin Press",
+        "publishedDate": "2024-07-19",
+        "description": "Teaching fantasy writing increases student engagement, enables them to flex their creative muscles \u2013 and helps them learn important narrative writing skills. Opportunities for kids to lean into their innate creativity and imagination have been squeezed out of most school days, due to the pressures of standardized testing. And writing instruction has become more and more formulaic. In Teaching Fantasy Writing, Carl Anderson shows you how to include a study of fantasy writing in your writing curriculum that will engage student interest and creativity -- and make writing exciting for them again. Teaching Fantasy Writing is a game-changer. The fantasy genre gives children tools for expression that other genres don\u2019t, providing them with a powerful way to work through challenging issues and emotions. And it also offers students the opportunity to address subjects such as gaining confidence in oneself, bullying, fighting injustice \u2013 and more. Plus, fantasy writing helps kids learn the skills necessary to meet narrative writing standards. And they\u2019ll have fun doing it! If you\u2019re an elementary school teacher who wants to help your students develop their writing skills by studying a high-interest, high-impact genre, you\u2019ve come to the right place. In Teaching Fantasy Writing, Carl Anderson will: Discuss why fantasy writing develops students\u2019 creativity, increases their engagement in writing, and accelerates their growth as writers Walk you through fantasy units for students in grades K-1, 2-3, and 4-6, which include detailed lessons you can teach to help students write beautiful and powerful fantasy stories Suggest mentor texts that will show students how to craft their fantasy stories. Show you examples of students\u2019 fantasy writing, including the \"worldbuilding\" work they do before writing drafts Explain how you can modify the units and lessons to fit the needs of the students in your classroom By teaching fantasy writing, you can reignite the spark of creativity in your students and increase their joy in writing. Imagine the possibilities!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781071948910"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1071948911"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jTsEEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jTsEEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=jTsEEQAAQBAJ&pg=PT14&dq=fantasy&hl=&as_pt=BOOKS&cd=24&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jTsEEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jTsEEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 32,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 17.6,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jTsEEQAAQBAJ&rdid=book-jTsEEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 32000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 17600000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Teaching_Fantasy_Writing-sample-epub.acsm?id=jTsEEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Teaching_Fantasy_Writing-sample-pdf.acsm?id=jTsEEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jTsEEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fantasy</b> and writing about <b>fantasy</b> topics isn&#39;t only found in the upper grades . Walk into a kindergarten class in the first week of school when children are making books and see which genres they&#39;re writing in ( even if they can&#39;t name&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r1NJEQAAQBAJ",
+      "etag": "+OCbjeg+cKU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r1NJEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Fantasy Global Appeal",
+        "authors": [
+          "Nakoa Rainfall",
+          "AI"
+        ],
+        "publisher": "Publifye AS",
+        "publishedDate": "2025-02-19",
+        "description": "\"\"Fantasy Global Appeal\"\" explores the captivating global phenomenon of fantasy literature, a genre often seen as pure escapism. The book investigates how fantasy has profoundly impacted various cultures, reflecting societal values and anxieties across different landscapes. Interestingly, the study highlights how fan communities play a vital role in shaping and expanding the fantasy genre's reach, acting as a mirror that reflects cultural aspirations. This book meticulously traces fantasy's evolution, from its mythological and folklore roots to modern novels, films, and games. It examines how cultural exchange and adaptation have shaped reception in diverse regions, highlighting the genre's unique ability to resonate with fundamental human needs, offering frameworks for understanding identity and morality. The analysis progresses through key characteristics like world-building, explores case studies across Western and non-Western contexts, and addresses ethical considerations of cultural appropriation. Ultimately, \"\"Fantasy Global Appeal\"\" provides a comprehensive understanding of fantasy's worldwide impact by combining literary analysis with social science methodologies. It moves beyond a focus on Western fantasy, offering insights into globalization, cultural exchange, and the intricate relationship between fantasy and reality.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788233977610"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8233977616"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 166,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=r1NJEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=r1NJEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=r1NJEQAAQBAJ&pg=PP1&dq=fantasy&hl=&as_pt=BOOKS&cd=25&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=r1NJEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=r1NJEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=r1NJEQAAQBAJ&rdid=book-r1NJEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fantasy_Global_Appeal-sample-epub.acsm?id=r1NJEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fantasy_Global_Appeal-sample-pdf.acsm?id=r1NJEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r1NJEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Fantasy&#39;s</b> Historical Tapestry 4. Crafting Immersion: Elements of <b>Fantasy&#39;s</b> Magnetic Worlds 5. East Meets West: Cross-Cultural <b>Fantasy</b> Narratives 6. The Digital Cauldron: Fan Communities and <b>Fantasy&#39;s</b> Spread 7. Borrowed Lore&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QHvdOQAACAAJ",
+      "etag": "PepnBwz9Szk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QHvdOQAACAAJ",
+      "volumeInfo": {
+        "title": "Dawn",
+        "subtitle": "The Worlds of Final Fantasy",
+        "authors": [
+          "Yoshitaka Amano"
+        ],
+        "publisher": "Dark Horse Comics",
+        "publishedDate": "2009",
+        "description": "There is only one Final Fantasy. Through more than a dozen wildly diverse adventures, from the release of the first game in 1987 to the most recent expansion on the story, the international influence of the game is legendary both inside the video-game industry and throughout popular culture. It is a tale of bold heroes and heroines, breathtaking landscapes and terrifying creatures. Through Final Fantasy, names like Luneth, Refia, Rosa Farrell, Cecil Harvey, and many others have become household names to millions of players across the globe.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1593078684"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781593078683"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Color drawing"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QHvdOQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QHvdOQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QHvdOQAACAAJ&dq=fantasy&hl=&as_pt=BOOKS&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=QHvdOQAACAAJ&dq=fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dawn.html?hl=&id=QHvdOQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QHvdOQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Through more than a dozen wildly diverse adventures, from the release of the first game in 1987 to the most recent expansion on the story, the international influence of the game is legendary both inside the video-game industry and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nAQjEQAAQBAJ",
+      "etag": "+acfOaFnBbs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nAQjEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Reality and Fantasy in American Independent Cinema",
+        "subtitle": "A Cavellian Approach",
+        "authors": [
+          "Rick Zinman"
+        ],
+        "publisher": "Springer Nature",
+        "publishedDate": "2024-09-19",
+        "description": "In the 21st century, blockbuster fantasy films have dominated film viewership in the United States. The increased popularity of fantasy films has generated much greater scholarly interest in the study of fantasy films. It has also generated an artistic response by American Indie filmmakers who have developed alternative approaches to the portrayal of film fantasy. Reality and Fantasy in American Indie Films: A Cavellian Approach applies the methods and procedures of Cavellian philosophical film criticism to the study of four prominent American indie films released in 2014 in which fantasy can be said to play an important role: Birdman (Alejandro G. I\u00f1\u00e1rritu); Boyhood (Richard Linklater); The Grand Budapest Hotel (Wes Anderson); and Only Lovers Left Alive (Jim Jarmusch).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783031702075"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3031702077"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 211,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nAQjEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nAQjEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nAQjEQAAQBAJ&pg=PA6&dq=fantasy&hl=&as_pt=BOOKS&cd=27&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nAQjEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nAQjEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 139.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 111.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=nAQjEQAAQBAJ&rdid=book-nAQjEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 139990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 111990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Reality_and_Fantasy_in_American_Independ-sample-epub.acsm?id=nAQjEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Reality_and_Fantasy_in_American_Independ-sample-pdf.acsm?id=nAQjEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nAQjEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fantasy</b> films. The recent development of <b>Fantasy</b> film criticism might be called, \u201cthe intel- lectual response to blockbuster <b>fantasy</b>.\u201d Between 2009 and 2011, for example, four introductory texts on <b>fantasy</b> films were published by&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GW1PEQAAQBAJ",
+      "etag": "ldCScCa3L+o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GW1PEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Fantasy Comics Influence",
+        "authors": [
+          "Logan Rodriguez",
+          "AI"
+        ],
+        "publisher": "Publifye AS",
+        "publishedDate": "2025-03-10",
+        "description": "Fantasy Comics Influence explores how fantasy has revolutionized comic book narratives, examining its profound effects on world-building and character development. Fantasy isn't just a genre; it's a driving force behind innovation in comics. The book highlights how fantasy elements enable the exploration of complex themes and the challenging of societal norms within the comic medium. Historically, the integration of fantasy marks a turning point, offering unique lenses for narrative experimentation. The book approaches this topic by first grounding the reader in the theory of world-building and character development. It then transitions into detailed analyses of specific comic book series, illustrating how fantasy elements create depth. The book progresses by exploring world-building, then character development, and culminates with an analysis of narrative techniques used to seamlessly integrate fantasy into comic book storytelling. This approach not only identifies fantasy tropes but also analyzes their adaptation to create meaningful narratives. This book offers a unique perspective by focusing on the functional role of fantasy elements in enhancing the comic book experience, rather than merely describing their presence. It's valuable for comic book enthusiasts, media studies students, and those interested in creative writing, providing insights into effective storytelling and the cultural impact of fantasy comics.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788235248893"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8235248891"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 156,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GW1PEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GW1PEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GW1PEQAAQBAJ&pg=PP1&dq=fantasy&hl=&as_pt=BOOKS&cd=28&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GW1PEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GW1PEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=GW1PEQAAQBAJ&rdid=book-GW1PEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fantasy_Comics_Influence-sample-epub.acsm?id=GW1PEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fantasy_Comics_Influence-sample-pdf.acsm?id=GW1PEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GW1PEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Fantasy</b> Comics 3. From Pulp to Panel: The Genesis of <b>Fantasy</b> in Comics 4. Architects of Imagination: Core World-Building Techniques 5. Constructed Realities: Case Studies in <b>Fantasy</b> World- Building 6. Mythic Echoes: Archetypes in&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HaAqAAAAQBAJ",
+      "etag": "Ppy1mZV6UOY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HaAqAAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Fantasy Sport Industry",
+        "subtitle": "Games within Games",
+        "authors": [
+          "Andrew Billings",
+          "Brody Ruihley"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2013-07-24",
+        "description": "Fantasy sport has become big business. Recent estimates suggest that there as many as 33 million fantasy sport participants in the US alone, spending $3bn annually, with many millions more around the world. This is the first in-depth study of fantasy sport as a cultural and social phenomenon and a significant and growing component of the contemporary sports economy. This book presents an overview of the history of fantasy sport and its close connection to innovations in sports media. Drawing on extensive empirical research, it offers an analysis of the demographics of fantasy sport, the motivations of fantasy sport players and their significance as heavy consumers of sport media and as ultra-fans. It also draws cross-cultural comparisons between fantasy sport players in the US, UK, Europe and beyond. The Fantasy Sport Industry examines the key commercial and media stakeholders in the production and development of fantasy sport, and points to new directions for the fantasy sport industry within modern sport business. It is therefore, fascinating reading for any student, scholar or professional with an interest in sports media, sports business, fandom, the relationship between sport and society, or cultural studies.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781136318054"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1136318054"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HaAqAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HaAqAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=HaAqAAAAQBAJ&pg=PA39&dq=fantasy&hl=&as_pt=BOOKS&cd=29&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HaAqAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HaAqAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 68.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 55.16,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=HaAqAAAAQBAJ&rdid=book-HaAqAAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 68950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 55160000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Fantasy_Sport_Industry-sample-pdf.acsm?id=HaAqAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HaAqAAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fantasy</b> sport has an estimated 35 million consumers (<b>Fantasy</b> Sport Trade Association, 2012a), placing its participants into a single, static composite can be a costly management mistake resulting in shortsighted sociological&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aTzpDwAAQBAJ",
+      "etag": "fgadHaQ7lzo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aTzpDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Fantasy Literature of England",
+        "authors": [
+          "Colin N. Manlove"
+        ],
+        "publisher": "Wipf and Stock Publishers",
+        "publishedDate": "2020-05-11",
+        "description": "In this, the first book on English fantasy, Colin Manlove shows that for all its immense diversity, English fantasy can best be understood in terms of its strong national character, rather than as an international genre. Showing its development from Beowulf to Blake, the author describes English fantasy's modern growth through secondary world, metaphysical, emotive, comic, subversive, and children's fantasy. In them all England has led the world, with authors as different as Chaucer, Lewis Carroll, J. R. R. Tolkien, and Salman Rushdie.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781532677557"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1532677553"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 231,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aTzpDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aTzpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=aTzpDwAAQBAJ&pg=PA4&dq=fantasy&hl=&as_pt=BOOKS&cd=30&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=aTzpDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aTzpDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 26,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 26,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=aTzpDwAAQBAJ&rdid=book-aTzpDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 26000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 26000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Fantasy_Literature_of_England-sample-pdf.acsm?id=aTzpDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aTzpDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fantasy</b> : secondary world , metaphysical , emotive , comic , subversive and children&#39;s <b>fantasy</b> . Some of these types actually formed the ... <b>fantasy</b> is <b>fantasy</b> in which the evocation or portrayal 4 The <b>Fantasy</b> Literature of England."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tuxzDwAAQBAJ",
+      "etag": "b8N3rxYh2gk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tuxzDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Fantasy Literature and Christianity",
+        "subtitle": "A Study of the Mistborn, Coldfire, Fionavar Tapestry and Chronicles of Thomas Covenant Series",
+        "authors": [
+          "Weronika \u0141aszkiewicz"
+        ],
+        "publisher": "McFarland",
+        "publishedDate": "2018-10-04",
+        "description": "The debate surrounding the Christian aspects of C.S. Lewis's The Chronicles of Narnia, J.R.R. Tolkien's The Lord of the Rings, Philip Pullman's His Dark Materials and J.K. Rowling's Harry Potter has revealed not only the prominence of religious themes in fantasy fiction, but also readers' concerns over portrayals of religion in fantasy. Yet while analyses of these works fill many volumes, other fantasy series have received much less attention. This critical study explores the fantastic religions and religious themes in American and Canadian works by Stephen R. Donaldson (Chronicles of Thomas Covenant), Guy Gavriel Kay (Fionavar Tapestry), Celia S. Friedman (Coldfire Trilogy), and Brandon Sanderson (Mistborn). References to biblical tradition and Christian teachings reveal these writers' overall approach to Christianity and the relationship between Christianity and the fantasy genre.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781476634838"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1476634831"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tuxzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tuxzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tuxzDwAAQBAJ&pg=PA11&dq=fantasy&hl=&as_pt=BOOKS&cd=31&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tuxzDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tuxzDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 25.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 25.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=tuxzDwAAQBAJ&rdid=book-tuxzDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 25990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 25990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fantasy_Literature_and_Christianity-sample-epub.acsm?id=tuxzDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fantasy_Literature_and_Christianity-sample-pdf.acsm?id=tuxzDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tuxzDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fantasy</b> and realism / mimesis . <b>Fantasy</b> literature&#39;s supposed lack of realism ( conditioned by the appearance of magic and the supernatural ) has long been one of the main arguments against recognizing the genre&#39;s literary quality . Yet&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "D33HDwAAQBAJ",
+      "etag": "XM942U3fv9g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/D33HDwAAQBAJ",
+      "volumeInfo": {
+        "title": "FF DOT: The Pixel Art of Final Fantasy",
+        "authors": [
+          "Square Enix"
+        ],
+        "publisher": "Dark Horse Comics",
+        "publishedDate": "2020-02-04",
+        "description": "A hardcover volume that showcases the intriguing evolution of pixel art from the Final Fantasy series! Containing detailed sprite sheets that showcase the pixel composition of Final Fantasy's beloved characters, maps of Final Fantasy's most popular highlighting tools used by the developers, and a special interview with Kazuko Shibuya, the character pixel artist for the Final Fantasy series, FF Dot is a one of a kind product that immerses readers into an iconic aspect of the Final Fantasy experience. Dark Horse Books is proud to collaborate with Square Enix to bring fans FF Dot: The Pixel Art of Final Fantasy, translated into English for the first time. This localization of the original Japanese publication holds nearly 300 pages of colorful pixel art, and is an invaluable addition to any Final Fantasy fan's collection.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781506713526"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1506713521"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=D33HDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=D33HDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=D33HDwAAQBAJ&pg=PA279&dq=fantasy&hl=&as_pt=BOOKS&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=D33HDwAAQBAJ&dq=fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/FF_DOT_The_Pixel_Art_of_Final_Fantasy.html?hl=&id=D33HDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/FF_DOT_The_Pixel_Art_of_Final_Fantasy-sample-pdf.acsm?id=D33HDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=D33HDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>FANTASY</b> II \u00a9 1988 SQUARE ENIX CO . , LTD . All Rights Reserved . FINAL <b>FANTASY</b> III \u00a9 1990 SQUARE ENIX CO . , LTD . All Rights Reserved . FINAL <b>FANTASY</b> IV \u00a9 1991 SQUARE ENIX CO . , LTD . All Rights Reserved . FINAL <b>FANTASY</b> V \u00a9 1992&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PJ6Lfkh-_EoC",
+      "etag": "Tjxv3rPTWr0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PJ6Lfkh-_EoC",
+      "volumeInfo": {
+        "title": "Final Fantasy Tactics Series",
+        "publisher": "PediaPress",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 61,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PJ6Lfkh-_EoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PJ6Lfkh-_EoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PJ6Lfkh-_EoC&pg=PA15&dq=fantasy&hl=&as_pt=BOOKS&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=PJ6Lfkh-_EoC&dq=fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Final_Fantasy_Tactics_Series.html?hl=&id=PJ6Lfkh-_EoC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Final_Fantasy_Tactics_Series-sample-pdf.acsm?id=PJ6Lfkh-_EoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PJ6Lfkh-_EoC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Fantasy</b> Tactics , entitled Final Fan- tasy Tactics : The War of the Lions was released on May 10 , 2007 in Japan and is available across all regions . It was ... <b>Fantasy</b> Tactics Advance Final <b>Fantasy</b> Tactics A2: Grimoire of the Rift."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cj0lhuzFSloC",
+      "etag": "j8D2BfdlF4k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cj0lhuzFSloC",
+      "volumeInfo": {
+        "title": "Modern Classics of Fantasy",
+        "authors": [
+          "Gardner R. Dozois"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "1997",
+        "description": "A huge collection featuring the best of fantasy fiction from the 1940s to the present day.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0312169310"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780312169312"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 676,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cj0lhuzFSloC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cj0lhuzFSloC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cj0lhuzFSloC&pg=PR17&dq=fantasy&hl=&as_pt=BOOKS&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=cj0lhuzFSloC&dq=fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Modern_Classics_of_Fantasy.html?hl=&id=cj0lhuzFSloC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cj0lhuzFSloC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fantasy</b> ele- ments , or <b>fantasy</b> novels set in a strongly developed historic milieu ? ) On the other end , High <b>Fantasy</b> shades off into what has been called \u201c Urban <b>Fantasy</b> &quot; ( similar to Unknown - style comic <b>fantasy</b> that deals with the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "et9OEQAAQBAJ",
+      "etag": "4C+MHbX3c4w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/et9OEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Fantasy Sports Unleashed",
+        "subtitle": "Mastering the Art of Balancing Competition and Enjoyment",
+        "authors": [
+          "Barrett Williams",
+          "ChatGPT"
+        ],
+        "publisher": "Barrett Williams",
+        "publishedDate": "2025-03-14",
+        "description": "Unlock the full potential of your fantasy sports journey with \"Fantasy Sports Unleashed\"\u2014the ultimate guide to dominating your league with strategy, precision, and flair. Whether you're a seasoned manager or a newcomer eager to dive into the exhilarating world of fantasy sports, this eBook offers the insights and tools you need to transform your game. Begin your voyage by exploring the heart of fantasy sports, where culture meets competition, and the evolution of leagues creates endless possibilities for enthusiasts. As you delve deeper, discover how to choose the right league format to match your style, whether it's Standard, PPR, or Dynasty. Unravel the mysteries of Draft Day with expert-level preparation techniques, from analyzing player projections to assembling a championship roster with confidence. Elevate your draft performance with advanced strategies, learning the art of value-based drafting and uncovering those elusive late-round steals. Navigate the complexities of player analysis with statistical insights that cut through the noise of bias and hype. When trade negotiations arise, master the skills needed to propose win-win deals and handle counteroffers with tact. Embrace the power of analytics, as sabermetrics and predictive modeling become your secret weapons for in-depth player analysis. Weekly matchups become less daunting with tailored strategies, roster adjustments, and savvy waiver wire tactics. Incorporate the latest technology into your arsenal\u2014power up your game with the smartest apps and platforms, while staying informed through social media insights. Build a thriving fantasy community and foster camaraderie among participants, all while learning from the pros and incorporating veteran tips into your strategy. As the season unfolds, tackle mid-season challenges with agility, maintain momentum, and celebrate successes. Finally, envision the future of fantasy sports, a landscape filled with trends that promise to keep the game fresh and exciting for years to come. Prepare to unleash your potential on the fantasy field and lead your team to glory!",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 107,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=et9OEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=et9OEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=et9OEQAAQBAJ&pg=PT5&dq=fantasy&hl=&as_pt=BOOKS&cd=35&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=et9OEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=et9OEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=et9OEQAAQBAJ&rdid=book-et9OEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fantasy_Sports_Unleashed-sample-pdf.acsm?id=et9OEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=et9OEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fantasy</b> sports involves diving deep into the vibrant culture surrounding this unique form of competition. <b>Fantasy</b> sports have evolved into a communal pastime where strategy meets social interaction, creating a shared experience that&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EeDRAQAAQBAJ",
+      "etag": "wywpLr99mTw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EeDRAQAAQBAJ",
+      "volumeInfo": {
+        "title": "Translation and Fantasy Literature in Taiwan",
+        "subtitle": "Translators as Cultural Brokers and Social Networkers",
+        "authors": [
+          "Y. Chung"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2013-10-24",
+        "description": "This book examines the rise in popularity of fantasy literature in Taiwan and the crucial but often invisible role that translators have played in making this genre widely available. Topics covered include global fantasy fever, Chinese fantasy, game industry, the social status of translators, and the sociological direction of translations studies.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781137332783"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1137332786"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 274,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EeDRAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EeDRAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=EeDRAQAAQBAJ&pg=RA2-PA8&dq=fantasy&hl=&as_pt=BOOKS&cd=36&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=EeDRAQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EeDRAQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE_AND_RENTAL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 54.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 43.44,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=EeDRAQAAQBAJ&rdid=book-EeDRAQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 54990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 43440000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          },
+          {
+            "finskyOfferType": 3,
+            "listPrice": {
+              "amountInMicros": 19250000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 16750000,
+              "currencyCode": "USD"
+            },
+            "rentalDuration": {
+              "unit": "DAY",
+              "count": 90
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Translation_and_Fantasy_Literature_in_Ta-sample-epub.acsm?id=EeDRAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Translation_and_Fantasy_Literature_in_Ta-sample-pdf.acsm?id=EeDRAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EeDRAQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fantasy</b> works which helped shape <b>fantasy</b> writings in Taiwan. Local <b>fantasy</b> writings are inspired by <b>fantasy</b> translations. <b>Fantasy</b>, as an independent literary genre introduced by <b>fantasy</b> translators to Taiwan, cannot avoid the overall&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FvlWCgAAQBAJ",
+      "etag": "WMPnFZddAxU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FvlWCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Race and Popular Fantasy Literature",
+        "subtitle": "Habits of Whiteness",
+        "authors": [
+          "Helen Young"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2015-08-11",
+        "description": "This book illuminates the racialized nature of twenty-first century Western popular culture by exploring how discourses of race circulate in the Fantasy genre. It examines not only major texts in the genre, but also the impact of franchises, industry, editorial and authorial practices, and fan engagements on race and representation. Approaching Fantasy as a significant element of popular culture, it visits the struggles over race, racism, and white privilege that are enacted within creative works across media and the communities which revolve around them. While scholars of Science Fiction have explored the genre\u2019s racialized constructs of possible futures, this book is the first examination of Fantasy to take up the topic of race in depth. The book\u2019s interdisciplinary approach, drawing on Literary, Cultural, Fan, and Whiteness Studies, offers a cultural history of the anxieties which haunt Western popular culture in a century eager to declare itself post-race. The beginnings of the Fantasy genre\u2019s habits of whiteness in the twentieth century are examined, with an exploration of the continuing impact of older problematic works through franchising, adaptation, and imitation. Young also discusses the major twenty-first century sub-genres which both re-use and subvert Fantasy conventions. The final chapter explores debates and anti-racist praxis in authorial and fan communities. With its multi-pronged approach and innovative methodology, this book is an important and original contribution to studies of race, Fantasy, and twenty-first century popular culture.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781317532170"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1317532171"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 239,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FvlWCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FvlWCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=FvlWCgAAQBAJ&pg=PA35&dq=fantasy&hl=&as_pt=BOOKS&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=FvlWCgAAQBAJ&dq=fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Race_and_Popular_Fantasy_Literature.html?hl=&id=FvlWCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Race_and_Popular_Fantasy_Literature-sample-pdf.acsm?id=FvlWCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FvlWCgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Fantasy</b> genre as a whole , those nuances are largely insignificant . What matters , what has shaped the genre most , are the broad brushstrokes which place racial difference at its heart . Middle - earth and Hyboria , which are in many&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9VpJEQAAQBAJ",
+      "etag": "aCMfLYDfu64",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9VpJEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Fantasy Publishing Facts",
+        "authors": [
+          "Jacob Smith",
+          "AI"
+        ],
+        "publisher": "Publifye AS",
+        "publishedDate": "2025-02-20",
+        "description": "Fantasy Publishing Facts explores the business and social science aspects of the fantasy genre, revealing the economic engines and social dynamics that drive this popular form of entertainment. The book delves into the publishing industry, examining sales data and market trends to understand the financial scale of fantasy literature. It also investigates reader demographics and the influence of social media on readership, providing a comprehensive view of the fantasy ecosystem. A key insight is the demonstration of how the fantasy genre functions as both a creative endeavor and a complex system. The book uses a data-driven approach, integrating economic analysis with social science insights to reveal the interplay between publishers and readers. For instance, author incomes and reader demographics are analyzed alongside social media trends to showcase the economic impact and social influences shaping the genre. The book progresses through four sections, starting with core concepts and methodologies, then analyzing the production side (sales, incomes, publishing houses), followed by an examination of readership (demographics, communities, social media), and finally, synthesizing these findings to offer practical implications for authors, publishers, and marketers. This multi-dimensional approach makes Fantasy Publishing Facts uniquely valuable for anyone seeking a deeper understanding of the fantasy publishing world.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788233977702"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8233977705"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 115,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9VpJEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9VpJEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9VpJEQAAQBAJ&pg=PT31&dq=fantasy&hl=&as_pt=BOOKS&cd=38&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9VpJEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9VpJEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9VpJEQAAQBAJ&rdid=book-9VpJEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fantasy_Publishing_Facts-sample-epub.acsm?id=9VpJEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fantasy_Publishing_Facts-sample-pdf.acsm?id=9VpJEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9VpJEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fantasy</b> books is like charting the rise of an empire. It&#39;s a story of steady growth, punctuated by explosive surges in popularity. In the early 2000s, <b>fantasy</b> was already a well-established genre, thanks to foundational works like&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Yt9OEQAAQBAJ",
+      "etag": "yLqaIat19fg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Yt9OEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Fantasy Basketball Brilliance",
+        "subtitle": "Dominating the Hardwood Arena",
+        "authors": [
+          "Barrett Williams",
+          "ChatGPT"
+        ],
+        "publisher": "Barrett Williams",
+        "publishedDate": "2025-03-14",
+        "description": "Unleash your inner coach and dominate your league with \"Fantasy Basketball Brilliance,\" the ultimate guide to mastering the art and science of fantasy basketball. Dive into the world of strategy and statistics, and transform yourself from a casual player into a championship contender. Begin your journey with an exploration of the evolving landscape of fantasy sports. Gain a solid foundation with explanations of scoring, league types, and the best platforms for your game. Learn the language of the league and prepare yourself for the social and strategic dynamics that can make or break your season. Unlock advanced drafting techniques with our insights on mock drafts and the subtleties of snake and auction drafts, allowing you to outmaneuver your competition right from the start. Delve into the world of player metrics and analytics, where key statistics are demystified, and data-driven insights set you on the path to success. \"The season doesn't end on draft day.\" Maximize your in-season performance with expert guidance on managing waivers, setting lineups, and navigating the tumultuous waters of injuries and trades. Master defensive roster techniques designed to give you the playoff edge, ensuring you\u2019re not just participating but preparing for victory. Peek into the nuances of exploiting weekly matchups and capitalizing on spot-start opportunities to maintain your competitive advantage. Engineer your playoff run with adaptable strategies that keep your championship dreams alive. Expand your skill set with deep dives into daily fantasy play and the balancing act between new rookie prospects and seasoned veterans. Understand the psychology of winning, learning to stay motivated and keep emotions in check throughout the ups and downs of the season. Join us for insights from seasoned fantasy veterans and explore emerging trends shaping the future of the game. With essential tools, resources, and wisdom from legendary players, \"Fantasy Basketball Brilliance\" is your comprehensive playbook for building a legacy that goes beyond the scoreboard.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 126,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Yt9OEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Yt9OEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Yt9OEQAAQBAJ&pg=PT72&dq=fantasy&hl=&as_pt=BOOKS&cd=39&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Yt9OEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Yt9OEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Yt9OEQAAQBAJ&rdid=book-Yt9OEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fantasy_Basketball_Brilliance-sample-pdf.acsm?id=Yt9OEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Yt9OEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fantasy</b> basketball. Several case studies will illustrate real-life scenarios from daily <b>fantasy</b> contests, shedding light on the decision-making processes that led to victories and the lessons learned from defeats. Whether it&#39;s a last&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pcO2DwAAQBAJ",
+      "etag": "NR/Y13Rhn6U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pcO2DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Intelligence, Creativity and Fantasy",
+        "subtitle": "Proceedings of the 5th International Multidisciplinary Congress (PHI 2019), October 7-9, 2019, Paris, France",
+        "authors": [
+          "M\u00e1rio Ming Kong",
+          "Maria do Ros\u00e1rio Monteiro",
+          "Maria Jo\u00e3o Pereira Neto"
+        ],
+        "publisher": "CRC Press",
+        "publishedDate": "2019-09-30",
+        "description": "The texts presented in Proportion Harmonies and Identities (PHI) - INTELLIGENCE, CREATIVITY AND FANTASY were compiled with the intent to establish a multidisciplinary platform for the presentation, interaction and dissemination of research. The aim is also to foster the awareness and discussion on the topics of Harmony and Proportion with a focus on different visions relevant to Architecture, Arts and Humanities, Design, Engineering, Social and Natural Sciences, and their importance and benefits for the sense of both individual and community identity. The idea of modernity has been a significant motor for development since the Western Early Modern Age. Its theoretical and practical foundations have become the working tools of scientists, philosophers, and artists, who seek strategies and policies to accelerate the development process in different contexts.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781000734065"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1000734064"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 600,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pcO2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pcO2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=pcO2DwAAQBAJ&pg=PA205&dq=fantasy&hl=&as_pt=BOOKS&cd=40&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pcO2DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pcO2DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 66.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 53.59,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=pcO2DwAAQBAJ&rdid=book-pcO2DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 66990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 53590000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Intelligence_Creativity_and_Fantasy-sample-pdf.acsm?id=pcO2DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pcO2DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Fantasy</b>. and. reality. belong. together;. multidimensional. thinking. to. innovate. the. creative. process. Jos\u00e9 Silveira Dias &amp; Dulce Lou\u00e7\u00e3o CIAUD, Lisbon School of Architecture, Universidade de Lisboa, Lisbon, Portugal ORCID: 0000-0002-&nbsp;..."
+      }
+    }
+  ]
+}

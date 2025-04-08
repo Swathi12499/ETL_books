@@ -1,0 +1,3269 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "p6adAr8zeMgC",
+      "etag": "h6up7kVsjFM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p6adAr8zeMgC",
+      "volumeInfo": {
+        "title": "The Book of Lies",
+        "authors": [
+          "Brad Meltzer"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2009-02-19",
+        "description": "Cain killed Abel: the original murder. But the Bible is silent about one key detail: the weapon Cain used to kill his brother. It's a mystery that's never been solved. Until now. In Florida, Cal Harper comes face-to-face with his family's greatest secret: his long-lost father, who's been shot with a gun that traces back to an unsolved murder in 1932. What could that murder have to do with the biblical one? Father and son are suddenly thrown into a bloodthirsty quest for an ancient weapon, and the answer to a secret that people are dying to find. But closing in on them is a man tattooed with the mark of Cain - the world's first killer. In his pocket he carries the means of causing a horrifying death. And in his heart an insatiable desire for what he believes is his birthright . . .",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781848942448"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1848942443"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 410,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.7.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p6adAr8zeMgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p6adAr8zeMgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=p6adAr8zeMgC&dq=fiction&hl=&as_pt=BOOKS&cd=121&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=p6adAr8zeMgC&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_of_Lies.html?hl=&id=p6adAr8zeMgC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p6adAr8zeMgC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Cain killed Abel: the original murder."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ep92y0EIMu4C",
+      "etag": "B+v/bF6EPh0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ep92y0EIMu4C",
+      "volumeInfo": {
+        "title": "Summer People",
+        "subtitle": "A Novel",
+        "authors": [
+          "Elin Hilderbrand"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "2003-05-30",
+        "description": "\"Recently widowed Beth Newton returns to Nantucket for the summer with her teenage twins to continue a family tradition and to keep a promise her late husband made to another teen \"--",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780312283674"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0312283679"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 350,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ep92y0EIMu4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ep92y0EIMu4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Ep92y0EIMu4C&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=122&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Ep92y0EIMu4C&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Summer_People.html?hl=&id=Ep92y0EIMu4C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ep92y0EIMu4C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Recently widowed Beth Newton returns to Nantucket for the summer with her teenage twins to continue a family tradition and to keep a promise her late husband made to another teen &quot;-- Praise for Summer People \u201cSummer People is striking ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5u78AwAAQBAJ",
+      "etag": "StYV6D2VRpw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5u78AwAAQBAJ",
+      "volumeInfo": {
+        "title": "Aesthetics and the Sciences of Mind",
+        "authors": [
+          "Greg Currie",
+          "Matthew Kieran",
+          "Aaron Meskin",
+          "Jon Robson"
+        ],
+        "publisher": "OUP Oxford",
+        "publishedDate": "2014-07-24",
+        "description": "Through much of the twentieth century, philosophical thinking about works of art, design, and other aesthetic products has emphasized intuitive and reflective methods, often tied to the idea that philosophy's business is primarily to analyze concepts. This 'philosophy from the armchair' approach contrasts with methods used by psychologists, sociologists, evolutionary thinkers, and others who study the making and reception of the arts empirically. How far should philosophers be sensitive to the results of these studies? Is their own largely a priori method basically flawed? Are their views on aesthetic value, interpretation, imagination, and the emotions of art to be rethought in the light of best science? The essays in this volume seek answers to these questions, many through detailed studies of problems traditionally regarded as philosophical but where empirical inquiry seems to be shedding interesting light. No common view is looked for or found in this volume: a number of authors argue that the current enthusiasm for scientific approaches to aesthetics is based on a misunderstanding of the philosophical enterprise and sometimes on misinterpretation of the science; others suggest various ways that philosophy can and should accommodate and sometimes yield to the empirical approach. The editors provide a substantial introduction which sets the scene historically and conceptually before summarizing the claims and arguments of the essays.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780191648403"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "019164840X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 273,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5u78AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5u78AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=5u78AwAAQBAJ&pg=PA231&dq=fiction&hl=&as_pt=BOOKS&cd=123&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5u78AwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5u78AwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 16.19,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=5u78AwAAQBAJ&rdid=book-5u78AwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 29990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 16190000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Aesthetics_and_the_Sciences_of_Mind-sample-pdf.acsm?id=5u78AwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5u78AwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b>, it also works against non-<b>fiction</b>: evidence for the reliability of a non-<b>fiction</b> work is typically not available merely upon inspection (see Novitz 1987: 132). It is true that we expect many works of non-<b>fiction</b> to be vetted&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gAqwDwAAQBAJ",
+      "etag": "r4Gkh/g61W0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gAqwDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Lou Knows What to Do: Doctor's Office",
+        "authors": [
+          "Kimberly Tice",
+          "Venita Litvack"
+        ],
+        "publisher": "Boys Town Press",
+        "publishedDate": "2018-08-01",
+        "description": "In this edition of Lou Knows What to Do, Lou once again relies on his special bubble wand to show him what to expect when visiting a doctor or dentist. For example, what is a check-up? What kinds of check-ups might Lou need? Why is a check-up important? Who will Lou see while he's at the medical or dental office? What tools might the doctor or dentist use?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781944882266"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "194488226X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gAqwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gAqwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=gAqwDwAAQBAJ&pg=PA2&dq=fiction&hl=&as_pt=BOOKS&cd=124&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=gAqwDwAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lou_Knows_What_to_Do_Doctor_s_Office.html?hl=&id=gAqwDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gAqwDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b> . | Fear of dentists -- Juvenile <b>fiction</b> . | Fear of medical care -- Juvenile <b>fiction</b> . | Physicians -- Juvenile <b>fiction</b> . | Dentists -- Juvenile <b>fiction</b> . | Fear in children -- Juvenile <b>fiction</b> . | Anxiety in children- -Juvenile&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XptJU1L0elEC",
+      "etag": "VQ6YVUaBAH8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XptJU1L0elEC",
+      "volumeInfo": {
+        "title": "Hood",
+        "subtitle": "The King Raven Trilogy - Book 1",
+        "authors": [
+          "Stephen Lawhead"
+        ],
+        "publisher": "Thomas Nelson Inc",
+        "publishedDate": "2008-04-08",
+        "description": "Robin Hood The Legend Begins Anew For centuries, the legend of Robin Hood and his band of thieves has captivated the imagination. Now the familiar tale takes on new life, fresh meaning, and an unexpected setting. Steeped in Celtic mythology and the political intrigue of medieval Britain, Stephen R. Lawhead's latest work conjures up an ancient past and holds a mirror to contemporary realities. Prepare yourself for an epic tale that dares to shatter everything you thought you knew about Robin Hood.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781595543295"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1595543295"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 513,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 9,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XptJU1L0elEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XptJU1L0elEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XptJU1L0elEC&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=125&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XptJU1L0elEC&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hood.html?hl=&id=XptJU1L0elEC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Hood-sample-epub.acsm?id=XptJU1L0elEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XptJU1L0elEC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Robin Hood The Legend Begins Anew For centuries, the legend of Robin Hood and his band of thieves has captivated the imagination. Now the familiar tale takes on new life, fresh meaning, and an unexpected setting."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nh9jDwAAQBAJ",
+      "etag": "AOLY4/grGfY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nh9jDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Plot & Structure (Write Great Fiction)",
+        "authors": [
+          "James Scott Bell"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2004-09-22",
+        "description": "Craft an Engaging Plot How does plot influence story structure? What's the difference between plotting for commercial and literary fiction? How do you revise a plot or structure that's gone off course? With Write Great Fiction: Plot & Structure, you'll discover the answers to these questions and more. Award-winning author James Scott Bell offers clear, concise information that will help you create a believable and memorable plot, including: \u2022 Techniques for crafting strong beginnings, middles, and ends \u2022 Easy-to-understand plotting diagrams and charts \u2022 Brainstorming techniques for original plot ideas \u2022 Thought-provoking exercises at the end of each chapter \u2022 Story structure models and methods for all genres \u2022 Tips and tools for correcting common plot problems Filled with plot examples from popular novels, comprehensive checklists, and practical hands-on guidance, Write Great Fiction: Plot & Structure gives you the skills you need to approach plot and structure like an experienced pro.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781582976846"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1582976848"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.4.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nh9jDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nh9jDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nh9jDwAAQBAJ&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=126&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nh9jDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nh9jDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=nh9jDwAAQBAJ&rdid=book-nh9jDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Plot_Structure_Write_Great_Fiction-sample-epub.acsm?id=nh9jDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nh9jDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Award-winning author James Scott Bell offers clear, concise information that will help you create a believable and memorable plot, including: \u2022 Techniques for crafting strong beginnings, middles, and ends \u2022 Easy-to-understand plotting ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b4s2gmGQu1QC",
+      "etag": "InpfNbF/Fa4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b4s2gmGQu1QC",
+      "volumeInfo": {
+        "title": "The Story of Yiddish",
+        "subtitle": "How a Mish-Mosh of Languages Saved the Jews",
+        "authors": [
+          "Neal Karlen"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2009-10-13",
+        "description": "Yiddish\u2014an oft-considered \"gutter\" language\u2014is an unlikely survivor of the ages, much like the Jews themselves. Its survival has been an incredible journey, especially considering how often Jews have tried to kill it themselves. Underlying Neal Karlen's unique, brashly entertaining, yet thoroughly researched telling of the language's story is the notion that Yiddish is a mirror of Jewish history, thought, and practice\u2014for better and worse. Karlen charts the beginning of Yiddish as a minor dialect in medieval Europe that helped peasant Jews live safely apart from the marauders of the First Crusades. Incorporating a large measure of antique German dialects, Yiddish also included little scraps of French, Italian, ancient Hebrew, Aramaic, the Slavic and Romance languages, and a dozen other tongues native to the places where Jews were briefly given shelter. One may speak a dozen languages, all of them Yiddish. By 1939, Yiddish flourished as the lingua franca of 13 million Jews. After the Holocaust, whatever remained of Yiddish, its worldview and vibrant culture, was almost stamped out\u2014by Jews themselves. Yiddish was an old-world embarrassment for Americans anxious to assimilate. In Israel, young, proud Zionists suppressed Yiddish as the symbol of the weak and frightened ghetto-bound Jew\u2014and invented modern Hebrew. Today, a new generation has zealously sought to explore the language and to embrace its soul. This renaissance has spread to millions of non-Jews who now know the subtle difference between a shlemiel and a shlimazel; hundreds of Yiddish words dot the most recent editions of the Oxford English Dictionary. The Story of Yiddish is a delightful tale of a people, their place in the world, and the fascinating language that held them together.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780061860119"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0061860115"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 444,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b4s2gmGQu1QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b4s2gmGQu1QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=b4s2gmGQu1QC&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=127&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=b4s2gmGQu1QC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=b4s2gmGQu1QC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=b4s2gmGQu1QC&rdid=book-b4s2gmGQu1QC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Story_of_Yiddish-sample-epub.acsm?id=b4s2gmGQu1QC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b4s2gmGQu1QC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Story of Yiddish is a delightful tale of a people, their place in the world, and the fascinating language that held them together."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K-51CgAAQBAJ",
+      "etag": "jylYZnspQQ8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K-51CgAAQBAJ",
+      "volumeInfo": {
+        "title": "Present Tense",
+        "subtitle": "A Poetics",
+        "authors": [
+          "Armen Avanessian",
+          "Anke Hennig"
+        ],
+        "publisher": "Bloomsbury Publishing USA",
+        "publishedDate": "2015-09-24",
+        "description": "\"Describes how the present tense was invented and why the poetics of the present tense novel is essential for an understanding of contemporary literature and the evolution of the novel since modernism\"--",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781628927658"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1628927658"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K-51CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=K-51CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=K-51CgAAQBAJ&pg=PA226&dq=fiction&hl=&as_pt=BOOKS&cd=128&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=K-51CgAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Present_Tense.html?hl=&id=K-51CgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Present_Tense-sample-pdf.acsm?id=K-51CgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K-51CgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b> achieves the medialization of an imaginary . <b>Fiction</b> , counterfactual Concepts of <b>fiction</b> based on the idea that <b>fiction</b> is counterfactual are characterized by a particular ambiguity . To the extent that <b>fiction</b> is understood in&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4yJ9DAAAQBAJ",
+      "etag": "T3sPM6157CQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4yJ9DAAAQBAJ",
+      "volumeInfo": {
+        "title": "It Came From the 1950s!",
+        "subtitle": "Popular Culture, Popular Anxieties",
+        "authors": [
+          "Darryl Jones",
+          "Elizabeth McCarthy",
+          "Bernice M. Murphy"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2011-10-04",
+        "description": "An eclectic and insightful collection of essays predicated on the hypothesis that popular cultural documents provide unique insights into the concerns, anxieties and desires of their times. 1950s popular culture is analysed by leading scholars and critics such as Christopher Frayling, Mark Jancovich, Kim Newman and David J. Skal.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780230337237"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0230337236"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 277,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4yJ9DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4yJ9DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=4yJ9DAAAQBAJ&pg=PA104&dq=fiction&hl=&as_pt=BOOKS&cd=129&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4yJ9DAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4yJ9DAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE_AND_RENTAL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 54.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 43.44,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=4yJ9DAAAQBAJ&rdid=book-4yJ9DAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 54990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 43440000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          },
+          {
+            "finskyOfferType": 3,
+            "listPrice": {
+              "amountInMicros": 19250000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 16750000,
+              "currencyCode": "USD"
+            },
+            "rentalDuration": {
+              "unit": "DAY",
+              "count": 90
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/It_Came_From_the_1950s-sample-epub.acsm?id=4yJ9DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/It_Came_From_the_1950s-sample-pdf.acsm?id=4yJ9DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4yJ9DAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Fiction</b> Movies of the Fifties (Jefferson, NC: McFarland, 1982). For histories of science <b>fiction</b> see Brian Ash, ed., The Visual Encyclopedia of Science <b>Fiction</b> (New York: Harmony, 1977); Thomas R. Atkins, ed., Sci- ence <b>Fiction</b> Films&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "W3ErEkJl2zUC",
+      "etag": "CAHerhXvleU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W3ErEkJl2zUC",
+      "volumeInfo": {
+        "title": "An Irish Country Doctor",
+        "authors": [
+          "Patrick Taylor"
+        ],
+        "publisher": "St. Martin's Press",
+        "publishedDate": "2011-08-02",
+        "description": "\"This book was previously published in 2004 under the title The apprenticeship of Doctor Laverty, by Insomniac Press, Toronto\"--T.p. verso.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0765368242"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780765368249"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 452,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=W3ErEkJl2zUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=W3ErEkJl2zUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=W3ErEkJl2zUC&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=130&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=W3ErEkJl2zUC&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/An_Irish_Country_Doctor.html?hl=&id=W3ErEkJl2zUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W3ErEkJl2zUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;This book was previously published in 2004 under the title The apprenticeship of Doctor Laverty, by Insomniac Press, Toronto&quot;--T.p. verso."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9oN0DgAAQBAJ",
+      "etag": "NpUf8kgbX1k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9oN0DgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Father's Tale",
+        "subtitle": "A Novel",
+        "authors": [
+          "Michael D. O'Brien"
+        ],
+        "publisher": "Ignatius Press",
+        "publishedDate": "2011-08-31",
+        "description": "\"A modern retelling of the parables The Good Shepherd and The Prodigal Son.\" - Michael O'Brien Canadian bookseller Alex Graham is a middle-age widower whose quiet life is turned upside down when his college-age son disappears without any explanation or trace of where he has gone. With minimal resources, the father begins a long journey that takes him for the first time away from his safe and orderly world. As he stumbles across the merest thread of a trail, he follows it in blind desperation, and is led step by step on an odyssey that takes him to fascinating places and sometimes to frightening people and perils. Through the uncertainty and the anguish, the loss and the longing, Graham is pulled into conflicts between nations, as well as the eternal conflict between good and evil. Stretched nearly to the breaking point by the inexplicable suffering he witnesses and experiences, he discovers unexpected sources of strength as he presses onward in the hope of recovering his son--and himself.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781681490090"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1681490099"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1077,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9oN0DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9oN0DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9oN0DgAAQBAJ&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=131&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9oN0DgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9oN0DgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 29.95,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9oN0DgAAQBAJ&rdid=book-9oN0DgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 29950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 29950000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9oN0DgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; - Michael O&#39;Brien Canadian bookseller Alex Graham is a middle-age widower whose quiet life is turned upside down when his college-age son disappears without any explanation or trace of where he has gone."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zjfKEAAAQBAJ",
+      "etag": "1N1WsbHPkBA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zjfKEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Paradise Rot",
+        "subtitle": "A Novel",
+        "authors": [
+          "Jenny Hval"
+        ],
+        "publisher": "Verso Books",
+        "publishedDate": "2024-03-12",
+        "description": "\"As intriguing and impressive a novelist as she is a musician, Hval is a master of quiet horror and wonder.\u201d \u2014Chris Kraus, author of I Love Dick A lyrical debut novel from a musician and artist renowned for her sharp sexual and political imagery Jo is in a strange new country for university and having a more peculiar time than most. In a house with no walls, shared with a woman who has no boundaries, she finds her strange home coming to life in unimaginable ways. Jo\u2019s sensitivity and all her senses become increasingly heightened and fraught, as the lines between bodies and plants, dreaming and wakefulness, blur and mesh. This debut novel from critically acclaimed artist and musician Jenny Hval presents a heady and hyper-sensual portrayal of sexual awakening and queer desire.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781804294529"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1804294527"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 161,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zjfKEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zjfKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=zjfKEAAAQBAJ&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=132&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=zjfKEAAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Paradise_Rot.html?hl=&id=zjfKEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zjfKEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This debut novel from critically acclaimed artist and musician Jenny Hval presents a heady and hyper-sensual portrayal of sexual awakening and queer desire."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ipc9EAAAQBAJ",
+      "etag": "nRC7Vdu0nsI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ipc9EAAAQBAJ",
+      "volumeInfo": {
+        "title": "A Prayer for the Crown-Shy",
+        "subtitle": "A Monk and Robot Book",
+        "authors": [
+          "Becky Chambers"
+        ],
+        "publisher": "Tordotcom",
+        "publishedDate": "2022-07-12",
+        "description": "A USA Today Bestseller! \u201cTender and healing... I\u2019m prescribing a preorder to anyone who has ever felt lost. Stunning, kind, necessary.\u201d \u2014Sarah Gailey on book 1: A Psalm for the Wild-Built A Prayer for the Crown-Shy is a story of kindness and love from one of the foremost practitioners of hopeful SF. After touring the rural areas of Panga, Sibling Dex (a Tea Monk of some renown) and Mosscap (a robot sent on a quest to determine what humanity really needs) turn their attention to the villages and cities of the little moon they call home. They hope to find the answers they seek, while making new friends, learning new concepts, and experiencing the entropic nature of the universe. Becky Chambers's new series continues to ask: in a world where people have what they want, does having more even matter? At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250236241"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "125023624X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 94,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ipc9EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ipc9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ipc9EAAAQBAJ&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=133&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ipc9EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ipc9EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ipc9EAAAQBAJ&rdid=book-ipc9EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ipc9EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Becky Chambers&#39;s new series continues to ask: in a world where people have what they want, does having more even matter? At the Publisher&#39;s request, this title is being sold without Digital Rights Management Software (DRM) applied."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cgQbEAAAQBAJ",
+      "etag": "9XuLbMZekqQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cgQbEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Clarity & Connection",
+        "authors": [
+          "yung pueblo"
+        ],
+        "publisher": "Andrews McMeel Publishing",
+        "publishedDate": "2021-04-27",
+        "description": "NEW YORK TIMES BESTSELLER From the celebrated author of Inward comes the second in series, a collection of poetry and short prose focused on understanding how past wounds impact our present relationships. In Clarity & Connection, Yung Pueblo describes how intense emotions accumulate in our subconscious and condition us to act and react in certain ways. In his characteristically spare, poetic style, he guides readers through the excavation and release of the past that is required for growth. To be read on its own or as a complement to Inward, Yung Pueblo\u2019s second work is a powerful resource for those invested in the work of personal transformation, building self-awareness, and deepening their connection with others.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781524869861"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1524869864"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 243,
+        "printType": "BOOK",
+        "categories": [
+          "Poetry"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cgQbEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cgQbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cgQbEAAAQBAJ&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=134&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cgQbEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cgQbEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=cgQbEAAAQBAJ&rdid=book-cgQbEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Clarity_Connection-sample-epub.acsm?id=cgQbEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Clarity_Connection-sample-pdf.acsm?id=cgQbEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cgQbEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "To be read on its own or as a complement to Inward, Yung Pueblo\u2019s second work is a powerful resource for those invested in the work of personal transformation, building self-awareness, and deepening their connection with others."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-7SPDwAAQBAJ",
+      "etag": "NZztqRSD0uc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-7SPDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Topeka School",
+        "authors": [
+          "Ben Lerner"
+        ],
+        "publisher": "McClelland & Stewart",
+        "publishedDate": "2019-10-01",
+        "description": "A NEW YORK TIMES, TIME, GQ, Vulture, and WASHINGTON POST TOP 10 BOOK of the YEAR ONE OF BARACK OBAMA'S FAVOURITE BOOKS OF THE YEAR Finalist for the Los Angeles Times Book Prize, and the National Book Critics Circle Award Shortlisted for the Rathbones Folio Prize Winner of the Hefner Heitz Kansas Book Award From the award-winning author of 10:04 and Leaving the Atocha Station, a tender and expansive family drama set in the American Midwest at the turn of the century, hailed by Maggie Nelson as Ben Lerner's \"most discerning, ambitious, innovative, and timely novel to date.\" Adam Gordon is a senior at Topeka High School, class of '97. His mother, Jane, is a famous feminist author; his father, Jonathan, is an expert at getting \"lost boys\" to open up. They both work at a psychiatric clinic that has attracted staff and patients from around the world. Adam is a renowned debater, expected to win a national championship before he heads to college. He is one of the cool kids, ready to fight or, better, freestyle about fighting if it keeps his peers from thinking of him as weak. Adam is also one of the seniors who bring the loner Darren Eberheart--who is, unbeknownst to Adam, his father's patient--into the social scene, to disastrous effect. Deftly shifting perspectives and time periods, The Topeka School is the story of a family, its struggles and its strengths: Jane's reckoning with the legacy of an abusive father, Jonathan's marital transgressions, the challenge of raising a good son in a culture of toxic masculinity. It is also a riveting prehistory of the present: the collapse of public speech, the trolls and tyrants of the New Right, and the ongoing crisis of identity among white men.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780771049330"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0771049331"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.8.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-7SPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-7SPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-7SPDwAAQBAJ&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=135&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=-7SPDwAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Topeka_School.html?hl=&id=-7SPDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Topeka_School-sample-epub.acsm?id=-7SPDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-7SPDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Deftly shifting perspectives and time periods, The Topeka School is the story of a family, its struggles and its strengths: Jane&#39;s reckoning with the legacy of an abusive father, Jonathan&#39;s marital transgressions, the challenge of raising a ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fgqwDwAAQBAJ",
+      "etag": "dYhIKplCdL0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fgqwDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Freddie the Fly: Connect the Dots",
+        "authors": [
+          "Kimberly Delude"
+        ],
+        "publisher": "Boys Town Press",
+        "publishedDate": "2018-07-09",
+        "description": "Freddie returns with quite the conundrum! He keeps missing social cues, so he misunderstands what people mean, and then he finds himself in a mess. He just doesn't get that there's a lot more to communication than the words that people say. Fortunately for our favorite fly, he has his dad and Principal Roachford available to teach him avout connecting the communication dots, including voice tone, facial expressions and body language.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781944882259"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1944882251"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fgqwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fgqwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fgqwDwAAQBAJ&pg=PA2&dq=fiction&hl=&as_pt=BOOKS&cd=136&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=fgqwDwAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Freddie_the_Fly_Connect_the_Dots.html?hl=&id=fgqwDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fgqwDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b> . | Interpersonal communication in children - Juvenile <b>fiction</b> . | Nonverbal communication in children -- Juvenile <b>fiction</b> . | Body language -- Juvenile <b>fiction</b> . | Facial expression -- Juvenile <b>fiction</b> . | English language&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mLTFEAAAQBAJ",
+      "etag": "OHujVUW8xzM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mLTFEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Remi in Overdrive",
+        "authors": [
+          "Ashley Bartley"
+        ],
+        "publisher": "Boys Town Press",
+        "publishedDate": "2022-04-04",
+        "description": "Remi is one manic squirrel! Scampering here and scampering there, he\u2019s a fluffball of constant motion. Whether he\u2019s at home, in school, or out on the town, Remi never stays in one place. Even her thoughts come and go at a wildly rapid pace. With too much energy and too little focus, Remi finds himself in all kinds of trouble. School assignments go missing because his backpack and desk are messy, bottomless blackholes. Some homework never gets done because his tablet and TV prove too tempting. Even the class field trip nearly ends in disaster when Remi has a run-in with an exhibit made out of glass! Will Remi ever be able to calm his mind and his body long enough to get organized, stay on task, and actually have success? Remi in Overdrive is the newest tale in author Ashley Bartley\u2019s popular Diamond, Opal and Friends book series. Written for students in Grades PreK through 5, the series empowers readers with lessons about self-care, self-control, and self-determination.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781944882877"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1944882871"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mLTFEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mLTFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=mLTFEAAAQBAJ&pg=PA2&dq=fiction&hl=&as_pt=BOOKS&cd=137&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=mLTFEAAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Remi_in_Overdrive.html?hl=&id=mLTFEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mLTFEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b> . | Attention in children -- Juvenile <b>fiction</b> . | Distraction ( Psychology ) -- Juvenile <b>fiction</b> . | Calmness -- Juvenile <b>fiction</b> . | Stress management for children -- Juvenile <b>fiction</b> . | Planning in children -- Juvenile&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aaSjbi_UpYgC",
+      "etag": "IqF0bXT2eOo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aaSjbi_UpYgC",
+      "volumeInfo": {
+        "title": "NEA Literature Fellowships",
+        "subtitle": "40 Years of Supporting American Writers",
+        "authors": [
+          "Don Ball"
+        ],
+        "publisher": "DIANE Publishing",
+        "publishedDate": "2008-12",
+        "description": "The National Endowment for the Arts (NEA) Literature Fellowship Program has helped new writers find their voices and established authors continue their work. Some of the early grants went to writers whose work is now a permanent part of America\u00bfs literary legacy, such as Gwendolyn Brooks, Isaac Bashevis Singer, John Berryman, Denise Levertov, Robert Penn Warren, and Eudora Welty. The NEA Fellowships have also recognized many writers before their talents were acknowledged by a wider audience, such as Alice Walker, Tobias Wolff, and Maxine Hong Kingston. This publication, issued in the 40th year of NEA\u00bfs existence, celebrates the history of the NEA Literature Fellowship Program. Photos.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781437907322"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1437907326"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 68,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aaSjbi_UpYgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aaSjbi_UpYgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=aaSjbi_UpYgC&pg=PA58&dq=fiction&hl=&as_pt=BOOKS&cd=138&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=aaSjbi_UpYgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aaSjbi_UpYgC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.95,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=aaSjbi_UpYgC&rdid=book-aaSjbi_UpYgC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14950000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aaSjbi_UpYgC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b>, nonfiction, poetry, and young people&#39;s literature. The winners, selected by five-member, independent judging panels for each genre, receive a $10,000 award. The following NEA Literature ... (<b>Fiction</b>) Paris Trout (<b>Fiction</b>) 1975."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qnaCo0-t_sAC",
+      "etag": "53oz3y1m1V4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qnaCo0-t_sAC",
+      "volumeInfo": {
+        "title": "The Dragon of Rome",
+        "authors": [
+          "John Seven"
+        ],
+        "publisher": "Capstone",
+        "publishedDate": "2014",
+        "description": "The Faradays' new assignment is in Ancient Rome.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781434260291"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1434260291"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qnaCo0-t_sAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qnaCo0-t_sAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qnaCo0-t_sAC&pg=PA2&dq=fiction&hl=&as_pt=BOOKS&cd=139&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=qnaCo0-t_sAC&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Dragon_of_Rome.html?hl=&id=qnaCo0-t_sAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Dragon_of_Rome-sample-pdf.acsm?id=qnaCo0-t_sAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qnaCo0-t_sAC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b>. the fire-breathing with with encyclopedia, encyclopedia, time (paper (paper dragon Pliny Pliny binding) ... <b>fiction</b>. like like them. a a 3. harmless DawkinsDawkins Time 1. travel--Juvenile travel--Juvenile 69-96--Juvenile&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RXFuDwAAQBAJ",
+      "etag": "m/ZF/YJb+UM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RXFuDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Guide to Literary Agents 2019",
+        "subtitle": "The Most Trusted Guide to Getting Published",
+        "authors": [
+          "Robert Lee Brewer"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2018-09-14",
+        "description": "THE BEST RESOURCE AVAILABLE FOR FINDING A LITERARY AGENT No matter what you're writing--fiction or nonfiction, books for adults or children--you need a literary agent to get the best book deal possible from a traditional publisher. Guide to Literary Agents 2019 is your go-to resource for finding that literary agent and earning a contract from a reputable publisher. Along with listing information for more than 1,000 agents who represent writers and their books, the 28th edition of GLA includes: \u2022 The key elements of a successful nonfiction book proposal. \u2022 Informative articles on crafting the perfect synopsis and detailing what agents are looking for in the ideal client--written by actual literary agents. \u2022 Plus, debut authors share their varied paths to finding success and their first book publications.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781440354540"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1440354545"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 766,
+        "printType": "BOOK",
+        "categories": [
+          "Reference"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RXFuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RXFuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RXFuDwAAQBAJ&pg=PT192&dq=fiction&hl=&as_pt=BOOKS&cd=140&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=RXFuDwAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Guide_to_Literary_Agents_2019.html?hl=&id=RXFuDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Guide_to_Literary_Agents_2019-sample-epub.acsm?id=RXFuDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RXFuDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b> and nonfiction); Jane Gelfman; Heather Mitchell (particularly interested in narrative nonfiction, historical <b>fiction</b> and young debut authors with strong voices); Penelope Burns, penelope.gsliterary@gmail.com (literary and&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FPdRAwAAQBAJ",
+      "etag": "8n/PU56AiDk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FPdRAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Encyclopedia of the Novel",
+        "authors": [
+          "Paul Schellinger"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2014-04-08",
+        "description": "The Encyclopedia of the Novel is the first reference book that focuses on the development of the novel throughout the world. Entries on individual writers assess the place of that writer within the development of the novel form, explaining why and in exactly what ways that writer is importnant. Similarly, an entry on an individual novel discusses the importance of that novel not only form, analyzing the particular innovations that novel has introduced and the ways in which it has influenced the subsequent course of the genre. A wide range of topic entries explore the history, criticism, theory, production, dissemination and reception of the novel. A very important component of the Encyclopedia of the Novel is its long surveys of development of the novel in various regions of the world.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781135918262"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1135918260"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 838,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FPdRAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FPdRAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=FPdRAwAAQBAJ&pg=PA1194&dq=fiction&hl=&as_pt=BOOKS&cd=141&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FPdRAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FPdRAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 475,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 380,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FPdRAwAAQBAJ&rdid=book-FPdRAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 475000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 380000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Encyclopedia_of_the_Novel-sample-pdf.acsm?id=FPdRAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FPdRAwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b> tropes because , as so many advertisements for new technologies assert , \u201c It&#39;s not just science <b>fiction</b> anymore . &quot; In Japan , Abe K\u014db\u014d ( Daiyon kan- pyoki [ 1959 ; Inter Ice Age 4 ] ) , a great science - <b>fiction</b> writer , is&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s1SsCknaR9UC",
+      "etag": "fWiQ4HEbR1c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s1SsCknaR9UC",
+      "volumeInfo": {
+        "title": "Revolution",
+        "authors": [
+          "Jennifer Donnelly"
+        ],
+        "publishedDate": "2010",
+        "description": "Brooklyn - Andi Alpers is on the edge. She\u2019s angry at her father for leaving, angry at her mother for not being able to cope, and heartbroken by the loss of her younger brother, Truman. Rage and grief are destroying her. And she\u2019s about to be expelled from Brooklyn Heights\u2019 most prestigious private school when her father intervenes. Now Andi must accompany him to Paris for winter break. Paris - Alexandrine Paradis lived over two centuries ago. She dreamed of making her mark on the Paris stage, but a fateful encounter with a doomed prince of France cast her in a tragic role she didn\u2019t want - and couldn\u2019t escape. Two girls, two centuries apart. One never knowing the other. But when Andi finds Alexandrine\u2019s diary, she recognizes something in her words and is moved to the point of obsession. There\u2019s comfort and distraction for Andi in the journal\u2019s antique pages - until, on a midnight journey through the catacombs of Paris, Alexandrine\u2019s words transcend paper and time, and the past becomes suddenly, terrifyingly present.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780375989506"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0375989501"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 471,
+        "printType": "BOOK",
+        "categories": [
+          "Americans"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s1SsCknaR9UC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s1SsCknaR9UC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=s1SsCknaR9UC&dq=fiction&hl=&as_pt=BOOKS&cd=142&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=s1SsCknaR9UC&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Revolution.html?hl=&id=s1SsCknaR9UC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s1SsCknaR9UC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Brooklyn - Andi Alpers is on the edge."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JTHJDwAAQBAJ",
+      "etag": "7+Q/SyWxn8w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JTHJDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Girl with the Louding Voice",
+        "subtitle": "A Novel",
+        "authors": [
+          "Abi Dar\u00e9"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2020-02-04",
+        "description": "AN INSTANT NEW YORK TIMES BESTSELLER A READ WITH JENNA TODAY SHOW BOOK CLUB PICK! \u201cBrave, fresh . . . unforgettable.\u201d\u2014The New York Times Book Review \u201cA celebration of girls who dare to dream.\u201d\u2014Imbolo Mbue, author of Behold the Dreamers (Oprah\u2019s Book Club pick) Shortlisted for the Desmond Elliott Prize and recommended by The New York Times, Marie Claire, Vogue, Essence, PopSugar, Daily Mail, Electric Literature, Red, Stylist, Daily Kos, Library Journal, The Everygirl, and Read It Forward! The unforgettable, inspiring story of a teenage girl growing up in a rural Nigerian village who longs to get an education so that she can find her \u201clouding voice\u201d and speak up for herself, The Girl with the Louding Voice is a simultaneously heartbreaking and triumphant tale about the power of fighting for your dreams. Despite the seemingly insurmountable obstacles in her path, Adunni never loses sight of her goal of escaping the life of poverty she was born into so that she can build the future she chooses for herself \u2013 and help other girls like her do the same. Her spirited determination to find joy and hope in even the most difficult circumstances imaginable will \u201cbreak your heart and then put it back together again\u201d (Jenna Bush Hager on The Today Show) even as Adunni shows us how one courageous young girl can inspire us all to reach for our dreams\u2026and maybe even change the world.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781524746025"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1524746029"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 386,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JTHJDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JTHJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=JTHJDwAAQBAJ&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=143&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=JTHJDwAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Girl_with_the_Louding_Voice.html?hl=&id=JTHJDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JTHJDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The unforgettable, inspiring story of a teenage girl growing up in a rural Nigerian village who longs to get an education so that she can find her \u201clouding voice\u201d and speak up for herself, The Girl with the Louding Voice is a ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "klu4CgAAQBAJ",
+      "etag": "KM0/9ewY964",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/klu4CgAAQBAJ",
+      "volumeInfo": {
+        "title": "Elijah in Jerusalem",
+        "subtitle": "A Novel",
+        "authors": [
+          "Michael D. O'Brien"
+        ],
+        "publisher": "Ignatius Press",
+        "publishedDate": "2015-10-05",
+        "description": "Elijah in Jerusalem, the long awaited sequel to the acclaimed best-selling novel, Father Elijah: An Apocalypse , is the continuing story of the priest, Fr. Elijah. A convert from Judaism, and a survivor of the Holocaust, he has for decades been a Carmelite monk on the mountain of the prophet Elijah. In the events of the preceding novel, Father Elijah, the central character confronted the President of the European Union, a man rising toward global control as President of the soon to be realized World Government. The Pope recognized in the President certain qualities that are anti-Christ, and asked Fr. Elijah to call the man to repentance, though his attempts at this prove to be unsuccessful. In this sequel, now-Bishop Elijah, accompanied by his fellow monk Brother Enoch, enter Jerusalem just as the President arrives in the city to inaugurate a new stage of his rise to power. They hope to unmask him as the Antichrist prophesied by Scripture and to warn the world of the imminent spiritual danger to mankind. As the story unfolds, people of many kinds meet the undercover priest, and in the process their souls are revealed and tested, bringing about change for the good or for evil. Elijah perseveres in his mission even when all seems lost. The dramatic climax is surprising, yet it underlines that God works all things to the good for those who love Him, testifying to the truth that in the end Wisdom will be justified and Satan confounded.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781586179465"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1586179462"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 284,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=klu4CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=klu4CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=klu4CgAAQBAJ&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=144&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=klu4CgAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Elijah_in_Jerusalem.html?hl=&id=klu4CgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=klu4CgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Elijah in Jerusalem, the long awaited sequel to the acclaimed best-selling novel, Father Elijah: An Apocalypse , is the continuing story of the priest, Fr. Elijah."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LCC-6fnkzOIC",
+      "etag": "lZ3agl98z1U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LCC-6fnkzOIC",
+      "volumeInfo": {
+        "title": "The Story of Edgar Sawtelle",
+        "authors": [
+          "David Wroblewski"
+        ],
+        "publisher": "Bond Street Books",
+        "publishedDate": "2009-03-19",
+        "description": "An Oprah's Book Club Pick A #1 New York Times Bestseller A National Bestseller Beautifully written and elegantly paced, The Story of Edgar Sawtelle is a coming-of-age novel about the power of the land and the past to shape our lives. It is a riveting tale of retribution, inhabited by empathic animals, prophetic dreams, second sight, and vengeful ghosts. Born mute, Edgar Sawtelle feels separate from the people around him but is able to establish profound bonds with the animals who share his home and his name: his family raises a fictional breed of exceptionally perceptive and affable dogs. Soon after his father's sudden death, Edgar is stunned to learn that his mother has already moved on as his uncle Claude quickly becomes part of their lives. Reeling from the sudden changes to his quiet existence, Edgar flees into the forests surrounding his Wisconsin home accompanied by three dogs. Soon he is caught in a struggle for survival\u2014the only thing that will prepare him for his return home.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307371898"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307371891"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 578,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.7.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LCC-6fnkzOIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LCC-6fnkzOIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=LCC-6fnkzOIC&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=145&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=LCC-6fnkzOIC&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Story_of_Edgar_Sawtelle.html?hl=&id=LCC-6fnkzOIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Story_of_Edgar_Sawtelle-sample-epub.acsm?id=LCC-6fnkzOIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LCC-6fnkzOIC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An Oprah&#39;s Book Club Pick A #1 New York Times Bestseller A National Bestseller Beautifully written and elegantly paced, The Story of Edgar Sawtelle is a coming-of-age novel about the power of the land and the past to shape our lives."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8HBAPgAACAAJ",
+      "etag": "995+ioZT6oM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8HBAPgAACAAJ",
+      "volumeInfo": {
+        "title": "The Man in the High Castle",
+        "authors": [
+          "Philip K. Dick"
+        ],
+        "publishedDate": "2001",
+        "description": "It is 1962 and the Second World War has been over for seventeen years: people have now had a chance to adjust to the new order. But it\u00bfs not been easy. The Mediterranean has been drained to make farmland, the population of Africa has virtually been wiped out and America has been divided between the Nazis and the Japanese. In the neutral buffer zone that divides the two superpowers lives the man in the high castle, the author of an underground bestseller, a work of fiction that offers an alternative theory of world history in which the Axis powers didn\u00bft win the war. The novel is a rallying cry for all those who dream of overthrowing the occupiers. But could it be more than that? Subtle, complex and beautifully characterized, The Man in the High Castle remains the finest alternative world novel ever written, and a work of profundity and significance.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0575073357"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780575073357"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 248,
+        "printType": "BOOK",
+        "categories": [
+          "Alternative histories (Fiction)"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8HBAPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8HBAPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8HBAPgAACAAJ&dq=fiction&hl=&as_pt=BOOKS&cd=146&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8HBAPgAACAAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Man_in_the_High_Castle.html?hl=&id=8HBAPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8HBAPgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel is a rallying cry for all those who dream of overthrowing the occupiers. But could it be more than that?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "O-8TkpeNWkoC",
+      "etag": "5xOaotk8EWE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/O-8TkpeNWkoC",
+      "volumeInfo": {
+        "title": "Goat Girls",
+        "subtitle": "Witch Baby and Cherokee Bat and the Goat Guys",
+        "authors": [
+          "Francesca Lia Block"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2008-07-01",
+        "description": "Two magical-realist coming-of-age Weetzie Bat stories from Francesca Lia Block: Witch Baby and Cherokee Bat and the Goat Guys.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780061732737"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0061732737"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 243,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.10.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=O-8TkpeNWkoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=O-8TkpeNWkoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=O-8TkpeNWkoC&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=147&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=O-8TkpeNWkoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=O-8TkpeNWkoC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=O-8TkpeNWkoC&rdid=book-O-8TkpeNWkoC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Goat_Girls-sample-epub.acsm?id=O-8TkpeNWkoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=O-8TkpeNWkoC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Two magical-realist coming-of-age Weetzie Bat stories from Francesca Lia Block: Witch Baby and Cherokee Bat and the Goat Guys."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y7adDwAAQBAJ",
+      "etag": "bdnRW6RDhI4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y7adDwAAQBAJ",
+      "volumeInfo": {
+        "title": "All Your Twisted Secrets",
+        "authors": [
+          "Diana Urban"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2020-03-17",
+        "description": "A thrilling debut, reminiscent of new fan favorites like One of Us Is Lying and the beloved classics by Agatha Christie, that will leave readers guessing until the explosive ending. \u201cWelcome to dinner, and again, congratulations on being selected. Now you must do the selecting.\u201d What do the queen bee, star athlete, valedictorian, stoner, loner, and music geek all have in common? They were all invited to a scholarship dinner, only to discover it\u2019s a trap. Someone has locked them into a room with a bomb, a syringe filled with poison, and a note saying they have an hour to pick someone to kill...or else everyone dies. Amber Prescott is determined to get her classmates and herself out of the room alive, but that might be easier said than done. No one knows how they\u2019re all connected or who would want them dead. As they retrace the events over the past year that might have triggered their captor\u2019s ultimatum, it becomes clear that everyone is hiding something. And with the clock ticking down, confusion turns into fear, and fear morphs into panic as they race to answer the biggest question: Who will they choose to die?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062908230"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0062908235"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 360,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Y7adDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Y7adDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Y7adDwAAQBAJ&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=148&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Y7adDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Y7adDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Y7adDwAAQBAJ&rdid=book-Y7adDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/All_Your_Twisted_Secrets-sample-epub.acsm?id=Y7adDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y7adDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A thrilling debut, reminiscent of new fan favorites like One of Us Is Lying and the beloved classics by Agatha Christie, that will leave readers guessing until the explosive ending. \u201cWelcome to dinner, and again, congratulations on being ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g9pGEAAAQBAJ",
+      "etag": "KZ7WWI5wHxY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g9pGEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Wonders",
+        "authors": [
+          "Elena Medel"
+        ],
+        "publisher": "Algonquin Books",
+        "publishedDate": "2022-03",
+        "description": "\"Through the rich inner lives of two ordinary, unforgettable women, award-winning Spanish poet Elena Medel brings a half-century of the feminist movement to life, revealing the simmering truth that money is ultimately the limiting factor in most women's lives\"--",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781643752112"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1643752111"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 241,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=g9pGEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=g9pGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=g9pGEAAAQBAJ&printsec=frontcover&dq=fiction&hl=&as_pt=BOOKS&cd=149&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=g9pGEAAAQBAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wonders.html?hl=&id=g9pGEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Wonders-sample-pdf.acsm?id=g9pGEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g9pGEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Through the rich inner lives of two ordinary, unforgettable women, award-winning Spanish poet Elena Medel brings a half-century of the feminist movement to life, revealing the simmering truth that money is ultimately the limiting factor in ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oyB4xgEACAAJ",
+      "etag": "Xbn4ppFzhuo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oyB4xgEACAAJ",
+      "volumeInfo": {
+        "title": "The Learned Disguise",
+        "authors": [
+          "R. C. Waldun"
+        ],
+        "publishedDate": "2019-06-30",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1646061829"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781646061822"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oyB4xgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oyB4xgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oyB4xgEACAAJ&dq=fiction&hl=&as_pt=BOOKS&cd=150&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=oyB4xgEACAAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Learned_Disguise.html?hl=&id=oyB4xgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oyB4xgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Inspired by Goethe&#39;s Faust, The Learned Disguise is a literary portrait of a young man&#39;s journey of dealing with inner conflicts, falling in love, and discovering his life&#39;s calling as a writer."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J2U9PgAACAAJ",
+      "etag": "MpLy4vbE7bg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J2U9PgAACAAJ",
+      "volumeInfo": {
+        "title": "Shikasta",
+        "subtitle": "Re: Colonised Planet 5 : Personal, Psychological, Historical Documents Relating to Visit by Johor (George Sherban) Emissary (Grade 9) 87th of the Last Period of the Last Days",
+        "authors": [
+          "Doris Lessing"
+        ],
+        "publisher": "HarperCollins Publishers",
+        "publishedDate": "1994",
+        "description": "From Doris Lessing, winner of the Nobel Prize for Literature, this is the first instalment in the visionary novel cycle 'Canopus in Argos: Archives'. The story of the final days of our planet is told through the reports of Johor, an emissary sent from Canopus. Earth, now named Shikasta (the Stricken) by the kindly, paternalistic Canopeans who colonised it many centuries ago, is under the influence of the evil empire of Puttiora. War, famine, disease and environmental disasters ravage the planet. To Johor, mankind is a 'totally crazed species', racing towards annihilation: his orders to save humanity set him what seems to be an impossible task. Blending myth, fable and allegory, Doris Lessing's astonishing visionary creation both reflects and redefines the history of our own world from its earliest beginnings to an inevitable, tragic self-destruction.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0006547192"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780006547198"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 448,
+        "printType": "BOOK",
+        "categories": [
+          "English fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=J2U9PgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=J2U9PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=J2U9PgAACAAJ&dq=fiction&hl=&as_pt=BOOKS&cd=151&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=J2U9PgAACAAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shikasta.html?hl=&id=J2U9PgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J2U9PgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From Doris Lessing, winner of the Nobel Prize for Literature, this is the first instalment in the visionary novel cycle &#39;Canopus in Argos: Archives&#39;."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7cJWAAAAYAAJ",
+      "etag": "N2AM45WSL/M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7cJWAAAAYAAJ",
+      "volumeInfo": {
+        "title": "International Index to Periodicals",
+        "publishedDate": "1924",
+        "description": "An author and subject index to publications in fields of anthropology, archaeology and classical studies, economics, folklore, geography, history, language and literature, music, philosophy, political science, religion and theology, sociology and theatre arts.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000050844647"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1528,
+        "printType": "BOOK",
+        "categories": [
+          "Humanities"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7cJWAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7cJWAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7cJWAAAAYAAJ&pg=PA449&dq=fiction&hl=&as_pt=BOOKS&cd=152&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7cJWAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7cJWAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=7cJWAAAAYAAJ&rdid=book-7cJWAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/International_Index_to_Periodicals.epub?id=7cJWAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7cJWAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Fiction</b> Courage in the writing of <b>fiction</b> ; a symposium . G. S. Layard . il Bookm ( Lond ) 65 : 3-5 O &#39;23 Fashionable novel . J. M. Murry . ( Lond ) 30 : 473-4 D 17 &#39;21 Nation Fashionable novel ; reply . M. Sadler . Nation ( Lond )&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y9DaEAAAQBAJ",
+      "etag": "B2YTV/97fUQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y9DaEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Sexuality and Gender in Fictions of Espionage",
+        "subtitle": "Spying Undercover(s)",
+        "authors": [
+          "Ann Rea"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2023-12-28",
+        "description": "An exploration of how espionage narratives give access to cultural conceptions of gender and sexuality before and following the Second World War, this book moves away from masculinist assumptions of the genre to offer an integrative survey of the sexualities on display from important characters across spy fiction. Topics covered include how authors mocked the traditional spy genre; James Bond as a symbol of pervasive British Superiority still anxious about masculinity; how older female spies act as queer figures that disturb the masculine mythology of the secret agent; and how the clandestine lives of agents described ways to encode queer communities under threat from fascism. Covering texts such as the Bond novels, John Le Carr\u00e9's oeuvre (and their notable adaptations) and works by Helen MacInnes, Christopher Isherwood and Mick Herron, Sexuality and Gender in Fictions of Espionage takes stock of spy fiction written by women, female protagonists written by men, and probes the representations of masculinity generated by male authors. Offering a counterpoint to a genre traditionally viewed as male-centric, Sexuality and Gender in Fictions of Espionage proposes a revision of masculinity, femininity, queer identities and gendered concepts such as domesticity, and relates them to notions of nationality and the defence work conducted at crucial moments in history.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781350271371"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1350271373"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 251,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Y9DaEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Y9DaEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Y9DaEAAAQBAJ&pg=PA1&dq=fiction&hl=&as_pt=BOOKS&cd=153&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Y9DaEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Y9DaEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 103.5,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 82.8,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Y9DaEAAAQBAJ&rdid=book-Y9DaEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 103500000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 82800000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Sexuality_and_Gender_in_Fictions_of_Espi-sample-pdf.acsm?id=Y9DaEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y9DaEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Fiction</b>. of. Espionage? Like any form of narrative, spy <b>fiction</b> performs a variety of ideological tasks,1 many of which literary critics have explored.2 In spite of important studies that examine genders and sexualities3 in these <b>fictions</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "phhhHT64kIMC",
+      "etag": "CRKKwM7kaeM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/phhhHT64kIMC",
+      "volumeInfo": {
+        "title": "International Who's Who of Authors and Writers 2004",
+        "authors": [
+          "Europa Publications"
+        ],
+        "publisher": "Psychology Press",
+        "publishedDate": "2003",
+        "description": "Accurate and reliable biographical information essential to anyone interested in the world of literature TheInternational Who's Who of Authors and Writersoffers invaluable information on the personalities and organizations of the literary world, including many up-and-coming writers as well as established names. With over 8,000 entries, this updated edition features: * Concise biographical information on novelists, authors, playwrights, columnists, journalists, editors, and critics * Biographical details of established writers as well as those who have recently risen to prominence * Entries detailing career, works published, literary awards and prizes, membership, and contact addresses where available * An extensive listing of major international literary awards and prizes, and winners of those prizes * A directory of major literary organizations and literary agents * A listing of members of the American Academy of Arts and Letters",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1857431790"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781857431797"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 644,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=phhhHT64kIMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=phhhHT64kIMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=phhhHT64kIMC&pg=PA622&dq=fiction&hl=&as_pt=BOOKS&cd=154&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=phhhHT64kIMC&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/International_Who_s_Who_of_Authors_and_W.html?hl=&id=phhhHT64kIMC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/International_Who_s_Who_of_Authors_and_W-sample-pdf.acsm?id=phhhHT64kIMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=phhhHT64kIMC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b> and non - <b>fiction</b> . Jonathan Clowes Ltd : 10 Iron Bridge House , Bridge Approach , London NW1 8BD . <b>Fiction</b> and non - <b>fiction</b> , scripts . Elspeth Cochrane Agency : 11-13 Orlando Rd , London SW4 OLE . Authors handled for theatre&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "96OmDwAAQBAJ",
+      "etag": "ETe577aYhgc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/96OmDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Battlestar Galactica",
+        "subtitle": "Investigating Flesh, Spirit and Steel",
+        "authors": [
+          "Roz Kaveney",
+          "Jennifer Stoy"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2010-07-02",
+        "description": "\"The West Wing\" or \"Generation Kill\" in Space? A show about God-fearing sex-obsessed robots? Or a complex meditation on fate, dreaming and eternal recurrence? Of all recent television science fiction series, the reimagined \"Battlestar Galactica\" is the most highly praised and consistently inventive and intelligent. Where the original show was a straightforward space opera, the new one is rich, strange and above all unpredictable. This book covers the new \"Battlestar Galactica\" from beginning to end, covering all of the show's principal themes from the depiction of sexuality in an era of artificial people and downloaded memories to what it means to be a member of a military organization when the stakes are not victory or defeat but survival. Like all the best shows about the future or the past - we are never sure when all this is supposed to be happening - \"Battlestar Galactica\" is a series about the present; chapters here cover its depiction of the post-9.11 world and such issues as abortion and worker's rights. This definitive book on the full new \"Battlestar Galactica\" also includes an interview with Jane Espenson, co-executive producer of the show's last seasons and writer/director of the \"Battlestar Galactica\" prequel film \"The Plan\", with a complete episode guide.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780857731098"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0857731092"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=96OmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=96OmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=96OmDwAAQBAJ&pg=PA20&dq=fiction&hl=&as_pt=BOOKS&cd=155&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=96OmDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=96OmDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 24.25,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.31,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=96OmDwAAQBAJ&rdid=book-96OmDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24250000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14310000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Battlestar_Galactica-sample-epub.acsm?id=96OmDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Battlestar_Galactica-sample-pdf.acsm?id=96OmDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=96OmDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b> fans is at its strongest, she talks about a famous staged event: &#39;Making fun of science <b>fiction</b> became even easier after William Shatner, in a 1986 Saturday Night Live sketch set at a Star Trek convention, exploded at fans who&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BkY3nwEACAAJ",
+      "etag": "SinhQQu6iTs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BkY3nwEACAAJ",
+      "volumeInfo": {
+        "title": "Cinnamon and Gunpowder",
+        "subtitle": "A Novel",
+        "authors": [
+          "Eli Brown"
+        ],
+        "publisher": "Picador",
+        "publishedDate": "2014-06-03",
+        "description": "The year is 1819, and the renowned chef Owen Wedgwood has been kidnapped by a beautiful yet ruthless pirate. He will be spared, Mad Hannah Mabbot tells him, as long as he can conjure an exquisite meal every Sunday from the ship's meager supplies. While Wedgwood attempts to satisfy his captor with feats such as tea-smoked eel and pineapple-banana cider, he realizes that Mabbot herself is under siege. Hunted by a deadly privateer and plagued by a saboteur, she pushes her crew past exhaustion in her search for the notorious Brass Fox. But there is a method to Mabbot's madness, and as the Flying Rose races across the ocean, Wedgwood learns to rely on the bizarre crew members he once feared: a formidable giant who loves to knit; a pair of stoic martial arts masters, sworn to defend their captain; and the ship's deaf cabin boy, who becomes the son he never had. An anarchic tale of love and appetite, Eli Brown's Cinnamon and Gunpowder is a wildly original feat of the imagination, deep and startling as the sea itself.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1250050189"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250050182"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BkY3nwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BkY3nwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=BkY3nwEACAAJ&dq=fiction&hl=&as_pt=BOOKS&cd=156&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=BkY3nwEACAAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cinnamon_and_Gunpowder.html?hl=&id=BkY3nwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BkY3nwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An anarchic tale of love and appetite, Eli Brown&#39;s Cinnamon and Gunpowder is a wildly original feat of the imagination, deep and startling as the sea itself."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GZm9AAAAIAAJ",
+      "etag": "L25Hamjgtc0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GZm9AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Catalogue of the Oakland Free Public Library",
+        "authors": [
+          "Oakland Free Library"
+        ],
+        "publishedDate": "1885",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B4163699"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Library catalogs"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GZm9AAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GZm9AAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GZm9AAAAIAAJ&pg=PA119&dq=fiction&hl=&as_pt=BOOKS&cd=157&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GZm9AAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GZm9AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=GZm9AAAAIAAJ&rdid=book-GZm9AAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Catalogue_of_the_Oakland_Free_Public_Lib.epub?id=GZm9AAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Catalogue_of_the_Oakland_Free_Public_Lib.pdf?id=GZm9AAAAIAAJ&hl=&output=pdf&sig=ACfU3U0cEP_H8SyYsVpXWyzP68zaLebPtQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GZm9AAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Fiction</b> our animal friends in Natal ... 38.835 Pilot , The . Cooper 66 <b>Fiction</b> Parton , Mrs. S. P. ( Fanny Fern . ) Playday Pindar , S. C. The Wentworths . 38.711 book . 38.836 Pioneers , The . Cooper ........... ..See <b>Fiction</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tz6rzwEACAAJ",
+      "etag": "gT+ezRZ8erk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tz6rzwEACAAJ",
+      "volumeInfo": {
+        "title": "Forgotten Fairy Tales of Brave and Brilliant Girls",
+        "authors": [
+          "Rosie Dickins",
+          "Andy Prentice",
+          "Rob Lloyd Jones",
+          "Susanna Davidson"
+        ],
+        "publisher": "Illustrated Story Collections",
+        "publishedDate": "2023-05-31",
+        "description": "Once known, now largely forgotten, these empowering fairy tales have been brought together to inspire a new generation of readers. Discover heroines who outwit giants, fight evil, awaken sleeping princes and, of course, live happily ever after. With a foreword by Kate Pankhurst, author of Fantastically Great Women who Changed the World.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1805318195"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781805318194"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tz6rzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tz6rzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tz6rzwEACAAJ&dq=fiction&hl=&as_pt=BOOKS&cd=158&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=tz6rzwEACAAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Forgotten_Fairy_Tales_of_Brave_and_Brill.html?hl=&id=tz6rzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tz6rzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;In this strikingly illustrated collection, you will find eight forgotten fairy tales to inspire and empower a new generation of readers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PaVaAAAAMAAJ",
+      "etag": "vRxOH41Lsgs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PaVaAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Hugo Gernsback, Father of Modern Science Fiction",
+        "subtitle": "With Essays on Frank Herbert and Bram Stoker",
+        "authors": [
+          "Mark Siegel"
+        ],
+        "publisher": "Millefleurs",
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015012425933"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PaVaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PaVaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PaVaAAAAMAAJ&q=fiction&dq=fiction&hl=&as_pt=BOOKS&cd=159&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=PaVaAAAAMAAJ&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hugo_Gernsback_Father_of_Modern_Science.html?hl=&id=PaVaAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PaVaAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fiction</b> has remained the same to this day : It must mirror the present or the future in acceptable and plausible scientific terms . Most serious students of science <b>fiction</b> recognize at least part of Hugo Gernsback&#39;s contributions to&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ca2nXhwPc7cC",
+      "etag": "qTOaUOfViNo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ca2nXhwPc7cC",
+      "volumeInfo": {
+        "title": "Wine and War",
+        "authors": [
+          "Donald & Petie Kladstrup"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2011-09-01",
+        "description": "In the vineyards, wine caves, and cellars of France as war and occupation came to the country winemakers acted heroically not only to save the best wines but to defend their way of life. These are the true stories of vignerons who sheltered Jewish refugees in their cellars and of winemakers who risked their lives to aid the resistance. They made chemicals in secret laboratories to fuel the resistance and fled from the Gestapo when arrests became imminent. There were treacheries too, as some of the nation's winemakers supported the Vichy regime or the Germans themselves and collaborated. Donald Kladstrup is a retired American network correspondent. He and his wife Petie have accumulated these fascinating stories, told with the pace and action that will fascinate fiction and non-fiction readers alike.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781444717570"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "144471757X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 275,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.6.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ca2nXhwPc7cC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ca2nXhwPc7cC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ca2nXhwPc7cC&dq=fiction&hl=&as_pt=BOOKS&cd=160&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ca2nXhwPc7cC&dq=fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Wine_and_War.html?hl=&id=ca2nXhwPc7cC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ca2nXhwPc7cC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These are the true stories of vignerons who sheltered Jewish refugees in their cellars and of winemakers who risked their lives to aid the resistance."
+      }
+    }
+  ]
+}

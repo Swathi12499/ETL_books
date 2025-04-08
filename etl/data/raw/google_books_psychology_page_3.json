@@ -1,0 +1,2766 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "qyE5AQAAMAAJ",
+      "etag": "KwcN+tvR5/k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qyE5AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Outlines of Physiological Psychology",
+        "subtitle": "A Treatise of the Activities and Nature of the Mind from the Physical and Experimental Point of View",
+        "authors": [
+          "George Trumbull Ladd"
+        ],
+        "publishedDate": "1908",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000092029390"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 532,
+        "printType": "BOOK",
+        "categories": [
+          "Psychophysiology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qyE5AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qyE5AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qyE5AQAAMAAJ&pg=PT2&dq=psychology&hl=&as_pt=BOOKS&cd=121&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qyE5AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qyE5AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=qyE5AQAAMAAJ&rdid=book-qyE5AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Outlines_of_Physiological_Psychology.epub?id=qyE5AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Outlines_of_Physiological_Psychology.pdf?id=qyE5AQAAMAAJ&hl=&output=pdf&sig=ACfU3U0iNezufDwH_kiJsMuds7NmNiIIcQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qyE5AQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>PSYCHOLOGY Psychology</b> : Descriptive and Explanatory 8vo . $ 4.50 Primer of <b>Psychology</b> 12mo . $ 1.00 net PHYSIOLOGICAL <b>PSYCHOLOGY</b> Elements of Physiological <b>Psychology</b> With Numerous Illustrations . 8vo . $ 4.50 Outlines of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Jv4FBu71TdsC",
+      "etag": "3ZM0TJlUEOw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Jv4FBu71TdsC",
+      "volumeInfo": {
+        "title": "The Psychology of Christian Life and Behaviour",
+        "authors": [
+          "William Straton Bruce"
+        ],
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCR:31210015657131"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology, Religious"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Jv4FBu71TdsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Jv4FBu71TdsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Jv4FBu71TdsC&pg=PA11-IA5&dq=psychology&hl=&as_pt=BOOKS&cd=122&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Jv4FBu71TdsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Jv4FBu71TdsC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Jv4FBu71TdsC&rdid=book-Jv4FBu71TdsC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Psychology_of_Christian_Life_and_Beh.epub?id=Jv4FBu71TdsC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Jv4FBu71TdsC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Psychology</b> , which is entirely different in aims and methods from the <b>Psychology</b> of Christian experience , places the soul in an intermediate position between body and spirit . In Pauline <b>Psychology</b> the powers of the Soul are&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cKdVAAAAYAAJ",
+      "etag": "Fmov+d2Sybk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cKdVAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Journal of Philosophy, Psychology and Scientific Methods",
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433019834724"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 462,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cKdVAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cKdVAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cKdVAAAAYAAJ&pg=PT2&dq=psychology&hl=&as_pt=BOOKS&cd=123&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cKdVAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cKdVAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=cKdVAAAAYAAJ&rdid=book-cKdVAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Journal_of_Philosophy_Psychology_and_Sci.epub?id=cKdVAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Journal_of_Philosophy_Psychology_and_Sci.pdf?id=cKdVAAAAYAAJ&hl=&output=pdf&sig=ACfU3U25cR6cIuvnnMwlwVgMgHVSctJeRA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cKdVAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Psychology</b> - Sub - Station 84 , N. Y .; Archives of <b>Psychology</b> . Subscription $ 5 . 500 pp . ann . Founded 1906. Ed . by R. S. Woodworth . Published without fixed dates , each number a single experimental study . Journal of Abnormal&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Le-WDLt_Kj8C",
+      "etag": "uAcskzOLgT0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Le-WDLt_Kj8C",
+      "volumeInfo": {
+        "title": "Studies in Abnormal Psychology",
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105027494140"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 382,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology, Pathological"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Le-WDLt_Kj8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Le-WDLt_Kj8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Le-WDLt_Kj8C&pg=PA92&dq=psychology&hl=&as_pt=BOOKS&cd=124&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Le-WDLt_Kj8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Le-WDLt_Kj8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Le-WDLt_Kj8C&rdid=book-Le-WDLt_Kj8C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Studies_in_Abnormal_Psychology.epub?id=Le-WDLt_Kj8C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Le-WDLt_Kj8C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> . It will therefore perhaps more than heretofore appeal to practitioners of medicine . It will not , however , limit in any respect the special field of psychopathology to which it has been devoted . To the student of <b>psychology</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G4kZAAAAMAAJ",
+      "etag": "KCzbZF3DvVY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G4kZAAAAMAAJ",
+      "volumeInfo": {
+        "title": "History of Psychology",
+        "subtitle": "A Sketch and an Interpretation",
+        "authors": [
+          "James Mark Baldwin"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015011033373"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G4kZAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G4kZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=G4kZAAAAMAAJ&pg=PA200&dq=psychology&hl=&as_pt=BOOKS&cd=125&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=G4kZAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=G4kZAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=G4kZAAAAMAAJ&rdid=book-G4kZAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/History_of_Psychology.epub?id=G4kZAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/History_of_Psychology.pdf?id=G4kZAAAAMAAJ&hl=&output=pdf&sig=ACfU3U3-hRNPqYsLiNJCqoKofmtHq6m_ZA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G4kZAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> through Herbart . Wundt , W. Die Philosophie im Beginne des XXsten Jahrhunderts : Psychologie . In the ... <b>Psychology</b> , Past and Present , Psycho- logical Review , July 1894 ; extended in Fragments in Philosophy and&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fju1qwT2W4MC",
+      "etag": "dkfuoIp5LBg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fju1qwT2W4MC",
+      "volumeInfo": {
+        "title": "The Human Intellect, with an Introduction Upon Psychology and the Soul",
+        "authors": [
+          "Noah Porter (the Younger.)"
+        ],
+        "publishedDate": "1872",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0025139338"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 706,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fju1qwT2W4MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fju1qwT2W4MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fju1qwT2W4MC&pg=PA15&dq=psychology&hl=&as_pt=BOOKS&cd=126&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fju1qwT2W4MC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fju1qwT2W4MC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=fju1qwT2W4MC&rdid=book-fju1qwT2W4MC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Human_Intellect_with_an_Introduction.epub?id=fju1qwT2W4MC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fju1qwT2W4MC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> in order to reach the logic by which we study <b>psychology</b> . Logic teaches the laws of right thinking . But what is it to think ? what are the processes which it involves ? We must ask these questions , in order to discover and&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bb07AQAAMAAJ",
+      "etag": "JUgAqPnPTm4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bb07AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Princeton Contributions to Psychology ...",
+        "publishedDate": "1909",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CHI:79424841"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 156,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bb07AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bb07AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=bb07AQAAMAAJ&pg=PA93&dq=psychology&hl=&as_pt=BOOKS&cd=127&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bb07AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bb07AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=bb07AQAAMAAJ&rdid=book-bb07AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Princeton_Contributions_to_Psychology.epub?id=bb07AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bb07AQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> and thus influence it . The interest in logical , ethical , epistemological , and metaphysical problems ... <b>psychology</b> to metaphysics is not to be con- ceived in the old - fashioned sense of an a priori construction of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1g0CAAAAYAAJ",
+      "etag": "5sNiy9kx3tI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1g0CAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Bibliographies on Educational Psychology",
+        "authors": [
+          "William Henry Burnham"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044028329365"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 54,
+        "printType": "BOOK",
+        "categories": [
+          "Educational psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1g0CAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1g0CAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=1g0CAAAAYAAJ&pg=PA2&dq=psychology&hl=&as_pt=BOOKS&cd=128&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1g0CAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1g0CAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=1g0CAAAAYAAJ&rdid=book-1g0CAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Bibliographies_on_Educational_Psychology.epub?id=1g0CAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Bibliographies_on_Educational_Psychology.pdf?id=1g0CAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3lhDYOvHX7mYEI2qp42ZRIUGJzHA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1g0CAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Psychology</b> . N. Y. , Col. Univ . , 1910 . 248 p . 23 . \u2022 The principles of teaching based on <b>psychology</b> . N. Y. , Seiler , 1906. 293 p . 24. Welton , J. The <b>psychology</b> of education . London , Macmillan , 1911 . 507 p . 25. Whipple&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qqaBzgEACAAJ",
+      "etag": "aMsnwpu5fto",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qqaBzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Cambridge Handbook of Political Psychology",
+        "authors": [
+          "Danny Osborne",
+          "Chris G. Sibley"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2022-02-28",
+        "description": "The Cambridge Handbook of Political Psychology provides a comprehensive review of the psychology of political behaviour from an international perspective. Its coverage spans from foundational approaches to political psychology, including the evolutionary, personality and developmental roots of political attitudes, to contemporary challenges to governance, including populism, hate speech, conspiracy beliefs, inequality, climate change and cyberterrorism. Each chapter features cutting-edge research from internationally renowned scholars who offer their unique insights into how people think, feel and act in different political contexts. By taking a distinctively international approach, this handbook highlights the nuances of political behaviour across cultures and geographical regions, as well as the truisms of political psychology that transcend context. Academics, graduate students and practitioners alike, as well as those generally interested in politics and human behaviour, will benefit from this definitive overview of how people shape - and are shaped by - their political environment in a rapidly changing twenty-first century.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1108747418"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781108747417"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 800,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qqaBzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qqaBzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qqaBzgEACAAJ&dq=psychology&hl=&as_pt=BOOKS&cd=129&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=qqaBzgEACAAJ&dq=psychology&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Cambridge_Handbook_of_Political_Psyc.html?hl=&id=qqaBzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qqaBzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Cambridge Handbook of Political Psychology provides a comprehensive review of the psychology of political behaviour from an international perspective."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p2Y9AAAAYAAJ",
+      "etag": "MeKsxtjx35w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p2Y9AAAAYAAJ",
+      "volumeInfo": {
+        "title": "Contributions to Psychology",
+        "authors": [
+          "Princeton University"
+        ],
+        "publishedDate": "1903",
+        "description": "Reprinted from scientific journals.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PRNC:32101067479251"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p2Y9AAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p2Y9AAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=p2Y9AAAAYAAJ&pg=PA18&dq=psychology&hl=&as_pt=BOOKS&cd=130&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=p2Y9AAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=p2Y9AAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=p2Y9AAAAYAAJ&rdid=book-p2Y9AAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Contributions_to_Psychology.epub?id=p2Y9AAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Contributions_to_Psychology.pdf?id=p2Y9AAAAYAAJ&hl=&output=pdf&sig=ACfU3U03CQbv6E0acQ3h4Xl9saWaHnEHvA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p2Y9AAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Psychology</b> : I. Evolution and Heredity . 2. Comparative <b>Psychology</b> . 3. Mental Development : a . General ; Adolescence and Senescence . b . Child <b>Psychology</b> . c . Pedagogy . 4. Individual , Sex , and Class <b>Psychology</b> . 5. Folk&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "27D3CKQtyfgC",
+      "etag": "t/xsjz5+PNY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/27D3CKQtyfgC",
+      "volumeInfo": {
+        "title": "Experiments in Psychology",
+        "authors": [
+          "William Silliman Foster"
+        ],
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015039591352"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.19.22.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=27D3CKQtyfgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=27D3CKQtyfgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=27D3CKQtyfgC&pg=PA131&dq=psychology&hl=&as_pt=BOOKS&cd=131&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=27D3CKQtyfgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=27D3CKQtyfgC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=27D3CKQtyfgC&rdid=book-27D3CKQtyfgC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Experiments_in_Psychology.epub?id=27D3CKQtyfgC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=27D3CKQtyfgC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Psychology</b> and Philosophy , Vol . I , article , &quot; Dynamogenesis . &quot; E. B. Titchener : Text Book of <b>Psychology</b> , pp . 194-200 ; 410-424 ; 484-489 . C. H. Judd : <b>Psychology</b> , 1907 , pp . 182-212 . For a general account of the Method of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tzQFAQAAIAAJ",
+      "etag": "dxIW2XLyP68",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tzQFAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Elements of Psychology",
+        "authors": [
+          "Noah Knowles Davis"
+        ],
+        "publishedDate": "1892",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B4088222"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 374,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tzQFAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tzQFAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tzQFAQAAIAAJ&pg=PA35&dq=psychology&hl=&as_pt=BOOKS&cd=132&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tzQFAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tzQFAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=tzQFAQAAIAAJ&rdid=book-tzQFAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Elements_of_Psychology.epub?id=tzQFAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Elements_of_Psychology.pdf?id=tzQFAQAAIAAJ&hl=&output=pdf&sig=ACfU3U2xjEoYZ4Vk6DN94X4TfJXt2B53aA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tzQFAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Psychology</b> , which has been widely described as &quot; <b>psychology</b> approached from the physiological side or point of view , &quot; and more accurately defined as &quot; the ... <b>PSYCHOLOGY</b> . 35 PHYSIOLOGICAL <b>PSYCHOLOGY</b> \u00a7 43 Comprehension of this title."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "W_5UgFxDZ1oC",
+      "etag": "NrRb5DmN8CY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W_5UgFxDZ1oC",
+      "volumeInfo": {
+        "title": "An Introduction to Social Psychology",
+        "authors": [
+          "William McDougall"
+        ],
+        "publishedDate": "1919",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NLI:3058373-10"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 524,
+        "printType": "BOOK",
+        "categories": [
+          "Social psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=W_5UgFxDZ1oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=W_5UgFxDZ1oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=W_5UgFxDZ1oC&pg=PA2&dq=psychology&hl=&as_pt=BOOKS&cd=133&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=W_5UgFxDZ1oC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=W_5UgFxDZ1oC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=W_5UgFxDZ1oC&rdid=book-W_5UgFxDZ1oC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/An_Introduction_to_Social_Psychology.epub?id=W_5UgFxDZ1oC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W_5UgFxDZ1oC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> to such recognition . Some do lip service to <b>psychology</b> , but in practice ignore it , and will sit down to write a treatise on morals or economics , or any other of the social sciences , cheerfully confessing that they know&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BtM3AQAAMAAJ",
+      "etag": "w3AWejDuCjo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BtM3AQAAMAAJ",
+      "volumeInfo": {
+        "title": "An Outline of Psychology",
+        "authors": [
+          "Edward Bradford Titchener"
+        ],
+        "publishedDate": "1908",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MSU:31293012505693"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 406,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BtM3AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BtM3AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=BtM3AQAAMAAJ&pg=PT3&dq=psychology&hl=&as_pt=BOOKS&cd=134&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=BtM3AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BtM3AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=BtM3AQAAMAAJ&rdid=book-BtM3AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/An_Outline_of_Psychology.epub?id=BtM3AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/An_Outline_of_Psychology.pdf?id=BtM3AQAAMAAJ&hl=&output=pdf&sig=ACfU3U2Y6Ss5EDG23c64WG28HoDnPmT6nA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BtM3AQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Psychology</b> of Pain and Pleasure , with Special Reference to \u00c6sthetics . By HENRY RUTGERS MARSHALL , M.A. 8vo ... <b>psychology</b> . All these qualities render it almost&#39;\u00e8poch - making &#39; in the present situation of science . &quot; - The&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1i9VAAAAMAAJ",
+      "etag": "NgdeZyJ1/EM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1i9VAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Psychology of Reasoning",
+        "authors": [
+          "Eugenio Rignano"
+        ],
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89094315678"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 414,
+        "printType": "BOOK",
+        "categories": [
+          "Reasoning"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1i9VAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1i9VAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=1i9VAAAAMAAJ&pg=PP6&dq=psychology&hl=&as_pt=BOOKS&cd=135&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1i9VAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1i9VAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=1i9VAAAAMAAJ&rdid=book-1i9VAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Psychology_of_Reasoning.epub?id=1i9VAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1i9VAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>PSYCHOLOGY</b> AND ETHNOLOGY INDIVIDUAL <b>PSYCHOLOGY</b> \u00b7 MATHEMATICS FOR PHILOSOPHERS THE <b>PSYCHOLOGY</b> OF MYTHS \u2022 by W. H. R. RIVERS , F.R.S. by ALFRED ADLER by G. H. HARDY , F.R.S. by G. ELLIOT SMITH , F.R.S. THE PHILOSOPHY OF THE UNCONSCIOUS by&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hcAZAAAAMAAJ",
+      "etag": "6mQsWwZ9ncs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hcAZAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Lectures on the Experimental Psychology of the Thought-processes",
+        "authors": [
+          "Edward Bradford Titchener"
+        ],
+        "publishedDate": "1909",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015012106194"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 344,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology, Experimental"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "5.9.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hcAZAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hcAZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=hcAZAAAAMAAJ&pg=PT3&dq=psychology&hl=&as_pt=BOOKS&cd=136&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hcAZAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hcAZAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=hcAZAAAAMAAJ&rdid=book-hcAZAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Lectures_on_the_Experimental_Psychology.epub?id=hcAZAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Lectures_on_the_Experimental_Psychology.pdf?id=hcAZAAAAMAAJ&hl=&output=pdf&sig=ACfU3U3D-LvIG3I1A-qBuaNXu1V6cZozQg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hcAZAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Psychology</b> , Cor- nell University , Associate Editor of &quot; Mind &quot; and of &quot; The American Journal of <b>Psychology</b> . &quot; A Text Book of <b>Psychology</b> A much enlarged and revised edition of the well - known work &quot; An Outline of <b>Psychology</b> . &quot; Part&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0VIpAAAAYAAJ",
+      "etag": "jpkFc3H3v9c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0VIpAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Constructive Psychology",
+        "subtitle": "Or, The Building of Character by Personal Effort",
+        "authors": [
+          "Jirah Dewey Buck"
+        ],
+        "publishedDate": "1908",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HNPUVS"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "categories": [
+          "Character"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0VIpAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0VIpAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0VIpAAAAYAAJ&pg=PA64&dq=psychology&hl=&as_pt=BOOKS&cd=137&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0VIpAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0VIpAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=0VIpAAAAYAAJ&rdid=book-0VIpAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Constructive_Psychology.epub?id=0VIpAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Constructive_Psychology.pdf?id=0VIpAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1PsPQWh0idCnK7Kn4hEWK4kmjYqQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0VIpAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Psychology</b> points out the way of re- ducing these to harmony and converting noise into music , under the guidance of a Master , the real self , and &quot; inviting his own soul &quot; to such a symphony as he never be- fore dreamed of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LYtTqOYkoxUC",
+      "etag": "uduoZ9EMx4A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LYtTqOYkoxUC",
+      "volumeInfo": {
+        "title": "Applied Psychology...",
+        "subtitle": "A Series of Twelve Volumes on the Applications of Psychology to the Problems of Personal and Business Efficiency",
+        "authors": [
+          "Warren Hilton"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924092311368"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology, Applied"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LYtTqOYkoxUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LYtTqOYkoxUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=LYtTqOYkoxUC&pg=PA66&dq=psychology&hl=&as_pt=BOOKS&cd=138&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LYtTqOYkoxUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LYtTqOYkoxUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=LYtTqOYkoxUC&rdid=book-LYtTqOYkoxUC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Applied_Psychology.epub?id=LYtTqOYkoxUC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LYtTqOYkoxUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Psychology</b> of to place , or salesmen to employ , or Impressions &quot; offices to furnish , it will pay you to con- sider the tendency of the human mind that I have been describing ... <b>Psychology PSYCHOLOGY</b> OF &quot;FIRST IMPRESSIONS&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aOMuAQAAIAAJ",
+      "etag": "pONLH+kLe5M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aOMuAQAAIAAJ",
+      "volumeInfo": {
+        "title": "History of the Problems of Philosophy: Introduction. pt. I. Psychology",
+        "authors": [
+          "Paul Janet",
+          "Gabriel S\u00e9ailles"
+        ],
+        "publishedDate": "1902",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B809739"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aOMuAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aOMuAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=aOMuAQAAIAAJ&pg=PA44&dq=psychology&hl=&as_pt=BOOKS&cd=139&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=aOMuAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aOMuAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=aOMuAQAAIAAJ&rdid=book-aOMuAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/History_of_the_Problems_of_Philosophy_In.epub?id=aOMuAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/History_of_the_Problems_of_Philosophy_In.pdf?id=aOMuAQAAIAAJ&hl=&output=pdf&sig=ACfU3U2GALCN4Q-z_BM3ODFDdvgWZMR2nQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aOMuAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> in all its compass . ( See Ribot , Psychologie anglaise , 1875 ; Psychologie allemande , 1885. ) The English associationist <b>psychology</b> , founded by David Hume , continued by Thomas Browne , developed by James Mill and his son&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-YtWAAAAYAAJ",
+      "etag": "S8TCyuX/kSM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-YtWAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Philosophy and Psychology Pamphlets",
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X030801009"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 636,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-YtWAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-YtWAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-YtWAAAAYAAJ&pg=RA5-PA8&dq=psychology&hl=&as_pt=BOOKS&cd=140&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-YtWAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-YtWAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=-YtWAAAAYAAJ&rdid=book--YtWAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Philosophy_and_Psychology_Pamphlets.epub?id=-YtWAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-YtWAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> . The introductory course in <b>psychology</b> at the University of Minnesota is a course with three meetings per week for two quarter - terms , each eleven weeks in length . The texts used during the academic year of 1928-29 were&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v-tAQLGvZi4C",
+      "etag": "c/wnOUNJDho",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v-tAQLGvZi4C",
+      "volumeInfo": {
+        "title": "The Psychology of Society",
+        "authors": [
+          "Morris Ginsberg"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IOWA:31858025156468"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 202,
+        "printType": "BOOK",
+        "categories": [
+          "Social psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v-tAQLGvZi4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v-tAQLGvZi4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=v-tAQLGvZi4C&pg=PA169&dq=psychology&hl=&as_pt=BOOKS&cd=141&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=v-tAQLGvZi4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=v-tAQLGvZi4C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=v-tAQLGvZi4C&rdid=book-v-tAQLGvZi4C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Psychology_of_Society.epub?id=v-tAQLGvZi4C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v-tAQLGvZi4C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Psychology</b> . Die Vortschritte der V\u00f6lkerpsy- chologie Von Lazarus bis Wundt . Die Seelen der V\u00f6lker . Introduction to Social <b>Psychology</b> . CHAPTER I DAVIS , M. \u039c . MCDOUGALL , W. SGANZINI , CARLO HURWICZ , ELIAS ELLWOOD \u2022 F HOBHOUSE&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uaKO0AEACAAJ",
+      "etag": "oKOmGBOp9a8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uaKO0AEACAAJ",
+      "volumeInfo": {
+        "title": "Practical Female Psychology",
+        "subtitle": "For the Practical Man",
+        "authors": [
+          "Joseph W. South",
+          "David Clare"
+        ],
+        "publishedDate": "2019",
+        "description": "\"Practical Female Psychology for the Practical M",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798424707391"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Domestic relations"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=uaKO0AEACAAJ&dq=psychology&hl=&as_pt=BOOKS&cd=142&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=uaKO0AEACAAJ&dq=psychology&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Practical_Female_Psychology.html?hl=&id=uaKO0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uaKO0AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Practical Female Psychology for the Practical M"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9hFVAAAAMAAJ",
+      "etag": "MhelzryBTTE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9hFVAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Experimental Psychology and Child Study",
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89094655107"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "categories": [
+          "Child psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9hFVAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9hFVAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9hFVAAAAMAAJ&pg=PA6&dq=psychology&hl=&as_pt=BOOKS&cd=143&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9hFVAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9hFVAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=9hFVAAAAMAAJ&rdid=book-9hFVAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Experimental_Psychology_and_Child_Study.epub?id=9hFVAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Experimental_Psychology_and_Child_Study.pdf?id=9hFVAAAAMAAJ&hl=&output=pdf&sig=ACfU3U0IxUWr0WBD5z6A52L3snpbMxLprQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9hFVAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> . In its earliest development it was the work of one other man , Wilhelm Wundt , who pub- lished his Physiological <b>Psychology</b> in 1874 , and ... <b>psychology</b> not so much 6 EXPERIMENTAL <b>PSYCHOLOGY</b> II EXPERIMENTAL <b>PSYCHOLOGY</b>."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OCNC8uQzJO8C",
+      "etag": "A41d+qAB8G0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OCNC8uQzJO8C",
+      "volumeInfo": {
+        "title": "Mysticism, Freudianism and scientific psychology",
+        "authors": [
+          "Knight Dunlap"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:24503422612"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.12.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OCNC8uQzJO8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OCNC8uQzJO8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=OCNC8uQzJO8C&pg=PA121&dq=psychology&hl=&as_pt=BOOKS&cd=144&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OCNC8uQzJO8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OCNC8uQzJO8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=OCNC8uQzJO8C&rdid=book-OCNC8uQzJO8C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Mysticism_Freudianism_and_scientific_psy.epub?id=OCNC8uQzJO8C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Mysticism_Freudianism_and_scientific_psy.pdf?id=OCNC8uQzJO8C&hl=&output=pdf&sig=ACfU3U1WBNq8tRkPdrjxX-N4U6_cbvuaAA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OCNC8uQzJO8C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> has in the past be- come unfortunately &quot; metaphysical &quot; in the bad sense of the term : that is , in the sense of adopting without ... <b>psychology</b> or psychobiology . The Freud- ian doctrine of and Scientific <b>Psychology</b> 121."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xylf39MZ4y4C",
+      "etag": "UgGNP85QkAU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xylf39MZ4y4C",
+      "volumeInfo": {
+        "title": "Archives of Psychology",
+        "authors": [
+          "Robert Sessions Woodworth"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UFL:31262073455841"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xylf39MZ4y4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xylf39MZ4y4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xylf39MZ4y4C&pg=PA79&dq=psychology&hl=&as_pt=BOOKS&cd=145&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xylf39MZ4y4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xylf39MZ4y4C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=xylf39MZ4y4C&rdid=book-xylf39MZ4y4C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Archives_of_Psychology.epub?id=xylf39MZ4y4C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xylf39MZ4y4C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> . At first the end of such investigations was to formulate the laws of mental life , and in this direction great success has been achieved . Compared with the recency of the attempts , no less remarkable has been the light&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ek8uAAAAYAAJ",
+      "etag": "JBNA+0bUfO0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ek8uAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Elementary Psychology",
+        "authors": [
+          "Amos Markham Kellogg"
+        ],
+        "publishedDate": "1894",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HNQ8BS"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 76,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ek8uAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ek8uAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Ek8uAAAAYAAJ&pg=PT4&dq=psychology&hl=&as_pt=BOOKS&cd=146&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Ek8uAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ek8uAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Ek8uAAAAYAAJ&rdid=book-Ek8uAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Elementary_Psychology.epub?id=Ek8uAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Elementary_Psychology.pdf?id=Ek8uAAAAYAAJ&hl=&output=pdf&sig=ACfU3U25qsrzH4sXy_XJrm9UxqzgczcULA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ek8uAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> , and who desire to be better in- formed concerning its princi- ples , especially its relation to the work of teaching . For the aid of such , this book has been pre- pared . But it is not a psychol- ogy - only an&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b0FDAAAAIAAJ",
+      "etag": "gx0XWCEAzaA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b0FDAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Psychology: Personal and Essential",
+        "authors": [
+          "Henry C. Sheppard"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B28873"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 154,
+        "printType": "BOOK",
+        "categories": [
+          "California"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b0FDAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b0FDAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=b0FDAAAAIAAJ&pg=PA40&dq=psychology&hl=&as_pt=BOOKS&cd=147&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=b0FDAAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=b0FDAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=b0FDAAAAIAAJ&rdid=book-b0FDAAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Psychology_Personal_and_Essential.epub?id=b0FDAAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Psychology_Personal_and_Essential.pdf?id=b0FDAAAAIAAJ&hl=&output=pdf&sig=ACfU3U0DZqDWn-h-tNar79e5YTIBL8cB1A&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b0FDAAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> the business executive realizes in his relations toward &quot; connections &quot; and subordinates , that through- out the complexities of business life there is one simple unity easily understood if sympathetic attention be directed&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1F0ZAQAAIAAJ",
+      "etag": "BOtbRczc7Bo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1F0ZAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Investigations of the Department of Psychology and Education of the University of Colorado",
+        "authors": [
+          "University of Colorado (Boulder campus). Dept. of Psychology and Education"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3024971"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1F0ZAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1F0ZAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=1F0ZAQAAIAAJ&pg=PA25&dq=psychology&hl=&as_pt=BOOKS&cd=148&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1F0ZAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1F0ZAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=1F0ZAQAAIAAJ&rdid=book-1F0ZAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Investigations_of_the_Department_of_Psyc.epub?id=1F0ZAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Investigations_of_the_Department_of_Psyc.pdf?id=1F0ZAQAAIAAJ&hl=&output=pdf&sig=ACfU3U3MDPZ_EW9fQR_u_KBJXsuq9gDKfQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1F0ZAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> should be based on the hygienic surroundings of the student and the child , such as light , air , heat , posture , exercise , ventila- tion , as related to buildings , rooms , hours and kindred elements . It should also&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o6Z26rBMKjsC",
+      "etag": "JpKCCSHODRI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o6Z26rBMKjsC",
+      "volumeInfo": {
+        "title": "A Syllabus of the Course in the Psychology of the Elementary School Subjects",
+        "authors": [
+          "Harold Ordway Rugg"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015062700961"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 86,
+        "printType": "BOOK",
+        "categories": [
+          "Educational psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=o6Z26rBMKjsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=o6Z26rBMKjsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=o6Z26rBMKjsC&pg=PA3&dq=psychology&hl=&as_pt=BOOKS&cd=149&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=o6Z26rBMKjsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=o6Z26rBMKjsC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=o6Z26rBMKjsC&rdid=book-o6Z26rBMKjsC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/A_Syllabus_of_the_Course_in_the_Psycholo.epub?id=o6Z26rBMKjsC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o6Z26rBMKjsC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> of spelling ; either two or three class exercises . III . The <b>psychology</b> of arithmetic ; approximately five class exercises . IV . The <b>psychology</b> of handwriting ; either two or three class exercises . V. The <b>psychology</b> of the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EDWYUNn2sAgC",
+      "etag": "UTeAVHw32LY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EDWYUNn2sAgC",
+      "volumeInfo": {
+        "title": "Industrial Psychology Monthly",
+        "subtitle": "The Magazine of Manpower",
+        "authors": [
+          "Donald Anderson Laird"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951000740510H"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 522,
+        "printType": "BOOK",
+        "categories": [
+          "Personnel management"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EDWYUNn2sAgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EDWYUNn2sAgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=EDWYUNn2sAgC&pg=PA138&dq=psychology&hl=&as_pt=BOOKS&cd=150&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=EDWYUNn2sAgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EDWYUNn2sAgC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=EDWYUNn2sAgC&rdid=book-EDWYUNn2sAgC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Industrial_Psychology_Monthly.epub?id=EDWYUNn2sAgC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EDWYUNn2sAgC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> teacher , his busi- ness manager , and his secretary , were acquitted of making false state- ments in an advertisement inserted in The New York Times . They had advertised for sales- women to sell <b>psychology</b> lessons pre&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "deOLTt-dD3gC",
+      "etag": "JdNbNybklzU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/deOLTt-dD3gC",
+      "volumeInfo": {
+        "title": "The Principles of Psychology",
+        "authors": [
+          "William James"
+        ],
+        "publishedDate": "1890",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105004951021"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 720,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "7.10.15.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=deOLTt-dD3gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=deOLTt-dD3gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=deOLTt-dD3gC&pg=PR6&dq=psychology&hl=&as_pt=BOOKS&cd=151&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=deOLTt-dD3gC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=deOLTt-dD3gC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=deOLTt-dD3gC&rdid=book-deOLTt-dD3gC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Principles_of_Psychology.epub?id=deOLTt-dD3gC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/The_Principles_of_Psychology.pdf?id=deOLTt-dD3gC&hl=&output=pdf&sig=ACfU3U3lOdm4jhJ2HG8q9H6aTcWy6-WCHg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=deOLTt-dD3gC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Psychology</b> , the science of finite individual minds , assumes as its data ( 1 ) thoughts and feelings , and ( 2 ) a physical world in time and space with which they coexist and which ( 3 ) they know . Of course these data themselves are&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vEkAAAAAMAAJ",
+      "etag": "RxllTlL19Rw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vEkAAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Psychology Applied to Education",
+        "subtitle": "A Series of Lectures on the Theory & Practice of Education",
+        "authors": [
+          "James Ward"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015026429525"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "categories": [
+          "Educational psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vEkAAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vEkAAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=vEkAAAAAMAAJ&pg=PA103&dq=psychology&hl=&as_pt=BOOKS&cd=152&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vEkAAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vEkAAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=vEkAAAAAMAAJ&rdid=book-vEkAAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Psychology_Applied_to_Education.epub?id=vEkAAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vEkAAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> itself , should now be revived to darken knowledge under the guise of <b>psychology</b> applied to education . The first thing the educationist should be clear about is as to what he intends , as to what his end and aim is , or&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6AlCAAAAIAAJ",
+      "etag": "PCbdu8SCKgg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6AlCAAAAIAAJ",
+      "volumeInfo": {
+        "title": "The Psychology of Language",
+        "authors": [
+          "Walter Bowers Pillsbury",
+          "Clarence Linton Meader"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B64198"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 334,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6AlCAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6AlCAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=6AlCAAAAIAAJ&pg=PA18&dq=psychology&hl=&as_pt=BOOKS&cd=153&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6AlCAAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6AlCAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=6AlCAAAAIAAJ&rdid=book-6AlCAAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Psychology_of_Language.epub?id=6AlCAAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6AlCAAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> . One may , of course , attain a perfect mastery over one&#39;s own vernacular and may even learn any number of foreign languages without giving a single thought to <b>psychology</b> ; but when any question is raised concerning the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4cw9AAAAYAAJ",
+      "etag": "45NwuYHQ5Nc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4cw9AAAAYAAJ",
+      "volumeInfo": {
+        "title": "Practical Psychology and Psychiatry",
+        "subtitle": "For Use in Training-schools for Attendants and Nurses and in Medical Classes, and as Ready Reference for the Practitioner",
+        "authors": [
+          "Colonel Bell Burr"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924003514704"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 290,
+        "printType": "BOOK",
+        "categories": [
+          "Mental illness"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4cw9AAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4cw9AAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=4cw9AAAAYAAJ&pg=PA1&dq=psychology&hl=&as_pt=BOOKS&cd=154&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4cw9AAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4cw9AAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=4cw9AAAAYAAJ&rdid=book-4cw9AAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Practical_Psychology_and_Psychiatry.epub?id=4cw9AAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4cw9AAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>PSYCHOLOGY</b> . <b>PSYCHOLOGY</b> : the Science of Mind . The word <b>Psychology</b> is derived from two Greek words : Psyche , Soul , Mind ; and Logos , Discourse . The problems of the mind involve those of BIOLOGY : the Science of Life ( Bios , Life&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "30Q-x4GKV6kC",
+      "etag": "27sMdX9dM7g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/30Q-x4GKV6kC",
+      "volumeInfo": {
+        "title": "Popular Science Library: Psychology",
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CUB:P201122410017"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 418,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=30Q-x4GKV6kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=30Q-x4GKV6kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=30Q-x4GKV6kC&pg=PA276&dq=psychology&hl=&as_pt=BOOKS&cd=155&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=30Q-x4GKV6kC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=30Q-x4GKV6kC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=30Q-x4GKV6kC&rdid=book-30Q-x4GKV6kC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Popular_Science_Library_Psychology.epub?id=30Q-x4GKV6kC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=30Q-x4GKV6kC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> should at once be apparent . For while all work whatsoever must be accompanied by a loss of energy , it does not follow that all kinds of work will equally tire us . And even though fa- tigue is in some ways a blessing&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7F8wAQAAMAAJ",
+      "etag": "6FpJJmh+kk0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7F8wAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Groundwork of Psychology",
+        "authors": [
+          "George Frederick Stout"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105046663691"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.10.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7F8wAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7F8wAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7F8wAQAAMAAJ&pg=PA1&dq=psychology&hl=&as_pt=BOOKS&cd=156&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7F8wAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7F8wAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=7F8wAQAAMAAJ&rdid=book-7F8wAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Groundwork_of_Psychology.epub?id=7F8wAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7F8wAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>PSYCHOLOGY Psychology</b> treats of psychical states and processes , their objects as such , and the conditions of their occur- rence . We have to inquire : ( 1 ) What is a psychical state or process ? ( 2 ) What is meant by saying that&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lwMNAAAAIAAJ",
+      "etag": "K2BIQ5bbJSg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lwMNAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Problems in Dynamic Psychology",
+        "subtitle": "A Critique of Psychoanalysis and Suggested Formulations",
+        "authors": [
+          "John Thompson MacCurdy"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015002964552"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 424,
+        "printType": "BOOK",
+        "categories": [
+          "Psychoanalysis"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.12.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lwMNAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lwMNAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=lwMNAAAAIAAJ&pg=PA209&dq=psychology&hl=&as_pt=BOOKS&cd=157&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lwMNAAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lwMNAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=lwMNAAAAIAAJ&rdid=book-lwMNAAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Problems_in_Dynamic_Psychology.epub?id=lwMNAAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Problems_in_Dynamic_Psychology.pdf?id=lwMNAAAAIAAJ&hl=&output=pdf&sig=ACfU3U1yqgZJJG-DGm3s2j02mVLhthv4wg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lwMNAAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> . In fact one leader of &quot; experi- mental <b>psychology</b> &quot; has been honest enough to de- clare that the object of the science of <b>psychology</b> is to eliminate &quot; mind . &quot; Another attempt at &quot; physiologizing &quot; <b>psychology</b> has been&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NAARAQAAIAAJ",
+      "etag": "qbgbmcU1XtY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NAARAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Comparative Psychology Monographs",
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSC:32106006338336"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 454,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology, Comparative"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NAARAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NAARAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=NAARAQAAIAAJ&pg=RA4-PT3&dq=psychology&hl=&as_pt=BOOKS&cd=158&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NAARAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NAARAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=NAARAQAAIAAJ&rdid=book-NAARAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Comparative_Psychology_Monographs.epub?id=NAARAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NAARAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Psychology</b> Monographs afford an avenue of publication for the more extended studies of animal behavior and in addition will welcome studies in human <b>psychology</b> conducted from the com- parative point of view . Each number will consist of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QxNVAAAAMAAJ",
+      "etag": "RK5C0fbuLoQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QxNVAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Elements of Psychology",
+        "authors": [
+          "Gabriel Compayr\u00e9"
+        ],
+        "publishedDate": "1890",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89094314077"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 330,
+        "printType": "BOOK",
+        "categories": [
+          "Educational psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QxNVAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QxNVAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QxNVAAAAMAAJ&pg=PA30&dq=psychology&hl=&as_pt=BOOKS&cd=159&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QxNVAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QxNVAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=QxNVAAAAMAAJ&rdid=book-QxNVAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Elements_of_Psychology.epub?id=QxNVAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/The_Elements_of_Psychology.pdf?id=QxNVAAAAMAAJ&hl=&output=pdf&sig=ACfU3U3Ycg1hykYSejh3-E27vUezXazmWA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QxNVAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> , which studies the moral life of man , in physiology , which studies his physical life . Digestion , circulation , and respiration , it is said , are functions of the stomach , heart , and lungs , just as thought is the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RGB9AAAAMAAJ",
+      "etag": "JckGeiBEdQA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RGB9AAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Psychology of Aggression",
+        "authors": [
+          "Arnold H. Buss"
+        ],
+        "publishedDate": "1961",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015002189176"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 328,
+        "printType": "BOOK",
+        "categories": [
+          "Aggressiveness"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.10.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RGB9AAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RGB9AAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RGB9AAAAMAAJ&pg=PA206&dq=psychology&hl=&as_pt=BOOKS&cd=160&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RGB9AAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RGB9AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=RGB9AAAAMAAJ&rdid=book-RGB9AAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Psychology_of_Aggression.epub?id=RGB9AAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RGB9AAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> of Alfred Adler . New York : Basic Books , 1956 . Beach , F. A. The descent of instinct . Psychol . Rev. , 1955 , 62 , 401-410 . Beres , D. Clinical notes on aggression in children . Psychoanal . Stud . Child . , 1952 , 7&nbsp;..."
+      }
+    }
+  ]
+}

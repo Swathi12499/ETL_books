@@ -1,0 +1,2735 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "rOfmm3QC-RcC",
+      "etag": "QwrHNiLZmzQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rOfmm3QC-RcC",
+      "volumeInfo": {
+        "title": "Surgery, Its Principles and Practice: History; surgical physiology; surgical pathology; infections; tumors; wounds",
+        "authors": [
+          "William Williams Keen",
+          "John Chalmers Da Costa"
+        ],
+        "publishedDate": "1906",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IOWA:31858049993631"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1034,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rOfmm3QC-RcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rOfmm3QC-RcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=rOfmm3QC-RcC&pg=PA78&dq=history&hl=&as_pt=BOOKS&cd=161&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rOfmm3QC-RcC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rOfmm3QC-RcC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=rOfmm3QC-RcC&rdid=book-rOfmm3QC-RcC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Surgery_Its_Principles_and_Practice_Hist.epub?id=rOfmm3QC-RcC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rOfmm3QC-RcC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>History</b> and Development of Surgery During the Past Century . &#39; J. S. Billings : &quot; <b>History</b> and Literature of Surgery , &quot; in Dennis&#39;s System of Surgery . &quot; P. V. Renouard : &quot; <b>History</b> of Medicine . \u201d Sir Michael Foster : &quot; <b>History</b> of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QaxgFlRSVa4C",
+      "etag": "f6ecWqtYIyQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QaxgFlRSVa4C",
+      "volumeInfo": {
+        "title": "A Lecture on the Study of History",
+        "subtitle": "Delivered at Cambridge, June 11, 1895",
+        "authors": [
+          "Acton"
+        ],
+        "publishedDate": "1896",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UBBS:UBBS-00004430"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QaxgFlRSVa4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QaxgFlRSVa4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QaxgFlRSVa4C&pg=PA3&dq=history&hl=&as_pt=BOOKS&cd=162&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QaxgFlRSVa4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QaxgFlRSVa4C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=QaxgFlRSVa4C&rdid=book-QaxgFlRSVa4C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/A_Lecture_on_the_Study_of_History.epub?id=QaxgFlRSVa4C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QaxgFlRSVa4C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... and government prosper , 3 may some day be founded in this country . Meantime , we do well to acknowledge the points at which the two epochs diverge . For B 2 OF MODERN <b>HISTORY</b> 3 <b>history</b>, and <b>history</b> fades into mere lit- ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "78doatz_mBIC",
+      "etag": "6UAJarOR0rU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/78doatz_mBIC",
+      "volumeInfo": {
+        "title": "Michigan, a History of Governments",
+        "authors": [
+          "Thomas McIntyre Cooley"
+        ],
+        "publishedDate": "1885",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112049815472"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 406,
+        "printType": "BOOK",
+        "categories": [
+          "Michigan"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=78doatz_mBIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=78doatz_mBIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=78doatz_mBIC&pg=PT3&dq=history&hl=&as_pt=BOOKS&cd=163&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=78doatz_mBIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=78doatz_mBIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=78doatz_mBIC&rdid=book-78doatz_mBIC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Michigan_a_History_of_Governments.epub?id=78doatz_mBIC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=78doatz_mBIC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> of such States of the Union as have exerted a positive influ- ence in the shaping of the national government , of have a striking political , social , or economical <b>history</b> The commonwealth has always been a positive force in&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2Kp9B-vGtF4C",
+      "etag": "E6+wYWCme0I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2Kp9B-vGtF4C",
+      "volumeInfo": {
+        "title": "History of the United States",
+        "authors": [
+          "Alma Holman Burton"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89077074896"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 460,
+        "printType": "BOOK",
+        "categories": [
+          "United States"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2Kp9B-vGtF4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2Kp9B-vGtF4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2Kp9B-vGtF4C&pg=PA413&dq=history&hl=&as_pt=BOOKS&cd=164&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2Kp9B-vGtF4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2Kp9B-vGtF4C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=2Kp9B-vGtF4C&rdid=book-2Kp9B-vGtF4C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/History_of_the_United_States.epub?id=2Kp9B-vGtF4C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2Kp9B-vGtF4C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>History</b> of the United States . &quot; Mc Master&#39;s &quot; <b>History</b> of the People of the United States . &quot; Morse&#39;s &quot; Alexander Hamilton ; &quot; &quot; John Adams . &quot; Von Holst&#39;s &quot; John C. Calhoun . &quot; Schouler&#39;s &quot; Thomas Jefferson . &quot; Roosevelt&#39;s &quot; Naval War&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UN39US9J7XIC",
+      "etag": "BbPzHh7Io9w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UN39US9J7XIC",
+      "volumeInfo": {
+        "title": "History of Ellsworth, Maine",
+        "authors": [
+          "Albert Hopkins Davis"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B5541074"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Ellsworth (Me.)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UN39US9J7XIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UN39US9J7XIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=UN39US9J7XIC&pg=PA16&dq=history&hl=&as_pt=BOOKS&cd=165&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UN39US9J7XIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UN39US9J7XIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=UN39US9J7XIC&rdid=book-UN39US9J7XIC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/History_of_Ellsworth_Maine.epub?id=UN39US9J7XIC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UN39US9J7XIC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Albert Hopkins Davis. CHAPTER II SETTLERS OCAL <b>history</b> is the basis of national <b>history</b> . Our national <b>history</b> has indeed its own marvelous and ex- pansive models and designs which can be seen and ap- preciated only when set before us&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m_12ff1MGecC",
+      "etag": "zR3SUB7xV8Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m_12ff1MGecC",
+      "volumeInfo": {
+        "title": "Outline History of Utica and Vicinity",
+        "authors": [
+          "New Century Club (Utica, N.Y.)"
+        ],
+        "publishedDate": "1900",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YALE:39002014941307"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 234,
+        "printType": "BOOK",
+        "categories": [
+          "Utica (N.Y.)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m_12ff1MGecC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m_12ff1MGecC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=m_12ff1MGecC&pg=PA186&dq=history&hl=&as_pt=BOOKS&cd=166&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=m_12ff1MGecC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=m_12ff1MGecC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=m_12ff1MGecC&rdid=book-m_12ff1MGecC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Outline_History_of_Utica_and_Vicinity.epub?id=m_12ff1MGecC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m_12ff1MGecC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... ( <b>History</b> of the Welsh in America ) . 1872. R. D. Thomas , Historical Collections . 1841. J. W. Barber ... <b>History</b> of the Town of . 1874. A. D. Gridley , ... Laws of New York , Men of Early Rome . 1879. ( Pamphlet . ) D. E. Wager&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qFo_PgAACAAJ",
+      "etag": "cpCAAiPVd5s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qFo_PgAACAAJ",
+      "volumeInfo": {
+        "title": "The Wars",
+        "authors": [
+          "Timothy Findley"
+        ],
+        "publishedDate": "1996",
+        "description": "Robert Ross, a sensitive nineteen-year-old Canadian officer, went to war--The War to End All Wars. He found himself in the nightmare world of trench warfare, of mud and smoke, of chlorine gas and rotting corpses. In this world gone mad, Robert Ross performed a last desperate act to declare his commitment to life in the midst of death.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0140241167"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780140241167"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 218,
+        "printType": "BOOK",
+        "categories": [
+          "Canadian fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qFo_PgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qFo_PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qFo_PgAACAAJ&dq=history&hl=&as_pt=BOOKS&cd=167&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=qFo_PgAACAAJ&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wars.html?hl=&id=qFo_PgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qFo_PgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Robert Ross, a sensitive nineteen-year-old Canadian officer, went to war--The War to End All Wars."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AWzZJ8aOqZ4C",
+      "etag": "y8XJUS2N9HY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AWzZJ8aOqZ4C",
+      "volumeInfo": {
+        "title": "The History of the Jews",
+        "subtitle": "From the Earliest Period Down to Modern Times",
+        "authors": [
+          "Henry Hart Milman"
+        ],
+        "publishedDate": "1881",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000108838347"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 518,
+        "printType": "BOOK",
+        "categories": [
+          "Jews"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AWzZJ8aOqZ4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AWzZJ8aOqZ4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=AWzZJ8aOqZ4C&pg=PA49&dq=history&hl=&as_pt=BOOKS&cd=168&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=AWzZJ8aOqZ4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AWzZJ8aOqZ4C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=AWzZJ8aOqZ4C&rdid=book-AWzZJ8aOqZ4C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_History_of_the_Jews.epub?id=AWzZJ8aOqZ4C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AWzZJ8aOqZ4C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> are inseparable . The God of the chosen people is their temporal as well as spiritual sovereign ; he is not merely their legislator , but also the administrator of their laws . Their land is his gift , held from him , as from a&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vIIVmrKtgOQC",
+      "etag": "HVw0WJo7Zpg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vIIVmrKtgOQC",
+      "volumeInfo": {
+        "title": "History of Indiana from Its Exploration to 1922",
+        "authors": [
+          "Logan Esarey"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112049810176"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 612,
+        "printType": "BOOK",
+        "categories": [
+          "Indiana"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vIIVmrKtgOQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vIIVmrKtgOQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=vIIVmrKtgOQC&pg=PA642&dq=history&hl=&as_pt=BOOKS&cd=169&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vIIVmrKtgOQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vIIVmrKtgOQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=vIIVmrKtgOQC&rdid=book-vIIVmrKtgOQC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/History_of_Indiana_from_Its_Exploration.epub?id=vIIVmrKtgOQC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vIIVmrKtgOQC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> of Indiana and a <b>history</b> of The Conquest of The Northwest , entitle him to a place of distinction among the writers who have won repute as chroniclers of Indiana and national <b>history</b> . It was not until the evening of his life&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u2XhbK-ECAMC",
+      "etag": "KUBHpU0EOTE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u2XhbK-ECAMC",
+      "volumeInfo": {
+        "title": "Original Sanskrit Texts on the Origin and History of the People of India",
+        "subtitle": "Their Religion and Institutions. Inquiry whether the hindus are or trans-himalayan origin and akin to the western branches of the indo european race",
+        "authors": [
+          "John Muir",
+          "Tr\u00fcbner & Co (Londres)"
+        ],
+        "publishedDate": "1874",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCM:5325078685"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 608,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u2XhbK-ECAMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u2XhbK-ECAMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=u2XhbK-ECAMC&pg=RA1-PA54&dq=history&hl=&as_pt=BOOKS&cd=170&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=u2XhbK-ECAMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=u2XhbK-ECAMC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=u2XhbK-ECAMC&rdid=book-u2XhbK-ECAMC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Original_Sanskrit_Texts_on_the_Origin_an.epub?id=u2XhbK-ECAMC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u2XhbK-ECAMC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>HISTORY</b> , a series of Popular Sketches of our National <b>History</b> compiled at different periods , from the Thirteenth Century to the Fifteenth , for the use of the Feudal Gentry and Nobility . Now first edited from the Original Manuscripts&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NLJBLQRQTKcC",
+      "etag": "3oE2D9002IM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NLJBLQRQTKcC",
+      "volumeInfo": {
+        "title": "Animal Plagues; Their History, Nature, and Prevention",
+        "authors": [
+          "George Fleming (Veterinary Surgeon.)"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NLS:B000444467"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 560,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NLJBLQRQTKcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NLJBLQRQTKcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=NLJBLQRQTKcC&pg=PR12&dq=history&hl=&as_pt=BOOKS&cd=171&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NLJBLQRQTKcC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NLJBLQRQTKcC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=NLJBLQRQTKcC&rdid=book-NLJBLQRQTKcC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Animal_Plagues_Their_History_Nature_and.epub?id=NLJBLQRQTKcC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NLJBLQRQTKcC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> of contagious diseases of animals cannot be doubted . Had the <b>history</b> of foot - and - mouth disease and contagious pleuro - pneumonia of cattle on the Continent of Europe been known in this country , as it is ex- hibited in this&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ppAREAAAQBAJ",
+      "etag": "jbMLe4m9fog",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ppAREAAAQBAJ",
+      "volumeInfo": {
+        "title": "Ancient Egypt",
+        "subtitle": "A Very Short Introduction",
+        "authors": [
+          "Ian Shaw"
+        ],
+        "publishedDate": "2021",
+        "description": "In this introduction, Ian Shaw describes how our current ideas about Egypt are based not only on the discoveries made by early Egyptologists but also on fascinating new kinds of evidence produced by modern scientific and linguistic analyses. He also explores the changing influences on our responses to these finds.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780198845461"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0198845464"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 217,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ppAREAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ppAREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ppAREAAAQBAJ&printsec=frontcover&dq=history&hl=&as_pt=BOOKS&cd=172&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ppAREAAAQBAJ&dq=history&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ancient_Egypt.html?hl=&id=ppAREAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Ancient_Egypt-sample-pdf.acsm?id=ppAREAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ppAREAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this introduction, Ian Shaw describes how our current ideas about Egypt are based not only on the discoveries made by early Egyptologists but also on fascinating new kinds of evidence produced by modern scientific and linguistic analyses ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yqZUuy2kcrQC",
+      "etag": "b8vAvk/PaOI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yqZUuy2kcrQC",
+      "volumeInfo": {
+        "title": "The History of Freemasonry",
+        "subtitle": "Its Antiquities, Symbols, Constitutions, Customs, Etc. Embracing an Investigation of the Records of the Organisations of the Fraternity in England, Scotland, Ireland, British Colonies, France, Germany, and the United States. Derived from Official Sources",
+        "authors": [
+          "Robert Freke Gould"
+        ],
+        "publishedDate": "1886",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "KUL:KULGB026293"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 298,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yqZUuy2kcrQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yqZUuy2kcrQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=yqZUuy2kcrQC&pg=PA292&dq=history&hl=&as_pt=BOOKS&cd=173&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yqZUuy2kcrQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yqZUuy2kcrQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=yqZUuy2kcrQC&rdid=book-yqZUuy2kcrQC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_History_of_Freemasonry.epub?id=yqZUuy2kcrQC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yqZUuy2kcrQC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> of the Grand Lodge , from 1717 to 1723 , as narrated by Anderson , is , to say the least , very unsatis- factorily attested.1 Dr Anderson died May 28 , 1739,2 and it is a little singular that none of the journals recording his&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wW_R2N1Lzu0C",
+      "etag": "ruzGODtVPy4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wW_R2N1Lzu0C",
+      "volumeInfo": {
+        "title": "History of the Pequot War",
+        "subtitle": "The Contemporary Accounts of Mason, Underhill, Vincent and Gardener, Reprinted from the Collections of the Massachusetts Historical Society",
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951P00512976V"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "categories": [
+          "New England"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wW_R2N1Lzu0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wW_R2N1Lzu0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wW_R2N1Lzu0C&pg=PA4&dq=history&hl=&as_pt=BOOKS&cd=174&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wW_R2N1Lzu0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wW_R2N1Lzu0C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=wW_R2N1Lzu0C&rdid=book-wW_R2N1Lzu0C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/History_of_the_Pequot_War.epub?id=wW_R2N1Lzu0C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wW_R2N1Lzu0C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>History</b> , cannot think these Scripture Phrases or relig- ious Turns unsuitable on this Occasion : For as these Colonies were chiefly , if not entirely Settled by a Re- ligious People , and for those Religious Purposes ; It is as&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "D74qlu4mzRIC",
+      "etag": "cQ/oCpmSBUw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/D74qlu4mzRIC",
+      "volumeInfo": {
+        "title": "European Treaties Bearing on the History of the United States and Its Dependencies",
+        "authors": [
+          "Frances Gardiner Davenport",
+          "Charles Oscar Paullin"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CUB:P204112605007"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+          "Europe"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=D74qlu4mzRIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=D74qlu4mzRIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=D74qlu4mzRIC&pg=PA3&dq=history&hl=&as_pt=BOOKS&cd=175&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=D74qlu4mzRIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=D74qlu4mzRIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=D74qlu4mzRIC&rdid=book-D74qlu4mzRIC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/European_Treaties_Bearing_on_the_History.epub?id=D74qlu4mzRIC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=D74qlu4mzRIC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>History</b> of New Netherland ( second ed . , 1855 ) , II . 151-155 . Incomplete text in B. Trumbull , A Complete <b>History</b> of Connecticut ( 1818 ) , 1. 191-193 . Translations : Translations of the ratification by the States General of the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZL2bWCzRydwC",
+      "etag": "NYFmEzE2p+s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZL2bWCzRydwC",
+      "volumeInfo": {
+        "title": "A Short History of German Literature",
+        "authors": [
+          "Hosmer"
+        ],
+        "publishedDate": "1892",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UBBS:UBBS-00124254"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 630,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZL2bWCzRydwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZL2bWCzRydwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZL2bWCzRydwC&pg=PT3&dq=history&hl=&as_pt=BOOKS&cd=176&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZL2bWCzRydwC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZL2bWCzRydwC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ZL2bWCzRydwC&rdid=book-ZL2bWCzRydwC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/A_Short_History_of_German_Literature.epub?id=ZL2bWCzRydwC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZL2bWCzRydwC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> of Anglo - Saxon political development and the importance of establishing harmony between the several sections of the English - speaking race , with a view to the maintenance of that freedom of which the race has been the chief&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ICina0OKqQAC",
+      "etag": "0cvWt8Akip8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ICina0OKqQAC",
+      "volumeInfo": {
+        "title": "Memoirs of eminent Etonians, with notices of the early history of Eton college",
+        "authors": [
+          "Sir Edward Shepherd Creasy"
+        ],
+        "publishedDate": "1876",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0026114315"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 694,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ICina0OKqQAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ICina0OKqQAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ICina0OKqQAC&pg=PA306&dq=history&hl=&as_pt=BOOKS&cd=177&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ICina0OKqQAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ICina0OKqQAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ICina0OKqQAC&rdid=book-ICina0OKqQAC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Memoirs_of_eminent_Etonians_with_notices.epub?id=ICina0OKqQAC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ICina0OKqQAC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>History</b> of England during the reign of Henry the Second . &quot; The idea of the first of these two works was probably suggested by the author&#39;s studies of Lucian while an Eton boy . Lord Lyttelton&#39;s &quot; Dialogues &quot; were very popular . The&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8uOQD-z5vJYC",
+      "etag": "UTyIMuNXgkk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8uOQD-z5vJYC",
+      "volumeInfo": {
+        "title": "A Century of Continental History, 1780-1880",
+        "authors": [
+          "John Holland Rose"
+        ],
+        "publishedDate": "1900",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "COLUMBIA:1000506656"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 440,
+        "printType": "BOOK",
+        "categories": [
+          "Europe"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8uOQD-z5vJYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8uOQD-z5vJYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8uOQD-z5vJYC&pg=PP13&dq=history&hl=&as_pt=BOOKS&cd=178&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8uOQD-z5vJYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8uOQD-z5vJYC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=8uOQD-z5vJYC&rdid=book-8uOQD-z5vJYC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/A_Century_of_Continental_History_1780_18.epub?id=8uOQD-z5vJYC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8uOQD-z5vJYC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>History</b> of Germany ; Seeley&#39;s &quot; Life and Times of Stein &quot; ; Lecky&#39;s <b>History</b> of England in Eighteenth Century ; Lowe&#39;s Life of Bismarck ; Busch&#39;s &quot; Our Chancellor &quot; ; Metternich&#39;s Memoirs ; Coxe&#39;s Memorials of the House of Austria&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vrp0bEaflDQC",
+      "etag": "O6UR+ogAlaI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vrp0bEaflDQC",
+      "volumeInfo": {
+        "title": "A Short Social and Political History of Britain",
+        "authors": [
+          "Robert Laird Mackie"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433102661901"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+          "Great Britain"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vrp0bEaflDQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vrp0bEaflDQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=vrp0bEaflDQC&pg=PA5&dq=history&hl=&as_pt=BOOKS&cd=179&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vrp0bEaflDQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vrp0bEaflDQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=vrp0bEaflDQC&rdid=book-vrp0bEaflDQC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/A_Short_Social_and_Political_History_of.epub?id=vrp0bEaflDQC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vrp0bEaflDQC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>History</b> of England has already done for the general reader . It is assumed that the children for whom this volume is in- tended have already read at least one book like Miss E. W. Miller&#39;s The Beginner&#39;s <b>History</b> of England , where the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YnQftRgkdt0C",
+      "etag": "WQL6dSX/1dA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YnQftRgkdt0C",
+      "volumeInfo": {
+        "title": "Text-Book of Church History. [Translated by J. H. A. Bomberger.]",
+        "authors": [
+          "Johann Heinrich KURTZ"
+        ],
+        "publishedDate": "1870",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0026971791"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 456,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YnQftRgkdt0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YnQftRgkdt0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=YnQftRgkdt0C&pg=PA355&dq=history&hl=&as_pt=BOOKS&cd=180&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YnQftRgkdt0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YnQftRgkdt0C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=YnQftRgkdt0C&rdid=book-YnQftRgkdt0C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Text_Book_of_Church_History_Translated_b.epub?id=YnQftRgkdt0C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YnQftRgkdt0C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> and myth ( Gesch . d . Pflanzung u . Seitung der K. durch die Apostel . 1832. 4. A. 1837. 2 Bde .; most of all in the &quot; Life of Christ . &quot; 1837. 4. A. 1845 ) . Concerning the most important work of his life , the &quot; <b>History</b> of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9WzU6aFVk-0C",
+      "etag": "oddhX5sDY2g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9WzU6aFVk-0C",
+      "volumeInfo": {
+        "title": "Persian Literature: Qur\u02b9\u0101nic literature history and biography. 2 v. - v. 2; pt. 1 Mathematics. Weights and measures. Astronomy and astrology; pt. 2. Medicine; pt. 3. Encyclopaedias and miscellanies. Arts and crafts. Science. Occult arts",
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433096077163"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 850,
+        "printType": "BOOK",
+        "categories": [
+          "Persian literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9WzU6aFVk-0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9WzU6aFVk-0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9WzU6aFVk-0C&pg=PA79&dq=history&hl=&as_pt=BOOKS&cd=181&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9WzU6aFVk-0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9WzU6aFVk-0C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=9WzU6aFVk-0C&rdid=book-9WzU6aFVk-0C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Persian_Literature_Qur%CA%B9%C4%81nic_literature.epub?id=9WzU6aFVk-0C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9WzU6aFVk-0C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> from Adam to the fall of Baghdad in a muqaddimah ( Pre - Islamic <b>history</b> ) and two qisms ( ( 1 ) Pre - Islamic kings of Persia , ( 2 ) From Muhammad onwards ) : H.Kh. iii p . 536 no . 6809 , Berlin 368 ( to A.H. 63 / 682-3 )&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JQ2hLiD9HdMC",
+      "etag": "tznU31heipw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JQ2hLiD9HdMC",
+      "volumeInfo": {
+        "title": "History of the Reign of Ferdinand and Isabella, the Catholic",
+        "authors": [
+          "William Hickling Prescott"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "RUTGERS:39030012243038"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 448,
+        "printType": "BOOK",
+        "categories": [
+          "Spain"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JQ2hLiD9HdMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JQ2hLiD9HdMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=JQ2hLiD9HdMC&pg=PR17&dq=history&hl=&as_pt=BOOKS&cd=182&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=JQ2hLiD9HdMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JQ2hLiD9HdMC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=JQ2hLiD9HdMC&rdid=book-JQ2hLiD9HdMC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/History_of_the_Reign_of_Ferdinand_and_Is.epub?id=JQ2hLiD9HdMC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JQ2hLiD9HdMC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>History</b> of the Inquisition , from official documents , by its secre- tary , Llorente ; the analysis of the political insti- tutions of the kingdom , by such writers as Marina , Sempere , and Capmany ; the literal version , now made for&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "No7Dnh7FIIcC",
+      "etag": "D9sBEjJIYLs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/No7Dnh7FIIcC",
+      "volumeInfo": {
+        "title": "\u201cAn\u201d Introduction to English Economic History and Theory: The Middle Ages",
+        "authors": [
+          "Sir William James Ashley"
+        ],
+        "publishedDate": "1888",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NLI:2862087-10"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 252,
+        "printType": "BOOK",
+        "categories": [
+          "Great Britain"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=No7Dnh7FIIcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=No7Dnh7FIIcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=No7Dnh7FIIcC&pg=PA68&dq=history&hl=&as_pt=BOOKS&cd=183&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=No7Dnh7FIIcC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=No7Dnh7FIIcC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=No7Dnh7FIIcC&rdid=book-No7Dnh7FIIcC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/An_Introduction_to_English_Economic_Hist.epub?id=No7Dnh7FIIcC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=No7Dnh7FIIcC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> of England&#39;s most important craft . Much scattered information is given in Herbert , Hist . of the London Livery Companies ( 1837 ) ; and the rela- tion of the craft gilds to the municipal organization is examined in Stubbs&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iuxMAAAAMAAJ",
+      "etag": "5uaI7AdeWro",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iuxMAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The History of Ireland, Ancient and Modern",
+        "authors": [
+          "James MacGeoghegan"
+        ],
+        "publishedDate": "1844",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015068455032"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 644,
+        "printType": "BOOK",
+        "categories": [
+          "Ireland"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.7.10.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iuxMAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iuxMAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=iuxMAAAAMAAJ&pg=PR3&dq=history&hl=&as_pt=BOOKS&cd=184&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=iuxMAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=iuxMAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=iuxMAAAAMAAJ&rdid=book-iuxMAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_History_of_Ireland_Ancient_and_Moder.epub?id=iuxMAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/The_History_of_Ireland_Ancient_and_Moder.pdf?id=iuxMAAAAMAAJ&hl=&output=pdf&sig=ACfU3U1Wt28We7lpFXxIT33EIS94Yn8fCw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iuxMAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> of Ireland . Under such circumstances it cannot be wondered at , that an impartial <b>history</b> , which has made known to France and to the Continent the wrongs and the sufferings of Ireland , and one that has accurately displayed&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_8hOBnsp9-4C",
+      "etag": "7rSrCK8jat4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_8hOBnsp9-4C",
+      "volumeInfo": {
+        "title": "Bulletin ... of the Natural History Survey",
+        "authors": [
+          "Frank Morely Woodruff"
+        ],
+        "publishedDate": "1907",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32435069501633"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 252,
+        "printType": "BOOK",
+        "categories": [
+          "Birds"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_8hOBnsp9-4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_8hOBnsp9-4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_8hOBnsp9-4C&pg=PA5&dq=history&hl=&as_pt=BOOKS&cd=185&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_8hOBnsp9-4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_8hOBnsp9-4C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=_8hOBnsp9-4C&rdid=book-_8hOBnsp9-4C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Bulletin_of_the_Natural_History_Survey.epub?id=_8hOBnsp9-4C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_8hOBnsp9-4C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Frank Morely Woodruff. THE NATURAL <b>HISTORY</b> SURVEY . The Board of Managers of The Natural <b>History</b> Survey takes pleasure in presenting the sixth of its publications . It is the second relating to the fauna of the area and is devoted to the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-4tCYVDt-O8C",
+      "etag": "sO13p/LNJwM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-4tCYVDt-O8C",
+      "volumeInfo": {
+        "title": "The History of the Ancient Town and Borough of Newbury in the County of Berks",
+        "authors": [
+          "Walter Money"
+        ],
+        "publishedDate": "1887",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YALE:39002024138829"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 658,
+        "printType": "BOOK",
+        "categories": [
+          "Berkshire (England)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-4tCYVDt-O8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-4tCYVDt-O8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-4tCYVDt-O8C&pg=PR20&dq=history&hl=&as_pt=BOOKS&cd=186&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-4tCYVDt-O8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-4tCYVDt-O8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=-4tCYVDt-O8C&rdid=book--4tCYVDt-O8C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_History_of_the_Ancient_Town_and_Boro.epub?id=-4tCYVDt-O8C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-4tCYVDt-O8C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>HISTORY</b>.- Property in Newbury held by Fulke Arches and William la Zouche of Haryngworth . - Edmund Mortimer , the fifth Earl of March , holds Newbury . - Pedigree of Mortimer of Wigmore . The Lordship of Newbury granted by Letters&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2KNCxeCmR30C",
+      "etag": "asiePdZQfks",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2KNCxeCmR30C",
+      "volumeInfo": {
+        "title": "History of English Literature",
+        "authors": [
+          "Hippolyte Taine"
+        ],
+        "publishedDate": "1898",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015067458136"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 480,
+        "printType": "BOOK",
+        "categories": [
+          "English literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2KNCxeCmR30C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2KNCxeCmR30C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2KNCxeCmR30C&pg=PA109&dq=history&hl=&as_pt=BOOKS&cd=187&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2KNCxeCmR30C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2KNCxeCmR30C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=2KNCxeCmR30C&rdid=book-2KNCxeCmR30C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/History_of_English_Literature.epub?id=2KNCxeCmR30C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2KNCxeCmR30C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> of a mood , that of Macbeth is the <b>history</b> of a monomania . The witches &#39; prophecy has sunk into his mind at once , like a fixed idea . Gradually this idea corrupts the rest , and transforms the whole man . He is haunted by it&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rNs-FDB1ukAC",
+      "etag": "7lfopyS1owo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rNs-FDB1ukAC",
+      "volumeInfo": {
+        "title": "Practical History of the Violin...",
+        "subtitle": "Containing 778 Genuine Violin Labels in True Photographical Reproduction, 1,200 Violinmakers' Names and Biographies, Etc., Etc",
+        "authors": [
+          "Heinrich Bauer"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCBK:C037369204"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 134,
+        "printType": "BOOK",
+        "categories": [
+          "Violin labels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rNs-FDB1ukAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rNs-FDB1ukAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=rNs-FDB1ukAC&pg=PA10&dq=history&hl=&as_pt=BOOKS&cd=188&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rNs-FDB1ukAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rNs-FDB1ukAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=rNs-FDB1ukAC&rdid=book-rNs-FDB1ukAC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Practical_History_of_the_Violin.epub?id=rNs-FDB1ukAC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rNs-FDB1ukAC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>HISTORY</b> OF THE VIOLIN I. FIFTEENTH CENTURY THE ORIGIN OF THE VIOLIN Our modern four - stringed violin has its origin | of rare beauty and rich artistic appearance .. Jean in the six - stringed viola . The time when this transformation&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rbHnsq8p1FoC",
+      "etag": "0YX9b65XeMc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rbHnsq8p1FoC",
+      "volumeInfo": {
+        "title": "The History of the Jews in Spokane, Washington",
+        "subtitle": "From the Early Days Until the Present Time",
+        "authors": [
+          "Moses N. Janton"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433090557368"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "categories": [
+          "Jews"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rbHnsq8p1FoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rbHnsq8p1FoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=rbHnsq8p1FoC&pg=PA16&dq=history&hl=&as_pt=BOOKS&cd=189&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rbHnsq8p1FoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rbHnsq8p1FoC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=rbHnsq8p1FoC&rdid=book-rbHnsq8p1FoC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_History_of_the_Jews_in_Spokane_Washi.epub?id=rbHnsq8p1FoC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rbHnsq8p1FoC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> , etc. Also to arouse among them love and respect to their religion , nation and traditions . The Club has a large membership , as almost every Jewish youth of both sexes ... <b>HISTORY</b> OF THE JEWS IN 16 THE <b>HISTORY</b> OF THE JEWS."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2zIZhMtzQrQC",
+      "etag": "ZoS3kwFmD78",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2zIZhMtzQrQC",
+      "volumeInfo": {
+        "title": "A History of New England",
+        "subtitle": "Containing Historical and Descriptive Sketches of the Counties, Cities and Principal Towns of the Six New England States, Including, in Its List of Contributors, More Than Sixty Literary Men and Women, Representing Every County in New England",
+        "authors": [
+          "R. H. Howard",
+          "Henry E. Crocker"
+        ],
+        "publishedDate": "1879",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HN4IJ1"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 856,
+        "printType": "BOOK",
+        "categories": [
+          "New England"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2zIZhMtzQrQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2zIZhMtzQrQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2zIZhMtzQrQC&pg=PA377&dq=history&hl=&as_pt=BOOKS&cd=190&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2zIZhMtzQrQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2zIZhMtzQrQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=2zIZhMtzQrQC&rdid=book-2zIZhMtzQrQC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/A_History_of_New_England.epub?id=2zIZhMtzQrQC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2zIZhMtzQrQC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> , and give one without the other . Indeed , the dominating religious purpose of the Colonies necessarily makes any faithful <b>history</b> largely a religious <b>history</b> . The population of the county in 1790 was 13,106 . The present&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gde6LGmEmEsC",
+      "etag": "QKr276eZHlE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gde6LGmEmEsC",
+      "volumeInfo": {
+        "title": "A History of the Colony of Sierra Leone, Western Africa",
+        "subtitle": "With Maps and Appendices",
+        "authors": [
+          "John Joseph Crooks"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YALE:39002041472888"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+          "Great Britain"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gde6LGmEmEsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gde6LGmEmEsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=gde6LGmEmEsC&pg=PA22&dq=history&hl=&as_pt=BOOKS&cd=191&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gde6LGmEmEsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gde6LGmEmEsC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=gde6LGmEmEsC&rdid=book-gde6LGmEmEsC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/A_History_of_the_Colony_of_Sierra_Leone.epub?id=gde6LGmEmEsC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gde6LGmEmEsC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... , of which on an average 22,500 were carried to the British islands . The principal companies trading in * <b>History</b> of England , vol . i . , p . 100 . <b>HISTORY</b> OF SIERRA LEONE . 23 slaves held a license 22 <b>HISTORY</b> OF SIERRA LEONE ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_SVotuk9SkwC",
+      "etag": "qd8vi40hZtI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_SVotuk9SkwC",
+      "volumeInfo": {
+        "title": "A history of Greek art, with an introductory chapter on art in...",
+        "authors": [
+          "Frank Bigelow Tarbell"
+        ],
+        "publishedDate": "1896",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "RUTGERS:39030007797063"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 308,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_SVotuk9SkwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_SVotuk9SkwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_SVotuk9SkwC&pg=PA16&dq=history&hl=&as_pt=BOOKS&cd=192&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_SVotuk9SkwC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_SVotuk9SkwC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=_SVotuk9SkwC&rdid=book-_SVotuk9SkwC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/A_history_of_Greek_art_with_an_introduct.epub?id=_SVotuk9SkwC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_SVotuk9SkwC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> . The dates are taken from the sketch prefixed to the cata- logue of Egyptian antiquities in the Berlin Museum . In using them the reader must bear in mind that the earlier Egyptian chronology is highly uncertain . Thus the date&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KSnGn8audBIC",
+      "etag": "rL0KMQ8Bikk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KSnGn8audBIC",
+      "volumeInfo": {
+        "title": "The Illustrious and Renowned History of the Seven Famous Champions of Christendom",
+        "subtitle": "Also, The Heroick Adventures of St. George's Three Sons, [etc.].",
+        "authors": [
+          "Richard Johnson"
+        ],
+        "publishedDate": "1815",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HXJPAR"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KSnGn8audBIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KSnGn8audBIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=KSnGn8audBIC&pg=PA4&dq=history&hl=&as_pt=BOOKS&cd=193&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KSnGn8audBIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KSnGn8audBIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=KSnGn8audBIC&rdid=book-KSnGn8audBIC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Illustrious_and_Renowned_History_of.epub?id=KSnGn8audBIC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KSnGn8audBIC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>History</b> you will find such excellent Passages of true Knighthood and Feats of Arms , mixed with other rare and pleaf- ing Adventures that no <b>History</b> is furnished with : The subject Matter has been so universally applauded among all&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ad1_eAmksUcC",
+      "etag": "gPstVZcjlrA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ad1_eAmksUcC",
+      "volumeInfo": {
+        "title": "A history of the Scottish people from the earliest times",
+        "subtitle": "Introd. ... by Charles Annandale",
+        "authors": [
+          "Thomas Napier Thomson"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BSB:BSB11481258"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ad1_eAmksUcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ad1_eAmksUcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ad1_eAmksUcC&pg=PA3&dq=history&hl=&as_pt=BOOKS&cd=194&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ad1_eAmksUcC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ad1_eAmksUcC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ad1_eAmksUcC&rdid=book-ad1_eAmksUcC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/A_history_of_the_Scottish_people_from_th.epub?id=ad1_eAmksUcC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ad1_eAmksUcC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> . After a controversy between the competitors which was waged not with arguments but ar- tillery , and finally composed by bribery and iniquitous intrigues , Forman was successful , pensions and preferments which were bestowed&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3CuvKH0YolIC",
+      "etag": "QUHnipmSL0k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3CuvKH0YolIC",
+      "volumeInfo": {
+        "title": "Military History of Ulysses S. Grant",
+        "subtitle": "From April, 1861, to April, 1865",
+        "authors": [
+          "Adam Badeau"
+        ],
+        "publishedDate": "1881",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YALE:39002013169868"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 782,
+        "printType": "BOOK",
+        "categories": [
+          "United States"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3CuvKH0YolIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3CuvKH0YolIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=3CuvKH0YolIC&pg=PA304&dq=history&hl=&as_pt=BOOKS&cd=195&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3CuvKH0YolIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3CuvKH0YolIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=3CuvKH0YolIC&rdid=book-3CuvKH0YolIC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Military_History_of_Ulysses_S_Grant.epub?id=3CuvKH0YolIC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3CuvKH0YolIC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> , I subscribe my- self more than ever , if possible , your friend . &quot; On the 16th of December , Sherman made a formal demand for the surrender of Savannah , de- claring that he could throw heavy shot into the heart of the town&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ncl1KVst-uQC",
+      "etag": "i6XolKBwo+A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ncl1KVst-uQC",
+      "volumeInfo": {
+        "title": "A Short History & Description of the Church & Abbey of Mont S. Michel with Some Account of the Town and Fortress",
+        "authors": [
+          "Henri Jean Louis Joseph Mass\u00e9"
+        ],
+        "publishedDate": "1902",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YALE:39002088541694"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ncl1KVst-uQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ncl1KVst-uQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ncl1KVst-uQC&pg=PT9&dq=history&hl=&as_pt=BOOKS&cd=196&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ncl1KVst-uQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ncl1KVst-uQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ncl1KVst-uQC&rdid=book-ncl1KVst-uQC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/A_Short_History_Description_of_the_Churc.epub?id=ncl1KVst-uQC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ncl1KVst-uQC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>History</b> and Description of the Cathedral . By CHARLES HIATT . With 41 Illustrations . MONT SAINT - MICHEL . A Short <b>History</b> and Description of the Church and Abbey , with some Account of the Town and Fortress . By H. J. L. J. MASS\u00c9&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7Un5C2i4d5wC",
+      "etag": "K5X0DUO5Jt4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7Un5C2i4d5wC",
+      "volumeInfo": {
+        "title": "The History of Margaret Morton. [A Novel]",
+        "authors": [
+          "Contemporary"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NLS:V001487293"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 402,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7Un5C2i4d5wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7Un5C2i4d5wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7Un5C2i4d5wC&pg=PA353&dq=history&hl=&as_pt=BOOKS&cd=197&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7Un5C2i4d5wC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7Un5C2i4d5wC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=7Un5C2i4d5wC&rdid=book-7Un5C2i4d5wC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_History_of_Margaret_Morton_A_Novel.epub?id=7Un5C2i4d5wC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7Un5C2i4d5wC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... And these balloons , rising from every point of the compass , and being of almost every possible degree of magnitude , VOL . III . A A 1 were so united by the laws of chemical affinity <b>HISTORY</b> OF MARGARET MORTON . 353 CHAPTER XV. ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YZH7IpFAPU0C",
+      "etag": "kdDJi5fJCiU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YZH7IpFAPU0C",
+      "volumeInfo": {
+        "title": "The Early History of the Independent Church at Rothwell, Alias Rowell, in Northamptonshire, from the 3rd Year of the Protectorate to the Death of Queen Anne",
+        "authors": [
+          "Norman GLASS (Pastor.)"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0026987800"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YZH7IpFAPU0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YZH7IpFAPU0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=YZH7IpFAPU0C&pg=PR8&dq=history&hl=&as_pt=BOOKS&cd=198&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YZH7IpFAPU0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YZH7IpFAPU0C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=YZH7IpFAPU0C&rdid=book-YZH7IpFAPU0C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Early_History_of_the_Independent_Chu.epub?id=YZH7IpFAPU0C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YZH7IpFAPU0C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> and antiquities of Dissenting Churches in London , Westminster , and Southwark , by Walter Wilson of the Inner Temple . In 4 vols . London . 1808. &quot; [ 8vo . ] 6 .- &quot; <b>History</b> of Dissenters , from the Revolution in 1688 , to the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KuwoZKE2G94C",
+      "etag": "z0IBfKIwoS8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KuwoZKE2G94C",
+      "volumeInfo": {
+        "title": "History of the United States of America, Under the Constitution",
+        "authors": [
+          "James Schouler"
+        ],
+        "publishedDate": "1894",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BSB:BSB11549228"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 558,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KuwoZKE2G94C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KuwoZKE2G94C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=KuwoZKE2G94C&pg=PA88&dq=history&hl=&as_pt=BOOKS&cd=199&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KuwoZKE2G94C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KuwoZKE2G94C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=KuwoZKE2G94C&rdid=book-KuwoZKE2G94C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/History_of_the_United_States_of_America.epub?id=KuwoZKE2G94C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KuwoZKE2G94C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>history</b> the constitutional power of the House to call for this information . &quot; See 73 Niles , 321 . 1848 . DEATH OF JOHN QUINCY ADAMS . 89 the 88 <b>HISTORY</b> OF THE UNITED STATES . CHAP . XVIII . PAGE."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Nyn-i6j3wZQC",
+      "etag": "bj9bklVeyLc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Nyn-i6j3wZQC",
+      "volumeInfo": {
+        "title": "Old and New London: a Narrative of Its History, Its People and Its Places",
+        "authors": [
+          "George Walter Thornbury"
+        ],
+        "publishedDate": "1873",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NLS:B000192960"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 602,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Nyn-i6j3wZQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Nyn-i6j3wZQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Nyn-i6j3wZQC&pg=PA548&dq=history&hl=&as_pt=BOOKS&cd=200&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Nyn-i6j3wZQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Nyn-i6j3wZQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Nyn-i6j3wZQC&rdid=book-Nyn-i6j3wZQC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Old_and_New_London_a_Narrative_of_Its_Hi.epub?id=Nyn-i6j3wZQC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Nyn-i6j3wZQC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>History</b> , &quot; he was the author of the &quot; <b>History</b> of England from the Earliest Period to the Death of Elizabeth , &quot; consisting of several works , each published separately and indepen- dently - namely , the &quot; <b>History</b> of the Anglo&nbsp;..."
+      }
+    }
+  ]
+}

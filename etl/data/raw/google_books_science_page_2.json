@@ -1,0 +1,3207 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "nu9LZ1x8l8oC",
+      "etag": "aay7vXcyRJg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nu9LZ1x8l8oC",
+      "volumeInfo": {
+        "title": "Science Research Writing for Non-native Speakers of English",
+        "authors": [
+          "Hilary Glasman-Deal"
+        ],
+        "publisher": "World Scientific",
+        "publishedDate": "2010",
+        "description": "Introduction : How to use this book -- How to write an introduction -- Writing about methodology -- Writing about results -- Writing the discussion/conclusion -- Writing the abstract.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781848163096"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1848163096"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+          "Reference"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nu9LZ1x8l8oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nu9LZ1x8l8oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nu9LZ1x8l8oC&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=81&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=nu9LZ1x8l8oC&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Science_Research_Writing_for_Non_native.html?hl=&id=nu9LZ1x8l8oC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Science_Research_Writing_for_Non_native-sample-pdf.acsm?id=nu9LZ1x8l8oC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nu9LZ1x8l8oC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Introduction : How to use this book -- How to write an introduction -- Writing about methodology -- Writing about results -- Writing the discussion/conclusion -- Writing the abstract."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MHoRAAAAYAAJ",
+      "etag": "w7UC2S8I2jg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MHoRAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Science and Health with Key to the Scriptures",
+        "authors": [
+          "Mary Baker Eddy"
+        ],
+        "publishedDate": "1894",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HWNNTT"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 694,
+        "printType": "BOOK",
+        "categories": [
+          "Christian Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MHoRAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MHoRAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=MHoRAAAAYAAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=82&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MHoRAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MHoRAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=MHoRAAAAYAAJ&rdid=book-MHoRAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Science_and_Health_with_Key_to_the_Scrip.epub?id=MHoRAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Science_and_Health_with_Key_to_the_Scrip.pdf?id=MHoRAAAAYAAJ&hl=&output=pdf&sig=ACfU3U05ZZf8N5TZqtdgOZ2pVxEIkWjmOA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MHoRAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uVA43CAEBywC",
+      "etag": "lxJunTJCohQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uVA43CAEBywC",
+      "volumeInfo": {
+        "title": "Taking Science to School",
+        "subtitle": "Learning and Teaching Science in Grades K-8",
+        "authors": [
+          "National Research Council",
+          "Division of Behavioral and Social Sciences and Education",
+          "Center for Education",
+          "Board on Science Education",
+          "Committee on Science Learning, Kindergarten Through Eighth Grade"
+        ],
+        "publisher": "National Academies Press",
+        "publishedDate": "2007-04-16",
+        "description": "What is science for a child? How do children learn about science and how to do science? Drawing on a vast array of work from neuroscience to classroom observation, Taking Science to School provides a comprehensive picture of what we know about teaching and learning science from kindergarten through eighth grade. By looking at a broad range of questions, this book provides a basic foundation for guiding science teaching and supporting students in their learning. Taking Science to School answers such questions as: When do children begin to learn about science? Are there critical stages in a child's development of such scientific concepts as mass or animate objects? What role does nonschool learning play in children's knowledge of science? How can science education capitalize on children's natural curiosity? What are the best tasks for books, lectures, and hands-on learning? How can teachers be taught to teach science? The book also provides a detailed examination of how we know what we know about children's learning of science\u00e2\u20ac\"about the role of research and evidence. This book will be an essential resource for everyone involved in K-8 science education\u00e2\u20ac\"teachers, principals, boards of education, teacher education providers and accreditors, education researchers, federal education agencies, and state and federal policy makers. It will also be a useful guide for parents and others interested in how children learn.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780309133838"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0309133831"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 404,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uVA43CAEBywC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uVA43CAEBywC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=uVA43CAEBywC&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=83&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uVA43CAEBywC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uVA43CAEBywC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 54.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 54.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=uVA43CAEBywC&rdid=book-uVA43CAEBywC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 54990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 54990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uVA43CAEBywC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book will be an essential resource for everyone involved in K-8 science education\u00e2\u20ac&quot;teachers, principals, boards of education, teacher education providers and accreditors, education researchers, federal education agencies, and state ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zDY0EAAAQBAJ",
+      "etag": "9ulkfWKRXVg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zDY0EAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Sirens of Mars",
+        "subtitle": "Searching for Life on Another World",
+        "authors": [
+          "Sarah Stewart Johnson"
+        ],
+        "publisher": "Crown",
+        "publishedDate": "2021-07-20",
+        "description": "\u201cSarah Stewart Johnson interweaves her own coming-of-age story as a planetary scientist with a vivid history of the exploration of Mars in this celebration of human curiosity, passion, and perseverance.\u201d\u2014Alan Lightman, author of Einstein\u2019s Dreams WINNER OF THE PHI BETA KAPPA AWARD FOR SCIENCE \u2022 NAMED ONE OF THE BEST BOOKS OF THE YEAR BY The New York Times Book Review \u2022 Times (UK) \u2022 Library Journal \u201cLovely . . . Johnson\u2019s prose swirls with lyrical wonder, as varied and multihued as the apricot deserts, butterscotch skies and blue sunsets of Mars.\u201d\u2014Anthony Doerr, The New York Times Book Review Mars was once similar to Earth, but today there are no rivers, no lakes, no oceans. Coated in red dust, the terrain is bewilderingly empty. And yet multiple spacecraft are circling Mars, sweeping over Terra Sabaea, Syrtis Major, the dunes of Elysium, and Mare Sirenum\u2014on the brink, perhaps, of a staggering find, one that would inspire humankind as much as any discovery in the history of modern science. In this beautifully observed, deeply personal book, Georgetown scientist Sarah Stewart Johnson tells the story of how she and other researchers have scoured Mars for signs of life, transforming the planet from a distant point of light into a world of its own. Johnson\u2019s fascination with Mars began as a child in Kentucky, turning over rocks with her father and looking at planets in the night sky. She now conducts fieldwork in some of Earth\u2019s most hostile environments, such as the Dry Valleys of Antarctica and the salt flats of Western Australia, developing methods for detecting life on other worlds. Here, with poetic precision, she interlaces her own personal journey\u2014as a female scientist and a mother\u2014with tales of other seekers, from Percival Lowell, who was convinced that a utopian society existed on Mars, to Audouin Dollfus, who tried to carry out astronomical observations from a stratospheric balloon. In the process, she shows how the story of Mars is also a story about Earth: This other world has been our mirror, our foil, a telltale reflection of our own anxieties and yearnings. Empathetic and evocative, The Sirens of Mars offers an unlikely natural history of a place where no human has ever set foot, while providing a vivid portrait of our quest to defy our isolation in the cosmos.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101904831"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1101904836"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 303,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zDY0EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zDY0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=zDY0EAAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=84&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=zDY0EAAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sirens_of_Mars.html?hl=&id=zDY0EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zDY0EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this beautifully observed, deeply personal book, Georgetown scientist Sarah Stewart Johnson tells the story of how she and other researchers have scoured Mars for signs of life, transforming the planet from a distant point of light into ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DpYuDwAAQBAJ",
+      "etag": "89zj33M5Z/8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DpYuDwAAQBAJ",
+      "volumeInfo": {
+        "title": "On Faith and Science",
+        "authors": [
+          "Edward John Larson",
+          "Michael Ruse"
+        ],
+        "publisher": "Yale University Press",
+        "publishedDate": "2017-01-01",
+        "description": "\"Throughout history, scientific discovery has interacted with religious belief, creating comment, controversy, and sometimes violent dispute. In this enlightening and accessible volume, distinguished historian and Pulitzer Prize-winning author Edward Larson joins forces with Michael Ruse, philosopher of science and Gifford Lecturer, to offer distinctive perspectives on the sometimes contentious, sometimes conciliatory, and always complex relationship between science and religion. The authors explore how scientists, philosophers, and theologians through time approached vitally important topics, including cosmology, geology, evolution, genetics, neurobiology, gender, and the environment. Broaching their subjects from both historical and philosophical perspectives and taking a global, cross-cultural approach, Larson and Ruse avoid rancor and polemic as they address many of the core issues currently under debate by the adherents of science and the advocates of faith. In so doing, they shed new light on the richly diverse field of ideas at the crossroads where science meets spiritual belief\"--Jacket.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780300216172"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0300216173"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 309,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DpYuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DpYuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DpYuDwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=85&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=DpYuDwAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/On_Faith_and_Science.html?hl=&id=DpYuDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DpYuDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Broaching their subjects from both historical and philosophical perspectives and taking a global, cross-cultural approach, Larson and Ruse avoid rancor and polemic as they address many of the core issues currently under debate by the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ISXWDwAAQBAJ",
+      "etag": "siyyFwF2B4E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ISXWDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Knowledge Machine: How Irrationality Created Modern Science",
+        "authors": [
+          "Michael Strevens"
+        ],
+        "publisher": "Liveright Publishing",
+        "publishedDate": "2020-10-13",
+        "description": "A paradigm-shifting, widely acclaimed work for our generation, The Knowledge Machine revolutionizes our understanding of the origins and structure of science. Michael Strevens\u2019s \u201cprovocative and fascinating\u201d (Jennifer Szalai, New York Times) investigation of science asks two fundamental questions: Why is science so powerful? And why did it take so long for the human race to start using science to learn the secrets of nature? The Knowledge Machine\u2019s radical answer is that science, by nature, calls on its practitioners to do the irrational. By willfully ignoring religion, theoretical beauty, and especially philosophy, scientists embrace an unnaturally narrow method of inquiry, channeling unprecedented energy into observation and experimentation. Rich with vivid historical examples and widely acclaimed, Knowledge Machine overturns many of our most basic assumptions about scientific discovery.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781631491382"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1631491385"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 345,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ISXWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ISXWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ISXWDwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=86&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ISXWDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ISXWDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 18,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ISXWDwAAQBAJ&rdid=book-ISXWDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 18000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Knowledge_Machine_How_Irrationality-sample-epub.acsm?id=ISXWDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Knowledge_Machine_How_Irrationality-sample-pdf.acsm?id=ISXWDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ISXWDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Michael Strevens\u2019s \u201cprovocative and fascinating\u201d (Jennifer Szalai, New York Times) investigation of science asks two fundamental questions: Why is science so powerful?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J7qdDwAAQBAJ",
+      "etag": "QSb6kAlalCc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J7qdDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Between Two Kingdoms",
+        "subtitle": "A Memoir of a Life Interrupted",
+        "authors": [
+          "Suleika Jaouad"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2021-02-09",
+        "description": "NEW YORK TIMES BESTSELLER \u2022 A deeply moving memoir of illness and recovery that traces one young woman\u2019s journey from diagnosis to remission to re-entry into \u201cnormal\u201d life\u2014from the founder of The Isolation Journals and a subject of the Netflix documentary American Symphony ONE OF THE BEST BOOKS OF THE YEAR: The New York Times Book Review, The Washington Post, Bloomberg, The Rumpus, She Reads, Library Journal, Booklist \u201cI was immersed for the whole ride and would follow Jaouad anywhere. . . . Her writing restores the moon, lights the way as we learn to endure the unknown.\u201d\u2014Chanel Miller, The New York Times Book Review \u201cBeautifully crafted . . . affecting . . . a transformative read . . . Jaouad\u2019s insights about the self, connectedness, uncertainty and time speak to all of us.\u201d\u2014The Washington Post In the summer after graduating from college, Suleika Jaouad was preparing, as they say in commencement speeches, to enter \u201cthe real world.\u201d She had fallen in love and moved to Paris to pursue her dream of becoming a war correspondent. The real world she found, however, would take her into a very different kind of conflict zone. It started with an itch\u2014first on her feet, then up her legs, like a thousand invisible mosquito bites. Next came the exhaustion, and the six-hour naps that only deepened her fatigue. Then a trip to the doctor and, a few weeks shy of her twenty-third birthday, a diagnosis: leukemia, with a 35 percent chance of survival. Just like that, the life she had imagined for herself had gone up in flames. By the time Jaouad flew home to New York, she had lost her job, her apartment, and her independence. She would spend much of the next four years in a hospital bed, fighting for her life and chronicling the saga in a column for The New York Times. When Jaouad finally walked out of the cancer ward\u2014after countless rounds of chemo, a clinical trial, and a bone marrow transplant\u2014she was, according to the doctors, cured. But as she would soon learn, a cure is not where the work of healing ends; it\u2019s where it begins. She had spent the past 1,500 days in desperate pursuit of one goal\u2014to survive. And now that she\u2019d done so, she realized that she had no idea how to live. How would she reenter the world and live again? How could she reclaim what had been lost? Jaouad embarked\u2014with her new best friend, Oscar, a scruffy terrier mutt\u2014on a 100-day, 15,000-mile road trip across the country. She set out to meet some of the strangers who had written to her during her years in the hospital: a teenage girl in Florida also recovering from cancer; a teacher in California grieving the death of her son; a death-row inmate in Texas who\u2019d spent his own years confined to a room. What she learned on this trip is that the divide between sick and well is porous, that the vast majority of us will travel back and forth between these realms throughout our lives. Between Two Kingdoms is a profound chronicle of survivorship and a fierce, tender, and inspiring exploration of what it means to begin again.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780399588594"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0399588590"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 370,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=J7qdDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=J7qdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=J7qdDwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=87&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=J7qdDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=J7qdDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=J7qdDwAAQBAJ&rdid=book-J7qdDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Between_Two_Kingdoms-sample-epub.acsm?id=J7qdDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J7qdDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "NEW YORK TIMES BESTSELLER \u2022 A deeply moving memoir of illness and recovery that traces one young woman\u2019s journey from diagnosis to remission to re-entry into \u201cnormal\u201d life\u2014from the founder of The Isolation Journals and a subject ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GQ4nEAAAQBAJ",
+      "etag": "sJ9AHmIjceQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GQ4nEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Biology Book",
+        "subtitle": "Big Ideas Simply Explained",
+        "authors": [
+          "DK"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2021-06-29",
+        "description": "Learn about the most important discoveries and theories of this science in The Biology Book. Part of the fascinating Big Ideas series, this book tackles tricky topics and themes in a simple and easy to follow format. Learn about Biology in this overview guide to the subject, great for novices looking to find out more and experts wishing to refresh their knowledge alike! The Biology Book brings a fresh and vibrant take on the topic through eye-catching graphics and diagrams to immerse yourself in. This captivating book will broaden your understanding of Biology, with: - More than 95 ideas and events key to the development of biology and the life sciences - Packed with facts, charts, timelines and graphs to help explain core concepts - A visual approach to big subjects with striking illustrations and graphics throughout - Easy to follow text makes topics accessible for people at any level of understanding The Biology Book is a captivating introduction to understanding the living world and explaining how its organisms work and interact - whether microbes, mushrooms, or mammals. Here you'll discover key areas of the life sciences, including ecology, zoology, and biotechnology, through exciting text and bold graphics. Your Biology Questions, Simply Explained This book will outline big biological ideas, like the mysteries of DNA and genetic inheritance; and how we learned to develop vaccines that control diseases. If you thought it was difficult to learn about the living world, The Biology Book presents key information in a clear layout. Here you'll learn about cloning, neuroscience, human evolution, and gene editing, and be introduced to the scientists who shaped these subjects, such as Carl Linnaeus, Jean-Baptiste Lamarck, Charles Darwin, and Gregor Mendel. The Big Ideas Series With millions of copies sold worldwide, The Biology Book is part of the award-winning Big Ideas series from DK. The series uses striking graphics along with engaging writing, making big topics easy to understand.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780744050769"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0744050766"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 714,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GQ4nEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GQ4nEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GQ4nEAAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=88&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GQ4nEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GQ4nEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=GQ4nEAAAQBAJ&rdid=book-GQ4nEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Biology_Book-sample-epub.acsm?id=GQ4nEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Biology_Book-sample-pdf.acsm?id=GQ4nEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GQ4nEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Learn about the most important discoveries and theories of this science in The Biology Book. Part of the fascinating Big Ideas series, this book tackles tricky topics and themes in a simple and easy to follow format."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ShTYDwAAQBAJ",
+      "etag": "Dhfd2Z+c2Cc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ShTYDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Aesthetic Science",
+        "subtitle": "Representing Nature in the Royal Society of London, 1650-1720",
+        "authors": [
+          "Alexander Wragge-Morley"
+        ],
+        "publisher": "University of Chicago Press",
+        "publishedDate": "2020-04-20",
+        "description": "The scientists affiliated with the early Royal Society of London have long been regarded as forerunners of modern empiricism, rejecting the symbolic and moral goals of Renaissance natural history in favor of plainly representing the world as it really was. In Aesthetic Science, Alexander Wragge-Morley challenges this interpretation by arguing that key figures such as John Ray, Robert Boyle, Nehemiah Grew, Robert Hooke, and Thomas Willis saw the study of nature as an aesthetic project. To show how early modern naturalists conceived of the interplay between sensory experience and the production of knowledge, Aesthetic Science explores natural-historical and anatomical works of the Royal Society through the lens of the aesthetic. By underscoring the importance of subjective experience to the communication of knowledge about nature, Wragge-Morley offers a groundbreaking reconsideration of scientific representation in the early modern period and brings to light the hitherto overlooked role of aesthetic experience in the history of the empirical sciences.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780226680866"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "022668086X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ShTYDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ShTYDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ShTYDwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=89&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ShTYDwAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Aesthetic_Science.html?hl=&id=ShTYDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Aesthetic_Science-sample-pdf.acsm?id=ShTYDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ShTYDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In Aesthetic Science, Alexander Wragge-Morley challenges this interpretation by arguing that key figures such as John Ray, Robert Boyle, Nehemiah Grew, Robert Hooke, and Thomas Willis saw the study of nature as an aesthetic project."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2b4QUV5qETQC",
+      "etag": "jOhl3r3+J0M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2b4QUV5qETQC",
+      "volumeInfo": {
+        "title": "Science: the Glorious Entertainment",
+        "authors": [
+          "Jacques Barzun"
+        ],
+        "publishedDate": "1964",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2b4QUV5qETQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2b4QUV5qETQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2b4QUV5qETQC&q=science&dq=science&hl=&as_pt=BOOKS&cd=90&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2b4QUV5qETQC&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Science_the_Glorious_Entertainment.html?hl=&id=2b4QUV5qETQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2b4QUV5qETQC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7F2NEAAAQBAJ",
+      "etag": "JKuZNIW1B2w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7F2NEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Losing the Nobel Prize",
+        "subtitle": "A Story of Cosmology, Ambition, and the Perils of Science?s Highest Honor",
+        "authors": [
+          "Brian Keating"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2019-09-24",
+        "description": "\"Riveting.\"\u2014Science A Forbes, Physics Today, Science News, and Science Friday Best Science Book Of 2018 Cosmologist and inventor of the BICEP (Background Imaging of Cosmic Extragalactic Polarization) experiment, Brian Keating tells the inside story of the mesmerizing quest to unlock cosmology\u2019s biggest mysteries and the human drama that ensued. We follow along on a personal journey of revelation and discovery in the publish-or-perish world of modern science, and learn that the Nobel Prize might hamper\u2014rather than advance\u2014scientific progress. Fortunately, Keating offers practical solutions for reform, providing a vision of a scientific future in which cosmologists may finally be able to see all the way back to the very beginning.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393357394"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0393357392"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7F2NEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7F2NEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7F2NEAAAQBAJ&dq=science&hl=&as_pt=BOOKS&cd=91&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=7F2NEAAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Losing_the_Nobel_Prize.html?hl=&id=7F2NEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7F2NEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Riveting.&quot;\u2014Science A Forbes, Physics Today, Science News, and Science Friday Best Science Book Of 2018 Cosmologist and inventor of the BICEP (Background Imaging of Cosmic Extragalactic Polarization) experiment, Brian Keating tells the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZrHNDwAAQBAJ",
+      "etag": "uBIGSv+9W2s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZrHNDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Learning Science",
+        "subtitle": "The Value of Crafting Engagement in Science Environments",
+        "authors": [
+          "Barbara Schneider",
+          "Joseph Krajcik",
+          "Jari Lavonen"
+        ],
+        "publisher": "Yale University Press",
+        "publishedDate": "2020-02-11",
+        "description": "An innovative, internationally developed system to help advance science learning and instruction for high school students This book tells the story of a $3.6 million research project funded by the National Science Foundation aimed at increasing scientific literacy and addressing global concerns of declining science engagement. Studying dozens of classrooms across the United States and Finland, this international team combines large-scale studies with intensive interviews from teachers and students to examine how to transform science education. Written for teachers, parents, policymakers, and researchers, this book offers solutions for matching science learning and instruction with newly recommended twenty-first-century standards.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780300252736"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0300252730"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 201,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZrHNDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZrHNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZrHNDwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=92&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZrHNDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZrHNDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 30,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 30,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZrHNDwAAQBAJ&rdid=book-ZrHNDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 30000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 30000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Learning_Science-sample-epub.acsm?id=ZrHNDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Learning_Science-sample-pdf.acsm?id=ZrHNDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZrHNDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An innovative, internationally developed system to help advance science learning and instruction for high school students This book tells the story of a $3.6 million research project funded by the National Science Foundation aimed at ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EzLjoQEACAAJ",
+      "etag": "LyV3y0rFX7M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EzLjoQEACAAJ",
+      "volumeInfo": {
+        "title": "Exploring the Building Blocks of Science Book 5 Student Textbook (softcover)",
+        "authors": [
+          "Rebecca W. Keller"
+        ],
+        "publisher": "Real Science-4-Kids",
+        "publishedDate": "2014-08-01",
+        "description": "Introduce students to real science with Exploring the Building Blocks of Science Book 5 Student Textbook. Foundational scientific concepts and terminology are presented clearly and in a manner that's easy for kids to understand. Using this book gives kids a solid base on which to build a further study of science. This year-long curriculum contains four chapters each of five scientific disciplines: chemistry, biology, physics, geology, and astronomy, as well as an introduction to the material covered and a concluding chapter, for a total of 22 chapters. The many graphics in this full color textbook reinforce the concepts presented and make the book fun for kids and teachers alike to read. This Student Textbook is accompanied by Exploring the Building Blocks of Science Book 5 Laboratory Notebook (experiments) and Exploring the Building Blocks of Science Book 5 Teacher's Manual. Other supplemental materials are available at www.realscience4kids.com.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1941181090"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781941181096"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EzLjoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EzLjoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=EzLjoQEACAAJ&dq=science&hl=&as_pt=BOOKS&cd=93&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=EzLjoQEACAAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Exploring_the_Building_Blocks_of_Science.html?hl=&id=EzLjoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EzLjoQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Foundational scientific concepts and terminology presented clearly in a way that&#39;s easy for kids to understand. This yearlong curriculum contains 4 chapters each of 5 disciplines: chemistry, biology, physics, geology, and astronomy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tgZIBAAAQBAJ",
+      "etag": "xlFiAyzgxCo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tgZIBAAAQBAJ",
+      "volumeInfo": {
+        "title": "What If?",
+        "subtitle": "Serious Scientific Answers to Absurd Hypothetical Questions",
+        "authors": [
+          "Randall Munroe"
+        ],
+        "publisher": "Houghton Mifflin Harcourt",
+        "publishedDate": "2014",
+        "description": "From the creator of the wildly popular webcomic xkcd, hilarious and informative answers to important questions you probably never thought to ask Millions of people visit xkcd.com each week to read Randall Munroe's iconic webcomic. His stick-figure drawings about science, technology, language, and love have an enormous, dedicated following, as do his deeply researched answers to his fans' strangest questions. The queries he receives range from merely odd to downright diabolical: - What if I took a swim in a spent-nuclear-fuel pool? - Could you build a jetpack using downward-firing machine guns? - What if a Richter 15 earthquake hit New York City? - Are fire tornadoes possible? His responses are masterpieces of clarity and wit, gleefully and accurately explaining everything from the relativistic effects of a baseball pitched at near the speed of light to the many horrible ways you could die while building a periodic table out of all the actual elements. The book features new and never-before-answered questions, along with the most popular answers from the xkcd website. What If? is an informative feast for xkcd fans and anyone who loves to ponder the hypothetical.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780544272996"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0544272994"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 321,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 9,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tgZIBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tgZIBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tgZIBAAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=94&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=tgZIBAAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/What_If.html?hl=&id=tgZIBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/What_If-sample-pdf.acsm?id=tgZIBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tgZIBAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book features new and never-before-answered questions, along with the most popular answers from the xkcd website. What If? is an informative feast for xkcd fans and anyone who loves to ponder the hypothetical."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4ylHEAAAQBAJ",
+      "etag": "HcWu2Zm3Gb4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4ylHEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Global Warming Science",
+        "subtitle": "A Quantitative Introduction to Climate Change and Its Consequences",
+        "authors": [
+          "Eli Tziperman"
+        ],
+        "publisher": "Princeton University Press",
+        "publishedDate": "2022-03-15",
+        "description": "A quantitative, broad, hands-on introduction to the cutting-edge science of global warming This textbook introduces undergraduates to the concepts and methods of global warming science, covering topics that they encounter in the news, ranging from the greenhouse effect and warming to ocean acidification, hurricanes, extreme precipitation, droughts, heat waves, forest fires, the cryosphere, and more. This book explains each of the issues based on basic statistical analysis, simple ordinary differential equations, or elementary chemical reactions. Each chapter explains the mechanisms behind an observed or anticipated change in the climate system and demonstrates the tools used to understand and predict them. Proven in the classroom, Global Warming Science also includes \u201cworkshops\u201d with every chapter, each based on a Jupyter Python notebook and an accompanying small data set, with supplementary online materials and slides for instructors. The workshop can be used as an interactive learning element in class and as a homework assignment. Provides a clear, broad, quantitative yet accessible approach to the science of global warming Engages students in the analysis of climate data and models, examining predictions, and dealing with uncertainty Features workshops with each chapter that enhance learning through hands-on engagement Comes with supplementary online slides, code, and data files Requires only elementary undergraduate-level calculus and basic statistics; no prior coursework in science is assumed Solutions manual available (only to instructors)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780691228808"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0691228809"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Mathematics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4ylHEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4ylHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=4ylHEAAAQBAJ&dq=science&hl=&as_pt=BOOKS&cd=95&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=4ylHEAAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Global_Warming_Science.html?hl=&id=4ylHEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4ylHEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "However, this book is based on the belief that every one of the relevant subjects can be understood using a pared-down framework, employing a straightforward statistical analysis, a few simple ordinary differential equations, or a set of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EjN5DwAAQBAJ",
+      "etag": "RMwplrnQOgM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EjN5DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Pleased to Meet Me",
+        "subtitle": "Genes, Germs, and the Curious Forces That Make Us Who We Are",
+        "authors": [
+          "Bill Sullivan"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2019-08-06",
+        "description": "Why are you attracted to a certain \"type?\" Why are you a morning person? Why do you vote the way you do? From a witty new voice in popular science comes a clever, life-changing look at what makes you you. \"I can't believe I just said that.\" \"What possessed me to do that?\" \"What's wrong with me?\" We're constantly seeking answers to these fundamental human questions, and now, science has the answers. The foods we enjoy, the people we love, the emotions we feel, and the beliefs we hold can all be traced back to our DNA, germs, and environment. This witty, colloquial book is popular science at its best, describing in everyday language how genetics, epigenetics, microbiology, and psychology work together to influence our personality and actions. Mixing cutting-edge research and relatable humor, Pleased to Meet Me is filled with fascinating insights that shine a light on who we really are--and how we might become our best selves.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781426220562"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1426220561"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 340,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EjN5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EjN5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=EjN5DwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=96&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=EjN5DwAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pleased_to_Meet_Me.html?hl=&id=EjN5DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Pleased_to_Meet_Me-sample-epub.acsm?id=EjN5DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EjN5DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This witty, colloquial book is popular science at its best, describing in everyday language how genetics, epigenetics, microbiology, and psychology work together to influence our personality and actions."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eTc7EAAAQBAJ",
+      "etag": "WSUa1bqqSwI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eTc7EAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Anthropocene Reviewed",
+        "subtitle": "Essays on a Human-Centered Planet",
+        "authors": [
+          "John Green"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2021-05-18",
+        "description": "Goodreads Choice winner for Nonfiction 2021 and instant #1 bestseller! A deeply moving collection of personal essays from John Green, the author of The Fault in Our Stars and Turtles All the Way Down. \u201cThe perfect book for right now.\u201d \u2013People \u201cThe Anthropocene Reviewed is essential to the human conversation.\u201d \u2013Library Journal, starred review The Anthropocene is the current geologic age, in which humans have profoundly reshaped the planet and its biodiversity. In this remarkable symphony of essays adapted and expanded from his groundbreaking podcast, bestselling author John Green reviews different facets of the human-centered planet on a five-star scale\u2014from the QWERTY keyboard and sunsets to Canada geese and Penguins of Madagascar. Funny, complex, and rich with detail, the reviews chart the contradictions of contemporary humanity. As a species, we are both far too powerful and not nearly powerful enough, a paradox that came into sharp focus as we faced a global pandemic that both separated us and bound us together. John Green\u2019s gift for storytelling shines throughout this masterful collection. The Anthropocene Reviewed is an open-hearted exploration of the paths we forge and an unironic celebration of falling in love with the world.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525556534"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0525556532"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 305,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eTc7EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eTc7EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=eTc7EAAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=97&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=eTc7EAAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Anthropocene_Reviewed.html?hl=&id=eTc7EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eTc7EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "John Green\u2019s gift for storytelling shines throughout this masterful collection. The Anthropocene Reviewed is an open-hearted exploration of the paths we forge and an unironic celebration of falling in love with the world."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s6xkAwAAQBAJ",
+      "etag": "phXRCyTNrZw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s6xkAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Cambridge Primary Science Stage 3 Learner's Book",
+        "authors": [
+          "Jon Board",
+          "Alan Cross"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2014-05-22",
+        "description": "Cambridge Primary Science is a flexible, engaging course written specifically for the Cambridge Primary Science curriculum framework. This Learner's Book for Stage 3 covers all objectives required by the curriculum framework in an engaging, visually stimulating manner. Learning through enquiry is supported by hands-on activity suggestions, which provide integrated coverage of the Scientific Enquiry objectives. Language skills can be developed using the 'Talk about it!' ideas for classroom discussion. Assessment and preparation for the Progression Test is achieved through 'Check your progress' questions at the end of each unit.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781107611412"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1107611415"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 81,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s6xkAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s6xkAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=s6xkAwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=98&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=s6xkAwAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cambridge_Primary_Science_Stage_3_Learne.html?hl=&id=s6xkAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cambridge_Primary_Science_Stage_3_Learne-sample-pdf.acsm?id=s6xkAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s6xkAwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This Learner&#39;s Book for Stage 3 covers all objectives required by the curriculum framework in an engaging, visually stimulating manner."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eNlGEAAAQBAJ",
+      "etag": "kiKPeuvoqaQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eNlGEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Joy of Science",
+        "authors": [
+          "Jim Al-Khalili"
+        ],
+        "publisher": "Princeton University Press",
+        "publishedDate": "2022-04-12",
+        "description": "Quantum physicist, New York Times bestselling author, and BBC host Jim Al-Khalili reveals how 8 lessons from the heart of science can help you get the most out of life Today\u2019s world is unpredictable and full of contradictions, and navigating its complexities while trying to make the best decisions is far from easy. The Joy of Science presents 8 short lessons on how to unlock the clarity, empowerment, and joy of thinking and living a little more scientifically. In this brief guide to leading a more rational life, acclaimed physicist Jim Al-Khalili invites readers to engage with the world as scientists have been trained to do. The scientific method has served humankind well in its quest to see things as they really are, and underpinning the scientific method are core principles that can help us all navigate modern life more confidently. Discussing the nature of truth and uncertainty, the role of doubt, the pros and cons of simplification, the value of guarding against bias, the importance of evidence-based thinking, and more, Al-Khalili shows how the powerful ideas at the heart of the scientific method are deeply relevant to the complicated times we live in and the difficult choices we make. Read this book and discover the joy of science. It will empower you to think more objectively, see through the fog of your own preexisting beliefs, and lead a more fulfilling life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780691235660"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "069123566X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eNlGEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eNlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=eNlGEAAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=99&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=eNlGEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eNlGEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 16.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=eNlGEAAAQBAJ&rdid=book-eNlGEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 16950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Joy_of_Science-sample-epub.acsm?id=eNlGEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Joy_of_Science-sample-pdf.acsm?id=eNlGEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eNlGEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Read this book and discover the joy of science. It will empower you to think more objectively, see through the fog of your own preexisting beliefs, and lead a more fulfilling life."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tn_uzgEACAAJ",
+      "etag": "jjmo1LSeHik",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tn_uzgEACAAJ",
+      "volumeInfo": {
+        "title": "Considering Careers",
+        "authors": [
+          "Theresa M. Sull"
+        ],
+        "publishedDate": "2022-03",
+        "description": "CONSIDERING CAREERS has 7 stories about professions and occupations. The first five describe activities of successful individuals, starting in youth. The last two mention more than 60 careers that competent folks pursue. CASEY CAN COOK; GENE'S A GENIUS; NANCY KNITTING; JUST A MINUTE, LINNET; and PLAY LOUDER, PETER provide detailed descriptions of work. Characterization is a strength in these stories. Alliteration and rhythm pull readers forward.KENDAL'S CLEVER FINGERS concerns careers from A to Z that are available to the dexterous. IMANI'S IMAGINATION reveals over 35 careers that could define her future. These careers inspire more investigation. The Internet, large bookstores, and also libraries, can satisfy youngsters' curiosity.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1957009330"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781957009339"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tn_uzgEACAAJ&dq=science&hl=&as_pt=BOOKS&cd=100&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=tn_uzgEACAAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Considering_Careers.html?hl=&id=tn_uzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tn_uzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "CASEY CAN COOK; GENE&#39;S A GENIUS; NANCY KNITTING; JUST A MINUTE, LINNET; and PLAY LOUDER, PETER provide detailed descriptions of work. Characterization is a strength in these stories."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qwpjEAAAQBAJ",
+      "etag": "Ez/J5r9FVZ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qwpjEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Under a White Sky",
+        "subtitle": "The Nature of the Future",
+        "authors": [
+          "Elizabeth Kolbert"
+        ],
+        "publisher": "Crown",
+        "publishedDate": "2022-04-05",
+        "description": "NATIONAL BESTSELLER \u2022 The Pulitzer Prize\u2013winning author of The Sixth Extinction returns to humanity\u2019s transformative impact on the environment, now asking: After doing so much damage, can we change nature, this time to save it? RECOMMENDED BY PRESIDENT OBAMA AND BILL GATES \u2022 SHORTLISTED FOR THE WAINWRIGHT PRIZE FOR WRITING \u2022 ONE OF THE TEN BEST BOOKS OF THE YEAR: The Washington Post \u2022 ONE OF THE BEST BOOKS OF THE YEAR: Time, Esquire, Publishers Weekly, Kirkus Reviews \u2022 \u201cBeautifully and insistently, Kolbert shows us that it is time to think radically about the ways we manage the environment.\u201d\u2014Helen Macdonald, The New York Times With a new afterword by the author That man should have dominion \u201cover all the earth, and over every creeping thing that creepeth upon the earth\u201d is a prophecy that has hardened into fact. So pervasive are human impacts on the planet that it\u2019s said we live in a new geological epoch: the Anthropocene. In Under a White Sky, Elizabeth Kolbert takes a hard look at the new world we are creating. Along the way, she meets biologists who are trying to preserve the world\u2019s rarest fish, which lives in a single tiny pool in the middle of the Mojave; engineers who are turning carbon emissions to stone in Iceland; Australian researchers who are trying to develop a \u201csuper coral\u201d that can survive on a hotter globe; and physicists who are contemplating shooting tiny diamonds into the stratosphere to cool the earth. One way to look at human civilization, says Kolbert, is as a ten-thousand-year exercise in defying nature. In The Sixth Extinction, she explored the ways in which our capacity for destruction has reshaped the natural world. Now she examines how the very sorts of interventions that have imperiled our planet are increasingly seen as the only hope for its salvation. By turns inspiring, terrifying, and darkly comic, Under a White Sky is an utterly original examination of the challenges we face.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593136287"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593136284"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 273,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qwpjEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qwpjEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qwpjEAAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=101&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=qwpjEAAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Under_a_White_Sky.html?hl=&id=qwpjEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qwpjEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "RECOMMENDED BY PRESIDENT OBAMA AND BILL GATES \u2022 SHORTLISTED FOR THE WAINWRIGHT PRIZE FOR WRITING \u2022 ONE OF THE TEN BEST BOOKS OF THE YEAR: The Washington Post \u2022 ONE OF THE BEST BOOKS OF THE YEAR: Time, Esquire, Publishers Weekly, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YFxFDwAAQBAJ",
+      "etag": "4KGQVzjmTFg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YFxFDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Sun Is Kind of a Big Deal",
+        "authors": [
+          "Nick Seluk"
+        ],
+        "publisher": "Scholastic Inc.",
+        "publishedDate": "2018-10-09",
+        "description": "A hilarious nonfiction picture book from the New York Times bestselling author and creator of Awkward Yeti. Oh hey, guess what? The Sun never stops working to keep things on Earth running smoothly. (That's why it's been Employee of the Month for 4.5 billion years.) So why does the Sun get to be the center of attention? Because it's our solar system's very own star! This funny and factual picture book from Awkward Yeti creator Nick Seluk explains every part of the Sun's big job: keeping our solar system together, giving Earth day and night, keeping us warm, and more. In fact, the Sun does so much for us that we wouldn't be alive without it. That's kind of a big deal. Each spread features bite-sized text and comic-style art with sidebars sprinkled throughout. Anthropomorphized planets (and Pluto) chime in with commentary as readers learn about the Sun. For instance, Mars found someone's rover. Earth wants the Sun to do more stuff for it. And Jupiter just wants the Sun's autograph. Funny, smart, and accessible, The Sun Is Kind of a Big Deal is a must-have!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781338166989"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1338166980"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YFxFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YFxFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=YFxFDwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=102&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YFxFDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YFxFDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=YFxFDwAAQBAJ&rdid=book-YFxFDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Sun_Is_Kind_of_a_Big_Deal-sample-epub.acsm?id=YFxFDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Sun_Is_Kind_of_a_Big_Deal-sample-pdf.acsm?id=YFxFDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YFxFDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "For instance, Mars found someone&#39;s rover. Earth wants the Sun to do more stuff for it. And Jupiter just wants the Sun&#39;s autograph. Funny, smart, and accessible, The Sun Is Kind of a Big Deal is a must-have!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CgD_zgEACAAJ",
+      "etag": "TRTKxeYnQjs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CgD_zgEACAAJ",
+      "volumeInfo": {
+        "title": "The Structure of Scientific Revolutions",
+        "authors": [
+          "Thomas S. Kuhn"
+        ],
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1303903719"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 199,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=CgD_zgEACAAJ&dq=science&hl=&as_pt=BOOKS&cd=103&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=CgD_zgEACAAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Structure_of_Scientific_Revolutions.html?hl=&id=CgD_zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CgD_zgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "23CYDwAAQBAJ",
+      "etag": "SvotcEWa/x0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/23CYDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Secret Life of Science",
+        "subtitle": "How It Really Works and Why It Matters",
+        "authors": [
+          "Jeremy J. Baumberg"
+        ],
+        "publisher": "Princeton University Press",
+        "publishedDate": "2018-05-15",
+        "description": "A revealing and provocative look at the current state of global science We take the advance of science as given. But how does science really work? Is it truly as healthy as we tend to think? How does the system itself shape what scientists do? The Secret Life of Science takes a clear-eyed and provocative look at the current state of global science, shedding light on a cutthroat and tightly tensioned enterprise that even scientists themselves often don't fully understand. The Secret Life of Science is a dispatch from the front lines of modern science. It paints a startling picture of a complex scientific ecosystem that has become the most competitive free-market environment on the planet. It reveals how big this ecosystem really is, what motivates its participants, and who reaps the rewards. Are there too few scientists in the world or too many? Are some fields expanding at the expense of others? What science is shared or published, and who determines what the public gets to hear about? What is the future of science? Answering these and other questions, this controversial book explains why globalization is not necessarily good for science, nor is the continued growth in the number of scientists. It portrays a scientific community engaged in a race for limited resources that determines whether careers are lost or won, whose research visions become the mainstream, and whose vested interests end up in control. The Secret Life of Science explains why this hypercompetitive environment is stifling the diversity of research and the resiliency of science itself, and why new ideas are needed to ensure that the scientific enterprise remains healthy and vibrant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780691174358"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0691174350"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 248,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=23CYDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=23CYDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=23CYDwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=104&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=23CYDwAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Secret_Life_of_Science.html?hl=&id=23CYDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Secret_Life_of_Science-sample-pdf.acsm?id=23CYDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=23CYDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "What is the future of science? Answering these and other questions, this controversial book explains why globalization is not necessarily good for science, nor is the continued growth in the number of scientists."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t8kWEAAAQBAJ",
+      "etag": "xZDBEsfWhEY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t8kWEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Premonition: A Pandemic Story",
+        "authors": [
+          "Michael Lewis"
+        ],
+        "publisher": "W. W. Norton & Company",
+        "publishedDate": "2021-05-04",
+        "description": "New York Times Bestseller For those who could read between the lines, the censored news out of China was terrifying. But the president insisted there was nothing to worry about. Fortunately, we are still a nation of skeptics. Fortunately, there are those among us who study pandemics and are willing to look unflinchingly at worst-case scenarios. Michael Lewis\u2019s taut and brilliant nonfiction thriller pits a band of medical visionaries against the wall of ignorance that was the official response of the Trump administration to the outbreak of COVID-19. The characters you will meet in these pages are as fascinating as they are unexpected. A thirteen-year-old girl\u2019s science project on transmission of an airborne pathogen develops into a very grown-up model of disease control. A local public-health officer uses her worm\u2019s-eye view to see what the CDC misses, and reveals great truths about American society. A secret team of dissenting doctors, nicknamed the Wolverines, has everything necessary to fight the pandemic: brilliant backgrounds, world-class labs, prior experience with the pandemic scares of bird flu and swine flu\u2026everything, that is, except official permission to implement their work. Michael Lewis is not shy about calling these people heroes for their refusal to follow directives that they know to be based on misinformation and bad science. Even the internet, as crucial as it is to their exchange of ideas, poses a risk to them. They never know for sure who else might be listening in.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393881561"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0393881563"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 211,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=t8kWEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=t8kWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=t8kWEAAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=105&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=t8kWEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=t8kWEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17.05,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=t8kWEAAAQBAJ&rdid=book-t8kWEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17050000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Premonition_A_Pandemic_Story-sample-epub.acsm?id=t8kWEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t8kWEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Michael Lewis is not shy about calling these people heroes for their refusal to follow directives that they know to be based on misinformation and bad science."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AZf4AQAAQBAJ",
+      "etag": "JZ7FbsQRcEE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AZf4AQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Science of Everything",
+        "subtitle": "How Things Work in Our World",
+        "publisher": "National Geographic Books",
+        "publishedDate": "2013",
+        "description": "\"This book explains the science behind all the machines, gadgets, systems, and processes we take for granted. The perfect book for techies--young or old, male or female--who read Popular Science and Wired or watch \"How It Works\" and \"How It's Made.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781426211683"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1426211686"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 404,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AZf4AQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AZf4AQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=AZf4AQAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=106&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=AZf4AQAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Science_of_Everything.html?hl=&id=AZf4AQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AZf4AQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;This book explains the science behind all the machines, gadgets, systems, and processes we take for granted."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "My90DwAAQBAJ",
+      "etag": "78KXDNZOrDg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/My90DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Breathing Race into the Machine",
+        "subtitle": "The Surprising Career of the Spirometer from Plantation to Genetics",
+        "authors": [
+          "Lundy Braun"
+        ],
+        "publisher": "U of Minnesota Press",
+        "publishedDate": "2014-02-01",
+        "description": "How race became embedded in a medical instrument In the antebellum South, plantation physicians used a new medical device\u2014the spirometer\u2014to show that lung volume and therefore vital capacity were supposedly less in black slaves than in white citizens. At the end of the Civil War, a large study of racial difference employing the spirometer appeared to confirm the finding, which was then applied to argue that slaves were unfit for freedom. What is astonishing is that this example of racial thinking is anything but a historical relic. In Breathing Race into the Machine, science studies scholar Lundy Braun traces the little-known history of the spirometer to reveal the social and scientific processes by which medical instruments have worked to naturalize racial and ethnic differences, from Victorian Britain to today. Routinely a factor in clinical diagnoses, preemployment physicals, and disability estimates, spirometers are often \u201crace corrected,\u201d typically reducing normal values for African Americans by 15 percent. An unsettling account of the pernicious effects of racial thinking that divides people along genetic lines, Breathing Race into the Machine helps us understand how race enters into science and shapes medical research and practice. Honorable Mention, 2017 Rachel Carson Prize, Society for the Social Studies of Science Winner of the 2018 Ludwik Fleck Prize from the Society for Social Studies of Science",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781452941004"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1452941009"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 285,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=My90DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=My90DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=My90DwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=107&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=My90DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=My90DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 25,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.75,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=My90DwAAQBAJ&rdid=book-My90DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 25000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14750000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Breathing_Race_into_the_Machine-sample-epub.acsm?id=My90DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Breathing_Race_into_the_Machine-sample-pdf.acsm?id=My90DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=My90DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In Breathing Race into the Machine, science studies scholar Lundy Braun traces the little-known history of the spirometer to reveal the social and scientific processes by which medical instruments have worked to naturalize racial and ethnic ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RsZNDwAAQBAJ",
+      "etag": "N7iRbpq/Vz0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RsZNDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Sourcebook for Teaching Science, Grades 6-12",
+        "subtitle": "Strategies, Activities, and Instructional Resources",
+        "authors": [
+          "Norman Herr"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2008-08-11",
+        "description": "The Sourcebook for Teaching Science is a unique, comprehensive resource designed to give middle and high school science teachers a wealth of information that will enhance any science curriculum. Filled with innovative tools, dynamic activities, and practical lesson plans that are grounded in theory, research, and national standards, the book offers both new and experienced science teachers powerful strategies and original ideas that will enhance the teaching of physics, chemistry, biology, and the earth and space sciences.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780787972981"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0787972983"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 614,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RsZNDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RsZNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RsZNDwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=108&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=RsZNDwAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sourcebook_for_Teaching_Science_Grad.html?hl=&id=RsZNDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Sourcebook_for_Teaching_Science_Grad-sample-pdf.acsm?id=RsZNDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RsZNDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "PRAISE FOR THE SOURCEBOOK FOR TEACHING SCIENCE &quot;This book is an excellent resource for every science teacher it provides both theoretical background and practical applications for science concepts in all four major science areas: biology, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oaCsDwAAQBAJ",
+      "etag": "OaPFoql8X/E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oaCsDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Broader Impacts of Science on Society",
+        "authors": [
+          "Bruce J. MacFadden"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2019-10-03",
+        "description": "Invaluable guidance on how scientists can communicate the societal benefits of their work to the public and funding agencies. This will help scientists submit proposals to the US National Science Foundation and other funding agencies with a 'Broader Impacts' section, as well as helping to develop successful wider outreach activities.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781108421720"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1108421725"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 321,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oaCsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oaCsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oaCsDwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=109&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=oaCsDwAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Broader_Impacts_of_Science_on_Society.html?hl=&id=oaCsDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Broader_Impacts_of_Science_on_Society-sample-pdf.acsm?id=oaCsDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oaCsDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Invaluable guidance on how scientists can communicate the societal benefits of their work to the public and funding agencies."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EmY8DwAAQBAJ",
+      "etag": "jkSnfx0ysB0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EmY8DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Book of Why",
+        "subtitle": "The New Science of Cause and Effect",
+        "authors": [
+          "Judea Pearl",
+          "Dana Mackenzie"
+        ],
+        "publisher": "Penguin UK",
+        "publishedDate": "2018-05-15",
+        "description": "The hugely influential book on how the understanding of causality revolutionized science and the world, by the pioneer of artificial intelligence 'Wonderful ... illuminating and fun to read' Daniel Kahneman, Nobel Prize-winner and author of Thinking, Fast and Slow 'Correlation does not imply causation.' For decades, this mantra was invoked by scientists in order to avoid taking positions as to whether one thing caused another, such as smoking and cancer, or carbon dioxide and global warming. But today, that taboo is dead. The causal revolution, sparked by world-renowned computer scientist Judea Pearl and his colleagues, has cut through a century of confusion and placed cause and effect on a firm scientific basis. Now, Pearl and science journalist Dana Mackenzie explain causal thinking to general readers for the first time, showing how it allows us to explore the world that is and the worlds that could have been. It is the essence of human and artificial intelligence. And just as Pearl's discoveries have enabled machines to think better, The Book of Why explains how we too can think better. 'Pearl's accomplishments over the last 30 years have provided the theoretical basis for progress in artificial intelligence and have redefined the term \"thinking machine\"' Vint Cerf",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780241242643"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0241242649"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 453,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.12.12.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EmY8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EmY8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=EmY8DwAAQBAJ&dq=science&hl=&as_pt=BOOKS&cd=110&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=EmY8DwAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_of_Why.html?hl=&id=EmY8DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EmY8DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The hugely influential book on how the understanding of causality revolutionized science and the world, by the pioneer of artificial intelligence &#39;Wonderful ... illuminating and fun to read&#39; Daniel Kahneman, Nobel Prize-winner and author of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "W2c9BAAAQBAJ",
+      "etag": "WYBjdHQCzeo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W2c9BAAAQBAJ",
+      "volumeInfo": {
+        "title": "Adventures in the Anthropocene",
+        "subtitle": "A Journey to the Heart of the Planet We Made",
+        "authors": [
+          "Gaia Vince"
+        ],
+        "publisher": "Milkweed Editions",
+        "publishedDate": "2014-10-20",
+        "description": "A science journalist travels the world to explore humanity\u2019s ecological devastation\u2014and its potential for renewal in this \u201ccompelling read\u201d (Guardian, UK). We live in times of profound environmental change. According to a growing scientific consensus, the dramatic results of man-made climate change have ushered the world into a new geological era: the Anthropocene, or Age of Man. As an editor at Nature, Gaia Vince couldn\u2019t help but wonder if the greatest cause of this dramatic planetary change\u2014humans\u2019 singular ability to adapt and innovate\u2014might also hold the key to our survival. To investigate this provocative question, Vince travelled the world in search of ordinary people making extraordinary changes to the way they live\u2014and, in many cases, finding new ways to thrive. From Nepal to Patagonia and beyond, Vince journeys into mountains and deserts, forests and farmlands, to get an up close and personal view of our changing environment. Part science journal, part travelogue, Adventures in the Anthropocene recounts Vince\u2019s journey, and introduces an essential new perspective on the future of life on Earth.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781571319289"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "157131928X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 452,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.13.12.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=W2c9BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=W2c9BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=W2c9BAAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=111&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=W2c9BAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=W2c9BAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 17.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=W2c9BAAAQBAJ&rdid=book-W2c9BAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 17990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Adventures_in_the_Anthropocene-sample-epub.acsm?id=W2c9BAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Adventures_in_the_Anthropocene-sample-pdf.acsm?id=W2c9BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W2c9BAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Part science journal, part travelogue, Adventures in the Anthropocene recounts Vince\u2019s journey, and introduces an essential new perspective on the future of life on Earth."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jqxkAwAAQBAJ",
+      "etag": "Bwwmt5XKHYg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jqxkAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Cambridge Primary Science Stage 1 Learner's Book",
+        "authors": [
+          "Jon Board",
+          "Alan Cross"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2014-05-22",
+        "description": "Cambridge Primary Science is a flexible, engaging course written specifically for the Cambridge Primary Science curriculum framework. This Learner's Book for Stage 1 covers all objectives required by the curriculum framework in an engaging, visually stimulating manner. Learning through enquiry is supported by hands-on activity suggestions, which provide integrated coverage of the Scientific Enquiry objectives. Assessment is achieved through 'Check your progress' questions at the end of each unit.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781107611382"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1107611385"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 69,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jqxkAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jqxkAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=jqxkAwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=112&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=jqxkAwAAQBAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cambridge_Primary_Science_Stage_1_Learne.html?hl=&id=jqxkAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cambridge_Primary_Science_Stage_1_Learne-sample-pdf.acsm?id=jqxkAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jqxkAwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This Learner&#39;s Book for Stage 1 covers all objectives required by the curriculum framework in an engaging, visually stimulating manner."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YHwAJiVcYjAC",
+      "etag": "2SXWzXorfiE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YHwAJiVcYjAC",
+      "volumeInfo": {
+        "title": "Exposed Science",
+        "subtitle": "Genes, the Environment, and the Politics of Population Health",
+        "authors": [
+          "Sara Shostak"
+        ],
+        "publisher": "Univ of California Press",
+        "publishedDate": "2013-02-15",
+        "description": "We rely on environmental health scientists to document the presence of chemicals where we live, work, and play and to provide an empirical basis for public policy. In the last decades of the 20th century, environmental health scientists began to shift their focus deep within the human body, and to the molecular level, in order to investigate gene-environment interactions. In Exposed Science, Sara Shostak analyzes the rise of gene-environment interaction in the environmental health sciences and examines its consequences for how we understand and seek to protect population health. Drawing on in-depth interviews and ethnographic observation, Shostak demonstrates that what we know \u2013 and what we don\u2019t know \u2013 about the vulnerabilities of our bodies to environmental hazards is profoundly shaped by environmental health scientists\u2019 efforts to address the structural vulnerabilities of their field. She then takes up the political effects of this research, both from the perspective of those who seek to establish genomic technologies as a new basis for environmental regulation, and from the perspective of environmental justice activists, who are concerned that that their efforts to redress the social, political, and economical inequalities that put people at risk of environmental exposure will be undermined by molecular explanations of environmental health and illness. Exposed Science thus offers critically important new ways of understanding and engaging with the emergence of gene-environment interaction as a focal concern of environmental health science, policy-making, and activism.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780520955240"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0520955242"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 311,
+        "printType": "BOOK",
+        "categories": [
+          "Health & Fitness"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YHwAJiVcYjAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YHwAJiVcYjAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=YHwAJiVcYjAC&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=113&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YHwAJiVcYjAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YHwAJiVcYjAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 29.95,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=YHwAJiVcYjAC&rdid=book-YHwAJiVcYjAC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 29950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 29950000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Exposed_Science-sample-epub.acsm?id=YHwAJiVcYjAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Exposed_Science-sample-pdf.acsm?id=YHwAJiVcYjAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YHwAJiVcYjAC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In Exposed Science, Sara Shostak analyzes the rise of gene-environment interaction in the environmental health sciences and examines its consequences for how we understand and seek to protect population health."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bqKwwgEACAAJ",
+      "etag": "iUsYGx8fuXs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bqKwwgEACAAJ",
+      "volumeInfo": {
+        "title": "Molecular Biology of the Cell",
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0815332181"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780815332183"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Cells"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bqKwwgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bqKwwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=bqKwwgEACAAJ&dq=science&hl=&as_pt=BOOKS&cd=114&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=bqKwwgEACAAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Molecular_Biology_of_the_Cell.html?hl=&id=bqKwwgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bqKwwgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GM6pCwAAQBAJ",
+      "etag": "jHeuF3uJ9Uk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GM6pCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Bone Rooms",
+        "subtitle": "From Scientific Racism to Human Prehistory in Museums",
+        "authors": [
+          "Samuel J. Redman"
+        ],
+        "publisher": "Harvard University Press",
+        "publishedDate": "2016-03-14",
+        "description": "A Smithsonian Book of the Year A Nature Book of the Year \u201cProvides much-needed foundation of the relationship between museums and Native Americans.\u201d \u2014Smithsonian In 1864 a US Army doctor dug up the remains of a Dakota man who had been killed in Minnesota and sent the skeleton to a museum in Washington that was collecting human remains for research. In the \u201cbone rooms\u201d of the Smithsonian, a scientific revolution was unfolding that would change our understanding of the human body, race, and prehistory. Seeking evidence to support new theories of racial classification, collectors embarked on a global competition to recover the best specimens of skeletons, mummies, and fossils. As the study of these discoveries discredited racial theory, new ideas emerging in the budding field of anthropology displaced race as the main motive for building bone rooms. Today, as a new generation seeks to learn about the indigenous past, momentum is building to return objects of spiritual significance to native peoples. \u201cA beautifully written, meticulously documented analysis of [this] little-known history.\u201d \u2014Brian Fagan, Current World Archeology \u201cHow did our museums become great storehouses of human remains? Bone Rooms chases answers...through shifting ideas about race, anatomy, anthropology, and archaeology and helps explain recent ethical standards for the collection and display of human dead.\u201d \u2014Ann Fabian, author of The Skull Collectors \u201cDetails the nascent views of racial science that evolved in U.S. natural history, anthropological, and medical museums...Redman effectively portrays the remarkable personalities behind [these debates]...pitting the prickly Ale\u0161 Hrdli\u010dka at the Smithsonian...against ally-turned-rival Franz Boas at the American Museum of Natural History.\u201d \u2014David Hurst Thomas, Nature",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780674969735"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0674969731"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 365,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GM6pCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GM6pCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GM6pCwAAQBAJ&printsec=frontcover&dq=science&hl=&as_pt=BOOKS&cd=115&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GM6pCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GM6pCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 42,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 31.08,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=GM6pCwAAQBAJ&rdid=book-GM6pCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 42000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 31080000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Bone_Rooms-sample-epub.acsm?id=GM6pCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Bone_Rooms-sample-pdf.acsm?id=GM6pCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GM6pCwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Bone Rooms chases answers...through shifting ideas about race, anatomy, anthropology, and archaeology and helps explain recent ethical standards for the collection and display of human dead.\u201d \u2014Ann Fabian, author of The Skull Collectors ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9f9sPgAACAAJ",
+      "etag": "tQHHGdkj7xc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9f9sPgAACAAJ",
+      "volumeInfo": {
+        "title": "Daily Science, Grade 5 Teacher Edition",
+        "authors": [
+          "Evan-Moor Corporation",
+          "Evan-Moor Educational Publishers"
+        ],
+        "publisher": "Daily Science",
+        "publishedDate": "2010-05",
+        "description": "Help your grade 5 students explore standards-based science concepts and vocabulary using 150 daily lessons A variety of rich resources including vocabulary practice, hands-on science activities, and comprehension tests in multiple-choice format help you successfully introduce students to earth, life, and physical science concepts. 30 weeks of instruction covers many standards-based science topics.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1596739290"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781596739291"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9f9sPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9f9sPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9f9sPgAACAAJ&dq=science&hl=&as_pt=BOOKS&cd=116&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9f9sPgAACAAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Daily_Science_Grade_5_Teacher_Edition.html?hl=&id=9f9sPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9f9sPgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Help your grade 5 students explore standards-based science concepts and vocabulary using 150 daily lessons A variety of rich resources including vocabulary practice, hands-on science activities, and comprehension tests in multiple-choice ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "afjlzgEACAAJ",
+      "etag": "jD0XYxog/TY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/afjlzgEACAAJ",
+      "volumeInfo": {
+        "title": "Animal Vegetable Criminal",
+        "subtitle": "When Nature Breaks the Law",
+        "authors": [
+          "Mary Roach"
+        ],
+        "publishedDate": "2022-10-06",
+        "description": "AN AMAZON BEST BOOK OF 2021 'Delightful' Ed Yong What's to be done about a drunken elephant? A monkey caught mugging passers-by? A trespassing squirrel? Follow Mary Roach as she investigates laser scarecrows, robo-hawks, human-elephant conflict specialists and monkey impersonators. Travel to the bear-busy back alleys of Aspen, the gull-vandalized floral displays at the Vatican and leopard-terrorized hamlets in the Himalayas. In this fresh, funny and thoroughly researched book, dive into the weird and wonderful moments when humanity and wildlife bump up against one another.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0861543645"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780861543649"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=afjlzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=afjlzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=afjlzgEACAAJ&dq=science&hl=&as_pt=BOOKS&cd=117&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=afjlzgEACAAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Animal_Vegetable_Criminal.html?hl=&id=afjlzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=afjlzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Animal Vegetable Criminal loves an eyebrow-raising anecdote.&#39; The Times &#39;An idiosyncratic tour with Roach as the wisecracking, ever-probing guide."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hIs-rKNyoLsC",
+      "etag": "PjhqfLrHdDw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hIs-rKNyoLsC",
+      "volumeInfo": {
+        "title": "How to Teach General Science",
+        "subtitle": "Notes and Suggestions of Practical Aid to Every General Science Teacher",
+        "authors": [
+          "Joseph Otto Frank"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32435016852477"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 264,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hIs-rKNyoLsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hIs-rKNyoLsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=hIs-rKNyoLsC&pg=PA44&dq=science&hl=&as_pt=BOOKS&cd=118&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hIs-rKNyoLsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hIs-rKNyoLsC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=hIs-rKNyoLsC&rdid=book-hIs-rKNyoLsC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/How_to_Teach_General_Science.epub?id=hIs-rKNyoLsC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hIs-rKNyoLsC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Science</b> . &quot; General <b>Science</b> Quarterly . 10 : 294- 310 , 1925 . Teaching of General <b>Science</b> . Chapter IV . EIKENBERRY , W. L. University of Chicago Press . FRANK , J. O. \u201c The Aims of High School Chemistry . &quot; Journal of Chemical&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PIchtAEACAAJ",
+      "etag": "91XhPmy9M7o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PIchtAEACAAJ",
+      "volumeInfo": {
+        "title": "Science on Stage",
+        "subtitle": "Expert Advice as Public Drama",
+        "authors": [
+          "Stephen Hilgartner"
+        ],
+        "publishedDate": "2000",
+        "description": "Behind today's headlines stands an unobtrusive army of science advisors\u2014panels of scientific, medical, and engineering experts evaluate the safety of the food we eat, the drugs we take, and the cars we drive. This book studies, theoretically and empirically, the social process through which the credibility of expert advice is produced, challenged, and sustained.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0804736456"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780804736459"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 213,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PIchtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PIchtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PIchtAEACAAJ&dq=science&hl=&as_pt=BOOKS&cd=119&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=PIchtAEACAAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Science_on_Stage.html?hl=&id=PIchtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PIchtAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; The book demonstrates that techniques for information control--including stagecraft, strategic self-presentation, and unauthorized disclosures or &quot;leaks&quot;--play a fundamental role in efforts to create and contest expert authority."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Abk4zQEACAAJ",
+      "etag": "RD6ngQk+6mo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Abk4zQEACAAJ",
+      "volumeInfo": {
+        "title": "I Am a Book. I Am a Portal to the Universe",
+        "authors": [
+          "Stefanie Posavec",
+          "Miriam Quick"
+        ],
+        "publisher": "Particular Books",
+        "publishedDate": "2020-09-03",
+        "description": "Hello. I am a book. But I'm also a portal to the universe. I have 112 pages, measuring twenty centimetres high and twenty centimetres wide. I weigh 450 grams. And I have the power to show you the wonders of the world.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "024140875X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780241408759"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "categories": [
+          "Handbooks, vade-mecums, etc"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Abk4zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Abk4zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Abk4zQEACAAJ&dq=science&hl=&as_pt=BOOKS&cd=120&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Abk4zQEACAAJ&dq=science&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/I_Am_a_Book_I_Am_a_Portal_to_the_Univers.html?hl=&id=Abk4zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Abk4zQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;I have 112 pages, measuring twenty centimetres high and twenty centimetres wide. I weigh 465 grams. And I have the power to show you the wonders of the world.&quot;--Back cover."
+      }
+    }
+  ]
+}

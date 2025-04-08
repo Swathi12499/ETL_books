@@ -1,0 +1,3050 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "QxNVAAAAMAAJ",
+      "etag": "8Vsz5pLTBzE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QxNVAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Elements of Psychology",
+        "authors": [
+          "Gabriel Compayr\u00e9"
+        ],
+        "publishedDate": "1890",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89094314077"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 330,
+        "printType": "BOOK",
+        "categories": [
+          "Educational psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QxNVAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QxNVAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QxNVAAAAMAAJ&pg=PA30&dq=psychology&hl=&as_pt=BOOKS&cd=161&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QxNVAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QxNVAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=QxNVAAAAMAAJ&rdid=book-QxNVAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Elements_of_Psychology.epub?id=QxNVAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/The_Elements_of_Psychology.pdf?id=QxNVAAAAMAAJ&hl=&output=pdf&sig=ACfU3U3Ycg1hykYSejh3-E27vUezXazmWA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QxNVAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> , which studies the moral life of man , in physiology , which studies his physical life . Digestion , circulation , and respiration , it is said , are functions of the stomach , heart , and lungs , just as thought is the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RGB9AAAAMAAJ",
+      "etag": "q5R1uvJLmvQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RGB9AAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Psychology of Aggression",
+        "authors": [
+          "Arnold H. Buss"
+        ],
+        "publishedDate": "1961",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015002189176"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 328,
+        "printType": "BOOK",
+        "categories": [
+          "Aggressiveness"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.10.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RGB9AAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RGB9AAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RGB9AAAAMAAJ&pg=PA206&dq=psychology&hl=&as_pt=BOOKS&cd=162&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RGB9AAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RGB9AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=RGB9AAAAMAAJ&rdid=book-RGB9AAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Psychology_of_Aggression.epub?id=RGB9AAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RGB9AAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> of Alfred Adler . New York : Basic Books , 1956 . Beach , F. A. The descent of instinct . Psychol . Rev. , 1955 , 62 , 401-410 . Beres , D. Clinical notes on aggression in children . Psychoanal . Stud . Child . , 1952 , 7&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wE4KAQAAIAAJ",
+      "etag": "hQVxChNUGjw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wE4KAQAAIAAJ",
+      "volumeInfo": {
+        "title": "The Psychology of the Filipino",
+        "authors": [
+          "Norberto Romu\u00e1ldez"
+        ],
+        "publishedDate": "1925",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSC:32106008521103"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "categories": [
+          "Music"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wE4KAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wE4KAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wE4KAQAAIAAJ&pg=PA5&dq=psychology&hl=&as_pt=BOOKS&cd=163&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wE4KAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wE4KAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=wE4KAQAAIAAJ&rdid=book-wE4KAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Psychology_of_the_Filipino.epub?id=wE4KAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wE4KAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Psychology</b> of the Filipino was recognized , although not fully understood , I think , by the Spanish legislators , as shown by the insertion in our Penal Code , of the provision contained in act . 11 , which says : &quot; the circumstance of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7Jx9AAAAMAAJ",
+      "etag": "SfVwXRbmosQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7Jx9AAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Psychology of Child Development",
+        "authors": [
+          "Irving King"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015008961925"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 298,
+        "printType": "BOOK",
+        "categories": [
+          "Child development"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.12.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7Jx9AAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7Jx9AAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7Jx9AAAAMAAJ&pg=PR12&dq=psychology&hl=&as_pt=BOOKS&cd=164&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7Jx9AAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7Jx9AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=7Jx9AAAAMAAJ&rdid=book-7Jx9AAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Psychology_of_Child_Development.epub?id=7Jx9AAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/The_Psychology_of_Child_Development.pdf?id=7Jx9AAAAMAAJ&hl=&output=pdf&sig=ACfU3U2l6aZDZRdBs27VXQ2GNc-zNBCI2w&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7Jx9AAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> of childhood , frequently uses pre - existing classi- fications of <b>psychology</b> upon which evolutionary and genetic ideas ( ideas centering in the fact of growth ) have taken no effect . He employed them as Procrustean beds by&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ab7Feawp5K0C",
+      "etag": "1t0HylS9JqU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ab7Feawp5K0C",
+      "volumeInfo": {
+        "title": "Plato's Psychology in Its Bearing on the Development of Will",
+        "authors": [
+          "Mary Hay Wood"
+        ],
+        "publishedDate": "1907",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044085158178"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "categories": [
+          "Will"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.9.10.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ab7Feawp5K0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ab7Feawp5K0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Ab7Feawp5K0C&pg=PA3&dq=psychology&hl=&as_pt=BOOKS&cd=165&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Ab7Feawp5K0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ab7Feawp5K0C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Ab7Feawp5K0C&rdid=book-Ab7Feawp5K0C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Plato_s_Psychology_in_Its_Bearing_on_the.epub?id=Ab7Feawp5K0C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Plato_s_Psychology_in_Its_Bearing_on_the.pdf?id=Ab7Feawp5K0C&hl=&output=pdf&sig=ACfU3U0W6aYLKIWJ8HycbsieHThND2yjUA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ab7Feawp5K0C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mary Hay Wood. PLATO&#39;S <b>PSYCHOLOGY</b> IN ITS BEARING ON THE DEVELOPMENT OF WILL INTRODUCTION It may well appear at first sight an unwarrantable assumption that the notion of Will is in any sense an element in the Platonic <b>psychology</b> . Yet it&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8To7Yt1Jv8EC",
+      "etag": "deDhTst7ecc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8To7Yt1Jv8EC",
+      "volumeInfo": {
+        "title": "Work Psychology",
+        "authors": [
+          "Pieter Johan Diederik Drenth",
+          "Henk Thierry",
+          "Charles Johannes Wolff"
+        ],
+        "publisher": "Psychology Press",
+        "publishedDate": "1998",
+        "description": "Volume two of a four volume set. This second edition has been extensively rewritten and should be of interest to both practitioners and students of organizational psychology.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0863775233"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780863775239"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.9.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8To7Yt1Jv8EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8To7Yt1Jv8EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8To7Yt1Jv8EC&pg=PA1&dq=psychology&hl=&as_pt=BOOKS&cd=166&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8To7Yt1Jv8EC&dq=psychology&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Work_Psychology.html?hl=&id=8To7Yt1Jv8EC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Work_Psychology-sample-pdf.acsm?id=8To7Yt1Jv8EC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8To7Yt1Jv8EC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> , including human factors <b>psychology</b> or , as it is sometimes called , ergonomics . The history of &quot; work <b>psychology</b> &quot; goes back about a hundred years . In fact , it was the main area of research of the first pioneers in&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qTEHAQAAIAAJ",
+      "etag": "6AhLlfEXV70",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qTEHAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Experimental Psychology: Quantitative experiments: pt. 1. Students' manual. pt. 2. Instructor's manual",
+        "authors": [
+          "Edward Bradford Titchener"
+        ],
+        "publishedDate": "1905",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3360486"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology, Experimental"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qTEHAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qTEHAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qTEHAQAAIAAJ&pg=PR23&dq=psychology&hl=&as_pt=BOOKS&cd=167&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qTEHAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qTEHAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=qTEHAQAAIAAJ&rdid=book-qTEHAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Experimental_Psychology_Quantitative_exp.epub?id=qTEHAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Experimental_Psychology_Quantitative_exp.pdf?id=qTEHAQAAIAAJ&hl=&output=pdf&sig=ACfU3U24E5-TWdO35JOuVXB9NYhjMcbPHw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qTEHAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> . Once more : physics is able to relate and combine its units , to reduce one to another , to express one in terms of another ; so that the formula for mechanical work , e . g . , has the form where M represents mass measurea&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_48XAAAAYAAJ",
+      "etag": "lM+MyVtaZ04",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_48XAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Psychology of Special Abilities and Disabilities",
+        "authors": [
+          "Augusta Fox Bronner"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PRNC:32101063554537"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Ability"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_48XAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_48XAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_48XAAAAYAAJ&pg=PA168&dq=psychology&hl=&as_pt=BOOKS&cd=168&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_48XAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_48XAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=_48XAAAAYAAJ&rdid=book-_48XAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Psychology_of_Special_Abilities_and.epub?id=_48XAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_48XAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> . The general opinion is that nervous impulses are converted into inhibition as truly as into other types ... <b>Psychology</b> . &#39; 1905 . 2 For further discussion , see Healy , &quot; The Individual Delinquent . &quot; Case 32. Social&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SFssmS8rr14C",
+      "etag": "uq/oOfcSjGU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SFssmS8rr14C",
+      "volumeInfo": {
+        "title": "Miracles & the New Psychology",
+        "subtitle": "A Study in the Healing Miracles of the New Testament",
+        "authors": [
+          "Edward Romilly Micklem"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YALE:39002050461293"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "categories": [
+          "Mental healing"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SFssmS8rr14C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SFssmS8rr14C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=SFssmS8rr14C&pg=PA2&dq=psychology&hl=&as_pt=BOOKS&cd=169&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SFssmS8rr14C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SFssmS8rr14C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=SFssmS8rr14C&rdid=book-SFssmS8rr14C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Miracles_the_New_Psychology.epub?id=SFssmS8rr14C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SFssmS8rr14C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> &#39; on the title- page . My excuse is the very prevalence of this word on the lips of the community . According to many , <b>psychology</b> will &#39; explain &#39; everything however mysterious or however sacred . Human affection and love is&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tustAAAAYAAJ",
+      "etag": "yXmAL/EUf+g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tustAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Theosophy and the New Psychology",
+        "subtitle": "A Course of Six Lectures",
+        "authors": [
+          "Annie Besant"
+        ],
+        "publishedDate": "1909",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X000969566"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Occultism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tustAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tustAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tustAAAAYAAJ&pg=PP3&dq=psychology&hl=&as_pt=BOOKS&cd=170&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tustAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tustAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=tustAAAAYAAJ&rdid=book-tustAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Theosophy_and_the_New_Psychology.epub?id=tustAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tustAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Course of Six Lectures Annie Besant. 1 THEOSOPHY AND THE NEW <b>PSYCHOLOGY</b> . and The New <b>Psychology</b>."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tKhJDwAAQBAJ",
+      "etag": "6SkXecPjORQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tKhJDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Cambridge Handbook of Psychology and Economic Behaviour",
+        "authors": [
+          "Alan Lewis"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2018-02-15",
+        "description": "There has recently been an escalated interest in the interface between psychology and economics. The Cambridge Handbook of Psychology and Economic Behaviour is a valuable reference dedicated to improving our understanding of the economic mind and economic behaviour. Employing empirical methods - including laboratory and field experiments, observations, questionnaires and interviews - the Handbook provides comprehensive coverage of theory and method, financial and consumer behaviour, the environment and biological perspectives. This second edition also includes new chapters on topics such as neuroeconomics, unemployment, debt, behavioural public finance, and cutting-edge work on fuzzy trace theory and robots, cyborgs and consumption. With distinguished contributors from a variety of countries and theoretical backgrounds, the Handbook is an important step forward in the improvement of communications between the disciplines of psychology and economics that will appeal to academic researchers and graduates in economic psychology and behavioral economics.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781108547680"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1108547680"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1240,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tKhJDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tKhJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tKhJDwAAQBAJ&printsec=frontcover&dq=psychology&hl=&as_pt=BOOKS&cd=171&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tKhJDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tKhJDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 69.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 69.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=tKhJDwAAQBAJ&rdid=book-tKhJDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 69990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 69990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Cambridge_Handbook_of_Psychology_and-sample-epub.acsm?id=tKhJDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Cambridge_Handbook_of_Psychology_and-sample-pdf.acsm?id=tKhJDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tKhJDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Cambridge Handbook of Psychology and Economic Behaviour is a valuable reference dedicated to improving our understanding of the economic mind and economic behaviour."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cpanu5XCatoC",
+      "etag": "2pU736LnC94",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cpanu5XCatoC",
+      "volumeInfo": {
+        "title": "The Cartoon Introduction to Economics",
+        "subtitle": "Volume One: Microeconomics",
+        "authors": [
+          "Grady Klein",
+          "Yoram Bauman"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "2010-01-19",
+        "description": "Economics.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780809094813"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0809094819"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cpanu5XCatoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cpanu5XCatoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cpanu5XCatoC&printsec=frontcover&dq=psychology&hl=&as_pt=BOOKS&cd=172&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=cpanu5XCatoC&dq=psychology&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Cartoon_Introduction_to_Economics.html?hl=&id=cpanu5XCatoC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cpanu5XCatoC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Economics."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ruY9AAAAIAAJ",
+      "etag": "E9zuaMbg5wQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ruY9AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Studies in the Psychology of Woman",
+        "authors": [
+          "Laura Marholm"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B187220"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ruY9AAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ruY9AAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ruY9AAAAIAAJ&pg=PA295&dq=psychology&hl=&as_pt=BOOKS&cd=173&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ruY9AAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ruY9AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ruY9AAAAIAAJ&rdid=book-ruY9AAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Studies_in_the_Psychology_of_Woman.epub?id=ruY9AAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Studies_in_the_Psychology_of_Woman.pdf?id=ruY9AAAAIAAJ&hl=&output=pdf&sig=ACfU3U1j9AoDduKl5XLwi1465nhWSR-neA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ruY9AAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>psychology</b> . And <b>psychology</b> is not only a science of knowledge ; it is an offspring of the nerves and feeling . A period of thought which has lasted four hundred years , has now gone by ; a period of feeling is approaching , and with&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WU4HDAAAQBAJ",
+      "etag": "nwleaDBErfk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WU4HDAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Wiley Handbook of Positive Clinical Psychology",
+        "authors": [
+          "Alex M. Wood",
+          "Judith Johnson"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2016-04-21",
+        "description": "Edited by the founder of the field, this is the first handbook on positive clinical psychology\u2014a revolutionary approach that places equal importance on both the positive and negative aspects of mental health and well-being. The first handbook on positive clinical psychology, a revolutionary approach that places equal importance on the positive and negative aspects of mental health and well-being Brings together new work from authorities in positive psychology and clinical psychology to offer an integrated examination of well-being as it relates to personality, psychopathology, psychological treatments, and more Discusses theory, research, and practice across a broad range of topics such as optimism, positive affect, well-being therapy, childhood well-being, evolutionary perspectives, and clinical implementation Contains essential information for researchers, instructors and practitioners in clinical psychology, positive psychology, mental health, and well-being in general",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118468210"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "111846821X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 512,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WU4HDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WU4HDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WU4HDAAAQBAJ&printsec=frontcover&dq=psychology&hl=&as_pt=BOOKS&cd=174&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WU4HDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WU4HDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 175,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 175,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WU4HDAAAQBAJ&rdid=book-WU4HDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 175000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 175000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Wiley_Handbook_of_Positive_Clinical-sample-pdf.acsm?id=WU4HDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WU4HDAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Edited by the founder of the field, this is the first handbook on positive clinical psychology\u2014a revolutionary approach that places equal importance on both the positive and negative aspects of mental health and well-being."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dbLJOwAACAAJ",
+      "etag": "6IwfX3HJKPE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dbLJOwAACAAJ",
+      "volumeInfo": {
+        "title": "A Source Book of Gestalt Psychology",
+        "authors": [
+          "Willis D. Ellis"
+        ],
+        "publishedDate": "1997",
+        "description": "Routledge is now re-issuing this prestigious series of 204 volumes originally published between 1910 and 1965. The titles include works by key figures such asC.G. Jung, Sigmund Freud, Jean Piaget, Otto Rank, James Hillman, Erich Fromm, Karen Horney and Susan Isaacs. Each volume is available on its own, as part of a themed mini-set, or as part of a specially-priced 204-volume set. A brochure listing each title in the International Library of Psychology series is available upon request.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "093926630X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780939266302"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 403,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dbLJOwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dbLJOwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=dbLJOwAACAAJ&dq=psychology&hl=&as_pt=BOOKS&cd=175&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=dbLJOwAACAAJ&dq=psychology&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Source_Book_of_Gestalt_Psychology.html?hl=&id=dbLJOwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dbLJOwAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Routledge is now re-issuing this prestigious series of 204 volumes originally published between 1910 and 1965."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xCybNXQhwHkC",
+      "etag": "+cGXadPiIL4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xCybNXQhwHkC",
+      "volumeInfo": {
+        "title": "Thesaurus of Psychological Index Terms",
+        "authors": [
+          "American Psychological Association"
+        ],
+        "publisher": "Washington, D.C. : American Psychological Association",
+        "publishedDate": "1982",
+        "description": "Alphabetical listing of psychological terms derived from psychological literature. Present edition contains 4534 postable terms. Frequency of occurrence, potential usefulness, and overlap with existing thesaurus terms are criteria for inclusion. Entries give narrower and broader terms, as well as cross-references. Each postable term fits into 16 major categories and 64 subcategories. Also contains related alphabetical terms section.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951000470170I"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 282,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xCybNXQhwHkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xCybNXQhwHkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xCybNXQhwHkC&dq=psychology&hl=&as_pt=BOOKS&cd=176&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xCybNXQhwHkC&dq=psychology&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Thesaurus_of_Psychological_Index_Terms.html?hl=&id=xCybNXQhwHkC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xCybNXQhwHkC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Alphabetical listing of psychological terms derived from psychological literature."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2GdvEouVO0AC",
+      "etag": "axflNzHR20A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2GdvEouVO0AC",
+      "volumeInfo": {
+        "title": "Two Essays on Analytical Psychology",
+        "authors": [
+          "Carl Gustav Jung"
+        ],
+        "publisher": "Psychology Press",
+        "publishedDate": "1992",
+        "description": "This volume from the Collected Works of C.G. Jung has become known as perhaps the best introduction to Jung's work. In these famous essays he presented the essential core of his system. This is the first paperback publication of this key work in its revised and augmented second edition. The earliest versions of the essays are included in an Appendices, containing as they do the first tentative formulations of Jung's concept of archetypes and the collective unconscious, as well as his germinating theory of types.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0415080282"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780415080286"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.7.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2GdvEouVO0AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2GdvEouVO0AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2GdvEouVO0AC&pg=PA245&dq=psychology&hl=&as_pt=BOOKS&cd=177&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2GdvEouVO0AC&dq=psychology&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Two_Essays_on_Analytical_Psychology.html?hl=&id=2GdvEouVO0AC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Two_Essays_on_Analytical_Psychology-sample-pdf.acsm?id=2GdvEouVO0AC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2GdvEouVO0AC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Carl Gustav Jung. I NEW PATHS IN <b>PSYCHOLOGY</b> 1 407 Like all sciences , <b>psychology</b> has gone through its epoch of scholasticism , and something of this spirit has lasted on into the present . Against this kind of philosophical <b>psychology</b> it&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "slVBEAAAQBAJ",
+      "etag": "phXbbjnouSc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/slVBEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Little Book of Psychology",
+        "subtitle": "An Introduction to the Key Psychologists and Theories You Need to Know",
+        "authors": [
+          "Emily Ralls",
+          "Caroline Riggs"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2021-10-05",
+        "description": "If you want to know your Freud from your Jung and your Milgram from your Maslow, strap in for this whirlwind tour of the highlights of psychology. Including accessible primers on: The early thinkers who contributed to psychological ideas and the birth of modern psychology Famous (and often controversial) experiments and their repercussions What psychology can teach us about memory, language, conformity, reasoning and emotions The ethics of psychological studies Recent developments in the modern fields of evolutionary and cyber psychology. This illuminating little book will introduce you to the key thinkers, themes and theories you need to know to understand how the study of mind and behavior has sculpted the world we live in and the way we think today.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781632281357"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "163228135X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 93,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=slVBEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=slVBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=slVBEAAAQBAJ&printsec=frontcover&dq=psychology&hl=&as_pt=BOOKS&cd=178&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=slVBEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=slVBEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=slVBEAAAQBAJ&rdid=book-slVBEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Little_Book_of_Psychology-sample-epub.acsm?id=slVBEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=slVBEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This illuminating little book will introduce you to the key thinkers, themes and theories you need to know to understand how the study of mind and behavior has sculpted the world we live in and the way we think today."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "T7uYSFSxxVkC",
+      "etag": "KXZ4XXqfy2Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T7uYSFSxxVkC",
+      "volumeInfo": {
+        "title": "The Philosophy of Psychology",
+        "authors": [
+          "William O\u2032Donohue",
+          "Richard F Kitchener"
+        ],
+        "publisher": "SAGE",
+        "publishedDate": "1996-10-30",
+        "description": "This major text provides the first comprehensive anthology of the key topics arising in the philosophy of psychology. Bringing together internationally renowned authors, including Herb Simon, Karl Pribram, Joseph Rychlak, Ullin T Place and Adolf Gr[um]unbaum, this volume offers a stimulating and informative addition to contemporary debate. With the cognitive revolution of the 1960s, there has been a resurgence of interest in the study of the philosophical assumptions and implications of psychology. Several significant themes, such as the foundations of knowledge, behaviourism, rationality, emotion and cognitive science span both philosophy and psychology, and are covered here along with a wide range of issues in the fields of folk psychology, clinical psychology, neurophysiology and professional ethics.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780857026125"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0857026127"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=T7uYSFSxxVkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=T7uYSFSxxVkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=T7uYSFSxxVkC&printsec=frontcover&dq=psychology&hl=&as_pt=BOOKS&cd=179&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=T7uYSFSxxVkC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=T7uYSFSxxVkC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE_AND_RENTAL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 79,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 79,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=T7uYSFSxxVkC&rdid=book-T7uYSFSxxVkC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 79000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 79000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          },
+          {
+            "finskyOfferType": 3,
+            "listPrice": {
+              "amountInMicros": 47400000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 45500000,
+              "currencyCode": "USD"
+            },
+            "rentalDuration": {
+              "unit": "DAY",
+              "count": 180
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Philosophy_of_Psychology-sample-pdf.acsm?id=T7uYSFSxxVkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T7uYSFSxxVkC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This major text provides the first comprehensive anthology of the key topics arising in the philosophy of psychology."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JJqGoAEACAAJ",
+      "etag": "U1h/lvFsmhA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JJqGoAEACAAJ",
+      "volumeInfo": {
+        "title": "APA Handbook of Sexuality and Psychology",
+        "authors": [
+          "Deborah L. Tolman"
+        ],
+        "publishedDate": "2013",
+        "description": "Sexuality is a fundamental component of human psychological experience, and yet it remains relatively underrepresented in the history of the psychological sciences. The APA Handbook on Sexuality and Psychology marks a turning point in the status of sexuality within the discipline of psychology. This comprehensive, two-volume handbook provides an overarching review of current empirical research on sexuality and a synthesis of the dominant theoretical perspectives that have guided both research and clinical practice. An organizing current throughout the volume is the integration of individual experience and social/cultural context across every domain of sexuality. This dual emphasis on person and context is reflected in the structure of the handbook itself. Volume 1 presents foundational information on the history, theoretical and methodological development and current practices in the field, and then moves on to address foundational aspects of sexuality, including desire, orientation, behavior and practices, individual lifespan development, and biological substrates. Volume 2 broadens the analytical frame to emphasize the core contextual factors known to influence the development, expression and interpretation of sexuality and its expression in and through all of the key social institutions of our society, including marginalized populations, education, sexual rights and communities, globalization, religion and the media. The APA Handbook on Sexuality and Psychology will become a defining resource of this increasingly central topic across the sub-disciplines of psychology.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1433813696"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781433813696"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 804,
+        "printType": "BOOK",
+        "categories": [
+          "Sex (Psychology)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JJqGoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JJqGoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=JJqGoAEACAAJ&dq=psychology&hl=&as_pt=BOOKS&cd=180&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=JJqGoAEACAAJ&dq=psychology&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/APA_Handbook_of_Sexuality_and_Psychology.html?hl=&id=JJqGoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JJqGoAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;When embarking on this handbook, the question we posed to ourselves was &quot;What is sexuality for psychology?&quot; Many authors of these chapters responded with some version of &quot;everything and everywhere."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "53r8xwEACAAJ",
+      "etag": "mW/rT3tWseE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/53r8xwEACAAJ",
+      "volumeInfo": {
+        "title": "Cultural Psychology",
+        "authors": [
+          "Steven J. Heine"
+        ],
+        "publisher": "W. W. Norton",
+        "publishedDate": "2019-10-18",
+        "description": "The most contemporary and relevant introduction to the field, Cultural Psychology, Fourth Edition, is unmatched in both its presentation of current, global experimental research and its focus on helping students to think like cultural psychologists.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0393644693"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393644692"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=53r8xwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=53r8xwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=53r8xwEACAAJ&dq=psychology&hl=&as_pt=BOOKS&cd=181&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=53r8xwEACAAJ&dq=psychology&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cultural_Psychology.html?hl=&id=53r8xwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=53r8xwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Cultural psychology through a global lens"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o6WfzQEACAAJ",
+      "etag": "xHcEAJc63RE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o6WfzQEACAAJ",
+      "volumeInfo": {
+        "title": "Advances in Psychology and Law",
+        "subtitle": "Volume 4",
+        "authors": [
+          "Brian H. Bornstein",
+          "Monica K. Miller"
+        ],
+        "publishedDate": "2019",
+        "description": "This newest volume in the Advances in Psychology and Law series offers a review of topics critical for forensic practitioners. It covers a variety of topics that have been shown to be of prime interest to those in the field, especially those that impact new research and public policy. Common themes include criminal suspects (interrogations, alibis, plea bargaining) gender, and minors in the legal system. Highlights include: \u2022 New psychometric framework for measuring coercion \u2022 Proposed reforms for post-identification feedback \u2022 Latest research on LGBTQ victims \u2022 Racial disparities in school discipline \u2022 Examination of teen dating violence This book continues the tradition of providing thorough review of existing and emerging topics of interest to researchers and academics in legal psychology, criminal justice, and sociology, as well as attorneys, trial consultants and policy makers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3030110435"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783030110437"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Forensic psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=o6WfzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=o6WfzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=o6WfzQEACAAJ&dq=psychology&hl=&as_pt=BOOKS&cd=182&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=o6WfzQEACAAJ&dq=psychology&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Advances_in_Psychology_and_Law.html?hl=&id=o6WfzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o6WfzQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This newest volume in the Advances in Psychology and Law series offers a review of topics critical for forensic practitioners."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KYlXzgEACAAJ",
+      "etag": "BkxpzmSilzM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KYlXzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Science and Application of Positive Psychology",
+        "authors": [
+          "Jennifer S. Cheavens",
+          "David B. Feldman"
+        ],
+        "publishedDate": "2021",
+        "description": "\"\"Why Does Positive Psychology Matter?\" Positive psychology has immediate implications for being happier, living a fuller life, accomplishing one's goals, and building better relationships. Indeed, these real-world implications are what initially attracted many researchers to the field. Throughout the text, we take great care to relate research findings to the realities of students' lives. While never compromising scientific rigor, each chapter is designed to answer the question that, in our experience, many students are silently asking: So what? \"Practice Positive Psychology.\" A valuable goal for any positive psychology course is for students to gain insights into their own personal strengths, virtues, and assets, and then use these insights to improve themselves. To systematically encourage this practice, at the conclusion of each chapter, we provide exercises that have been empirically demonstrated to nurture the strengths covered in that section of the book\"--",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1108609791"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781108609791"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "PSYCHOLOGY"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=KYlXzgEACAAJ&dq=psychology&hl=&as_pt=BOOKS&cd=183&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=KYlXzgEACAAJ&dq=psychology&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Science_and_Application_of_Positive.html?hl=&id=KYlXzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KYlXzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Indeed, these real-world implications are what initially attracted many researchers to the field. Throughout the text, we take great care to relate research findings to the realities of students&#39; lives."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TmCUE_y-aAcC",
+      "etag": "X+JJPvTp2UQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TmCUE_y-aAcC",
+      "volumeInfo": {
+        "title": "The Science of Adolescent Risk-Taking",
+        "subtitle": "Workshop Report",
+        "authors": [
+          "National Research Council",
+          "Institute of Medicine",
+          "Board on Children, Youth, and Families",
+          "Committee on the Science of Adolescence"
+        ],
+        "publisher": "National Academies Press",
+        "publishedDate": "2011-02-25",
+        "description": "Adolescence is a time when youth make decisions, both good and bad, that have consequences for the rest of their lives. Some of these decisions put them at risk of lifelong health problems, injury, or death. The Institute of Medicine held three public workshops between 2008 and 2009 to provide a venue for researchers, health care providers, and community leaders to discuss strategies to improve adolescent health.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780309158527"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0309158524"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TmCUE_y-aAcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TmCUE_y-aAcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=TmCUE_y-aAcC&printsec=frontcover&dq=psychology&hl=&as_pt=BOOKS&cd=184&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=TmCUE_y-aAcC&dq=psychology&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Science_of_Adolescent_Risk_Taking.html?hl=&id=TmCUE_y-aAcC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TmCUE_y-aAcC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Adolescence is a time when youth make decisions, both good and bad, that have consequences for the rest of their lives. Some of these decisions put them at risk of lifelong health problems, injury, or death."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yzFYEAAAQBAJ",
+      "etag": "/MEspOdTdW0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yzFYEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Atomic Habits Summary (by James Clear)",
+        "subtitle": "Summary and Illustration",
+        "authors": [
+          "James Clear"
+        ],
+        "publisher": "James Clear",
+        "description": "SUMMARY: ATOMIC HABITS: An Easy & Proven Way to Build Good Habits & Break Bad Ones. This book is not meant to replace the original book but to serve as a companion to it. ABOUT ORIGINAL BOOK: Atomic Habits can help you improve every day, no matter what your goals are. As one of the world's leading experts on habit formation, James Clear reveals practical strategies that will help you form good habits, break bad ones, and master tiny behaviors that lead to big changes. If you're having trouble changing your habits, the problem isn't you. Instead, the issue is with your system. There is a reason bad habits repeat themselves over and over again, it's not that you are not willing to change, but that you have the wrong system for changing. \u201cYou do not rise to the level of your goals. You fall to the level of your systems\u201d - James Clear I\u2019m a huge fan of this book, and as soon as I read it I knew it was going to make a big difference in my life, so I couldn\u2019t wait to make a video on this book and share my ideas. Here is a link to James Clear\u2019s website, where I found he uploads a tonne of useful posts on motivation, habit formation and human psychology. DISCLAIMER: This is an UNOFFICIAL summary and not the original book. It designed to record all the key points of the original book.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 39,
+        "printType": "BOOK",
+        "categories": [
+          "Self-Help"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yzFYEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yzFYEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=yzFYEAAAQBAJ&printsec=frontcover&dq=psychology&hl=&as_pt=BOOKS&cd=185&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yzFYEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yzFYEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.49,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 3.49,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yzFYEAAAQBAJ&rdid=book-yzFYEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3490000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 3490000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Atomic_Habits_Summary_by_James_Clear-sample-epub.acsm?id=yzFYEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Atomic_Habits_Summary_by_James_Clear-sample-pdf.acsm?id=yzFYEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yzFYEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Here is a link to James Clear\u2019s website, where I found he uploads a tonne of useful posts on motivation, habit formation and human psychology. DISCLAIMER: This is an UNOFFICIAL summary and not the original book."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Rw9cNAEACAAJ",
+      "etag": "xVsge7OxQyQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Rw9cNAEACAAJ",
+      "volumeInfo": {
+        "title": "Influence",
+        "subtitle": "Science and Practice",
+        "authors": [
+          "Robert B. Cialdini"
+        ],
+        "publishedDate": "1980-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0817606173"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780817606176"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Rw9cNAEACAAJ&dq=psychology&hl=&as_pt=BOOKS&cd=186&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Rw9cNAEACAAJ&dq=psychology&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Influence.html?hl=&id=Rw9cNAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Rw9cNAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Influence: Science and Practice is an examination of the psychology of compliance (i.e. uncovering which factors cause a person to say &quot;yes&quot; to another&#39;s request) and is written in a narrative style combined with scholarly research."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ktE5jwEACAAJ",
+      "etag": "W5T5101p4Eo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ktE5jwEACAAJ",
+      "volumeInfo": {
+        "title": "An Introduction to Consulting Psychology",
+        "subtitle": "Working with Individuals, Groups, and Organizations",
+        "authors": [
+          "Rodney L. Lowman"
+        ],
+        "publisher": "Fundamentals of Consulting Psy",
+        "publishedDate": "2016",
+        "description": "This book provides a broad introduction to consulting psychology that reviews assessment and intervention at three levels of competency--individual, group, and organizational--including how these levels interact.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1433821788"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781433821783"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ktE5jwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ktE5jwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ktE5jwEACAAJ&dq=psychology&hl=&as_pt=BOOKS&cd=187&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ktE5jwEACAAJ&dq=psychology&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/An_Introduction_to_Consulting_Psychology.html?hl=&id=ktE5jwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ktE5jwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This foundational volume of the Fundamentals of Consulting Psychology series translates theory and research into a concise, easy-to-read introduction to the field."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7R-vDwAAQBAJ",
+      "etag": "cp/ZM/IoKVM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7R-vDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Promise of Adolescence",
+        "subtitle": "Realizing Opportunity for All Youth",
+        "authors": [
+          "National Academies of Sciences, Engineering, and Medicine",
+          "Health and Medicine Division",
+          "Division of Behavioral and Social Sciences and Education",
+          "Board on Children, Youth, and Families",
+          "Committee on the Neurobiological and Socio-behavioral Science of Adolescent Development and Its Applications"
+        ],
+        "publisher": "National Academies Press",
+        "publishedDate": "2019-07-26",
+        "description": "Adolescence\u00e2\u20ac\"beginning with the onset of puberty and ending in the mid-20s\u00e2\u20ac\"is a critical period of development during which key areas of the brain mature and develop. These changes in brain structure, function, and connectivity mark adolescence as a period of opportunity to discover new vistas, to form relationships with peers and adults, and to explore one's developing identity. It is also a period of resilience that can ameliorate childhood setbacks and set the stage for a thriving trajectory over the life course. Because adolescents comprise nearly one-fourth of the entire U.S. population, the nation needs policies and practices that will better leverage these developmental opportunities to harness the promise of adolescence\u00e2\u20ac\"rather than focusing myopically on containing its risks. This report examines the neurobiological and socio-behavioral science of adolescent development and outlines how this knowledge can be applied, both to promote adolescent well-being, resilience, and development, and to rectify structural barriers and inequalities in opportunity, enabling all adolescents to flourish.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780309490115"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0309490111"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 493,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.72.9.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7R-vDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7R-vDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7R-vDwAAQBAJ&printsec=frontcover&dq=psychology&hl=&as_pt=BOOKS&cd=188&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7R-vDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7R-vDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 69.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 69.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=7R-vDwAAQBAJ&rdid=book-7R-vDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 69990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 69990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7R-vDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Adolescence\u00e2\u20ac&quot;beginning with the onset of puberty and ending in the mid-20s\u00e2\u20ac&quot;is a critical period of development during which key areas of the brain mature and develop."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "T_2NzgEACAAJ",
+      "etag": "i8z54ENeO04",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T_2NzgEACAAJ",
+      "volumeInfo": {
+        "title": "Treating Contemporary Families",
+        "subtitle": "Toward a More Inclusive Clinical Practice",
+        "authors": [
+          "Scott Browning",
+          "Brad Van Eeden-Moorefield"
+        ],
+        "publishedDate": "2022",
+        "description": "\"Linking research with clinical practice, this text shows therapists how to do evidence-based practice when treating contemporary families. Today's families are diverse and complex, and their problems do not always improve when treatment focuses on addressing a diagnosis. To achieve successful, lasting change, therapists must help families change their patterns of interaction. This book examines several common interactional challenges that contemporary families face, such as co-parenting, divorce, intimate partner violence, blending families, and loss and bereavement. For each challenge, contributors examine research regarding the concern as well as research on multiple diverse family types, and then provide clinical examples showing how to develop interventions for these family types. With its combined focus on inclusion, social justice, and evidence-based practice, this book will help clinicians work with today's diverse families in effective, culturally responsive ways\"--",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1433836653"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781433836657"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 302,
+        "printType": "BOOK",
+        "categories": [
+          "Family & Relationships"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=T_2NzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=T_2NzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=T_2NzgEACAAJ&dq=psychology&hl=&as_pt=BOOKS&cd=189&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=T_2NzgEACAAJ&dq=psychology&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Treating_Contemporary_Families.html?hl=&id=T_2NzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T_2NzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Linking research with clinical practice, this text shows therapists how to do evidence-based practice when treating contemporary families."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0qwRPzEyzVAC",
+      "etag": "BQCIBkoTOfE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0qwRPzEyzVAC",
+      "volumeInfo": {
+        "title": "Genetic Psychology Monographs",
+        "authors": [
+          "Carl Murchison"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000089198406"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 592,
+        "printType": "BOOK",
+        "categories": [
+          "Child development"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0qwRPzEyzVAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0qwRPzEyzVAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0qwRPzEyzVAC&pg=PA455&dq=psychology&hl=&as_pt=BOOKS&cd=190&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0qwRPzEyzVAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0qwRPzEyzVAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=0qwRPzEyzVAC&rdid=book-0qwRPzEyzVAC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Genetic_Psychology_Monographs.epub?id=0qwRPzEyzVAC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0qwRPzEyzVAC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>PSYCHOLOGY</b> MONOGRAPHS Child Behavior , Differential and Genetic <b>Psychology</b> THE EFFECT OF SEGREGATION ON THE SEX BEHAVIOR OF THE WHITE RAT AS MEASURED BY THE OBSTRUCTION METHOD * From the Animal Laboratory of the Department of <b>Psychology</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ev9AAQAAMAAJ",
+      "etag": "OMTL2jv1QW0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ev9AAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Problems of Life and Mind: The study of psychology; its object, scope, and method",
+        "authors": [
+          "George Henry Lewes"
+        ],
+        "publishedDate": "1879",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCD:31175007104766"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "categories": [
+          "Mind and body"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ev9AAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ev9AAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ev9AAQAAMAAJ&pg=PA9&dq=psychology&hl=&as_pt=BOOKS&cd=191&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ev9AAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ev9AAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ev9AAQAAMAAJ&rdid=book-ev9AAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Problems_of_Life_and_Mind_The_study_of_p.epub?id=ev9AAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ev9AAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Psychology</b> as a branch of the general science of life . That science - Biology- includes plants , animals , and man , with the respective subdivisions , Phytology , Zoology ... <b>PSYCHOLOGY</b> . 9 (The Relation of <b>Psychology</b> to Physiology),"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ub0xAQAAMAAJ",
+      "etag": "Kh7pPmo5OYk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ub0xAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The English Catalogue of Books",
+        "authors": [
+          "Sampson Low"
+        ],
+        "publishedDate": "1926",
+        "description": "Volumes for 1898-1968 include a directory of publishers.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015036924119"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1900,
+        "printType": "BOOK",
+        "categories": [
+          "English imprints"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.10.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ub0xAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ub0xAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ub0xAQAAMAAJ&pg=PA1247&dq=psychology&hl=&as_pt=BOOKS&cd=192&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ub0xAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ub0xAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ub0xAQAAMAAJ&rdid=book-ub0xAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_English_Catalogue_of_Books.epub?id=ub0xAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ub0xAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>PSYCHOLOGY Psychology</b> , Hist . of , Brett ( G. S. ) Vols . 2-3 . Ea . <b>PSYCHOLOGY Psychology</b> of handwriting , Saudek ( R. ) 125. 6d . 16s . net . May&#39;21 net Dec. &#39;25 Dewey ( J. ) ros . 6d . net <b>Psychology</b> : Human nature and conduct ,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DVCZAAAAQBAJ",
+      "etag": "svwpwL67Vd0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DVCZAAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Center Cannot Hold",
+        "subtitle": "My Journey Through Madness",
+        "authors": [
+          "Elyn R. Saks"
+        ],
+        "publisher": "Hachette Books",
+        "publishedDate": "2007-08-14",
+        "description": "A much-praised memoir of living and surviving mental illness as well as \"a stereotype-shattering look at a tenacious woman whose brain is her best friend and her worst enemy\" (Time). Elyn R. Saks is an esteemed professor, lawyer, and psychiatrist and is the Orrin B. Evans Professor of Law, Psychology, Psychiatry, and the Behavioral Sciences at the University of Southern California Law School, yet she has suffered from schizophrenia for most of her life, and still has ongoing major episodes of the illness. The Center Cannot Hold is the eloquent, moving story of Elyn's life, from the first time that she heard voices speaking to her as a young teenager, to attempted suicides in college, through learning to live on her own as an adult in an often terrifying world. Saks discusses frankly the paranoia, the inability to tell imaginary fears from real ones, the voices in her head telling her to kill herself (and to harm others), as well as the incredibly difficult obstacles she overcame to become a highly respected professional. This beautifully written memoir is destined to become a classic in its genre.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781401389543"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1401389546"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 473,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.14.12.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DVCZAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DVCZAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DVCZAAAAQBAJ&printsec=frontcover&dq=psychology&hl=&as_pt=BOOKS&cd=193&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DVCZAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DVCZAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=DVCZAAAAQBAJ&rdid=book-DVCZAAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Center_Cannot_Hold-sample-epub.acsm?id=DVCZAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DVCZAAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Center Cannot Hold is the eloquent, moving story of Elyn&#39;s life, from the first time that she heard voices speaking to her as a young teenager, to attempted suicides in college, through learning to live on her own as an adult in an ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JpqlBQAAQBAJ",
+      "etag": "edO01fC3TIU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JpqlBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Community Psychology",
+        "subtitle": "Foundations for Practice",
+        "authors": [
+          "Victoria C. Scott",
+          "Susan M. Wolfe"
+        ],
+        "publisher": "SAGE Publications",
+        "publishedDate": "2014-12-02",
+        "description": "Drawing upon the wisdom of experts in the field, this reader-friendly volume of Community Psychology edited by Victoria Scott and Susan Wolfe explores both foundational competencies and the technical how-to skills needed for engaging in community psychology practice. Each chapter explores a core competency and its application in preventing or amending community problems and issues. With case examples throughout, this book offers a practical introduction to community outreach and intervention in community psychology.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781483312842"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1483312844"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 521,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JpqlBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JpqlBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=JpqlBQAAQBAJ&printsec=frontcover&dq=psychology&hl=&as_pt=BOOKS&cd=194&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=JpqlBQAAQBAJ&dq=psychology&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Community_Psychology.html?hl=&id=JpqlBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Community_Psychology-sample-pdf.acsm?id=JpqlBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JpqlBQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With case examples throughout, this book offers a practical introduction to community outreach and intervention in community psychology."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1Q-TngEACAAJ",
+      "etag": "GdBiYjzWWVk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1Q-TngEACAAJ",
+      "volumeInfo": {
+        "title": "Wilhelm Wundt and the Making of a Scientific Psychology",
+        "authors": [
+          "Robert Rieber"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2012-11-26",
+        "description": "The creation of this book stems largely from the current centennial cele bration of the founding in Leipzig of Wundt's psychological laboratory. Wundt is acknowledged by many as one of the principal founders of experimental psychology. His laboratory, his journal, and his students were all influential in the transmission of the new psychology from Germany to all parts of the world. Nevertheless, until recently, psychol ogists and historians of science hardly recognized the scope and breadth of Wundt's influence, not to mention his contributions.! It was first through E. B. Titchener, and then through Titchener's student, E. G. Boring, that psychology got to know the somewhat biased and distorted picture of this great German psychologist. The picture painted by Titch ener and Boring was unquestionably the way they saw him, and the way they wished to use him as a part of the scientific psychological Zeitgeist of their time.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1468483420"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781468483420"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 252,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1Q-TngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1Q-TngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=1Q-TngEACAAJ&dq=psychology&hl=&as_pt=BOOKS&cd=195&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=1Q-TngEACAAJ&dq=psychology&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Wilhelm_Wundt_and_the_Making_of_a_Scient.html?hl=&id=1Q-TngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1Q-TngEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The creation of this book stems largely from the current centennial cele bration of the founding in Leipzig of Wundt&#39;s psychological laboratory. Wundt is acknowledged by many as one of the principal founders of experimental psychology."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EdiTzgEACAAJ",
+      "etag": "sA2w7Yi5KM8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EdiTzgEACAAJ",
+      "volumeInfo": {
+        "title": "Quantum Psychology",
+        "subtitle": "How Brain Software Programs You and Your World",
+        "authors": [
+          "Robert Anton Wilson"
+        ],
+        "publishedDate": "1990",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1259662572"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 202,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=EdiTzgEACAAJ&dq=psychology&hl=&as_pt=BOOKS&cd=196&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=EdiTzgEACAAJ&dq=psychology&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Quantum_Psychology.html?hl=&id=EdiTzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EdiTzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2aZ-DwAAQBAJ",
+      "etag": "JrLUB7s/xXs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2aZ-DwAAQBAJ",
+      "volumeInfo": {
+        "title": "A Degree in a Book: Philosophy",
+        "subtitle": "Everything You Need to Know to Master the Subject - in One Book!",
+        "authors": [
+          "Peter Gibson"
+        ],
+        "publisher": "Arcturus Publishing",
+        "publishedDate": "2018-12-12",
+        "description": "A perfect introduction for students and laypeople alike, A Degree in a Book: Philosophy provides you with all the concepts you need to understand the fundamental issues. Filled with helpful diagrams, suggestions for further reading, and easily digestible features on the history of philosophy, this book makes learning the subject easier than ever. Including ideas from Aristotle and Zeno to Descartes and Wittgenstein, it covers the whole range of western thought. By the time you finish reading this book, you will be able to answer questions like: \u2022 What is truth? \u2022 What can I really know? \u2022 How can I live a moral life? \u2022 Do I have free will?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781789504316"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1789504317"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2aZ-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2aZ-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2aZ-DwAAQBAJ&printsec=frontcover&dq=psychology&hl=&as_pt=BOOKS&cd=197&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2aZ-DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2aZ-DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=2aZ-DwAAQBAJ&rdid=book-2aZ-DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Degree_in_a_Book_Philosophy-sample-epub.acsm?id=2aZ-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Degree_in_a_Book_Philosophy-sample-pdf.acsm?id=2aZ-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2aZ-DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "By the time you finish reading this book, you will be able to answer questions like: \u2022 What is truth? \u2022 What can I really know? \u2022 How can I live a moral life? \u2022 Do I have free will?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8EfuAAAAMAAJ",
+      "etag": "LKERDNCwkmo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8EfuAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Revolution in Psychology",
+        "subtitle": "Alienation to Emancipation",
+        "authors": [
+          "Ian Parker"
+        ],
+        "publisher": "Pluto Press (UK)",
+        "publishedDate": "2007-06-20",
+        "description": "A classic book on cultural identity by a major Caribbean writer.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015070735629"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 276,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8EfuAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8EfuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8EfuAAAAMAAJ&q=psychology&dq=psychology&hl=&as_pt=BOOKS&cd=198&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8EfuAAAAMAAJ&dq=psychology&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Revolution_in_Psychology.html?hl=&id=8EfuAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8EfuAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A classic book on cultural identity by a major Caribbean writer."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "O0fQAAAAMAAJ",
+      "etag": "s6Xigog8xVg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/O0fQAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Cumulative Book Index",
+        "publishedDate": "1928",
+        "description": "A world list of books in the English language.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015078051847"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 892,
+        "printType": "BOOK",
+        "categories": [
+          "American literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.8.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=O0fQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=O0fQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=O0fQAAAAMAAJ&pg=PA642&dq=psychology&hl=&as_pt=BOOKS&cd=199&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=O0fQAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=O0fQAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=O0fQAAAAMAAJ&rdid=book-O0fQAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Cumulative_Book_Index.epub?id=O0fQAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=O0fQAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Psychology</b> , Comparative Ritter , W : E. , and Bailey , E. W. Natural his- tory of our conduct . $ 3.50 &#39;27 Harcourt Warden , C. J : Short outline of comparative <b>psychology</b> . $ 1 &#39;27 Norton See also Animal intelligence ; Instinct&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Cu_m0AEACAAJ",
+      "etag": "IZ1IQnf0SIo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Cu_m0AEACAAJ",
+      "volumeInfo": {
+        "title": "Games People Play",
+        "subtitle": "The Psychology of Human Relationships",
+        "authors": [
+          "Eric Berne"
+        ],
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:26557505"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Game theory"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Cu_m0AEACAAJ&dq=psychology&hl=&as_pt=BOOKS&cd=200&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Cu_m0AEACAAJ&dq=psychology&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Games_People_Play.html?hl=&id=Cu_m0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Cu_m0AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
