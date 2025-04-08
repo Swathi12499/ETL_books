@@ -16,12 +16,7 @@ This project is a **production-style ETL pipeline** that pulls book data from th
 ---
 
 ## 📊 ETL Architecture
-graph TD
-    A[Google Books API] --> B[Extract Raw JSON]
-    B --> C[Transform: Clean + Deduplicate]
-    C --> D[Save CSV + Genre Stats]
-    D --> E[Load to SQLite DB (UPSERT)]
-    E --> F[Log Timestamp + Record Counts]
+![ETL Architecture](image.png)
 
 ---
 
